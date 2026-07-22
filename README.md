@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20Parsed-disabled-blue" />
-  <img src="https://img.shields.io/badge/Countries-USA%20%C2%B7%20Canada%20%C2%B7%20Remote-green" />
+  <img src="https://img.shields.io/badge/Countries-USA%20%C2%B7%20Canada%20%C2%B7%20Taiwan%20%C2%B7%20Remote-green" />
   <img src="https://img.shields.io/badge/Updated-2026--07--22-orange" />
   <img src="https://img.shields.io/badge/License-MIT-yellow" />
 </p>
@@ -558,14 +558,14 @@
     </tr>
   </tbody>
 </table>
-<p><sub>Showing 20 of 843 opportunities in this section.</sub></p>
+<p><sub>Showing 20 of 844 opportunities in this section.</sub></p>
 
 <details>
-  <summary><b>More in Mid Level &amp; Senior Level (5,770)</b></summary>
+  <summary><b>More in Mid Level &amp; Senior Level (5,772)</b></summary>
 
   <br />
 
-  <h3>Mid Level (3,216)</h3>
+  <h3>Mid Level (3,217)</h3>
 
 <table width="100%">
   <thead>
@@ -720,9 +720,9 @@
     </tr>
   </tbody>
 </table>
-<p><sub>Showing 20 of 3,216 opportunities in this section.</sub></p>
+<p><sub>Showing 20 of 3,217 opportunities in this section.</sub></p>
 
-  <h3>Senior Level (2,554)</h3>
+  <h3>Senior Level (2,555)</h3>
 
 <table width="100%">
   <thead>
@@ -877,7 +877,7 @@
     </tr>
   </tbody>
 </table>
-<p><sub>Showing 20 of 2,554 opportunities in this section.</sub></p>
+<p><sub>Showing 20 of 2,555 opportunities in this section.</sub></p>
 
 </details>
 
@@ -898,7 +898,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-07-22T21:11:10.859Z</code>
+      🕒 Last updated <code>2026-07-22T21:17:47.575Z</code>
     </span>
   </p>
 </div>
