@@ -6,6 +6,7 @@ import {
   ERROR_LOG_PATH,
   JD_PATH,
   JOB_PATH,
+  OBSIDIAN_DIGEST_STATE_PATH,
   OPPORTUNITIES_PATH,
   URLS_PATH,
 } from "@/constants";
@@ -157,6 +158,22 @@ export async function saveCompanies(companies: Company[]) {
   } catch (error) {
     logger.error({ err: error }, `${RED_CROSS} Error saving companies`);
   }
+}
+
+export interface ObsidianDigestState {
+  lastRunAt: string;
+}
+
+export async function loadObsidianDigestState(): Promise<ObsidianDigestState | null> {
+  try {
+    return await readJsonFile<ObsidianDigestState>(OBSIDIAN_DIGEST_STATE_PATH);
+  } catch {
+    return null;
+  }
+}
+
+export async function saveObsidianDigestState(state: ObsidianDigestState) {
+  await fs.writeFile(OBSIDIAN_DIGEST_STATE_PATH, JSON.stringify(state, null, 2), "utf-8");
 }
 
 export async function appendErrorLog(message: string) {

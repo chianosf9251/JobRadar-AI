@@ -62,4 +62,11 @@ setup.command("get-config").action(async () => {
   await getConfig();
 });
 
+const obsidian = program.command("obsidian");
+
+obsidian.command("daily-digest").action(async () => {
+  const { default: generateObsidianDigest } = await import("./obsidian/dailyDigest");
+  await generateObsidianDigest();
+});
+
 program.parse();

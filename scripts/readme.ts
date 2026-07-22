@@ -1,20 +1,23 @@
 import fs from "node:fs/promises";
 import path from "node:path";
 
-import { CONFIG, JOB_CATEGORIES, OPPORTUNITIES_PATH } from "@/constants";
+import { CONFIG, OPPORTUNITIES_PATH } from "@/constants";
 
 import type { JD, Opportunity } from "@/types/jobs";
 import type { Config } from "@/validation/config";
 
-import { isEligibleJD } from "@/modules/jd-analyzer";
+import {
+  buildCategoryOrder,
+  formatCategoryTitle,
+  formatLocation,
+  getMatchingOpportunities,
+  groupByCategory,
+  normalizeCompany,
+} from "@/modules/job-board";
 import { readNdjsonFile } from "@/utils/data";
 import { escapeHtml } from "@/utils/html";
 
 type TableRow = [string, string, string, string, string];
-
-type JDWithLocation = JD & {
-  location?: string | null;
-};
 
 const ROOT = process.cwd();
 
@@ -33,20 +36,6 @@ const BADGE_NO_SPONSORSHIP = `<img height="18" alt="no visa" src="https://img.sh
 
 const APPLY_BUTTON_SRC =
   "https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white";
-
-// Role types to hide regardless of eligibility (e.g. web/mobile/frontend/backend roles
-// that still pass the country/category/citizenship/sponsorship checks). Matched against
-// the title only, same as the pre-AI exclude filter in the sync pipeline.
-const EXCLUDED_ROLE_KEYWORDS = (CONFIG.target.excludeKeywords ?? []).map((keyword) =>
-  keyword.toLowerCase()
-);
-
-function matchesExcludedRole(job: Opportunity): boolean {
-  if (EXCLUDED_ROLE_KEYWORDS.length === 0) return false;
-
-  const role = job.role.toLowerCase();
-  return EXCLUDED_ROLE_KEYWORDS.some((keyword) => role.includes(keyword));
-}
 
 // opportunities.ndjson is append-only and never pruned, so without a cutoff the README
 // would grow forever. Data files keep full history; only the rendered board is bounded.
@@ -67,15 +56,10 @@ async function main() {
   const categoryOrder = buildCategoryOrder(CONFIG);
   const generatedAt = new Date();
 
-  // reverse: the last line in opportunities.ndjson is at the top of the board
-  const allRenderable = opportunities.reverse().filter((job) => isRenderableOpportunity(job));
-
   // Same eligibility check used for email alerts (country, category, citizenship, sponsorship,
   // intern year), plus role-type exclusions. Both README and ARCHIVE apply this; ARCHIVE just
   // skips the rolling age cutoff, so it's the full history of matching postings.
-  const matchingOpportunities = allRenderable
-    .filter((job) => isEligibleJD(job.jd as JD)[0])
-    .filter((job) => !matchesExcludedRole(job));
+  const matchingOpportunities = getMatchingOpportunities(opportunities);
 
   const eligibleOpportunities = matchingOpportunities.filter((job) =>
     isWithinMaxAge(job, generatedAt)
@@ -104,54 +88,6 @@ async function main() {
   console.log(`Opportunities included: ${eligibleOpportunities.length}`);
   console.log(`ARCHIVE generated: ${ARCHIVE_PATH}`);
   console.log(`Archive opportunities included: ${matchingOpportunities.length}`);
-}
-
-function buildTargetCategories(config: Config): string[] {
-  return unique([
-    ...(config.target.intern ?? []).map(normalizeCategory),
-    ...(config.target["full-time"] ?? []).map(normalizeCategory),
-  ]);
-}
-
-function buildCategoryOrder(config: Config): string[] {
-  return unique([...buildTargetCategories(config), ...JOB_CATEGORIES.map(normalizeCategory)]);
-}
-
-function groupByCategory(
-  opportunities: Opportunity[],
-  categoryOrder: string[]
-): Map<string, Opportunity[]> {
-  const groups = new Map<string, Opportunity[]>();
-
-  for (const job of opportunities) {
-    const category = getDisplayCategory(job);
-
-    if (!groups.has(category)) {
-      groups.set(category, []);
-    }
-
-    groups.get(category)!.push(job);
-  }
-
-  return sortCategoryGroups(groups, categoryOrder);
-}
-
-function sortCategoryGroups(
-  groups: Map<string, Opportunity[]>,
-  categoryOrder: string[]
-): Map<string, Opportunity[]> {
-  const knownOrder = new Map(categoryOrder.map((category, index) => [category, index]));
-
-  return new Map(
-    [...groups.entries()].sort(([categoryA], [categoryB]) => {
-      const orderA = knownOrder.get(categoryA) ?? Number.MAX_SAFE_INTEGER;
-      const orderB = knownOrder.get(categoryB) ?? Number.MAX_SAFE_INTEGER;
-
-      if (orderA !== orderB) return orderA - orderB;
-
-      return categoryA.localeCompare(categoryB);
-    })
-  );
 }
 
 function buildReadme(input: {
@@ -396,28 +332,6 @@ function buildFooter(generatedAt: Date): string[] {
   ];
 }
 
-function isRenderableOpportunity(job: Opportunity): boolean {
-  return Boolean(
-    job.company?.trim() &&
-    job.role?.trim() &&
-    job.link?.trim() &&
-    job.postedAt?.trim() &&
-    job.jd?.country &&
-    job.jd?.category
-  );
-}
-
-function getDisplayCategory(job: Opportunity): string {
-  const category = normalizeCategory(job.jd?.category);
-  const season = normalizeCategory(job.jd?.season);
-
-  if (category === "intern" && season && season !== "none") {
-    return season;
-  }
-
-  return category || "None";
-}
-
 function formatRoleCell(job: Opportunity): string {
   const role = escapeHtml(job.role);
   const badges = formatJobBadges(job.jd);
@@ -443,20 +357,6 @@ function formatJobBadges(jd?: JD | null): string {
   return badges.join(" ");
 }
 
-function formatLocation(job: Opportunity): string {
-  const parsedLocation = (job.jd as JDWithLocation | null | undefined)?.location;
-  const location = parsedLocation?.trim() || job.location?.trim();
-
-  if (!location) return "-";
-
-  return location
-    .split(",")
-    .map((part) => part.trim())
-    .filter(Boolean)
-    .slice(0, 2)
-    .join(", ");
-}
-
 function formatApplyButton(link: string): string {
   return `<a href="${escapeHtmlAttr(link)}" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="${APPLY_BUTTON_SRC}" /></a>`;
 }
@@ -473,16 +373,6 @@ function formatDate(value: string): string {
     day: "numeric",
     timeZone: "America/Los_Angeles",
   });
-}
-
-function formatCategoryTitle(category: string): string {
-  if (!category || category === "None") return "Other";
-
-  return category
-    .split(/[\s-_]+/)
-    .filter(Boolean)
-    .map((word) => word[0]?.toUpperCase() + word.slice(1))
-    .join(" ");
 }
 
 function buildHtmlTable(headers: TableRow, rows: TableRow[]): string[] {
@@ -549,24 +439,8 @@ function encodeBadgeSegment(value: string): string {
   return encodeURIComponent(value).replaceAll("-", "--");
 }
 
-function normalizeCategory(value?: string | null): string {
-  const normalized = value?.trim();
-
-  if (!normalized) return "None";
-
-  return normalized.toLowerCase();
-}
-
-function normalizeCompany(value: string): string {
-  return value.trim().replace(/\s+/g, " ");
-}
-
 function escapeHtmlAttr(value: string): string {
   return escapeHtml(value);
-}
-
-function unique<T>(values: T[]): T[] {
-  return [...new Set(values)];
 }
 
 main().catch((error) => {

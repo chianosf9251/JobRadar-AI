@@ -18,6 +18,7 @@ export const OPPORTUNITIES_PATH = path.join(DATA_PATH, "opportunities.ndjson");
 export const JD_PATH = path.join(DATA_PATH, "jd");
 export const COMPANY_PATH = path.join(DATA_PATH, "company.json");
 export const ERROR_LOG_PATH = path.join(DATA_PATH, "discover-errors.log");
+export const OBSIDIAN_DIGEST_STATE_PATH = path.join(DATA_PATH, "obsidian-digest-state.json");
 
 export { default as SEASONS } from "./season";
 export { default as COUNTRIES } from "./country";

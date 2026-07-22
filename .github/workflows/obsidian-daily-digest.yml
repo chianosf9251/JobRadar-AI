@@ -1,0 +1,95 @@
+name: Obsidian Daily Digest
+run-name: 📓 Obsidian Daily Digest
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # 08:00 Taiwan time
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: obsidian-daily-digest
+  cancel-in-progress: false
+
+jobs:
+  daily-digest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      # ✅ Checkout repository
+      - name: Checkout repository
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.PAT }}
+
+      # ✅ Setup pnpm
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v6
+        with:
+          version: 11.7.0
+
+      # ✅ Setup Node.js
+      - name: Setup Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: 22
+          cache: "pnpm"
+
+      # ✅ Install dependencies
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      # ✅ Generate the digest of positions found since the last run
+      - name: Generate daily digest
+        run: pnpm jobctl obsidian daily-digest
+
+      # ✅ Check whether there was anything new to report
+      - name: Check for new positions
+        id: digest
+        run: |
+          if [ -f data/obsidian-digest.md ]; then
+            echo "has_digest=true" >> $GITHUB_OUTPUT
+            echo "date_label=$(grep -m1 '^date: ' data/obsidian-digest.md | cut -d' ' -f2)" >> $GITHUB_OUTPUT
+          else
+            echo "No new positions since last digest."
+            echo "has_digest=false" >> $GITHUB_OUTPUT
+          fi
+
+      # ✅ Push the digest into the Obsidian vault repo
+      - name: Push digest to Obsidian vault
+        if: steps.digest.outputs.has_digest == 'true'
+        env:
+          VAULT_PAT: ${{ secrets.VAULT_PAT }}
+          DATE_LABEL: ${{ steps.digest.outputs.date_label }}
+        run: |
+          git clone --depth 1 "https://x-access-token:${VAULT_PAT}@github.com/chianosf9251/my-obsidian-vault.git" vault-repo
+
+          mkdir -p "vault-repo/2 Areas/Career/Job Market"
+          cp data/obsidian-digest.md "vault-repo/2 Areas/Career/Job Market/${DATE_LABEL}.md"
+
+          cd vault-repo
+          git config user.name "actions-bot"
+          git config user.email "actions@github.com"
+          git add "2 Areas/Career/Job Market/${DATE_LABEL}.md"
+          git commit -m "job market: ${DATE_LABEL} digest"
+          git push origin HEAD:main
+
+      # ✅ Persist the digest cursor so tomorrow only picks up what's new
+      - name: Commit digest state
+        env:
+          PAT: ${{ secrets.PAT }}
+        run: |
+          if [[ -n "$(git status --porcelain data/obsidian-digest-state.json 2>/dev/null)" ]]; then
+            git config user.name "actions-bot"
+            git config user.email "actions@github.com"
+
+            git add data/obsidian-digest-state.json
+            git commit -m "chore(obsidian): update digest state"
+
+            git remote set-url origin "https://x-access-token:${PAT}@github.com/${{ github.repository }}.git"
+            git push origin HEAD:${{ github.ref_name }}
+          fi

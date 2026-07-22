@@ -3235,13 +3235,6 @@
       <td width="120" align="left" valign="top"><a href="https://intel.wd1.myworkdayjobs.com/external/job/US-Arizona-Phoenix/Software-Engineer_JR0285009" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
       <td width="100" align="left" valign="top">June 22</td>
     </tr>
-    <tr>
-      <td width="180" align="left" valign="top">CooperSurgical</td>
-      <td width="420" align="left" valign="top">Data Analyst 1</td>
-      <td width="180" align="left" valign="top">West Henrietta, NY</td>
-      <td width="120" align="left" valign="top"><a href="https://hcjy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11730" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">June 22</td>
-    </tr>
   </tbody>
 </table>
 
@@ -3264,11 +3257,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-<<<<<<< Updated upstream
-      🕒 Last updated <code>2026-07-22T22:50:19.510Z</code>
-=======
-      🕒 Last updated <code>2026-07-22T22:55:38.991Z</code>
->>>>>>> Stashed changes
+      🕒 Last updated <code>2026-07-22T23:06:37.747Z</code>
     </span>
   </p>
 </div>
