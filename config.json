@@ -78,7 +78,7 @@
     ]
   },
   "ai": {
-    "enabled": false,
+    "enabled": true,
     "provider": "google",
     "model": "gemini-2.5-flash"
   },
