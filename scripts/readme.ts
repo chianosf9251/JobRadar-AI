@@ -7,7 +7,6 @@ import type { JD, Opportunity } from "@/types/jobs";
 import type { Config } from "@/validation/config";
 
 import { isEligibleJD } from "@/modules/jd-analyzer";
-
 import { readNdjsonFile } from "@/utils/data";
 import { escapeHtml } from "@/utils/html";
 
@@ -20,6 +19,7 @@ type JDWithLocation = JD & {
 const ROOT = process.cwd();
 
 const README_PATH = path.join(ROOT, "README.md");
+const ARCHIVE_PATH = path.join(ROOT, "ARCHIVE.md");
 
 const REPO_OWNER = "Donkey0322";
 const REPO_NAME = "JobRadar-AI";
@@ -34,21 +34,55 @@ const BADGE_NO_SPONSORSHIP = `<img height="18" alt="no visa" src="https://img.sh
 const APPLY_BUTTON_SRC =
   "https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white";
 
+// Role types to hide regardless of eligibility (e.g. web/mobile/frontend/backend roles
+// that still pass the country/category/citizenship/sponsorship checks). Matched against
+// the title only, same as the pre-AI exclude filter in the sync pipeline.
+const EXCLUDED_ROLE_KEYWORDS = (CONFIG.target.excludeKeywords ?? []).map((keyword) =>
+  keyword.toLowerCase()
+);
+
+function matchesExcludedRole(job: Opportunity): boolean {
+  if (EXCLUDED_ROLE_KEYWORDS.length === 0) return false;
+
+  const role = job.role.toLowerCase();
+  return EXCLUDED_ROLE_KEYWORDS.some((keyword) => role.includes(keyword));
+}
+
+// opportunities.ndjson is append-only and never pruned, so without a cutoff the README
+// would grow forever. Data files keep full history; only the rendered board is bounded.
+const MAX_AGE_DAYS = 30;
+
+function isWithinMaxAge(job: Opportunity, referenceDate: Date): boolean {
+  const posted = new Date(job.postedAt);
+
+  if (Number.isNaN(posted.getTime())) return true;
+
+  const ageMs = referenceDate.getTime() - posted.getTime();
+  return ageMs <= MAX_AGE_DAYS * 24 * 60 * 60 * 1000;
+}
+
 async function main() {
   const opportunities = await readNdjsonFile<Opportunity>(OPPORTUNITIES_PATH);
 
   const categoryOrder = buildCategoryOrder(CONFIG);
   const generatedAt = new Date();
 
-  // Same eligibility check used for email alerts (country, category, citizenship, sponsorship),
-  // so the README always reflects the final filtered job list, not a broader board.
-  const eligibleOpportunities = opportunities
-    // reverse: the last line in opportunities.ndjson is at the top of the README
-    .reverse()
-    .filter((job) => isRenderableOpportunity(job))
-    .filter((job) => isEligibleJD(job.jd as JD)[0]);
+  // reverse: the last line in opportunities.ndjson is at the top of the board
+  const allRenderable = opportunities.reverse().filter((job) => isRenderableOpportunity(job));
+
+  // Same eligibility check used for email alerts (country, category, citizenship, sponsorship,
+  // intern year), plus role-type exclusions. Both README and ARCHIVE apply this; ARCHIVE just
+  // skips the rolling age cutoff, so it's the full history of matching postings.
+  const matchingOpportunities = allRenderable
+    .filter((job) => isEligibleJD(job.jd as JD)[0])
+    .filter((job) => !matchesExcludedRole(job));
+
+  const eligibleOpportunities = matchingOpportunities.filter((job) =>
+    isWithinMaxAge(job, generatedAt)
+  );
 
   const grouped = groupByCategory(eligibleOpportunities, categoryOrder);
+  const archiveGrouped = groupByCategory(matchingOpportunities, categoryOrder);
 
   const markdown = buildReadme({
     config: CONFIG,
@@ -57,10 +91,19 @@ async function main() {
     generatedAt,
   });
 
+  const archiveMarkdown = buildArchive({
+    opportunities: matchingOpportunities,
+    grouped: archiveGrouped,
+    generatedAt,
+  });
+
   await fs.writeFile(README_PATH, markdown, "utf-8");
+  await fs.writeFile(ARCHIVE_PATH, archiveMarkdown, "utf-8");
 
   console.log(`README generated: ${README_PATH}`);
   console.log(`Opportunities included: ${eligibleOpportunities.length}`);
+  console.log(`ARCHIVE generated: ${ARCHIVE_PATH}`);
+  console.log(`Archive opportunities included: ${matchingOpportunities.length}`);
 }
 
 function buildTargetCategories(config: Config): string[] {
@@ -216,6 +259,45 @@ function buildReadme(input: {
   return lines.join("\n");
 }
 
+function buildArchive(input: {
+  opportunities: Opportunity[];
+  grouped: Map<string, Opportunity[]>;
+  generatedAt: Date;
+}): string {
+  const { opportunities, grouped, generatedAt } = input;
+
+  const lines: string[] = [];
+
+  lines.push(`# JobRadar AI — Full Archive`);
+  lines.push("");
+  lines.push(
+    `Every opportunity matching your current filters (country, category, citizenship/sponsorship, ` +
+      `intern year, excluded role types) that JobRadar AI has ever discovered — same filters as ` +
+      `[README.md](./README.md), just without the rolling age cutoff.`
+  );
+  lines.push("");
+  lines.push(`<!-- TABLE_START -->`);
+  lines.push("");
+
+  if (opportunities.length === 0) {
+    lines.push(`No opportunities recorded yet.`);
+    lines.push("");
+  } else {
+    lines.push(...buildCategorySections(grouped));
+  }
+
+  lines.push(`<!-- TABLE_END -->`);
+  lines.push("");
+  lines.push(`---`);
+  lines.push("");
+  lines.push(
+    `📦 Generated from \`opportunities.ndjson\` &nbsp;•&nbsp; 🕒 Last updated \`${generatedAt.toISOString()}\``
+  );
+  lines.push("");
+
+  return lines.join("\n");
+}
+
 function buildCategorySections(grouped: Map<string, Opportunity[]>): string[] {
   const lines: string[] = [];
 
@@ -293,6 +375,8 @@ function buildFooter(generatedAt: Date): string[] {
     ``,
     `<div align="center">`,
     `  <p>`,
+    `    <a href="./ARCHIVE.md"><b>🗄️ Full archive (unfiltered)</b></a>`,
+    `    &nbsp;·&nbsp;`,
     `    <a href="./PRIVACY.md"><b>🛡️ Privacy</b></a>`,
     `    &nbsp;·&nbsp;`,
     `    <a href="./SECURITY.md"><b>🔐 Security</b></a>`,
@@ -374,7 +458,7 @@ function formatLocation(job: Opportunity): string {
 }
 
 function formatApplyButton(link: string): string {
-  return `<a href="${escapeHtmlAttr(link)}"><img height="28" alt="apply" src="${APPLY_BUTTON_SRC}" /></a>`;
+  return `<a href="${escapeHtmlAttr(link)}" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="${APPLY_BUTTON_SRC}" /></a>`;
 }
 
 function formatDate(value: string): string {

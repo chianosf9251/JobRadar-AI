@@ -24,6 +24,7 @@ import { parseAIJDResult } from "./response";
 
 import { logger } from "@/utils/logger";
 import { normalizeRawText } from "@/utils/string";
+import { JobCategory } from "@/validation/config";
 
 export { normalizeJD } from "./response";
 
@@ -40,6 +41,20 @@ export function isEligibleJD(jd: JD) {
   ]);
   if (jd.category && !allowedCategories.has(jd.category)) {
     return [false, `${jd.category} is not in the allowed categories`];
+  }
+
+  const internCategories = new Set<string>([
+    JobCategory.SUMMER_INTERN,
+    JobCategory.OFF_SEASON_INTERN,
+  ]);
+  const internYear = CONFIG.target.internYear;
+  if (
+    internYear &&
+    jd.category &&
+    internCategories.has(jd.category) &&
+    !jd.season?.includes(String(internYear))
+  ) {
+    return [false, `season "${jd.season}" does not match target intern year ${internYear}`];
   }
 
   if (!filters) {

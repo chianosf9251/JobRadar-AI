@@ -40,6 +40,12 @@ export const TargetSchema = z
     filter: z.partialRecord(CountrySchema, CountryFilterSchema).optional(),
 
     keywords: z.array(z.string()).optional(),
+
+    excludeKeywords: z.array(z.string()).optional(),
+
+    // Restricts summer/off-season intern postings to a specific cycle year (e.g. 2027 for
+    // "2027 Summer" / "2027 Fall"). Does not affect full-time categories, which have no season.
+    internYear: z.number().int().optional(),
   })
   .superRefine((target, ctx) => {
     if (!target.filter) {

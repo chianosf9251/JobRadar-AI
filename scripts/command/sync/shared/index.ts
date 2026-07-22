@@ -29,6 +29,20 @@ function matchesKeywordFilter(job: Job): boolean {
   return ROLE_KEYWORDS.some((keyword) => haystack.includes(keyword));
 }
 
+// Role types to drop regardless of keyword matches (e.g. web/mobile/frontend/backend
+// positions that still mention "software engineer"). Matched against the title only,
+// not the company name, to avoid excluding a role just because of its employer's name.
+const EXCLUDED_ROLE_KEYWORDS = (CONFIG.target.excludeKeywords ?? []).map((keyword) =>
+  keyword.toLowerCase()
+);
+
+function matchesExcludeFilter(job: Job): boolean {
+  if (EXCLUDED_ROLE_KEYWORDS.length === 0) return false;
+
+  const role = job.role.toLowerCase();
+  return EXCLUDED_ROLE_KEYWORDS.some((keyword) => role.includes(keyword));
+}
+
 export async function createSyncContext() {
   const urls = await loadUrls();
   const keys = new Set(groupUrlsByKey(Array.from(urls)).keys());
@@ -138,6 +152,23 @@ export async function processJobs({
         }
 
         if (filter && (await filter(job))) {
+          return {
+            type: "skip" as const,
+            job,
+            reason: "filter",
+          };
+        }
+
+        if (matchesExcludeFilter(job)) {
+          logger.info(
+            {
+              company: job.company,
+              role: job.role,
+              url: job.link,
+            },
+            "⏭️ Skipped by exclude filter"
+          );
+
           return {
             type: "skip" as const,
             job,
