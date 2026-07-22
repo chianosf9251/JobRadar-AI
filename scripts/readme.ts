@@ -6,6 +6,8 @@ import { CONFIG, JOB_CATEGORIES, OPPORTUNITIES_PATH } from "@/constants";
 import type { JD, Opportunity } from "@/types/jobs";
 import type { Config } from "@/validation/config";
 
+import { isEligibleJD } from "@/modules/jd-analyzer";
+
 import { readNdjsonFile } from "@/utils/data";
 import { escapeHtml } from "@/utils/html";
 
@@ -35,52 +37,30 @@ const APPLY_BUTTON_SRC =
 async function main() {
   const opportunities = await readNdjsonFile<Opportunity>(OPPORTUNITIES_PATH);
 
-  const allowedCountries = new Set(CONFIG.target.countries.map(normalizeCountry));
-  const targetCategories = new Set(buildTargetCategories(CONFIG));
   const categoryOrder = buildCategoryOrder(CONFIG);
   const generatedAt = new Date();
 
-  const countryMatched = opportunities
+  // Same eligibility check used for email alerts (country, category, citizenship, sponsorship),
+  // so the README always reflects the final filtered job list, not a broader board.
+  const eligibleOpportunities = opportunities
     // reverse: the last line in opportunities.ndjson is at the top of the README
     .reverse()
     .filter((job) => isRenderableOpportunity(job))
-    .filter((job) => {
-      const country = normalizeCountry(job.jd?.country);
-      return country ? allowedCountries.has(country) : false;
-    });
+    .filter((job) => isEligibleJD(job.jd as JD)[0]);
 
-  const targetOpportunities = countryMatched.filter((job) => {
-    const category = getDisplayCategory(job);
-    return targetCategories.has(category);
-  });
-
-  const outsideTargetCategoryOpportunities = countryMatched.filter((job) => {
-    const category = getDisplayCategory(job);
-    return !targetCategories.has(category);
-  });
-
-  const grouped = groupByCategory(targetOpportunities, categoryOrder);
-  const outsideTargetCategoryGrouped = groupByCategory(
-    outsideTargetCategoryOpportunities,
-    categoryOrder
-  );
+  const grouped = groupByCategory(eligibleOpportunities, categoryOrder);
 
   const markdown = buildReadme({
     config: CONFIG,
-    targetOpportunities,
+    opportunities: eligibleOpportunities,
     grouped,
-    outsideTargetCategoryOpportunities,
-    outsideTargetCategoryGrouped,
     generatedAt,
   });
 
   await fs.writeFile(README_PATH, markdown, "utf-8");
 
   console.log(`README generated: ${README_PATH}`);
-  console.log(`Target opportunities included: ${targetOpportunities.length}`);
-  console.log(
-    `Same-country opportunities outside target categories included in toggle: ${outsideTargetCategoryOpportunities.length}`
-  );
+  console.log(`Opportunities included: ${eligibleOpportunities.length}`);
 }
 
 function buildTargetCategories(config: Config): string[] {
@@ -133,20 +113,11 @@ function sortCategoryGroups(
 
 function buildReadme(input: {
   config: Config;
-  targetOpportunities: Opportunity[];
+  opportunities: Opportunity[];
   grouped: Map<string, Opportunity[]>;
-  outsideTargetCategoryOpportunities: Opportunity[];
-  outsideTargetCategoryGrouped: Map<string, Opportunity[]>;
   generatedAt: Date;
 }): string {
-  const {
-    config,
-    targetOpportunities,
-    grouped,
-    outsideTargetCategoryOpportunities,
-    outsideTargetCategoryGrouped,
-    generatedAt,
-  } = input;
+  const { config, opportunities, grouped, generatedAt } = input;
 
   const generatedDate = generatedAt.toISOString().slice(0, 10);
 
@@ -231,15 +202,11 @@ function buildReadme(input: {
   lines.push(`<!-- TABLE_START -->`);
   lines.push("");
 
-  if (targetOpportunities.length === 0) {
-    lines.push(`No opportunities matched the current target categories.`);
+  if (opportunities.length === 0) {
+    lines.push(`No opportunities matched the current filters.`);
     lines.push("");
   } else {
     lines.push(...buildCategorySections(grouped));
-  }
-
-  if (outsideTargetCategoryOpportunities.length > 0) {
-    lines.push(...buildOutsideTargetCategoryToggle(outsideTargetCategoryGrouped));
   }
 
   lines.push(`<!-- TABLE_END -->`);
@@ -258,35 +225,6 @@ function buildCategorySections(grouped: Map<string, Opportunity[]>): string[] {
     lines.push(...buildOpportunityTable(jobs));
     lines.push("");
   }
-
-  return lines;
-}
-
-function buildOutsideTargetCategoryToggle(grouped: Map<string, Opportunity[]>): string[] {
-  const total = [...grouped.values()].reduce((sum, jobs) => sum + jobs.length, 0);
-
-  const categoryNames = [...grouped.keys()].map(formatCategoryTitle);
-  const summaryTitle = formatToggleSummary(categoryNames, total);
-
-  const lines: string[] = [];
-
-  lines.push(`<details>`);
-  lines.push(`  <summary><b>${escapeHtml(summaryTitle)}</b></summary>`);
-  lines.push("");
-  lines.push(`  <br />`);
-  lines.push("");
-
-  for (const [category, jobs] of grouped) {
-    lines.push(
-      `  <h3>${escapeHtml(formatCategoryTitle(category))} (${jobs.length.toLocaleString()})</h3>`
-    );
-    lines.push("");
-    lines.push(...buildOpportunityTable(jobs));
-    lines.push("");
-  }
-
-  lines.push(`</details>`);
-  lines.push("");
 
   return lines;
 }
@@ -463,30 +401,6 @@ function formatCategoryTitle(category: string): string {
     .join(" ");
 }
 
-function formatToggleSummary(categories: string[], total: number): string {
-  if (categories.length === 0) {
-    return `More opportunities (${total.toLocaleString()})`;
-  }
-
-  if (categories.length <= 3) {
-    return `More in ${formatHumanList(categories)} (${total.toLocaleString()})`;
-  }
-
-  const visible = categories.slice(0, 3);
-
-  return `More in ${formatHumanList(visible)} and ${
-    categories.length - visible.length
-  } more (${total.toLocaleString()})`;
-}
-
-function formatHumanList(values: string[]): string {
-  if (values.length === 0) return "";
-  if (values.length === 1) return values[0];
-  if (values.length === 2) return `${values[0]} & ${values[1]}`;
-
-  return `${values.slice(0, -1).join(", ")} & ${values.at(-1)}`;
-}
-
 function buildHtmlTable(headers: TableRow, rows: TableRow[]): string[] {
   const columnWidths = ["180", "420", "180", "120", "100"];
 
@@ -557,10 +471,6 @@ function normalizeCategory(value?: string | null): string {
   if (!normalized) return "None";
 
   return normalized.toLowerCase();
-}
-
-function normalizeCountry(value?: string | null): string {
-  return value?.trim() ?? "";
 }
 
 function normalizeCompany(value: string): string {

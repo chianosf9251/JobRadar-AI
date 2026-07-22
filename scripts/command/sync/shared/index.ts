@@ -1,5 +1,7 @@
 import pLimit from "p-limit";
 
+import { CONFIG } from "@/constants";
+
 import type { Job } from "@/types";
 import type { Opportunity } from "@/types/jobs";
 
@@ -14,6 +16,18 @@ import { logger } from "@/utils/logger";
 
 const DEFAULT_SOFT_DEADLINE_MS = 15 * 60 * 1000;
 const MIN_TIME_TO_START_JOB_MS = 60 * 1000;
+
+// Keywords the job's role/company must match before we spend an AI call on its JD.
+// Eligibility (category/citizenship/sponsorship) can only be determined after the JD
+// is fetched and analyzed, but obviously-irrelevant roles can be dropped before that cost.
+const ROLE_KEYWORDS = (CONFIG.target.keywords ?? []).map((keyword) => keyword.toLowerCase());
+
+function matchesKeywordFilter(job: Job): boolean {
+  if (ROLE_KEYWORDS.length === 0) return true;
+
+  const haystack = `${job.role} ${job.company}`.toLowerCase();
+  return ROLE_KEYWORDS.some((keyword) => haystack.includes(keyword));
+}
 
 export async function createSyncContext() {
   const urls = await loadUrls();
@@ -124,6 +138,23 @@ export async function processJobs({
         }
 
         if (filter && (await filter(job))) {
+          return {
+            type: "skip" as const,
+            job,
+            reason: "filter",
+          };
+        }
+
+        if (!matchesKeywordFilter(job)) {
+          logger.info(
+            {
+              company: job.company,
+              role: job.role,
+              url: job.link,
+            },
+            "⏭️ Skipped by keyword filter"
+          );
+
           return {
             type: "skip" as const,
             job,
