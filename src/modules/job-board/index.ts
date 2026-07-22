@@ -9,12 +9,26 @@ export type JDWithLocation = JD & {
   location?: string | null;
 };
 
+function escapeRegExp(value: string): string {
+  return value.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+}
+
+/**
+ * Builds a case-insensitive whole-word/phrase matcher. Plain substring matching breaks
+ * for short keywords (e.g. "UI" would match inside "Build", "Guide", "Require", "Liquid"),
+ * so each keyword is matched at word boundaries instead.
+ */
+export function buildKeywordMatcher(keywords: string[]): (text: string) => boolean {
+  if (keywords.length === 0) return () => false;
+
+  const patterns = keywords.map((keyword) => new RegExp(`\\b${escapeRegExp(keyword)}\\b`, "i"));
+  return (text: string) => patterns.some((pattern) => pattern.test(text));
+}
+
 // Role types to hide regardless of eligibility (e.g. web/mobile/frontend/backend roles
 // that still pass the country/category/citizenship/sponsorship checks). Matched against
 // the title only, same as the pre-AI exclude filter in the sync pipeline.
-const EXCLUDED_ROLE_KEYWORDS = (CONFIG.target.excludeKeywords ?? []).map((keyword) =>
-  keyword.toLowerCase()
-);
+const matchesExcludedRoleKeyword = buildKeywordMatcher(CONFIG.target.excludeKeywords ?? []);
 
 export function isRenderableOpportunity(job: Opportunity): boolean {
   return Boolean(
@@ -28,10 +42,7 @@ export function isRenderableOpportunity(job: Opportunity): boolean {
 }
 
 export function matchesExcludedRole(job: Opportunity): boolean {
-  if (EXCLUDED_ROLE_KEYWORDS.length === 0) return false;
-
-  const role = job.role.toLowerCase();
-  return EXCLUDED_ROLE_KEYWORDS.some((keyword) => role.includes(keyword));
+  return matchesExcludedRoleKeyword(job.role);
 }
 
 /**

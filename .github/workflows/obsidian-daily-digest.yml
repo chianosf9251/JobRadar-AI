@@ -68,13 +68,13 @@ jobs:
         run: |
           git clone --depth 1 "https://x-access-token:${VAULT_PAT}@github.com/chianosf9251/my-obsidian-vault.git" vault-repo
 
-          mkdir -p "vault-repo/2 Areas/Career/Job Market"
-          cp data/obsidian-digest.md "vault-repo/2 Areas/Career/Job Market/${DATE_LABEL}.md"
+          mkdir -p "vault-repo/2 Areas/Career/Job Market/JobRadar-AI"
+          cp data/obsidian-digest.md "vault-repo/2 Areas/Career/Job Market/JobRadar-AI/${DATE_LABEL}.md"
 
           cd vault-repo
           git config user.name "actions-bot"
           git config user.email "actions@github.com"
-          git add "2 Areas/Career/Job Market/${DATE_LABEL}.md"
+          git add "2 Areas/Career/Job Market/JobRadar-AI/${DATE_LABEL}.md"
           git commit -m "job market: ${DATE_LABEL} digest"
           git push origin HEAD:main
 

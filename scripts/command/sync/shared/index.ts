@@ -8,6 +8,7 @@ import type { Opportunity } from "@/types/jobs";
 import { buildCompanyList } from "@/modules/company-tacker/company";
 import getJD, { isEligibleJD } from "@/modules/jd-analyzer";
 import { HttpStatusCode } from "@/modules/jd-analyzer/ats";
+import { buildKeywordMatcher } from "@/modules/job-board";
 import { getJobKey, groupUrlsByKey } from "@/modules/job-dedup";
 import { loadJobs, loadUrls, saveOpportunities } from "@/utils/data";
 import { saveJob, saveUrls } from "@/utils/data";
@@ -32,15 +33,10 @@ function matchesKeywordFilter(job: Job): boolean {
 // Role types to drop regardless of keyword matches (e.g. web/mobile/frontend/backend
 // positions that still mention "software engineer"). Matched against the title only,
 // not the company name, to avoid excluding a role just because of its employer's name.
-const EXCLUDED_ROLE_KEYWORDS = (CONFIG.target.excludeKeywords ?? []).map((keyword) =>
-  keyword.toLowerCase()
-);
+const matchesExcludedRoleKeyword = buildKeywordMatcher(CONFIG.target.excludeKeywords ?? []);
 
 function matchesExcludeFilter(job: Job): boolean {
-  if (EXCLUDED_ROLE_KEYWORDS.length === 0) return false;
-
-  const role = job.role.toLowerCase();
-  return EXCLUDED_ROLE_KEYWORDS.some((keyword) => role.includes(keyword));
+  return matchesExcludedRoleKeyword(job.role);
 }
 
 export async function createSyncContext() {
