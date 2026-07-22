@@ -25,8 +25,6 @@ const REPO_URL = `https://github.com/${REPO_OWNER}/${REPO_NAME}`;
 const TEMPLATE_URL = `https://github.com/new?template_name=${REPO_NAME}&template_owner=${REPO_OWNER}`;
 const ISSUE_TEMPLATE_URL = `${REPO_URL}/issues/new/choose`;
 
-const MAX_JOBS_PER_SECTION = 20;
-
 const BADGE_CITIZENSHIP = `<img height="18" alt="citizen only" src="https://img.shields.io/badge/citizen%20only-ff6b6b?style=plastic" />`;
 
 const BADGE_NO_SPONSORSHIP = `<img height="18" alt="no visa" src="https://img.shields.io/badge/no%20visa-60a5fa?style=plastic" />`;
@@ -294,12 +292,10 @@ function buildOutsideTargetCategoryToggle(grouped: Map<string, Opportunity[]>): 
 }
 
 function buildOpportunityTable(jobs: Opportunity[]): string[] {
-  const visibleJobs = jobs.slice(0, MAX_JOBS_PER_SECTION);
-
   const rows: TableRow[] = [];
   let previousCompany = "";
 
-  for (const job of visibleJobs) {
+  for (const job of jobs) {
     const company = normalizeCompany(job.company);
     const companyCell = company === previousCompany ? "↳" : company;
     previousCompany = company;
@@ -313,15 +309,7 @@ function buildOpportunityTable(jobs: Opportunity[]): string[] {
     ]);
   }
 
-  const lines = buildHtmlTable(["Company", "Role", "Location", "Link", "Date"], rows);
-
-  if (jobs.length > MAX_JOBS_PER_SECTION) {
-    lines.push(
-      `<p><sub>Showing ${MAX_JOBS_PER_SECTION.toLocaleString()} of ${jobs.length.toLocaleString()} opportunities in this section.</sub></p>`
-    );
-  }
-
-  return lines;
+  return buildHtmlTable(["Company", "Role", "Location", "Link", "Date"], rows);
 }
 
 function buildFeatureGrid(): string[] {
