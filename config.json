@@ -1,0 +1,58 @@
+{
+  "target": {
+    "intern": ["summer intern", "off-season intern"],
+    "full-time": ["entry level"],
+    "countries": ["USA"],
+    "filter": {
+      "USA": {
+        "allow_citizenship_required": false,
+        "allow_no_sponsorship": false
+      }
+    },
+    "keywords": [
+      "software",
+      "swe",
+      "system",
+      "systems",
+      "backend",
+      "back-end",
+      "frontend",
+      "front-end",
+      "full-stack",
+      "fullstack",
+      "platform",
+      "web",
+      "mobile",
+      "ios",
+      "android",
+      "data",
+      "ai",
+      "ml",
+      "machine learning",
+      "cloud",
+      "infra",
+      "infrastructure",
+      "devops",
+      "sre",
+      "site reliability",
+      "security",
+      "automation",
+      "ui",
+      "ux"
+    ]
+  },
+  "ai": {
+    "enabled": true,
+    "provider": "google",
+    "model": "gemini-2.5-flash"
+  },
+  "sender": {
+    "host": "smtp.gmail.com",
+    "port": 587,
+    "user": "donkey@ntu.im",
+    "email": "donkey@ntu.im"
+  },
+  "receiver": {
+    "email": "donkey.leelee@gmail.com"
+  }
+}

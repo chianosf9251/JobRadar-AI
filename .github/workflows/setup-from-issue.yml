@@ -1,0 +1,103 @@
+name: Setup from Issue
+run-name: 🔍 Setup from Issue
+
+on:
+  issues:
+    types: [opened, edited]
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  setup:
+    if: github.repository != 'Donkey0322/JobRadar-AI' && (contains(github.event.issue.labels.*.name, 'setup') || startsWith(github.event.issue.title, 'Setup JobRadar-AI'))
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.PAT }}
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v6
+        with:
+          version: 11.7.0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: 22
+          cache: pnpm
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Get config.json from issue form
+        run: pnpm jobctl setup get-config
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+          PAT: ${{ secrets.PAT }}
+
+      - name: Commit config.json to main
+        id: commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add config.json
+
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "No config changes to commit."
+          else
+            git commit -m "chore: update config from setup issue #${{ github.event.issue.number }}"
+            git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Comment setup instructions
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const changed = "${{ steps.commit.outputs.changed }}" === "true";
+
+            const message = changed
+              ? `✅ \`config.json\` has been generated and committed to \`main\`.
+
+            Next steps:
+
+            1. Go to **Settings → Secrets and variables → Actions**
+            2. Add these secrets:
+               - \`SMTP_PASS\`
+               - \`AI_API_KEY\`
+               - \`PAT\`
+            3. Come back to this issue and comment:
+
+            \`\`\`
+            /check-setup
+            \`\`\`
+
+            I will verify your config and secrets automatically.`
+              : `✅ \`config.json\` already matches this setup form.
+
+            Please make sure these secrets are configured:
+
+            - \`SMTP_PASS\`
+            - \`AI_API_KEY\`
+            - \`PAT\`
+
+            Then comment:
+
+            \`\`\`
+            /check-setup
+            \`\`\``;
+
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.payload.issue.number,
+              body: message,
+            });
