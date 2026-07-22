@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20Parsed-google%20%2F%20gemini--2.5--flash-blue" />
-  <img src="https://img.shields.io/badge/Countries-USA-green" />
+  <img src="https://img.shields.io/badge/AI%20Parsed-disabled-blue" />
+  <img src="https://img.shields.io/badge/Countries-USA%20%C2%B7%20Canada%20%C2%B7%20Remote-green" />
   <img src="https://img.shields.io/badge/Updated-2026--07--22-orange" />
   <img src="https://img.shields.io/badge/License-MIT-yellow" />
 </p>
@@ -159,6 +159,13 @@
       <td width="100" align="left" valign="top">July 20</td>
     </tr>
     <tr>
+      <td width="180" align="left" valign="top">Onware</td>
+      <td width="420" align="left" valign="top">Full Stack Developer-Intern Opportunity</td>
+      <td width="180" align="left" valign="top">Edmonton, AB</td>
+      <td width="120" align="left" valign="top"><a href="https://ats.rippling.com/onware/jobs/1b9d59b6-1ab0-4c40-8429-39b5b62f019a"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">July 20</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Western digital</td>
       <td width="420" align="left" valign="top">Summer 2027 - Software Engineering Internship</td>
       <td width="180" align="left" valign="top">San Jose, CA</td>
@@ -235,16 +242,9 @@
       <td width="120" align="left" valign="top"><a href="https://selinc.wd1.myworkdayjobs.com/sel/job/Washington---Pullman/Software-Engineer-Intern_2026-21720"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
       <td width="100" align="left" valign="top">July 15</td>
     </tr>
-    <tr>
-      <td width="180" align="left" valign="top">↳</td>
-      <td width="420" align="left" valign="top">Software Engineer Intern</td>
-      <td width="180" align="left" valign="top">Pullman, WA</td>
-      <td width="120" align="left" valign="top"><a href="https://selinc.wd1.myworkdayjobs.com/sel/job/Washington---Pullman/Software-Engineer-Intern_2026-21720"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">July 15</td>
-    </tr>
   </tbody>
 </table>
-<p><sub>Showing 20 of 74 opportunities in this section.</sub></p>
+<p><sub>Showing 20 of 76 opportunities in this section.</sub></p>
 
 ### Off Season Intern
 
@@ -260,10 +260,24 @@
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">ShyftLabs</td>
+      <td width="420" align="left" valign="top">AI Engineer Intern</td>
+      <td width="180" align="left" valign="top">Toronto, ON</td>
+      <td width="120" align="left" valign="top"><a href="https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd/apply"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">July 21</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">BAE Systems</td>
       <td width="420" align="left" valign="top">DoW SkillBridge – Remote Mission Systems Engineering Support Fellow<br /><img height="18" alt="citizen only" src="https://img.shields.io/badge/citizen%20only-ff6b6b?style=plastic" /></td>
       <td width="180" align="left" valign="top">Rockville, MD</td>
       <td width="120" align="left" valign="top"><a href="https://jobs.baesystems.com/global/en/job/124779BR?ph_id=124779BR"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">July 21</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Sunlife</td>
+      <td width="420" align="left" valign="top">Student, DevOps Engineer (Fall 2026)</td>
+      <td width="180" align="left" valign="top">Waterloo, ON</td>
+      <td width="120" align="left" valign="top"><a href="https://sunlife.wd3.myworkdayjobs.com/campus/job/Waterloo-Ontario/Student--DevOps-Engineer--Fall-2026-_JR00122066"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
       <td width="100" align="left" valign="top">July 21</td>
     </tr>
     <tr>
@@ -385,23 +399,9 @@
       <td width="120" align="left" valign="top"><a href="https://jobs.ashbyhq.com/quadrillion-labs/601e105d-2f0f-4482-9bae-3a825a1b97fd/application?embed=true"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
       <td width="100" align="left" valign="top">July 20</td>
     </tr>
-    <tr>
-      <td width="180" align="left" valign="top">Bild AI</td>
-      <td width="420" align="left" valign="top">AI/Software Engineer Intern</td>
-      <td width="180" align="left" valign="top">San Francisco, CA</td>
-      <td width="120" align="left" valign="top"><a href="https://jobs.ashbyhq.com/bild-ai/b333f0f7-0ca6-4509-8697-9303396b5364/application?embed=true"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">July 20</td>
-    </tr>
-    <tr>
-      <td width="180" align="left" valign="top">Mobius Renewables</td>
-      <td width="420" align="left" valign="top">Software Engineer Intern<br /><img height="18" alt="no visa" src="https://img.shields.io/badge/no%20visa-60a5fa?style=plastic" /></td>
-      <td width="180" align="left" valign="top">Houston, TX</td>
-      <td width="120" align="left" valign="top"><a href="https://ats.rippling.com/greengas/jobs/b2938290-cc66-4f54-9888-bbe286c1d9b6"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">July 20</td>
-    </tr>
   </tbody>
 </table>
-<p><sub>Showing 20 of 135 opportunities in this section.</sub></p>
+<p><sub>Showing 20 of 159 opportunities in this section.</sub></p>
 
 ### Entry Level
 
@@ -558,14 +558,14 @@
     </tr>
   </tbody>
 </table>
-<p><sub>Showing 20 of 834 opportunities in this section.</sub></p>
+<p><sub>Showing 20 of 843 opportunities in this section.</sub></p>
 
 <details>
-  <summary><b>More in Mid Level &amp; Senior Level (5,696)</b></summary>
+  <summary><b>More in Mid Level &amp; Senior Level (5,770)</b></summary>
 
   <br />
 
-  <h3>Mid Level (3,169)</h3>
+  <h3>Mid Level (3,216)</h3>
 
 <table width="100%">
   <thead>
@@ -720,9 +720,9 @@
     </tr>
   </tbody>
 </table>
-<p><sub>Showing 20 of 3,169 opportunities in this section.</sub></p>
+<p><sub>Showing 20 of 3,216 opportunities in this section.</sub></p>
 
-  <h3>Senior Level (2,527)</h3>
+  <h3>Senior Level (2,554)</h3>
 
 <table width="100%">
   <thead>
@@ -877,7 +877,7 @@
     </tr>
   </tbody>
 </table>
-<p><sub>Showing 20 of 2,527 opportunities in this section.</sub></p>
+<p><sub>Showing 20 of 2,554 opportunities in this section.</sub></p>
 
 </details>
 
@@ -898,7 +898,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-07-22T18:31:57.081Z</code>
+      🕒 Last updated <code>2026-07-22T21:11:10.859Z</code>
     </span>
   </p>
 </div>
