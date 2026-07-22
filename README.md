@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20Parsed-disabled-blue" />
+  <img src="https://img.shields.io/badge/AI%20Parsed-google%20%2F%20gemini--2.5--flash-blue" />
   <img src="https://img.shields.io/badge/Countries-USA%20%C2%B7%20Canada%20%C2%B7%20Taiwan%20%C2%B7%20Remote-green" />
   <img src="https://img.shields.io/badge/Updated-2026--07--22-orange" />
   <img src="https://img.shields.io/badge/License-MIT-yellow" />
@@ -898,7 +898,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-07-22T21:17:47.575Z</code>
+      🕒 Last updated <code>2026-07-22T21:22:32.367Z</code>
     </span>
   </p>
 </div>
