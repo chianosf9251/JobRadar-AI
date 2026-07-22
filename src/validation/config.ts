@@ -43,8 +43,11 @@ export const TargetSchema = z
 
     excludeKeywords: z.array(z.string()).optional(),
 
-    // Restricts summer/off-season intern postings to a specific cycle year (e.g. 2027 for
-    // "2027 Summer" / "2027 Fall"). Does not affect full-time categories, which have no season.
+    // Drops summer/off-season intern postings whose parsed season year is earlier than this
+    // (e.g. 2027 excludes "2026 Fall" but keeps "2027 Summer"). A posting whose season couldn't
+    // be parsed to a year is kept rather than dropped, since the JD may still be for this cycle
+    // even if the title/season text doesn't spell out the year. Does not affect full-time
+    // categories, which have no season.
     internYear: z.number().int().optional(),
   })
   .superRefine((target, ctx) => {

@@ -48,13 +48,14 @@ export function isEligibleJD(jd: JD) {
     JobCategory.OFF_SEASON_INTERN,
   ]);
   const internYear = CONFIG.target.internYear;
-  if (
-    internYear &&
-    jd.category &&
-    internCategories.has(jd.category) &&
-    !jd.season?.includes(String(internYear))
-  ) {
-    return [false, `season "${jd.season}" does not match target intern year ${internYear}`];
+  if (internYear && jd.category && internCategories.has(jd.category)) {
+    const seasonYear = Number(jd.season?.match(/\d{4}/)?.[0]);
+
+    // Unparseable season (e.g. "None") is kept rather than dropped — the posting may still
+    // be for this cycle even if the title/season text doesn't spell out the year.
+    if (!Number.isNaN(seasonYear) && seasonYear < internYear) {
+      return [false, `season "${jd.season}" is before target intern year ${internYear}`];
+    }
   }
 
   if (!filters) {
