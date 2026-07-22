@@ -1,58 +1,93 @@
 {
   "target": {
-    "intern": ["summer intern", "off-season intern"],
-    "full-time": ["entry level"],
-    "countries": ["USA"],
+    "intern": [
+      "summer intern",
+      "off-season intern"
+    ],
+    "full-time": [
+      "entry level"
+    ],
+    "countries": [
+      "USA",
+      "Canada",
+      "Remote"
+    ],
     "filter": {
       "USA": {
+        "allow_citizenship_required": false,
+        "allow_no_sponsorship": false
+      },
+      "Canada": {
+        "allow_citizenship_required": false,
+        "allow_no_sponsorship": false
+      },
+      "Remote": {
         "allow_citizenship_required": false,
         "allow_no_sponsorship": false
       }
     },
     "keywords": [
       "software",
-      "swe",
       "system",
-      "systems",
-      "backend",
-      "back-end",
-      "frontend",
-      "front-end",
-      "full-stack",
-      "fullstack",
-      "platform",
-      "web",
-      "mobile",
-      "ios",
-      "android",
-      "data",
+      "dev",
+      "develop",
+      "developer",
+      "development",
+      "software engineering",
+      "software engineer",
       "ai",
-      "ml",
-      "machine learning",
       "cloud",
       "infra",
       "infrastructure",
-      "devops",
-      "sre",
-      "site reliability",
-      "security",
       "automation",
-      "ui",
-      "ux"
+      "swe",
+      "sde",
+      "ml systems",
+      "ml infrastructure",
+      "ml infra",
+      "machine learning systems",
+      "ml platform",
+      "ml compiler",
+      "kernel",
+      "kernel optimization",
+      "gpu kernel",
+      "cuda",
+      "triton",
+      "compiler",
+      "compiler engineer",
+      "mlir",
+      "llvm",
+      "performance",
+      "performance optimization",
+      "performance engineering",
+      "systems",
+      "systems engineer",
+      "systems engineering",
+      "system software",
+      "low-level",
+      "high performance computing",
+      "hpc",
+      "distributed systems",
+      "inference",
+      "inference optimization",
+      "training infrastructure",
+      "runtime",
+      "accelerator",
+      "parallel computing"
     ]
   },
   "ai": {
-    "enabled": true,
+    "enabled": false,
     "provider": "google",
     "model": "gemini-2.5-flash"
   },
   "sender": {
     "host": "smtp.gmail.com",
     "port": 587,
-    "user": "donkey@ntu.im",
-    "email": "donkey@ntu.im"
+    "user": "oscarfu0501@gmail.com",
+    "email": "oscarfu0501@gmail.com"
   },
   "receiver": {
-    "email": "donkey.leelee@gmail.com"
+    "email": "oscarfu0501@gmail.com"
   }
 }
