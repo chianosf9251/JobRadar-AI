@@ -40,7 +40,7 @@ export const AMDResponseSchema = z.object({
   jobs: z.array(z.object({ data: AMDJobSchema })),
 });
 
-const MAX_PAGES = 10;
+const MAX_PAGES = 20;
 
 function getAMDJobsFromResponse(data: unknown): AMDJob[] {
   const parsed = AMDResponseSchema.safeParse(data);
@@ -77,7 +77,9 @@ export async function fetchAMD(
   try {
     const jobs: Job[] = [];
 
-    for (let page = 1; page <= MAX_PAGES; page++) {
+    let page = 1;
+
+    for (; page <= MAX_PAGES; page++) {
       const url = new URL(company.page);
 
       url.pathname = "/api/jobs";
@@ -121,6 +123,17 @@ export async function fetchAMD(
       if (reachedOldJob) {
         break;
       }
+    }
+
+    // infinite pagination protection
+    if (page > MAX_PAGES) {
+      logger.warn(
+        {
+          company: company.name,
+          pages: page - 1,
+        },
+        "⚠️ AMD hit MAX_PAGES limit"
+      );
     }
 
     return jobs;
