@@ -313,6 +313,8 @@ function buildFooter(generatedAt: Date): string[] {
     `  <p>`,
     `    <a href="./ARCHIVE.md"><b>🗄️ Full archive (unfiltered)</b></a>`,
     `    &nbsp;·&nbsp;`,
+    `    <a href="https://chianosf9251.github.io/JobRadar-AI/"><b>🌐 Web board</b></a>`,
+    `    &nbsp;·&nbsp;`,
     `    <a href="./PRIVACY.md"><b>🛡️ Privacy</b></a>`,
     `    &nbsp;·&nbsp;`,
     `    <a href="./SECURITY.md"><b>🔐 Security</b></a>`,

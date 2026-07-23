@@ -21,3 +21,4 @@ preview.html
 .DS_Store
 data/jd/
 data/obsidian-digest.md
+dist/

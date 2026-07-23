@@ -1,0 +1,70 @@
+name: Deploy Job Board to Pages
+run-name: 🌐 Deploy Job Board to Pages
+
+on:
+  push:
+    paths:
+      - "config.json"
+      - "data/opportunities.ndjson"
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      # ✅ Checkout repository
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      # ✅ Setup pnpm
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v6
+        with:
+          version: 11.7.0
+
+      # ✅ Setup Node.js
+      - name: Setup Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: 22
+          cache: "pnpm"
+
+      # ✅ Install dependencies
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      # ✅ Build the static job board (real HTML, so Apply links can open in a new tab —
+      #    unlike README.md, which GitHub always strips target="_blank" from)
+      - name: Build board
+        run: pnpm build-board
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

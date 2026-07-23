@@ -16,7 +16,8 @@
     "delete-url": "tsx scripts/delete-url.ts",
     "clean-url": "tsx scripts/clean-url.ts",
     "preview-email": "tsx scripts/preview-email.ts",
-    "update-readme": "tsx scripts/readme.ts"
+    "update-readme": "tsx scripts/readme.ts",
+    "build-board": "tsx scripts/board.ts"
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",

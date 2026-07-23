@@ -1146,6 +1146,8 @@
   <p>
     <a href="./ARCHIVE.md"><b>🗄️ Full archive (unfiltered)</b></a>
     &nbsp;·&nbsp;
+    <a href="https://chianosf9251.github.io/JobRadar-AI/"><b>🌐 Web board</b></a>
+    &nbsp;·&nbsp;
     <a href="./PRIVACY.md"><b>🛡️ Privacy</b></a>
     &nbsp;·&nbsp;
     <a href="./SECURITY.md"><b>🔐 Security</b></a>
@@ -1157,7 +1159,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-07-23T02:31:48.846Z</code>
+      🕒 Last updated <code>2026-07-23T02:55:47.944Z</code>
     </span>
   </p>
 </div>
