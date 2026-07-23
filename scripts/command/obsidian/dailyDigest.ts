@@ -112,10 +112,19 @@ export default async function generateObsidianDigest() {
   const matchingOpportunities = getMatchingOpportunities(opportunities);
 
   const generatedAt = new Date();
+
+  // Manual override for one-off runs (e.g. "give me everything since July 1"), bypassing
+  // the normal incremental cursor. The cursor still advances to now afterward, since this
+  // run covers everything up to now regardless of which window produced it.
+  const sinceOverride = process.env.DIGEST_SINCE ? new Date(process.env.DIGEST_SINCE) : null;
+  if (sinceOverride && Number.isNaN(sinceOverride.getTime())) {
+    throw new Error(`Invalid DIGEST_SINCE date: "${process.env.DIGEST_SINCE}"`);
+  }
+
   const state = await loadObsidianDigestState();
-  const sinceAt = state
-    ? new Date(state.lastRunAt)
-    : new Date(generatedAt.getTime() - FIRST_RUN_LOOKBACK_MS);
+  const sinceAt =
+    sinceOverride ??
+    (state ? new Date(state.lastRunAt) : new Date(generatedAt.getTime() - FIRST_RUN_LOOKBACK_MS));
 
   const newOpportunities = matchingOpportunities.filter(
     (job) => new Date(job.postedAt).getTime() > sinceAt.getTime()

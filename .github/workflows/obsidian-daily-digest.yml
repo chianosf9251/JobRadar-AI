@@ -4,7 +4,12 @@ run-name: 📓 Obsidian Daily Digest
 on:
   schedule:
     - cron: "0 0 * * *" # 08:00 Taiwan time
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      since:
+        description: 'Override the "since" cursor for this run only (e.g. "2026-07-01"). Leave blank for normal incremental behavior.'
+        required: false
+        type: string
 
 permissions:
   contents: write
@@ -45,6 +50,8 @@ jobs:
 
       # ✅ Generate the digest of positions found since the last run
       - name: Generate daily digest
+        env:
+          DIGEST_SINCE: ${{ inputs.since }}
         run: pnpm jobctl obsidian daily-digest
 
       # ✅ Check whether there was anything new to report
