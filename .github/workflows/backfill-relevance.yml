@@ -1,0 +1,85 @@
+name: Backfill JD Relevance
+run-name: 🔁 Backfill JD Relevance
+
+on:
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: backfill-relevance
+  cancel-in-progress: false
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      # ✅ Checkout repository
+      - name: Checkout repository
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.PAT }}
+
+      # ✅ Setup pnpm
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v6
+        with:
+          version: 11.7.0
+
+      # ✅ Setup Node.js
+      - name: Setup Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: 22
+          cache: "pnpm"
+
+      # ✅ Install dependencies
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      # ✅ Re-analyze old JDs that pass current filters but predate relevant/relevanceTier
+      - name: Backfill relevance
+        env:
+          AI_API_KEY: ${{ secrets.AI_API_KEY }}
+          LOG_PRETTY: "1"
+        run: pnpm tsx scripts/backfill-relevance.ts
+
+      # ✅ Commit and push updated data
+      - name: Commit and push updated data
+        env:
+          PAT: ${{ secrets.PAT }}
+        run: |
+          if git diff --quiet data/opportunities.ndjson; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git config user.name "actions-bot"
+          git config user.email "actions@github.com"
+
+          git add data/opportunities.ndjson
+          git commit -m "chore(backfill): add relevance tiers to existing postings"
+
+          git remote set-url origin "https://x-access-token:${PAT}@github.com/${{ github.repository }}.git"
+
+          attempt=1
+          max_attempts=5
+          until git push origin HEAD:${{ github.ref_name }}; do
+            if [ "$attempt" -ge "$max_attempts" ]; then
+              echo "::error::Failed to push after $max_attempts attempts"
+              exit 1
+            fi
+            echo "Push rejected (attempt $attempt/$max_attempts), rebasing onto latest and retrying..."
+            attempt=$((attempt + 1))
+            git fetch origin ${{ github.ref_name }}
+            if ! git rebase origin/${{ github.ref_name }}; then
+              echo "::error::Rebase conflict, aborting"
+              git rebase --abort
+              exit 1
+            fi
+            sleep $(( (RANDOM % 5) + 1 ))
+          done
