@@ -251,6 +251,24 @@ surface a borderline match for a human to quickly skip than to silently drop a g
 If no target keywords are listed above, judge relevance based on general software
 engineering / technical relevance instead.
 
+9. relevanceTier
+
+Only meaningful when relevant is true (still choose a value even when relevant is false;
+it will be ignored). Classify how closely the role's core responsibilities align with the
+target domain, most-relevant first:
+
+- "gpu-llm-inference": the role is directly about GPU kernels/programming, CUDA, Triton,
+  compilers/runtimes for accelerators (MLIR, LLVM, TVM, XLA, IREE), or LLM inference
+  systems (vLLM, SGLang, FlashInfer, TensorRT, attention kernels, KV cache, inference
+  engines). This is the closest possible match to the target domain.
+- "mle": the role is a Machine Learning Engineer / applied ML / ML research engineering
+  position — training, modeling, ML platform, or applied ML work — that is relevant but
+  not specifically about GPU kernels or LLM inference systems.
+- "swe-sde": the role is a general Software Engineer / SDE / systems engineer position
+  that is relevant (e.g. distributed systems, performance engineering, systems software)
+  but is not ML-focused and not specifically about GPU kernels or LLM inference.
+- "other": relevant, but doesn't clearly fit any of the above.
+
 ---BEGIN JD TEXT---
 @@CONTEXT@@
 ---END JD TEXT---

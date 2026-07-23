@@ -1,16 +1,15 @@
 import fs from "node:fs/promises";
 import path from "node:path";
 
-import { CONFIG, OPPORTUNITIES_PATH } from "@/constants";
+import { OPPORTUNITIES_PATH } from "@/constants";
 
-import type { Opportunity } from "@/types/jobs";
+import type { Opportunity, RelevanceTier } from "@/types/jobs";
 
 import {
-  buildCategoryOrder,
   formatCategoryTitle,
   formatLocation,
+  getDisplayCategory,
   getMatchingOpportunities,
-  groupByCategory,
   normalizeCompany,
 } from "@/modules/job-board";
 import { loadObsidianDigestState, readNdjsonFile, saveObsidianDigestState } from "@/utils/data";
@@ -26,12 +25,46 @@ export const DIGEST_OUTPUT_PATH = path.join(ROOT, "data", "obsidian-digest.md");
 // currently matching opportunity into one note.
 const FIRST_RUN_LOOKBACK_MS = 24 * 60 * 60 * 1000;
 
+// Most-relevant first, per the AI's relevanceTier judgment.
+const TIER_ORDER: RelevanceTier[] = ["gpu-llm-inference", "mle", "swe-sde", "other"];
+
+const TIER_LABELS: Record<RelevanceTier, string> = {
+  "gpu-llm-inference": "🚀 GPU / LLM Inference",
+  mle: "🧠 MLE",
+  "swe-sde": "⚙️ SWE / SDE",
+  other: "📦 Other",
+};
+
 function escapeTableCell(value: string): string {
   return value.replace(/\|/g, "\\|").replace(/\n/g, " ");
 }
 
+function groupByTier(opportunities: Opportunity[]): Map<RelevanceTier, Opportunity[]> {
+  const groups = new Map<RelevanceTier, Opportunity[]>();
+
+  for (const tier of TIER_ORDER) {
+    groups.set(tier, []);
+  }
+
+  for (const job of opportunities) {
+    const tier = job.jd?.relevanceTier ?? "other";
+    groups.get(tier)!.push(job);
+  }
+
+  for (const tier of TIER_ORDER) {
+    if (groups.get(tier)!.length === 0) {
+      groups.delete(tier);
+    }
+  }
+
+  return groups;
+}
+
 function buildDigestTable(jobs: Opportunity[]): string[] {
-  const lines: string[] = [`| Company | Role | Location | Link |`, `|---|---|---|---|`];
+  const lines: string[] = [
+    `| Company | Role | Category | Location | Link |`,
+    `|---|---|---|---|---|`,
+  ];
 
   let previousCompany = "";
   for (const job of jobs) {
@@ -41,6 +74,7 @@ function buildDigestTable(jobs: Opportunity[]): string[] {
 
     lines.push(
       `| ${escapeTableCell(companyCell)} | ${escapeTableCell(job.role)} | ` +
+        `${escapeTableCell(formatCategoryTitle(getDisplayCategory(job)))} | ` +
         `${escapeTableCell(formatLocation(job))} | [Apply](${job.link}) |`
     );
   }
@@ -51,7 +85,7 @@ function buildDigestTable(jobs: Opportunity[]): string[] {
 function buildDigestMarkdown(input: {
   dateLabel: string;
   opportunities: Opportunity[];
-  grouped: Map<string, Opportunity[]>;
+  grouped: Map<RelevanceTier, Opportunity[]>;
 }): string {
   const { dateLabel, opportunities, grouped } = input;
 
@@ -66,8 +100,8 @@ function buildDigestMarkdown(input: {
     ``,
   ];
 
-  for (const [category, jobs] of grouped) {
-    lines.push(`## ${formatCategoryTitle(category)}`, ``, ...buildDigestTable(jobs), ``);
+  for (const [tier, jobs] of grouped) {
+    lines.push(`## ${TIER_LABELS[tier]}`, ``, ...buildDigestTable(jobs), ``);
   }
 
   return lines.join("\n");
@@ -99,8 +133,7 @@ export default async function generateObsidianDigest() {
     return;
   }
 
-  const categoryOrder = buildCategoryOrder(CONFIG);
-  const grouped = groupByCategory(newOpportunities, categoryOrder);
+  const grouped = groupByTier(newOpportunities);
   const dateLabel = generatedAt.toLocaleDateString("en-CA", { timeZone: "Asia/Taipei" });
 
   const markdown = buildDigestMarkdown({ dateLabel, opportunities: newOpportunities, grouped });

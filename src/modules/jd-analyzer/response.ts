@@ -18,6 +18,7 @@ export function normalizeJD(response: JDResponse): JD {
     category: response.category,
     season: response.season,
     relevant: response.relevant,
+    relevanceTier: response.relevanceTier,
   };
 }
 

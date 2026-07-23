@@ -48,6 +48,11 @@ const JD_PROPERTIES: Record<keyof JD, unknown> = {
   relevant: {
     type: "boolean",
   },
+
+  relevanceTier: {
+    type: "string",
+    enum: ["gpu-llm-inference", "mle", "swe-sde", "other"],
+  },
 };
 
 const JD_REQUIRED = [
@@ -59,6 +64,7 @@ const JD_REQUIRED = [
   "category",
   "season",
   "relevant",
+  "relevanceTier",
 ] satisfies Array<keyof JD>;
 
 const JD_SCHEMA = {

@@ -11,6 +11,7 @@ const validResponse = {
   category: "entry level",
   season: "None",
   relevant: true,
+  relevanceTier: "swe-sde",
 };
 
 describe("parseAIJDResult", () => {
