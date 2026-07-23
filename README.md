@@ -870,6 +870,13 @@
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Traba</td>
+      <td width="420" align="left" valign="top">Software Engineer New Grad</td>
+      <td width="180" align="left" valign="top">New York City, NY</td>
+      <td width="120" align="left" valign="top"><a href="https://jobs.ashbyhq.com/traba/90d6307c-1bb1-4abf-8e73-7afa6a7e0a70/application?embed=true" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">July 22</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Waystar</td>
       <td width="420" align="left" valign="top">Market Development Representative</td>
       <td width="180" align="left" valign="top">Louisville, KY</td>
@@ -2410,7 +2417,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-07-23T00:02:26.135Z</code>
+      🕒 Last updated <code>2026-07-23T00:10:50.248Z</code>
     </span>
   </p>
 </div>
