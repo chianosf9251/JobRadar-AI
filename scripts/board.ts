@@ -41,6 +41,22 @@ function isWithinMaxAge(job: Opportunity, referenceDate: Date): boolean {
   return ageMs <= MAX_AGE_DAYS * 24 * 60 * 60 * 1000;
 }
 
+function formatDate(value: string): string {
+  const date = new Date(value);
+
+  if (Number.isNaN(date.getTime())) return escapeHtml(value);
+
+  return date.toLocaleDateString("en-US", {
+    month: "long",
+    day: "numeric",
+    timeZone: "America/Los_Angeles",
+  });
+}
+
+function slugify(value: string): string {
+  return value.toLowerCase().replace(/[^a-z0-9]+/g, "-");
+}
+
 async function main() {
   const opportunities = await readNdjsonFile<Opportunity>(OPPORTUNITIES_PATH);
 
@@ -76,6 +92,8 @@ function buildPage(input: {
 }): string {
   const { opportunities, grouped, generatedAt } = input;
 
+  const filters = buildFilterBar(grouped);
+
   const sections =
     opportunities.length === 0
       ? `<p class="empty">No opportunities matched the current filters.</p>`
@@ -97,17 +115,42 @@ ${STYLE}
   <header>
     <h1>JobRadar AI 🚀</h1>
     <p class="sub">Fresh tech opportunities from ATS APIs, community lists, and AI-parsed job descriptions.</p>
-    <p class="meta">🕒 Last updated ${escapeHtml(generatedAt.toISOString())} &nbsp;•&nbsp; ${opportunities.length} opportunities</p>
+    <p class="meta">🕒 Last updated ${escapeHtml(generatedAt.toISOString())} &nbsp;•&nbsp; <span id="visible-count">${opportunities.length}</span> opportunities</p>
     <p class="meta"><a href="https://github.com/chianosf9251/JobRadar-AI">View the repo</a> — apply links here open in a new tab; the README on GitHub can't (GitHub strips that from rendered markdown).</p>
   </header>
+${filters}
 ${sections}
   <footer>
     <p>📦 Generated from <code>opportunities.ndjson</code></p>
   </footer>
 </main>
+${SCRIPT}
 </body>
 </html>
 `;
+}
+
+function buildFilterBar(grouped: Map<string, Opportunity[]>): string {
+  if (grouped.size === 0) return "";
+
+  const chips = Array.from(grouped.keys())
+    .map((category) => {
+      const slug = slugify(category);
+      const label = formatCategoryTitle(category);
+      const count = grouped.get(category)!.length;
+
+      return `      <label class="chip">
+        <input type="checkbox" data-category="${escapeHtml(slug)}" checked />
+        ${escapeHtml(label)} <span class="count">${count}</span>
+      </label>`;
+    })
+    .join("\n");
+
+  return `  <div class="filters" role="group" aria-label="Filter by job type">
+    <button type="button" id="filter-all">All</button>
+    <button type="button" id="filter-none">None</button>
+${chips}
+  </div>`;
 }
 
 function buildCategorySection(category: string, jobs: Opportunity[]): string {
@@ -123,11 +166,11 @@ function buildCategorySection(category: string, jobs: Opportunity[]): string {
     })
     .join("\n");
 
-  return `  <section>
+  return `  <section data-category="${escapeHtml(slugify(category))}">
     <h2>${escapeHtml(formatCategoryTitle(category))}</h2>
     <table>
       <thead>
-        <tr><th>Company</th><th>Role</th><th>Location</th><th>Link</th></tr>
+        <tr><th>Company</th><th>Role</th><th>Location</th><th>Date</th><th>Link</th></tr>
       </thead>
       <tbody>
 ${rows}
@@ -145,6 +188,7 @@ function buildRow(job: Opportunity, companyCell: string): string {
           <td>${escapeHtml(companyCell)}</td>
           <td>${escapeHtml(job.role)}${formatBadges(job.jd)}${tierLabel}</td>
           <td>${escapeHtml(formatLocation(job))}</td>
+          <td>${formatDate(job.postedAt)}</td>
           <td><a href="${escapeHtml(job.link)}" target="_blank" rel="noopener noreferrer">Apply</a></td>
         </tr>`;
 }
@@ -164,11 +208,18 @@ const STYLE = `<style>
   body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; margin: 0; padding: 2rem 1rem; background: #fff; color: #1f2328; }
   @media (prefers-color-scheme: dark) { body { background: #0d1117; color: #e6edf3; } }
   main { max-width: 960px; margin: 0 auto; }
-  header { margin-bottom: 2rem; }
+  header { margin-bottom: 1.5rem; }
   h1 { margin-bottom: 0.25rem; }
   .sub { opacity: 0.8; margin: 0.25rem 0; }
   .meta { font-size: 0.85rem; opacity: 0.65; margin: 0.25rem 0; }
+  .filters { display: flex; flex-wrap: wrap; gap: 0.5rem; align-items: center; margin-bottom: 2rem; padding: 0.75rem; border: 1px solid rgba(127,127,127,0.25); border-radius: 8px; }
+  .filters button { font-size: 0.8rem; padding: 0.3rem 0.6rem; border-radius: 6px; border: 1px solid rgba(127,127,127,0.35); background: transparent; color: inherit; cursor: pointer; }
+  .filters button:hover { background: rgba(127,127,127,0.1); }
+  .chip { display: inline-flex; align-items: center; gap: 0.3rem; font-size: 0.85rem; padding: 0.3rem 0.6rem; border-radius: 6px; background: rgba(127,127,127,0.08); cursor: pointer; user-select: none; }
+  .chip input { cursor: pointer; }
+  .chip .count { opacity: 0.55; font-size: 0.75rem; }
   section { margin-bottom: 2.5rem; }
+  section.hidden { display: none; }
   h2 { border-bottom: 1px solid rgba(127,127,127,0.3); padding-bottom: 0.4rem; }
   table { width: 100%; border-collapse: collapse; font-size: 0.9rem; }
   th, td { text-align: left; padding: 0.5rem 0.6rem; border-bottom: 1px solid rgba(127,127,127,0.15); vertical-align: top; }
@@ -182,6 +233,52 @@ const STYLE = `<style>
   footer { opacity: 0.6; font-size: 0.8rem; margin-top: 2rem; }
   .empty { opacity: 0.7; }
 </style>`;
+
+const SCRIPT = `<script>
+(function () {
+  var checkboxes = Array.prototype.slice.call(document.querySelectorAll(".chip input[data-category]"));
+  var sections = Array.prototype.slice.call(document.querySelectorAll("section[data-category]"));
+  var countEl = document.getElementById("visible-count");
+  var allBtn = document.getElementById("filter-all");
+  var noneBtn = document.getElementById("filter-none");
+
+  function apply() {
+    var active = {};
+    checkboxes.forEach(function (cb) {
+      if (cb.checked) active[cb.dataset.category] = true;
+    });
+
+    var visible = 0;
+    sections.forEach(function (section) {
+      var show = !!active[section.dataset.category];
+      section.classList.toggle("hidden", !show);
+      if (show) visible += section.querySelectorAll("tbody tr").length;
+    });
+
+    if (countEl) countEl.textContent = String(visible);
+  }
+
+  checkboxes.forEach(function (cb) {
+    cb.addEventListener("change", apply);
+  });
+
+  if (allBtn) {
+    allBtn.addEventListener("click", function () {
+      checkboxes.forEach(function (cb) { cb.checked = true; });
+      apply();
+    });
+  }
+
+  if (noneBtn) {
+    noneBtn.addEventListener("click", function () {
+      checkboxes.forEach(function (cb) { cb.checked = false; });
+      apply();
+    });
+  }
+
+  apply();
+})();
+</script>`;
 
 main().catch((error) => {
   console.error(error);
