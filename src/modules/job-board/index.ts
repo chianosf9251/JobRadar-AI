@@ -1,6 +1,6 @@
 import { CONFIG, JOB_CATEGORIES } from "@/constants";
 
-import type { JD, Opportunity } from "@/types/jobs";
+import type { JD, Opportunity, RelevanceTier } from "@/types/jobs";
 import type { Config } from "@/validation/config";
 
 import { isEligibleJD } from "@/modules/jd-analyzer";
@@ -155,6 +155,40 @@ export function formatLocation(job: Opportunity): string {
 
 export function normalizeCompany(value: string): string {
   return value.trim().replace(/\s+/g, " ");
+}
+
+// Most-relevant first, per the AI's relevanceTier judgment.
+export const TIER_ORDER: RelevanceTier[] = ["gpu-llm-inference", "mle", "swe-sde", "other"];
+
+export const TIER_LABELS: Record<RelevanceTier, string> = {
+  "gpu-llm-inference": "🚀 GPU / LLM Inference",
+  mle: "🧠 MLE",
+  "swe-sde": "⚙️ SWE / SDE",
+  other: "📦 Other",
+};
+
+export function getRelevanceTier(job: Opportunity): RelevanceTier {
+  return job.jd?.relevanceTier ?? "other";
+}
+
+export function groupByTier(opportunities: Opportunity[]): Map<RelevanceTier, Opportunity[]> {
+  const groups = new Map<RelevanceTier, Opportunity[]>();
+
+  for (const tier of TIER_ORDER) {
+    groups.set(tier, []);
+  }
+
+  for (const job of opportunities) {
+    groups.get(getRelevanceTier(job))!.push(job);
+  }
+
+  for (const tier of TIER_ORDER) {
+    if (groups.get(tier)!.length === 0) {
+      groups.delete(tier);
+    }
+  }
+
+  return groups;
 }
 
 function unique<T>(values: T[]): T[] {

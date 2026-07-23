@@ -10,7 +10,9 @@ import {
   formatLocation,
   getDisplayCategory,
   getMatchingOpportunities,
+  groupByTier,
   normalizeCompany,
+  TIER_LABELS,
 } from "@/modules/job-board";
 import { loadObsidianDigestState, readNdjsonFile, saveObsidianDigestState } from "@/utils/data";
 import { logger } from "@/utils/logger";
@@ -25,39 +27,8 @@ export const DIGEST_OUTPUT_PATH = path.join(ROOT, "data", "obsidian-digest.md");
 // currently matching opportunity into one note.
 const FIRST_RUN_LOOKBACK_MS = 24 * 60 * 60 * 1000;
 
-// Most-relevant first, per the AI's relevanceTier judgment.
-const TIER_ORDER: RelevanceTier[] = ["gpu-llm-inference", "mle", "swe-sde", "other"];
-
-const TIER_LABELS: Record<RelevanceTier, string> = {
-  "gpu-llm-inference": "🚀 GPU / LLM Inference",
-  mle: "🧠 MLE",
-  "swe-sde": "⚙️ SWE / SDE",
-  other: "📦 Other",
-};
-
 function escapeTableCell(value: string): string {
   return value.replace(/\|/g, "\\|").replace(/\n/g, " ");
-}
-
-function groupByTier(opportunities: Opportunity[]): Map<RelevanceTier, Opportunity[]> {
-  const groups = new Map<RelevanceTier, Opportunity[]>();
-
-  for (const tier of TIER_ORDER) {
-    groups.set(tier, []);
-  }
-
-  for (const job of opportunities) {
-    const tier = job.jd?.relevanceTier ?? "other";
-    groups.get(tier)!.push(job);
-  }
-
-  for (const tier of TIER_ORDER) {
-    if (groups.get(tier)!.length === 0) {
-      groups.delete(tier);
-    }
-  }
-
-  return groups;
 }
 
 function buildDigestTable(jobs: Opportunity[]): string[] {

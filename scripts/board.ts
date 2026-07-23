@@ -11,8 +11,11 @@ import {
   formatCategoryTitle,
   formatLocation,
   getMatchingOpportunities,
+  getRelevanceTier,
   groupByCategory,
+  groupByTier,
   normalizeCompany,
+  TIER_LABELS,
 } from "@/modules/job-board";
 import { readNdjsonFile } from "@/utils/data";
 import { escapeHtml } from "@/utils/html";
@@ -24,13 +27,6 @@ const OUTPUT_PATH = path.join(OUTPUT_DIR, "index.html");
 // opportunities.ndjson is append-only and never pruned, so without a cutoff the board
 // would grow forever. Same window as the README.
 const MAX_AGE_DAYS = 30;
-
-const TIER_LABELS: Record<RelevanceTier, string> = {
-  "gpu-llm-inference": "🚀 GPU / LLM Inference",
-  mle: "🧠 MLE",
-  "swe-sde": "⚙️ SWE / SDE",
-  other: "📦 Other",
-};
 
 function isWithinMaxAge(job: Opportunity, referenceDate: Date): boolean {
   const posted = new Date(job.postedAt);
@@ -69,11 +65,13 @@ async function main() {
   );
 
   const grouped = groupByCategory(eligibleOpportunities, categoryOrder);
+  const tierGrouped = groupByTier(eligibleOpportunities);
 
   const html = buildPage({
     config: CONFIG,
     opportunities: eligibleOpportunities,
     grouped,
+    tierGrouped,
     generatedAt,
   });
 
@@ -88,11 +86,13 @@ function buildPage(input: {
   config: Config;
   opportunities: Opportunity[];
   grouped: Map<string, Opportunity[]>;
+  tierGrouped: Map<RelevanceTier, Opportunity[]>;
   generatedAt: Date;
 }): string {
-  const { opportunities, grouped, generatedAt } = input;
+  const { opportunities, grouped, tierGrouped, generatedAt } = input;
 
-  const filters = buildFilterBar(grouped);
+  const categoryFilters = buildCategoryFilterBar(grouped);
+  const tierFilters = buildTierFilterBar(tierGrouped);
 
   const sections =
     opportunities.length === 0
@@ -118,7 +118,10 @@ ${STYLE}
     <p class="meta">🕒 Last updated ${escapeHtml(generatedAt.toISOString())} &nbsp;•&nbsp; <span id="visible-count">${opportunities.length}</span> opportunities</p>
     <p class="meta"><a href="https://github.com/chianosf9251/JobRadar-AI">View the repo</a> — apply links here open in a new tab; the README on GitHub can't (GitHub strips that from rendered markdown).</p>
   </header>
-${filters}
+  <button type="button" id="filter-all">All</button>
+  <button type="button" id="filter-none">None</button>
+${categoryFilters}
+${tierFilters}
 ${sections}
   <footer>
     <p>📦 Generated from <code>opportunities.ndjson</code></p>
@@ -130,7 +133,7 @@ ${SCRIPT}
 `;
 }
 
-function buildFilterBar(grouped: Map<string, Opportunity[]>): string {
+function buildCategoryFilterBar(grouped: Map<string, Opportunity[]>): string {
   if (grouped.size === 0) return "";
 
   const chips = Array.from(grouped.keys())
@@ -147,8 +150,27 @@ function buildFilterBar(grouped: Map<string, Opportunity[]>): string {
     .join("\n");
 
   return `  <div class="filters" role="group" aria-label="Filter by job type">
-    <button type="button" id="filter-all">All</button>
-    <button type="button" id="filter-none">None</button>
+    <span class="filters-label">Job type</span>
+${chips}
+  </div>`;
+}
+
+function buildTierFilterBar(grouped: Map<RelevanceTier, Opportunity[]>): string {
+  if (grouped.size === 0) return "";
+
+  const chips = Array.from(grouped.keys())
+    .map((tier) => {
+      const count = grouped.get(tier)!.length;
+
+      return `      <label class="chip">
+        <input type="checkbox" data-tier="${escapeHtml(tier)}" checked />
+        ${escapeHtml(TIER_LABELS[tier])} <span class="count">${count}</span>
+      </label>`;
+    })
+    .join("\n");
+
+  return `  <div class="filters" role="group" aria-label="Filter by relevance category">
+    <span class="filters-label">Category</span>
 ${chips}
   </div>`;
 }
@@ -180,11 +202,10 @@ ${rows}
 }
 
 function buildRow(job: Opportunity, companyCell: string): string {
-  const tierLabel = job.jd?.relevanceTier
-    ? ` <span class="tier">${TIER_LABELS[job.jd.relevanceTier]}</span>`
-    : "";
+  const tier = getRelevanceTier(job);
+  const tierLabel = job.jd?.relevanceTier ? ` <span class="tier">${TIER_LABELS[tier]}</span>` : "";
 
-  return `        <tr>
+  return `        <tr data-tier="${escapeHtml(tier)}">
           <td>${escapeHtml(companyCell)}</td>
           <td>${escapeHtml(job.role)}${formatBadges(job.jd)}${tierLabel}</td>
           <td>${escapeHtml(formatLocation(job))}</td>
@@ -212,14 +233,16 @@ const STYLE = `<style>
   h1 { margin-bottom: 0.25rem; }
   .sub { opacity: 0.8; margin: 0.25rem 0; }
   .meta { font-size: 0.85rem; opacity: 0.65; margin: 0.25rem 0; }
-  .filters { display: flex; flex-wrap: wrap; gap: 0.5rem; align-items: center; margin-bottom: 2rem; padding: 0.75rem; border: 1px solid rgba(127,127,127,0.25); border-radius: 8px; }
-  .filters button { font-size: 0.8rem; padding: 0.3rem 0.6rem; border-radius: 6px; border: 1px solid rgba(127,127,127,0.35); background: transparent; color: inherit; cursor: pointer; }
-  .filters button:hover { background: rgba(127,127,127,0.1); }
+  #filter-all, #filter-none { font-size: 0.8rem; padding: 0.3rem 0.6rem; border-radius: 6px; border: 1px solid rgba(127,127,127,0.35); background: transparent; color: inherit; cursor: pointer; margin-bottom: 0.75rem; }
+  #filter-all:hover, #filter-none:hover { background: rgba(127,127,127,0.1); }
+  .filters { display: flex; flex-wrap: wrap; gap: 0.5rem; align-items: center; margin-bottom: 0.75rem; padding: 0.75rem; border: 1px solid rgba(127,127,127,0.25); border-radius: 8px; }
+  .filters-label { font-size: 0.75rem; opacity: 0.55; text-transform: uppercase; letter-spacing: 0.04em; margin-right: 0.25rem; }
   .chip { display: inline-flex; align-items: center; gap: 0.3rem; font-size: 0.85rem; padding: 0.3rem 0.6rem; border-radius: 6px; background: rgba(127,127,127,0.08); cursor: pointer; user-select: none; }
   .chip input { cursor: pointer; }
   .chip .count { opacity: 0.55; font-size: 0.75rem; }
-  section { margin-bottom: 2.5rem; }
+  section { margin-bottom: 2.5rem; margin-top: 2rem; }
   section.hidden { display: none; }
+  tr.hidden { display: none; }
   h2 { border-bottom: 1px solid rgba(127,127,127,0.3); padding-bottom: 0.4rem; }
   table { width: 100%; border-collapse: collapse; font-size: 0.9rem; }
   th, td { text-align: left; padding: 0.5rem 0.6rem; border-bottom: 1px solid rgba(127,127,127,0.15); vertical-align: top; }
@@ -236,42 +259,59 @@ const STYLE = `<style>
 
 const SCRIPT = `<script>
 (function () {
-  var checkboxes = Array.prototype.slice.call(document.querySelectorAll(".chip input[data-category]"));
+  var categoryCheckboxes = Array.prototype.slice.call(document.querySelectorAll(".chip input[data-category]"));
+  var tierCheckboxes = Array.prototype.slice.call(document.querySelectorAll(".chip input[data-tier]"));
+  var allCheckboxes = categoryCheckboxes.concat(tierCheckboxes);
   var sections = Array.prototype.slice.call(document.querySelectorAll("section[data-category]"));
   var countEl = document.getElementById("visible-count");
   var allBtn = document.getElementById("filter-all");
   var noneBtn = document.getElementById("filter-none");
 
-  function apply() {
+  function activeSet(checkboxes, attr) {
     var active = {};
     checkboxes.forEach(function (cb) {
-      if (cb.checked) active[cb.dataset.category] = true;
+      if (cb.checked) active[cb.dataset[attr]] = true;
     });
+    return active;
+  }
+
+  function apply() {
+    var activeCategories = activeSet(categoryCheckboxes, "category");
+    var activeTiers = activeSet(tierCheckboxes, "tier");
 
     var visible = 0;
     sections.forEach(function (section) {
-      var show = !!active[section.dataset.category];
-      section.classList.toggle("hidden", !show);
-      if (show) visible += section.querySelectorAll("tbody tr").length;
+      var categoryOn = !!activeCategories[section.dataset.category];
+      var rows = Array.prototype.slice.call(section.querySelectorAll("tbody tr"));
+      var sectionVisible = 0;
+
+      rows.forEach(function (row) {
+        var show = categoryOn && !!activeTiers[row.dataset.tier];
+        row.classList.toggle("hidden", !show);
+        if (show) sectionVisible++;
+      });
+
+      section.classList.toggle("hidden", sectionVisible === 0);
+      visible += sectionVisible;
     });
 
     if (countEl) countEl.textContent = String(visible);
   }
 
-  checkboxes.forEach(function (cb) {
+  allCheckboxes.forEach(function (cb) {
     cb.addEventListener("change", apply);
   });
 
   if (allBtn) {
     allBtn.addEventListener("click", function () {
-      checkboxes.forEach(function (cb) { cb.checked = true; });
+      allCheckboxes.forEach(function (cb) { cb.checked = true; });
       apply();
     });
   }
 
   if (noneBtn) {
     noneBtn.addEventListener("click", function () {
-      checkboxes.forEach(function (cb) { cb.checked = false; });
+      allCheckboxes.forEach(function (cb) { cb.checked = false; });
       apply();
     });
   }
