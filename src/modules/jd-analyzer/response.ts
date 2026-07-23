@@ -17,6 +17,7 @@ export function normalizeJD(response: JDResponse): JD {
     qualifications: response.qualifications,
     category: response.category,
     season: response.season,
+    relevant: response.relevant,
   };
 }
 

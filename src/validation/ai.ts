@@ -11,6 +11,7 @@ export const JDResponseSchema = z.object({
   qualifications: z.array(z.string()),
   category: z.enum(JOB_CATEGORIES),
   season: z.enum(SEASONS),
+  relevant: z.boolean(),
 });
 
 export type JDResponse = z.infer<typeof JDResponseSchema>;

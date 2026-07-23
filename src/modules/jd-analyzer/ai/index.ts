@@ -1,4 +1,4 @@
-import { JOB_CATEGORIES } from "@/constants";
+import { CONFIG, JOB_CATEGORIES } from "@/constants";
 import { COUNTRIES } from "@/constants";
 import { RED_CROSS } from "@/constants/log";
 import { SEASON_VALUES } from "@/constants/season";
@@ -44,6 +44,10 @@ const JD_PROPERTIES: Record<keyof JD, unknown> = {
     type: "string",
     enum: SEASON_VALUES,
   },
+
+  relevant: {
+    type: "boolean",
+  },
 };
 
 const JD_REQUIRED = [
@@ -54,6 +58,7 @@ const JD_REQUIRED = [
   "location",
   "category",
   "season",
+  "relevant",
 ] satisfies Array<keyof JD>;
 
 const JD_SCHEMA = {
@@ -75,6 +80,8 @@ export default async function analyzeJD(context: string): Promise<AIResponse> {
       COUNTRIES: toBulletList(COUNTRIES),
       JOB_CATEGORIES: toBulletList(JOB_CATEGORIES),
       SEASONS: toBulletList(SEASON_VALUES),
+      TARGET_KEYWORDS: toBulletList(CONFIG.target.keywords ?? []),
+      EXCLUDE_KEYWORDS: toBulletList(CONFIG.target.excludeKeywords ?? []),
     });
 
     const response = await callAIModel(prompt, JD_SCHEMA);

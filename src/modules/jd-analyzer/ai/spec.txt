@@ -225,6 +225,32 @@ If category is "entry level", "mid level", or "senior level":
 
 Never return a season that is not listed in the supported seasons.
 
+8. relevant
+
+Determine whether this role genuinely matches the target domain, based on reading and
+understanding the actual responsibilities and qualifications in the JD text — not by
+matching keywords in the title alone. A role can be relevant even if its title doesn't
+contain any of the target keywords, and a role can be irrelevant even if its title happens
+to contain one of them.
+
+Relevant keywords (at least 1 required — the JD's actual responsibilities and
+qualifications must genuinely connect to at least one of these, not just the title):
+@@TARGET_KEYWORDS@@
+
+The role should NOT be primarily about (even if it touches on target concepts tangentially):
+@@EXCLUDE_KEYWORDS@@
+
+Return true if the role's core responsibilities genuinely match the target domain.
+Return false if the role is primarily about one of the excluded areas, or is clearly
+outside the target domain (e.g. sales, finance, HR, marketing, unrelated hardware/retail
+roles, etc.).
+
+If the JD is ambiguous or you are genuinely unsure, default to true — it is better to
+surface a borderline match for a human to quickly skip than to silently drop a good one.
+
+If no target keywords are listed above, judge relevance based on general software
+engineering / technical relevance instead.
+
 ---BEGIN JD TEXT---
 @@CONTEXT@@
 ---END JD TEXT---

@@ -10,6 +10,7 @@ const validResponse = {
   qualifications: ["TypeScript"],
   category: "entry level",
   season: "None",
+  relevant: true,
 };
 
 describe("parseAIJDResult", () => {

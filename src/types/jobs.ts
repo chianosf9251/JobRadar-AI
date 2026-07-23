@@ -14,6 +14,10 @@ export interface JD {
   // if category is entry level, mid level, or senior level, season is none
   // if season is not found, return none
   season: Season;
+  // true if the JD genuinely matches the configured target domain (target.keywords /
+  // target.excludeKeywords), judged by reading the full JD text rather than title
+  // substring matching. Second-layer filter on top of the pre-AI keyword filter.
+  relevant: boolean;
 }
 
 export interface Job {

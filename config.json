@@ -83,7 +83,19 @@
       "training infrastructure",
       "runtime",
       "accelerator",
-      "parallel computing"
+      "parallel computing",
+      "llm inference",
+      "ai inference",
+      "flashattention",
+      "flash attention",
+      "vllm",
+      "sglang",
+      "flashinfer",
+      "gpu programming",
+      "inference engine",
+      "ai accelerator",
+      "attention kernel",
+      "gemm"
     ],
     "excludeKeywords": [
       "web",
@@ -111,7 +123,8 @@
       "leadership",
       "data",
       "quality",
-      "bank"
+      "bank",
+      "ecosystem"
     ],
     "internYear": 2027
   },

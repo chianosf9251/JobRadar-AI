@@ -43,6 +43,13 @@ export function isEligibleJD(jd: JD) {
     return [false, `${jd.category} is not in the allowed categories`];
   }
 
+  // Second-layer filter: the pre-AI keyword filter is a cheap cost gate on the title only,
+  // so it can both miss genuinely relevant roles and let through irrelevant ones. This is
+  // the AI's judgment after actually reading the JD, and is the real authority on relevance.
+  if (jd.relevant === false) {
+    return [false, "AI judged this role not relevant to the target domain"];
+  }
+
   const internCategories = new Set<string>([
     JobCategory.SUMMER_INTERN,
     JobCategory.OFF_SEASON_INTERN,

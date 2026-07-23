@@ -16,12 +16,15 @@ function escapeRegExp(value: string): string {
 /**
  * Builds a case-insensitive whole-word/phrase matcher. Plain substring matching breaks
  * for short keywords (e.g. "UI" would match inside "Build", "Guide", "Require", "Liquid"),
- * so each keyword is matched at word boundaries instead.
+ * so each keyword is matched at letter-boundaries instead. Regex `\b` isn't used here because
+ * it treats digits as word characters, so `\bpower\b` would miss "Power2 Management Program".
  */
 export function buildKeywordMatcher(keywords: string[]): (text: string) => boolean {
   if (keywords.length === 0) return () => false;
 
-  const patterns = keywords.map((keyword) => new RegExp(`\\b${escapeRegExp(keyword)}\\b`, "i"));
+  const patterns = keywords.map(
+    (keyword) => new RegExp(`(?<![a-zA-Z])${escapeRegExp(keyword)}(?![a-zA-Z])`, "i")
+  );
   return (text: string) => patterns.some((pattern) => pattern.test(text));
 }
 
