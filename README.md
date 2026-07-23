@@ -2374,13 +2374,6 @@
       <td width="120" align="left" valign="top"><a href="https://www.google.com/about/careers/applications/jobs/results/131330438437184198-design-verification-engineer-tpu-cloud-compute?sort_by=date&amp;page=3" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
       <td width="100" align="left" valign="top">June 23</td>
     </tr>
-    <tr>
-      <td width="180" align="left" valign="top">Intel</td>
-      <td width="420" align="left" valign="top">Software Engineer</td>
-      <td width="180" align="left" valign="top">Phoenix, AZ</td>
-      <td width="120" align="left" valign="top"><a href="https://intel.wd1.myworkdayjobs.com/external/job/US-Arizona-Phoenix/Software-Engineer_JR0285009" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">June 22</td>
-    </tr>
   </tbody>
 </table>
 
@@ -2403,7 +2396,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-07-23T00:19:25.319Z</code>
+      🕒 Last updated <code>2026-07-23T02:21:26.694Z</code>
     </span>
   </p>
 </div>
