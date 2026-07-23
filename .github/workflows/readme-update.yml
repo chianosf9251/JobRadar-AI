@@ -50,21 +50,47 @@ jobs:
         id: update-readme
         run: pnpm update-readme
 
-      # ✅ Commit README changes
+      # ✅ Commit README/ARCHIVE changes
       - name: Commit README changes
         env:
           PAT: ${{ secrets.PAT }}
         run: |
-          if git diff --quiet README.md; then
-            echo "No README changes to commit."
+          if git diff --quiet README.md ARCHIVE.md; then
+            echo "No README/ARCHIVE changes to commit."
             exit 0
           fi
 
           git config user.name "actions-bot"
           git config user.email "actions@github.com"
 
-          git add README.md
+          git add README.md ARCHIVE.md
           git commit -m "docs: update README job board"
 
           git remote set-url origin "https://x-access-token:${PAT}@github.com/${{ github.repository }}.git"
-          git push origin HEAD:${{ github.ref_name }}
+
+          # README.md/ARCHIVE.md are fully regenerated (including a timestamp), so a plain
+          # rebase would conflict on nearly every retry. Instead, on a rejected push, reset
+          # to the latest remote tip, regenerate fresh, and recommit — rather than trying to
+          # reconcile two different generated timestamps.
+          attempt=1
+          max_attempts=5
+          until git push origin HEAD:${{ github.ref_name }}; do
+            if [ "$attempt" -ge "$max_attempts" ]; then
+              echo "::error::Failed to push after $max_attempts attempts"
+              exit 1
+            fi
+            echo "Push rejected (attempt $attempt/$max_attempts), regenerating against latest and retrying..."
+            attempt=$((attempt + 1))
+            git fetch origin ${{ github.ref_name }}
+            git reset --hard origin/${{ github.ref_name }}
+            pnpm update-readme
+
+            if git diff --quiet README.md ARCHIVE.md; then
+              echo "No README/ARCHIVE changes to commit after regenerating against latest."
+              exit 0
+            fi
+
+            git add README.md ARCHIVE.md
+            git commit -m "docs: update README job board"
+            sleep $(( (RANDOM % 5) + 1 ))
+          done

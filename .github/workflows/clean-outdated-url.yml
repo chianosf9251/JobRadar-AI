@@ -55,4 +55,21 @@ jobs:
           git commit -m "chore(clean-outdated-url): clean outdated url"
 
           git remote set-url origin "https://x-access-token:${PAT}@github.com/${{ github.repository }}.git"
-          git push origin HEAD:${{ github.ref_name }}
+
+          attempt=1
+          max_attempts=5
+          until git push origin HEAD:${{ github.ref_name }}; do
+            if [ "$attempt" -ge "$max_attempts" ]; then
+              echo "::error::Failed to push after $max_attempts attempts"
+              exit 1
+            fi
+            echo "Push rejected (attempt $attempt/$max_attempts), rebasing onto latest and retrying..."
+            attempt=$((attempt + 1))
+            git fetch origin ${{ github.ref_name }}
+            if ! git rebase origin/${{ github.ref_name }}; then
+              echo "::error::Rebase conflict, aborting"
+              git rebase --abort
+              exit 1
+            fi
+            sleep $(( (RANDOM % 5) + 1 ))
+          done

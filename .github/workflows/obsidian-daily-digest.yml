@@ -76,7 +76,24 @@ jobs:
           git config user.email "actions@github.com"
           git add "2 Areas/Career/Job Market/JobRadar-AI/${DATE_LABEL}.md"
           git commit -m "job market: ${DATE_LABEL} digest"
-          git push origin HEAD:main
+
+          attempt=1
+          max_attempts=5
+          until git push origin HEAD:main; do
+            if [ "$attempt" -ge "$max_attempts" ]; then
+              echo "::error::Failed to push digest after $max_attempts attempts"
+              exit 1
+            fi
+            echo "Push rejected (attempt $attempt/$max_attempts), rebasing onto latest and retrying..."
+            attempt=$((attempt + 1))
+            git fetch origin main
+            if ! git rebase origin/main; then
+              echo "::error::Rebase conflict pushing digest, aborting"
+              git rebase --abort
+              exit 1
+            fi
+            sleep $(( (RANDOM % 5) + 1 ))
+          done
 
       # ✅ Persist the digest cursor so tomorrow only picks up what's new
       - name: Commit digest state
@@ -91,5 +108,22 @@ jobs:
             git commit -m "chore(obsidian): update digest state"
 
             git remote set-url origin "https://x-access-token:${PAT}@github.com/${{ github.repository }}.git"
-            git push origin HEAD:${{ github.ref_name }}
+
+            attempt=1
+            max_attempts=5
+            until git push origin HEAD:${{ github.ref_name }}; do
+              if [ "$attempt" -ge "$max_attempts" ]; then
+                echo "::error::Failed to push digest state after $max_attempts attempts"
+                exit 1
+              fi
+              echo "Push rejected (attempt $attempt/$max_attempts), rebasing onto latest and retrying..."
+              attempt=$((attempt + 1))
+              git fetch origin ${{ github.ref_name }}
+              if ! git rebase origin/${{ github.ref_name }}; then
+                echo "::error::Rebase conflict, aborting"
+                git rebase --abort
+                exit 1
+              fi
+              sleep $(( (RANDOM % 5) + 1 ))
+            done
           fi
