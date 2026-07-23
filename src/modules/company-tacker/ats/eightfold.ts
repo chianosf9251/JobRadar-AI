@@ -66,11 +66,32 @@ export class EightfoldFetcher extends ATSFetcher<EightfoldJob> {
       `${identifier}.com`;
 
     let page = `${url.origin}/api/pcsx/search?domain=${domain}`;
-    const response = await fetch(page);
-    const data = (await response.json()) as { message?: string };
 
-    if (data.message === "PCSX is not enabled for this user.") {
-      page = `${url.origin}/api/apply/v2/jobs?domain=${domain}`;
+    try {
+      const response = await fetch(page, {
+        headers: {
+          accept: "application/json, text/plain, */*",
+          "accept-language": "en-US,en;q=0.9",
+          "user-agent":
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        },
+      });
+
+      if (response.ok) {
+        const data = (await response.json()) as { message?: string };
+
+        if (data.message === "PCSX is not enabled for this user.") {
+          page = `${url.origin}/api/apply/v2/jobs?domain=${domain}`;
+        }
+      }
+    } catch (error) {
+      // Some Eightfold instances block or rate-limit this detection request with a
+      // non-JSON response (e.g. a WAF page). Fall back to the default pcsx endpoint
+      // rather than failing company resolution entirely.
+      logger.warn(
+        { err: error, url: page },
+        "⚠️ Could not detect Eightfold API variant, defaulting to pcsx"
+      );
     }
 
     return {
