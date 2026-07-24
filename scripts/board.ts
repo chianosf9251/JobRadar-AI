@@ -53,6 +53,12 @@ function slugify(value: string): string {
   return value.toLowerCase().replace(/[^a-z0-9]+/g, "-");
 }
 
+function toDateInputValue(value: string): string {
+  const date = new Date(value);
+  if (Number.isNaN(date.getTime())) return "";
+  return date.toISOString().slice(0, 10);
+}
+
 async function main() {
   const opportunities = await readNdjsonFile<Opportunity>(OPPORTUNITIES_PATH);
 
@@ -120,6 +126,12 @@ ${STYLE}
   </header>
   <button type="button" id="filter-all">All</button>
   <button type="button" id="filter-none">None</button>
+  <div class="filters" role="group" aria-label="Filter by posted date">
+    <span class="filters-label">Posted</span>
+    <label class="date-field">From <input type="date" id="date-from" /></label>
+    <label class="date-field">To <input type="date" id="date-to" /></label>
+    <button type="button" id="date-clear">Clear</button>
+  </div>
 ${categoryFilters}
 ${tierFilters}
 ${sections}
@@ -205,7 +217,7 @@ function buildRow(job: Opportunity, companyCell: string): string {
   const tier = getRelevanceTier(job);
   const tierLabel = job.jd?.relevanceTier ? ` <span class="tier">${TIER_LABELS[tier]}</span>` : "";
 
-  return `        <tr data-tier="${escapeHtml(tier)}">
+  return `        <tr data-tier="${escapeHtml(tier)}" data-posted="${escapeHtml(toDateInputValue(job.postedAt))}">
           <td>${escapeHtml(companyCell)}</td>
           <td>${escapeHtml(job.role)}${formatBadges(job.jd)}${tierLabel}</td>
           <td>${escapeHtml(formatLocation(job))}</td>
@@ -237,6 +249,10 @@ const STYLE = `<style>
   #filter-all:hover, #filter-none:hover { background: rgba(127,127,127,0.1); }
   .filters { display: flex; flex-wrap: wrap; gap: 0.5rem; align-items: center; margin-bottom: 0.75rem; padding: 0.75rem; border: 1px solid rgba(127,127,127,0.25); border-radius: 8px; }
   .filters-label { font-size: 0.75rem; opacity: 0.55; text-transform: uppercase; letter-spacing: 0.04em; margin-right: 0.25rem; }
+  .date-field { display: inline-flex; align-items: center; gap: 0.35rem; font-size: 0.85rem; }
+  .date-field input { font: inherit; color: inherit; background: transparent; border: 1px solid rgba(127,127,127,0.35); border-radius: 6px; padding: 0.2rem 0.4rem; }
+  #date-clear { font-size: 0.8rem; padding: 0.3rem 0.6rem; border-radius: 6px; border: 1px solid rgba(127,127,127,0.35); background: transparent; color: inherit; cursor: pointer; }
+  #date-clear:hover { background: rgba(127,127,127,0.1); }
   .chip { display: inline-flex; align-items: center; gap: 0.3rem; font-size: 0.85rem; padding: 0.3rem 0.6rem; border-radius: 6px; background: rgba(127,127,127,0.08); cursor: pointer; user-select: none; }
   .chip input { cursor: pointer; }
   .chip .count { opacity: 0.55; font-size: 0.75rem; }
@@ -266,6 +282,9 @@ const SCRIPT = `<script>
   var countEl = document.getElementById("visible-count");
   var allBtn = document.getElementById("filter-all");
   var noneBtn = document.getElementById("filter-none");
+  var dateFrom = document.getElementById("date-from");
+  var dateTo = document.getElementById("date-to");
+  var dateClearBtn = document.getElementById("date-clear");
 
   function activeSet(checkboxes, attr) {
     var active = {};
@@ -278,6 +297,8 @@ const SCRIPT = `<script>
   function apply() {
     var activeCategories = activeSet(categoryCheckboxes, "category");
     var activeTiers = activeSet(tierCheckboxes, "tier");
+    var fromValue = dateFrom && dateFrom.value ? dateFrom.value : null;
+    var toValue = dateTo && dateTo.value ? dateTo.value : null;
 
     var visible = 0;
     sections.forEach(function (section) {
@@ -286,7 +307,9 @@ const SCRIPT = `<script>
       var sectionVisible = 0;
 
       rows.forEach(function (row) {
-        var show = categoryOn && !!activeTiers[row.dataset.tier];
+        var posted = row.dataset.posted || "";
+        var dateOk = (!fromValue || !posted || posted >= fromValue) && (!toValue || !posted || posted <= toValue);
+        var show = categoryOn && !!activeTiers[row.dataset.tier] && dateOk;
         row.classList.toggle("hidden", !show);
         if (show) sectionVisible++;
       });
@@ -301,6 +324,18 @@ const SCRIPT = `<script>
   allCheckboxes.forEach(function (cb) {
     cb.addEventListener("change", apply);
   });
+
+  [dateFrom, dateTo].forEach(function (input) {
+    if (input) input.addEventListener("change", apply);
+  });
+
+  if (dateClearBtn) {
+    dateClearBtn.addEventListener("click", function () {
+      if (dateFrom) dateFrom.value = "";
+      if (dateTo) dateTo.value = "";
+      apply();
+    });
+  }
 
   if (allBtn) {
     allBtn.addEventListener("click", function () {
