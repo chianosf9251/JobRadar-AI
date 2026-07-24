@@ -50,13 +50,17 @@ export const GreenhouseJobSchema = z.object({
   absolute_url: z.string(),
   first_published: z.string().nullish(),
   updated_at: z.string(),
-  location: z.object({ name: z.string() }).optional(),
+  // .nullish() (not .optional()) because Greenhouse sometimes sends `"location": null`
+  // for a posting rather than omitting the key — .optional() alone rejects that.
+  location: z.object({ name: z.string() }).nullish(),
 });
 
 export type GreenhouseJob = z.infer<typeof GreenhouseJobSchema>;
 
+// jobs is validated per-entry in getJobsFromResponse, not as a single array, so one
+// malformed posting doesn't sink every other valid posting in the same response.
 export const GreenhouseResponseSchema = z.object({
-  jobs: z.array(GreenhouseJobSchema),
+  jobs: z.array(z.unknown()),
 });
 
 export class GreenhouseFetcher extends ATSFetcher<GreenhouseJob> {
@@ -135,7 +139,23 @@ export class GreenhouseFetcher extends ATSFetcher<GreenhouseJob> {
       return [];
     }
 
-    return parsed.data.jobs;
+    const jobs: GreenhouseJob[] = [];
+
+    for (const rawJob of parsed.data.jobs) {
+      const jobParsed = GreenhouseJobSchema.safeParse(rawJob);
+
+      if (!jobParsed.success) {
+        logger.warn(
+          { job: rawJob, issues: jobParsed.error.issues },
+          `${RED_CROSS} Skipping invalid Greenhouse job entry`
+        );
+        continue;
+      }
+
+      jobs.push(jobParsed.data);
+    }
+
+    return jobs;
   }
 
   protected getJobLink(job: GreenhouseJob, _company: Company): string {
