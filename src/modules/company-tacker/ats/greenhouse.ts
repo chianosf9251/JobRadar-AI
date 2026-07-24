@@ -51,8 +51,9 @@ export const GreenhouseJobSchema = z.object({
   first_published: z.string().nullish(),
   updated_at: z.string(),
   // .nullish() (not .optional()) because Greenhouse sometimes sends `"location": null`
-  // for a posting rather than omitting the key — .optional() alone rejects that.
-  location: z.object({ name: z.string() }).nullish(),
+  // for a posting rather than omitting the key — .optional() alone rejects that. Same
+  // for `name` within it: Greenhouse can send `{ "location": { "name": null } }`.
+  location: z.object({ name: z.string().nullish() }).nullish(),
 });
 
 export type GreenhouseJob = z.infer<typeof GreenhouseJobSchema>;
