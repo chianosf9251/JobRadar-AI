@@ -11,7 +11,11 @@ permissions:
   actions: write
 
 concurrency:
-  group: ats-discovery
+  # Shared with every workflow that writes to data/company.json, opportunities.ndjson,
+  # or urls.json — running two of these at once can produce a real, unrebasable content
+  # conflict (both appending different new data at the same point), not just a trivial
+  # divergence. Serializing them queues instead of racing.
+  group: jobradar-data-write
   cancel-in-progress: false
 
 jobs:

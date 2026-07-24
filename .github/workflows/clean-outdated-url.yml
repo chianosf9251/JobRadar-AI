@@ -10,6 +10,12 @@ permissions:
   contents: write
   actions: write
 
+concurrency:
+  # Shared with every workflow that writes to data/company.json, opportunities.ndjson,
+  # or urls.json — see ats-discovery.yml for why.
+  group: jobradar-data-write
+  cancel-in-progress: false
+
 jobs:
   clean-outdated-url:
     runs-on: ubuntu-latest

@@ -62,6 +62,21 @@ export class HttpStatusCode {
 
 export const NETWORK_ERROR_CODE = 0;
 
+/**
+ * A definitive 4xx (excluding 429 rate-limiting) means the posting is gone — safe to
+ * treat as dead. Network errors and 5xx are left alone as transient/inconclusive, since
+ * a temporarily-down site isn't proof the listing was actually taken down.
+ *
+ * Note this can't detect every dead posting: some ATS platforms (e.g. Workday) serve a
+ * client-rendered SPA shell that always returns 200 even for closed jobs — the "not
+ * found" state only appears after JS runs in a browser, which a plain HTTP check can't
+ * see. Their JSON API endpoints are more reliable, but may still return non-4xx statuses
+ * (e.g. 403) for expired postings depending on the tenant.
+ */
+export function isDeadLinkError(code: HttpStatus | typeof NETWORK_ERROR_CODE): boolean {
+  return code !== NETWORK_ERROR_CODE && HttpStatusCode.isError(code) && code < 500;
+}
+
 export type HttpStatus = number;
 
 export interface JDFetchStatus {

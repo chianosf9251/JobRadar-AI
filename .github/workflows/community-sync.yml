@@ -11,7 +11,9 @@ permissions:
   actions: write
 
 concurrency:
-  group: community-sync
+  # Shared with every workflow that writes to data/company.json, opportunities.ndjson,
+  # or urls.json — see ats-discovery.yml for why.
+  group: jobradar-data-write
   cancel-in-progress: false
 
 jobs:

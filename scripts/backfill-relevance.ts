@@ -6,20 +6,13 @@ import { RED_CROSS } from "@/constants/log";
 import type { JD, Opportunity } from "@/types/jobs";
 
 import getJD from "@/modules/jd-analyzer";
-import { HttpStatusCode, NETWORK_ERROR_CODE } from "@/modules/jd-analyzer/ats";
+import { isDeadLinkError } from "@/modules/jd-analyzer/ats";
 import { getMatchingOpportunities } from "@/modules/job-board";
 import { readNdjsonFile, saveOpportunities } from "@/utils/data";
 import { renderProgress } from "@/utils/dev";
 import { logger } from "@/utils/logger";
 
 const CONCURRENCY = 5;
-
-function isDeadLink(code: number): boolean {
-  // A definitive 4xx (excluding 429 rate-limiting) means the posting is gone — safe to
-  // prune. Network errors and 5xx are treated as transient/inconclusive and left alone,
-  // since a temporarily-down site isn't proof the listing was actually taken down.
-  return code !== NETWORK_ERROR_CODE && HttpStatusCode.isError(code) && code < 500;
-}
 
 // One-time backfill for opportunities analyzed before the relevant/relevanceTier fields
 // existed. Only re-analyzes postings that already pass the current filters (country,
@@ -59,7 +52,7 @@ async function main() {
           return;
         }
 
-        if (isDeadLink(result.error.code)) {
+        if (isDeadLinkError(result.error.code)) {
           deadLinks.add(job.link);
           dead++;
           logger.info(
