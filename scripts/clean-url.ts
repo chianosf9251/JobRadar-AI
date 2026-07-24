@@ -1,90 +1,67 @@
 import pLimit from "p-limit";
 
+import { OPPORTUNITIES_PATH } from "@/constants";
 import { GREEN_CHECKMARK, RED_CROSS } from "@/constants/log";
 
-import { buildCompanyList } from "@/modules/company-tacker/company";
-import { isTarget } from "@/modules/company-tacker/utils";
+import type { Opportunity } from "@/types/jobs";
+
 import { getRawJD } from "@/modules/jd-analyzer";
-import { HttpStatusCode, isDeadLinkError } from "@/modules/jd-analyzer/ats/fetch";
-import { loadOpportunities, loadUrls, saveOpportunities } from "@/utils/data";
-import { saveUrls } from "@/utils/data";
+import { isDeadLinkError } from "@/modules/jd-analyzer/ats/fetch";
+import { getMatchingOpportunities } from "@/modules/job-board";
+import { readNdjsonFile, saveOpportunities } from "@/utils/data";
 import { renderProgress } from "@/utils/dev";
 import { logger } from "@/utils/logger";
 
 const CONCURRENCY = 20;
 
+// Only re-validate links that are actually displayed (README/web board/Obsidian digest
+// all derive from getMatchingOpportunities). urls.json accumulates every URL ever seen —
+// tens of thousands — but the vast majority already failed eligibility/relevance and are
+// never shown anywhere, so checking them is pure wasted network time. This also means
+// urls.json itself is left untouched: there's no real benefit to pruning it (its only
+// job is "don't re-process the same URL twice"), and rewriting it wholesale was the
+// reason this script kept losing races with other data-writing workflows.
 async function main() {
-  const sent = await loadUrls();
-  const urls = Array.from(sent);
+  const opportunities = await readNdjsonFile<Opportunity>(OPPORTUNITIES_PATH);
+  const matching = getMatchingOpportunities(opportunities);
 
-  const opportunities = await loadOpportunities();
-
-  const untargetedUrls = new Set<string>();
-  for (const job of opportunities) {
-    if (!isTarget(job.role)) {
-      untargetedUrls.add(job.link);
-    }
-  }
+  logger.info({ count: matching.length }, "🔍 Checking displayed postings for dead links");
 
   const limit = pLimit(CONCURRENCY);
   let completed = 0;
-  const total = urls.length;
-
   const deadUrls = new Set<string>();
-  const validUrls: string[] = [];
 
   await Promise.all(
-    urls.map((url) =>
+    matching.map((job) =>
       limit(async () => {
-        const { error } = await getRawJD(url, AbortSignal.timeout(5 * 60 * 1000));
+        const { error } = await getRawJD(job.link, AbortSignal.timeout(5 * 60 * 1000));
 
         completed++;
-        renderProgress(completed, total);
+        renderProgress(completed, matching.length);
 
-        if (untargetedUrls.has(url)) {
-          return;
-        }
-
-        // Definitively dead (404/410/etc, not just transient): drop from urls.json too,
-        // so opportunities.ndjson stays in sync with what's actually still live.
         if (isDeadLinkError(error.code)) {
-          deadUrls.add(url);
-          return;
+          deadUrls.add(job.link);
         }
-
-        if (!HttpStatusCode.isOk(error.code)) {
-          console.error({ url, error }, `${RED_CROSS} Error fetching JD`);
-        }
-
-        validUrls.push(url);
       })
     )
   );
 
   console.log(
-    { validUrls: validUrls.length, deadUrls: deadUrls.size, untargeted: untargetedUrls.size },
+    { checked: matching.length, dead: deadUrls.size },
     `${GREEN_CHECKMARK} Successfully cleaned urls`
   );
 
-  await saveUrls(new Set(validUrls));
+  if (deadUrls.size === 0) {
+    return;
+  }
 
-  // Previously only urls.json was pruned here — opportunities.ndjson (what the README,
-  // web board, and Obsidian digest are actually generated from) never lost dead/untargeted
-  // postings, so they stayed visible indefinitely even after being confirmed gone.
-  const keptOpportunities = opportunities.filter(
-    (job) => !untargetedUrls.has(job.link) && !deadUrls.has(job.link)
-  );
-
+  const keptOpportunities = opportunities.filter((job) => !deadUrls.has(job.link));
   await saveOpportunities(keptOpportunities, true);
-
-  return validUrls;
 }
 
 // set silent to true
 logger.level = "silent";
-main()
-  .then((urls) => buildCompanyList(urls))
-  .catch((err) => {
-    logger.fatal({ err }, `${RED_CROSS} Fatal error`);
-    process.exit(1);
-  });
+main().catch((err) => {
+  logger.fatal({ err }, `${RED_CROSS} Fatal error`);
+  process.exit(1);
+});
