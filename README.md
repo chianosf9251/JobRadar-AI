@@ -103,6 +103,13 @@
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Robert Bosch LLC</td>
+      <td width="420" align="left" valign="top">Software Engineer Intern, Autonomous Driving</td>
+      <td width="180" align="left" valign="top">Sunnyvale, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000139649345" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">July 27</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">PDT Partners</td>
       <td width="420" align="left" valign="top">Summer 2027 Systems Engineering Intern</td>
       <td width="180" align="left" valign="top">New York, NY</td>
@@ -1194,7 +1201,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-07-27T04:46:23.579Z</code>
+      🕒 Last updated <code>2026-07-27T12:35:23.989Z</code>
     </span>
   </p>
 </div>
