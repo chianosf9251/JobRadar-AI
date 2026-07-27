@@ -1776,6 +1776,18 @@
     ]
   },
   {
+    "name": "apply.workable.com",
+    "ats": "custom",
+    "identifier": "apply.workable.com",
+    "domain": "https://apply.workable.com",
+    "page": "",
+    "urls": [
+      "https://apply.workable.com/hyperlight/j/5581EA0668/",
+      "https://apply.workable.com/pony-dot-ai/j/4C1F53EF5D/",
+      "https://apply.workable.com/pony-dot-ai/j/BA5FFDBC71/"
+    ]
+  },
+  {
     "name": "apptronik",
     "ats": "greenhouse",
     "identifier": "apptronik",
@@ -4656,13 +4668,13 @@
       "https://careers.cisco.com/global/en/job/2019492?ph_id=2019492",
       "https://careers.cisco.com/global/en/job/2019732?ph_id=2019732",
       "https://careers.cisco.com/global/en/job/2019934?ph_id=2019934",
+      "https://careers.cisco.com/global/en/job/2020016?ph_id=2020016",
       "https://careers.cisco.com/global/en/job/2020077?ph_id=2020077",
       "https://careers.cisco.com/global/en/job/2020078?ph_id=2020078",
       "https://careers.cisco.com/global/en/job/2020154?ph_id=2020154",
       "https://careers.cisco.com/global/en/job/2020242?ph_id=2020242",
       "https://careers.cisco.com/global/en/job/2020244?ph_id=2020244",
-      "https://careers.cisco.com/global/en/job/2020262?ph_id=2020262",
-      "https://careers.cisco.com/global/en/job/2020016?ph_id=2020016"
+      "https://careers.cisco.com/global/en/job/2020262?ph_id=2020262"
     ]
   },
   {
@@ -5302,6 +5314,7 @@
       "https://careers.usbank.com/global/en/job/2026-0017071?ph_id=2026-0017071",
       "https://careers.usbank.com/global/en/job/2026-0017096?ph_id=2026-0017096",
       "https://careers.usbank.com/global/en/job/2026-0017100?ph_id=2026-0017100",
+      "https://careers.usbank.com/global/en/job/2026-0017230?ph_id=2026-0017230",
       "https://careers.usbank.com/global/en/job/2026-0017250?ph_id=2026-0017250",
       "https://careers.usbank.com/global/en/job/2026-0017325?ph_id=2026-0017325",
       "https://careers.usbank.com/global/en/job/2026-0018566?ph_id=2026-0018566",
@@ -5311,8 +5324,7 @@
       "https://careers.usbank.com/global/en/job/2026-0019424?ph_id=2026-0019424",
       "https://careers.usbank.com/global/en/job/2026-0019435?ph_id=2026-0019435",
       "https://careers.usbank.com/global/en/job/2026-0021655?ph_id=2026-0021655",
-      "https://careers.usbank.com/global/en/job/2026-0021983?ph_id=2026-0021983",
-      "https://careers.usbank.com/global/en/job/2026-0017230?ph_id=2026-0017230"
+      "https://careers.usbank.com/global/en/job/2026-0021983?ph_id=2026-0021983"
     ]
   },
   {
@@ -10536,6 +10548,16 @@
     ]
   },
   {
+    "name": "HireVue",
+    "ats": "smartrecruiters",
+    "identifier": "HireVue",
+    "domain": "https://jobs.smartrecruiters.com",
+    "page": "https://api.smartrecruiters.com/v1/companies/HireVue/postings",
+    "urls": [
+      "https://jobs.smartrecruiters.com/HireVue/744000138728139"
+    ]
+  },
+  {
     "name": "hiscox",
     "ats": "workday",
     "identifier": "hiscox-hiscox_external_site",
@@ -14026,6 +14048,7 @@
       "https://micron.wd1.myworkdayjobs.com/external/job/Fab-10A-Singapore/DATA-SCIENTIST_JR98343",
       "https://micron.wd1.myworkdayjobs.com/external/job/Fab-10A-Singapore/Frontend-Central-Product-Integration-Engineering--cPIE--Transformative-HVB--high-value-bits--Engineer-Senior-Engineer_JR96479",
       "https://micron.wd1.myworkdayjobs.com/external/job/Fab-10A-Singapore/Full-Stack-AI-Engineer--IPAI--SMAI_JR106129",
+      "https://micron.wd1.myworkdayjobs.com/external/job/Fab-10A-Singapore/Full-Stack-AI-Engineer--IPAI--SMAI_JR106599",
       "https://micron.wd1.myworkdayjobs.com/external/job/Fab-10A-Singapore/MTS--AI-Engineering--SMAI_JR106743",
       "https://micron.wd1.myworkdayjobs.com/external/job/Fab-10NX-Singapore/Intern---NAND-Device-Engineering-AI_JR104750",
       "https://micron.wd1.myworkdayjobs.com/external/job/Fab-10W-Singapore/IT-SOFTWARE-ENGINEER_JR98031",
@@ -14049,8 +14072,7 @@
       "https://micron.wd1.myworkdayjobs.com/external/job/Taichung---Fab-16-Taiwan/SOFTWARE-ENGINEER_JR103710",
       "https://micron.wd1.myworkdayjobs.com/external/job/Taichung---Fab-16-Taiwan/SR-Full-Stack-AI-Engineer--IPAI--SMAI_JR106378",
       "https://micron.wd1.myworkdayjobs.com/external/job/Taichung---Fab-16-Taiwan/Sr-Data-Scientist--Innovation-Engineering-Technology_JR100114",
-      "https://micron.wd1.myworkdayjobs.com/external/job/Taoyuan---Fab-11-Taiwan/IT-Software-Engineer---MES-systems_JR94195",
-      "https://micron.wd1.myworkdayjobs.com/external/job/Fab-10A-Singapore/Full-Stack-AI-Engineer--IPAI--SMAI_JR106599"
+      "https://micron.wd1.myworkdayjobs.com/external/job/Taoyuan---Fab-11-Taiwan/IT-Software-Engineer---MES-systems_JR94195"
     ]
   },
   {
@@ -18342,6 +18364,16 @@
     "urls": []
   },
   {
+    "name": "sentara",
+    "ats": "workday",
+    "identifier": "sentara-scs",
+    "domain": "https://sentara.wd1.myworkdayjobs.com/SCS",
+    "page": "https://sentara.wd1.myworkdayjobs.com/wday/cxs/sentara/SCS/jobs",
+    "urls": [
+      "https://sentara.wd1.myworkdayjobs.com/SCS/job/Virginia-Beach-VA/Data---AI-Finance-Strategy-Intern---Fall-2026-Internship-Remote_JR-103073"
+    ]
+  },
+  {
     "name": "sentra",
     "ats": "ashby",
     "identifier": "sentra",
@@ -20857,7 +20889,9 @@
     "identifier": "toshibaglobalcommercesolutions",
     "domain": "https://job-boards.greenhouse.io",
     "page": "https://boards-api.greenhouse.io/v1/boards/toshibaglobalcommercesolutions/jobs",
-    "urls": []
+    "urls": [
+      "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5177892007"
+    ]
   },
   {
     "name": "towerresearchcapital",
@@ -21456,6 +21490,7 @@
       "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/Software-Engineer_2026-0017043-1",
       "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/Software-Engineer_2026-0017096-1",
       "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/Software-Engineer_2026-0017100-1",
+      "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/Software-Engineer_2026-0017230-1",
       "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/Software-Engineer_2026-0017390-1",
       "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hopkins-MN/Nexthink-Systems-Engineer_2026-0012108",
       "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Irving-TX/Software-Engineer-1--React---API---Cloud-Migration-_2026-0021655",
@@ -21474,8 +21509,7 @@
       "https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Chennai-India/Software-Engineer_2026-0017264-1",
       "https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Hopkins-MN/Software-Engineer--Mainframe_2026-0019239",
       "https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Saint-Paul-MN/z-OS-Systems-Engineer_2026-0010767",
-      "https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Warsaw-Poland/Credit-Risk-Modeling-Python-Developer_2025-0027794-2",
-      "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/Software-Engineer_2026-0017230-1"
+      "https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Warsaw-Poland/Credit-Risk-Modeling-Python-Developer_2025-0027794-2"
     ]
   },
   {
@@ -21972,7 +22006,8 @@
     "urls": [
       "https://job-boards.greenhouse.io/virtu/jobs/6072565002",
       "https://job-boards.greenhouse.io/virtu/jobs/8551566002",
-      "https://job-boards.greenhouse.io/virtu/jobs/8624410002"
+      "https://job-boards.greenhouse.io/virtu/jobs/8624410002",
+      "https://job-boards.greenhouse.io/virtu/jobs/8624408002"
     ]
   },
   {
