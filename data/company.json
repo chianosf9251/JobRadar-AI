@@ -617,7 +617,6 @@
       "https://careers.airbnb.com/positions/7716341?gh_jid=7716341",
       "https://careers.airbnb.com/positions/7725256?gh_jid=7725256",
       "https://careers.airbnb.com/positions/7902817?gh_jid=7902817",
-      "https://careers.airbnb.com/positions/7945163?gh_jid=7945163",
       "https://careers.airbnb.com/positions/8031907?gh_jid=8031907",
       "https://careers.airbnb.com/positions/8037090?gh_jid=8037090",
       "https://careers.airbnb.com/positions/8070597?gh_jid=8070597",
@@ -3751,7 +3750,8 @@
       "https://jobs.smartrecruiters.com/BoschGroup/744000139296629",
       "https://jobs.smartrecruiters.com/BoschGroup/744000139381549",
       "https://jobs.smartrecruiters.com/BoschGroup/744000139447918",
-      "https://jobs.smartrecruiters.com/BoschGroup/744000139611829"
+      "https://jobs.smartrecruiters.com/BoschGroup/744000139611829",
+      "https://jobs.smartrecruiters.com/BoschGroup/744000139649345"
     ]
   },
   {
@@ -4467,7 +4467,9 @@
     "identifier": "careers",
     "domain": "https://careers.airbnb.com",
     "page": "https://boards-api.greenhouse.io/v1/boards/careers/jobs",
-    "urls": []
+    "urls": [
+      "https://careers.airbnb.com/positions/7945163?gh_jid=7945163"
+    ]
   },
   {
     "name": "Careers at Atlantic Health System",
@@ -22006,8 +22008,8 @@
     "urls": [
       "https://job-boards.greenhouse.io/virtu/jobs/6072565002",
       "https://job-boards.greenhouse.io/virtu/jobs/8551566002",
-      "https://job-boards.greenhouse.io/virtu/jobs/8624410002",
-      "https://job-boards.greenhouse.io/virtu/jobs/8624408002"
+      "https://job-boards.greenhouse.io/virtu/jobs/8624408002",
+      "https://job-boards.greenhouse.io/virtu/jobs/8624410002"
     ]
   },
   {
