@@ -1812,7 +1812,8 @@
       "https://boards.greenhouse.io/apptronik/jobs/5813642004?gh_jid=5813642004",
       "https://boards.greenhouse.io/apptronik/jobs/5994540004?gh_jid=5994540004",
       "https://boards.greenhouse.io/apptronik/jobs/5997000004?gh_jid=5997000004",
-      "https://boards.greenhouse.io/apptronik/jobs/6099727004?gh_jid=6099727004"
+      "https://boards.greenhouse.io/apptronik/jobs/6099727004?gh_jid=6099727004",
+      "https://boards.greenhouse.io/apptronik/jobs/6128057004"
     ]
   },
   {
@@ -2932,6 +2933,16 @@
     "page": "https://barrywehmiller.wd1.myworkdayjobs.com/wday/cxs/barrywehmiller/bwcareers/jobs",
     "urls": [
       "https://barrywehmiller.wd1.myworkdayjobs.com/bwcareers/job/Chennai-India/Software-Engineer---Network-Reliability-Engineering_R021799"
+    ]
+  },
+  {
+    "name": "barrywehmiller",
+    "ats": "workday",
+    "identifier": "barrywehmiller-bwconfidential",
+    "domain": "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential",
+    "page": "https://barrywehmiller.wd1.myworkdayjobs.com/wday/cxs/barrywehmiller/BWConfidential/jobs",
+    "urls": [
+      "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Denver-CO/Entry-Level-Software-Engineer_R022282"
     ]
   },
   {
@@ -5845,7 +5856,8 @@
       "https://ciena.wd5.myworkdayjobs.com/careers/job/Ottawa/R-D-AI-Platform-Engineer---Administrator_R030749",
       "https://ciena.wd5.myworkdayjobs.com/careers/job/Ottawa/Software-Engineer-and-Tools-Developer-Intern--Fall-2026-_R028752",
       "https://ciena.wd5.myworkdayjobs.com/careers/job/Remote-Singapore/Consultant--Submarine-Systems-Engineering_R031374",
-      "https://ciena.wd5.myworkdayjobs.com/careers/job/UK--Edinburgh---19A-Canning-St/Software-Engineering-Intern--3-12-Months-_R031332"
+      "https://ciena.wd5.myworkdayjobs.com/careers/job/UK--Edinburgh---19A-Canning-St/Software-Engineering-Intern--3-12-Months-_R031332",
+      "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineering-Intern_R031372"
     ]
   },
   {
@@ -11785,9 +11797,7 @@
     "identifier": "jobs",
     "domain": "https://jobs.solarwinds.com",
     "page": "https://boards-api.greenhouse.io/v1/boards/jobs/jobs",
-    "urls": [
-      "https://jobs.solarwinds.com/job-detail/?gh_jid=4694254005&gh_jid=4694254005"
-    ]
+    "urls": []
   },
   {
     "name": "jobs-bylight",
@@ -14732,13 +14742,13 @@
     "name": "nelnet",
     "ats": "workday",
     "identifier": "nelnet-mynelnet",
-    "domain": "https://nelnet.wd1.myworkdayjobs.com/mynelnet",
-    "page": "https://nelnet.wd1.myworkdayjobs.com/wday/cxs/nelnet/mynelnet/jobs",
+    "domain": "https://nelnet.wd1.myworkdayjobs.com/MyNelnet",
+    "page": "https://nelnet.wd1.myworkdayjobs.com/wday/cxs/nelnet/MyNelnet/jobs",
     "urls": [
+      "https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern-Program---Agentic-AI_R22904",
       "https://nelnet.wd1.myworkdayjobs.com/mynelnet/job/Lincoln-NE/CyberSecurity-AI-Engineer_R22829",
       "https://nelnet.wd1.myworkdayjobs.com/mynelnet/job/Lincoln-NE/Intern---AI-Engineer_R22763",
-      "https://nelnet.wd1.myworkdayjobs.com/mynelnet/job/Remote/IT-Software-Engineer_R22719-1",
-      "https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern-Program---Agentic-AI_R22904"
+      "https://nelnet.wd1.myworkdayjobs.com/mynelnet/job/Remote/IT-Software-Engineer_R22719-1"
     ]
   },
   {
@@ -19096,6 +19106,7 @@
     "page": "https://boards-api.greenhouse.io/v1/boards/solarwinds/jobs",
     "urls": [
       "https://jobs.solarwinds.com/job-detail/?gh_jid=4688399005&gh_jid=4688399005",
+      "https://jobs.solarwinds.com/job-detail/?gh_jid=4694254005&gh_jid=4694254005",
       "https://jobs.solarwinds.com/job-detail/?gh_jid=4694485005&gh_jid=4694485005",
       "https://jobs.solarwinds.com/job-detail/?gh_jid=4694486005&gh_jid=4694486005"
     ]
@@ -22503,7 +22514,8 @@
     "domain": "https://waystar.wd1.myworkdayjobs.com/waystar",
     "page": "https://waystar.wd1.myworkdayjobs.com/wday/cxs/waystar/waystar/jobs",
     "urls": [
-      "https://waystar.wd1.myworkdayjobs.com/waystar/job/Lehi-UT/Sr-Specialist-Application-Engineer_R3261-1"
+      "https://waystar.wd1.myworkdayjobs.com/waystar/job/Lehi-UT/Sr-Specialist-Application-Engineer_R3261-1",
+      "https://waystar.wd1.myworkdayjobs.com/Waystar/job/Atlanta-GA/Application-Engineer-Co-Op_R3313-1"
     ]
   },
   {
