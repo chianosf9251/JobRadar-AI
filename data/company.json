@@ -138,7 +138,8 @@
       "https://jobs.smartrecruiters.com/AbbVie/3743990014199606",
       "https://jobs.smartrecruiters.com/AbbVie/3743990014200206",
       "https://jobs.smartrecruiters.com/AbbVie/3743990014267357",
-      "https://jobs.smartrecruiters.com/AbbVie/3743990014316696"
+      "https://jobs.smartrecruiters.com/AbbVie/3743990014316696",
+      "https://jobs.smartrecruiters.com/AbbVie/3743990014350476"
     ]
   },
   {
@@ -635,8 +636,7 @@
       "https://careers.airbnb.com/positions/7902817?gh_jid=7902817",
       "https://careers.airbnb.com/positions/8031907?gh_jid=8031907",
       "https://careers.airbnb.com/positions/8037090?gh_jid=8037090",
-      "https://careers.airbnb.com/positions/8077506?gh_jid=8077506",
-      "https://careers.airbnb.com/positions/8093038?gh_jid=8093038"
+      "https://careers.airbnb.com/positions/8077506?gh_jid=8077506"
     ]
   },
   {
@@ -4647,7 +4647,8 @@
     "page": "https://boards-api.greenhouse.io/v1/boards/careers/jobs",
     "urls": [
       "https://careers.airbnb.com/positions/7945163?gh_jid=7945163",
-      "https://careers.airbnb.com/positions/8070597?gh_jid=8070597"
+      "https://careers.airbnb.com/positions/8070597?gh_jid=8070597",
+      "https://careers.airbnb.com/positions/8093038?gh_jid=8093038"
     ]
   },
   {
@@ -6608,7 +6609,9 @@
     "identifier": "hcjy.fa.us2.oraclecloud.com",
     "domain": "https://hcjy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job",
     "page": "https://hcjy.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&finder=findReqs%3BsiteNumber%3DCX_1%2Climit%3D25%2CsortBy%3DPOSTING_DATES_DESC&expand=requisitionList.secondaryLocations%2CrequisitionList.otherWorkLocations",
-    "urls": []
+    "urls": [
+      "https://hcjy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/12101"
+    ]
   },
   {
     "name": "cooperstandard",
@@ -8431,7 +8434,8 @@
     "urls": [
       "https://evergreenix.wd1.myworkdayjobs.com/external-careers2/job/GBR_WS_Malvern/Software-Engineer-I_JR500694",
       "https://evergreenix.wd1.myworkdayjobs.com/external-careers2/job/UK---London/Embedded-Systems-Engineer-I_JR500701",
-      "https://evergreenix.wd1.myworkdayjobs.com/external-careers2/job/USA_TX_Richardson/Software-Engineer-I_JR500751"
+      "https://evergreenix.wd1.myworkdayjobs.com/external-careers2/job/USA_TX_Richardson/Software-Engineer-I_JR500751",
+      "https://evergreenix.wd1.myworkdayjobs.com/external-careers2/job/USA_TX_Richardson/Software-Engineer-I_JR500749-1"
     ]
   },
   {
@@ -9762,7 +9766,9 @@
     "identifier": "generac-external",
     "domain": "https://generac.wd5.myworkdayjobs.com/external",
     "page": "https://generac.wd5.myworkdayjobs.com/wday/cxs/generac/external/jobs",
-    "urls": []
+    "urls": [
+      "https://generac.wd5.myworkdayjobs.com/en-US/external/job/Toronto-Canada/AI-Productivity---Adoption--Co-op_JR15113"
+    ]
   },
   {
     "name": "generalmotors",
@@ -13404,7 +13410,8 @@
       "https://leidos.wd5.myworkdayjobs.com/external/job/Bethesda-MD/DevOps-Software-Engineer---TS-SCI-Cleared_R-00182209",
       "https://leidos.wd5.myworkdayjobs.com/external/job/Honolulu-HI/Systems-Engineer_R-00187709-1",
       "https://leidos.wd5.myworkdayjobs.com/external/job/Melbourne-Victoria-Australia/Software-Engineer_R-00182909",
-      "https://leidos.wd5.myworkdayjobs.com/external/job/San-Diego-CA/Software-Engineer_R-00187128"
+      "https://leidos.wd5.myworkdayjobs.com/external/job/San-Diego-CA/Software-Engineer_R-00187128",
+      "https://leidos.wd5.myworkdayjobs.com/External/job/Indianapolis-IN/Application-Developer-Intern_R-00188193-1"
     ]
   },
   {
@@ -15770,7 +15777,9 @@
     "identifier": "nrel-nlr",
     "domain": "https://nrel.wd5.myworkdayjobs.com/NLR",
     "page": "https://nrel.wd5.myworkdayjobs.com/wday/cxs/nrel/NLR/jobs",
-    "urls": []
+    "urls": [
+      "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate-Intern---Focused-Ion-Beam--Electron-Microscopy--and-Autonomous-Characterization_R14431"
+    ]
   },
   {
     "name": "ntconcepts",
@@ -18287,7 +18296,8 @@
     "page": "https://rsm.wd1.myworkdayjobs.com/wday/cxs/rsm/rsmcareers/jobs",
     "urls": [
       "https://rsm.wd1.myworkdayjobs.com/rsmcareers/job/San-Salvador/Network-Infrastructure-Engineer_JR120091",
-      "https://rsm.wd1.myworkdayjobs.com/rsmcareers/job/San-Salvador/Software-Developer-Intern_JR119685"
+      "https://rsm.wd1.myworkdayjobs.com/rsmcareers/job/San-Salvador/Software-Developer-Intern_JR119685",
+      "https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Chicago/Application-Development-Consulting-Associate---Fall-2027_JR116796"
     ]
   },
   {
