@@ -15753,6 +15753,16 @@
   },
   {
     "name": "nooks",
+    "ats": "ashby",
+    "identifier": "nooks",
+    "domain": "https://jobs.ashbyhq.com",
+    "page": "https://api.ashbyhq.com/posting-api/job-board/nooks",
+    "urls": [
+      "https://jobs.ashbyhq.com/nooks/311d6e70-5cfa-4e80-89f6-fe00ac1f9f53/application?embed=true"
+    ]
+  },
+  {
+    "name": "nooks",
     "ats": "greenhouse",
     "identifier": "nooks",
     "domain": "https://job-boards.greenhouse.io",
