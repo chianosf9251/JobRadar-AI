@@ -18,6 +18,13 @@ Every opportunity matching your current filters (country, category, citizenship/
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">DRW</td>
+      <td width="420" align="left" valign="top">AI/ML Research Intern</td>
+      <td width="180" align="left" valign="top">Chicago, IL</td>
+      <td width="120" align="left" valign="top"><a href="https://www.drw.com/work-at-drw/listings/aiml-research-intern-3466679" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">July 31</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Melius</td>
       <td width="420" align="left" valign="top">Software Engineering Intern [Spring/Summer 2027]</td>
       <td width="180" align="left" valign="top">New York City, NY</td>
@@ -425,6 +432,13 @@ Every opportunity matching your current filters (country, category, citizenship/
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td width="180" align="left" valign="top">Rivian and Volkswagen Group Technologies</td>
+      <td width="420" align="left" valign="top">Software Engineer Intern, Embedded Platforms</td>
+      <td width="180" align="left" valign="top">Palo Alto, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://jobs.ashbyhq.com/rivianvw.tech/4dfbf1e6-3778-4101-8ac7-cd4015d47eff" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">July 31</td>
+    </tr>
     <tr>
       <td width="180" align="left" valign="top">Homedepot</td>
       <td width="420" align="left" valign="top">Intern, AI Engineer</td>
@@ -1365,4 +1379,4 @@ Every opportunity matching your current filters (country, category, citizenship/
 
 ---
 
-📦 Generated from `opportunities.ndjson` &nbsp;•&nbsp; 🕒 Last updated `2026-07-31T15:32:35.833Z`
+📦 Generated from `opportunities.ndjson` &nbsp;•&nbsp; 🕒 Last updated `2026-07-31T17:50:25.423Z`
