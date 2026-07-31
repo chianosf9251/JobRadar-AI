@@ -7910,13 +7910,13 @@
     "domain": "https://www.drw.com",
     "page": "",
     "urls": [
-      "https://www.drw.com/work-at-drw/listings/software-developer-intern-3467328",
-      "https://www.drw.com/work-at-drw/listings/software-developer-intern-3466687",
-      "https://www.drw.com/work-at-drw/listings/quantitative-trading-analyst-intern-3375090",
-      "https://www.drw.com/work-at-drw/listings/quantitative-research-intern-3413670",
-      "https://www.drw.com/work-at-drw/listings/platform-engineer-intern-3468737",
       "https://www.drw.com/work-at-drw/listings/aiml-research-intern-3466679",
-      "https://www.drw.com/work-at-drw/listings/fpga-intern-3484423"
+      "https://www.drw.com/work-at-drw/listings/fpga-intern-3484423",
+      "https://www.drw.com/work-at-drw/listings/platform-engineer-intern-3468737",
+      "https://www.drw.com/work-at-drw/listings/quantitative-research-intern-3413670",
+      "https://www.drw.com/work-at-drw/listings/quantitative-trading-analyst-intern-3375090",
+      "https://www.drw.com/work-at-drw/listings/software-developer-intern-3466687",
+      "https://www.drw.com/work-at-drw/listings/software-developer-intern-3467328"
     ]
   },
   {
@@ -12489,9 +12489,7 @@
     "identifier": "jobs",
     "domain": "https://jobs.solarwinds.com",
     "page": "https://boards-api.greenhouse.io/v1/boards/jobs/jobs",
-    "urls": [
-      "https://jobs.solarwinds.com/job-detail/?gh_jid=4694485005&gh_jid=4694485005"
-    ]
+    "urls": []
   },
   {
     "name": "jobs-bylight",
@@ -16923,6 +16921,7 @@
       "https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d",
       "https://jobs.lever.co/palantir/8bcf4f33-0a79-4248-bbfd-49ac4be9dd8e",
       "https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69",
+      "https://jobs.lever.co/palantir/9265acce-12cd-4179-8c50-55d15963532b/apply",
       "https://jobs.lever.co/palantir/9410b487-c6c0-4178-903c-3311ce6b1861/apply",
       "https://jobs.lever.co/palantir/9e40d77f-b07c-437b-98e7-def9b0184d89",
       "https://jobs.lever.co/palantir/a483f41b-0da9-42ea-8ed6-cbf6eb93cc6d",
@@ -16943,8 +16942,7 @@
       "https://jobs.lever.co/palantir/f17e98d0-046a-4e6e-9d65-ed0b12dd0ff7",
       "https://jobs.lever.co/palantir/f221738b-e97c-4ce3-a12a-17ada2b855e4",
       "https://jobs.lever.co/palantir/fbca0358-083a-4222-bdbb-3bd729b48382",
-      "https://jobs.lever.co/palantir/fd3603a9-7016-45c6-9c8d-04c9279ab85e/apply",
-      "https://jobs.lever.co/palantir/9265acce-12cd-4179-8c50-55d15963532b/apply"
+      "https://jobs.lever.co/palantir/fd3603a9-7016-45c6-9c8d-04c9279ab85e/apply"
     ]
   },
   {
@@ -18605,13 +18603,13 @@
     "urls": [
       "https://jobs.ashbyhq.com/rivianvw.tech/259f1a7c-3102-47a3-9919-c1174d9be89c/application",
       "https://jobs.ashbyhq.com/rivianvw.tech/3f314ca7-978e-4ad6-b527-0487a9a9598c/application",
+      "https://jobs.ashbyhq.com/rivianvw.tech/4dfbf1e6-3778-4101-8ac7-cd4015d47eff",
       "https://jobs.ashbyhq.com/rivianvw.tech/50e43cbe-01ea-4b8b-be4c-bb5f48a2be92/application",
       "https://jobs.ashbyhq.com/rivianvw.tech/5633bb03-cc16-47fc-af02-db9dc355eddd/application",
       "https://jobs.ashbyhq.com/rivianvw.tech/75874976-540a-4e5c-aa72-1b23669c5211/application",
       "https://jobs.ashbyhq.com/rivianvw.tech/89feb2fe-c28c-4dad-846f-09594632ba55",
       "https://jobs.ashbyhq.com/rivianvw.tech/8c659332-b5b2-4968-aa5d-d1352c36a2ae",
-      "https://jobs.ashbyhq.com/rivianvw.tech/b6017142-1123-4999-8c04-d6d3b897f8d9",
-      "https://jobs.ashbyhq.com/rivianvw.tech/4dfbf1e6-3778-4101-8ac7-cd4015d47eff"
+      "https://jobs.ashbyhq.com/rivianvw.tech/b6017142-1123-4999-8c04-d6d3b897f8d9"
     ]
   },
   {
@@ -19975,7 +19973,8 @@
     "domain": "https://job-boards.greenhouse.io",
     "page": "https://boards-api.greenhouse.io/v1/boards/skhynixmemorysolutionsamericainc/jobs",
     "urls": [
-      "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4304277009"
+      "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4304277009",
+      "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4342038009"
     ]
   },
   {
@@ -20210,6 +20209,7 @@
     "urls": [
       "https://jobs.solarwinds.com/job-detail/?gh_jid=4688399005&gh_jid=4688399005",
       "https://jobs.solarwinds.com/job-detail/?gh_jid=4694254005&gh_jid=4694254005",
+      "https://jobs.solarwinds.com/job-detail/?gh_jid=4694485005&gh_jid=4694485005",
       "https://jobs.solarwinds.com/job-detail/?gh_jid=4694486005&gh_jid=4694486005"
     ]
   },
