@@ -11063,6 +11063,17 @@
     ]
   },
   {
+    "name": "heliux",
+    "ats": "ashby",
+    "identifier": "heliux",
+    "domain": "https://jobs.ashbyhq.com",
+    "page": "https://api.ashbyhq.com/posting-api/job-board/heliux",
+    "urls": [
+      "https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef/application?embed=true",
+      "https://jobs.ashbyhq.com/heliux/c71c0650-b6f7-491f-b291-6b280f58ee9c/application?embed=true"
+    ]
+  },
+  {
     "name": "helsing",
     "ats": "greenhouse",
     "identifier": "helsing",
