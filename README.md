@@ -473,13 +473,6 @@
       <td width="120" align="left" valign="top"><a href="https://nio.wd3.myworkdayjobs.com/nio_careers/job/San-Jose-US/AI-Robotics-Researcher-Intern--Dexterous-Manipulation-_R-000144" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
       <td width="100" align="left" valign="top">July 4</td>
     </tr>
-    <tr>
-      <td width="180" align="left" valign="top">Amazon</td>
-      <td width="420" align="left" valign="top">Jr. Software Development Engineer - Santa Barbara, CA, Jr. Developer Program</td>
-      <td width="180" align="left" valign="top">Santa Barbara, CA</td>
-      <td width="120" align="left" valign="top"><a href="https://amazon.jobs/en/jobs/10464138" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">July 1</td>
-    </tr>
   </tbody>
 </table>
 
@@ -1310,20 +1303,6 @@
       <td width="120" align="left" valign="top"><a href="https://jobs.ashbyhq.com/confido/69c0e572-b2f4-442f-beb8-1240155c629e/application" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
       <td width="100" align="left" valign="top">July 1</td>
     </tr>
-    <tr>
-      <td width="180" align="left" valign="top">Servicenow</td>
-      <td width="420" align="left" valign="top">Software Engineer - Moveworks</td>
-      <td width="180" align="left" valign="top">Mountain View, CA</td>
-      <td width="120" align="left" valign="top"><a href="https://jobs.smartrecruiters.com/ServiceNow/744000135328559" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">July 1</td>
-    </tr>
-    <tr>
-      <td width="180" align="left" valign="top">IMC</td>
-      <td width="420" align="left" valign="top">Graduate Machine Learning Researcher</td>
-      <td width="180" align="left" valign="top">Chicago, IL</td>
-      <td width="120" align="left" valign="top"><a href="https://job-boards.eu.greenhouse.io/imc/jobs/4907416101" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">July 1</td>
-    </tr>
   </tbody>
 </table>
 
@@ -1348,7 +1327,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-07-31T17:50:25.423Z</code>
+      🕒 Last updated <code>2026-07-31T21:17:08.038Z</code>
     </span>
   </p>
 </div>
