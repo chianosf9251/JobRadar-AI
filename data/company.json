@@ -6251,7 +6251,8 @@
     "domain": "https://jobs.eu.lever.co",
     "page": "https://api.eu.lever.co/v0/postings/cirrus?mode=json",
     "urls": [
-      "https://jobs.eu.lever.co/cirrus/103a6cd2-74ef-495f-ab73-9a56dab653cd/apply"
+      "https://jobs.eu.lever.co/cirrus/103a6cd2-74ef-495f-ab73-9a56dab653cd/apply",
+      "https://jobs.eu.lever.co/cirrus/2926421c-691a-434a-ae59-c828e7fcbf5b"
     ]
   },
   {
@@ -7903,6 +7904,22 @@
     "urls": []
   },
   {
+    "name": "drw.com",
+    "ats": "custom",
+    "identifier": "drw.com",
+    "domain": "https://www.drw.com",
+    "page": "",
+    "urls": [
+      "https://www.drw.com/work-at-drw/listings/software-developer-intern-3467328",
+      "https://www.drw.com/work-at-drw/listings/software-developer-intern-3466687",
+      "https://www.drw.com/work-at-drw/listings/quantitative-trading-analyst-intern-3375090",
+      "https://www.drw.com/work-at-drw/listings/quantitative-research-intern-3413670",
+      "https://www.drw.com/work-at-drw/listings/platform-engineer-intern-3468737",
+      "https://www.drw.com/work-at-drw/listings/aiml-research-intern-3466679",
+      "https://www.drw.com/work-at-drw/listings/fpga-intern-3484423"
+    ]
+  },
+  {
     "name": "drweng",
     "ats": "greenhouse",
     "identifier": "drweng",
@@ -9541,6 +9558,16 @@
     "domain": "https://job-boards.greenhouse.io",
     "page": "https://boards-api.greenhouse.io/v1/boards/fspco-op012325/jobs",
     "urls": []
+  },
+  {
+    "name": "fticonsulting",
+    "ats": "workday",
+    "identifier": "fticonsulting-fticonsultingcareers",
+    "domain": "https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers",
+    "page": "https://fticonsulting.wd108.myworkdayjobs.com/wday/cxs/fticonsulting/FTIConsultingCareers/jobs",
+    "urls": [
+      "https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/United-States/XMLNAME-2027-Intern---Technology_JR260339-1"
+    ]
   },
   {
     "name": "fullscript",
@@ -12462,7 +12489,9 @@
     "identifier": "jobs",
     "domain": "https://jobs.solarwinds.com",
     "page": "https://boards-api.greenhouse.io/v1/boards/jobs/jobs",
-    "urls": []
+    "urls": [
+      "https://jobs.solarwinds.com/job-detail/?gh_jid=4694485005&gh_jid=4694485005"
+    ]
   },
   {
     "name": "jobs-bylight",
@@ -16740,6 +16769,18 @@
     ]
   },
   {
+    "name": "osv-cci",
+    "ats": "workday",
+    "identifier": "osv-cci-ccicareers",
+    "domain": "https://osv-cci.wd1.myworkdayjobs.com/CCICareers",
+    "page": "https://osv-cci.wd1.myworkdayjobs.com/wday/cxs/osv-cci/CCICareers/jobs",
+    "urls": [
+      "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Data-Engineering-Internship--Summer-2027-_R1346",
+      "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Data-Science-Machine-Learning-Internship--Summer-2027-_R1344",
+      "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Full-Stack-Software-Engineer-Internship--Summer-2027-_R1350"
+    ]
+  },
+  {
     "name": "osv-rubicon",
     "ats": "workday",
     "identifier": "osv-rubicon-magnitecareers",
@@ -16861,6 +16902,8 @@
     "urls": [
       "https://jobs.lever.co/palantir/030ece08-c341-4959-bdfe-314e89b691ce",
       "https://jobs.lever.co/palantir/0a0d2db2-75a5-48e4-b0a0-81baa6588e36",
+      "https://jobs.lever.co/palantir/26e23f5d-083b-45aa-b223-1a6e43d960bf/apply",
+      "https://jobs.lever.co/palantir/2aa14e4f-d406-486e-9aa8-6ff3358d70a0/apply",
       "https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1",
       "https://jobs.lever.co/palantir/373eb939-6f57-4836-8479-be79a5e07249",
       "https://jobs.lever.co/palantir/37964982-9b4c-471e-a1d8-fb8f45d7f116",
@@ -16869,12 +16912,14 @@
       "https://jobs.lever.co/palantir/3db7e40a-28e0-4ad1-96c5-93de5bc96aa9",
       "https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6",
       "https://jobs.lever.co/palantir/53fb4c05-f949-4146-a046-5c063c36a628",
+      "https://jobs.lever.co/palantir/599b1907-aba1-4303-837b-66e69a521636/apply",
       "https://jobs.lever.co/palantir/5c4c65c5-77da-4d36-856c-4ade87631019/apply",
       "https://jobs.lever.co/palantir/5c7bb70c-83ea-43e7-8055-0c8f319f4333/apply",
       "https://jobs.lever.co/palantir/655f9937-a4ce-4e7d-80e2-a6659af07329/apply",
       "https://jobs.lever.co/palantir/67110929-adea-41c3-851a-8882e222d9e4",
       "https://jobs.lever.co/palantir/73d1a90c-162d-4cb6-9e0c-4c8de9561ad0",
       "https://jobs.lever.co/palantir/75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3",
+      "https://jobs.lever.co/palantir/76a60923-bb49-40f5-b061-7c7eb1299602/apply",
       "https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d",
       "https://jobs.lever.co/palantir/8bcf4f33-0a79-4248-bbfd-49ac4be9dd8e",
       "https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69",
@@ -16883,11 +16928,13 @@
       "https://jobs.lever.co/palantir/a483f41b-0da9-42ea-8ed6-cbf6eb93cc6d",
       "https://jobs.lever.co/palantir/ac0dc094-2480-43c2-8495-26ade227ff4f/apply",
       "https://jobs.lever.co/palantir/b229baac-494b-4a0d-9a13-2e38806e06f3",
+      "https://jobs.lever.co/palantir/b4aa51a2-bc43-4d67-bf55-12db7feefb3a/apply",
       "https://jobs.lever.co/palantir/bdcfb29f-4f27-42de-933f-7f83a359b9f0",
       "https://jobs.lever.co/palantir/c288bb43-3c63-4557-bd96-600ef0d1b7a6",
       "https://jobs.lever.co/palantir/cbe90327-3e6e-451c-a54c-1d3cbcef5aeb/apply",
       "https://jobs.lever.co/palantir/cf5f44ff-1b0b-4752-bcd4-2dc88798f25b",
       "https://jobs.lever.co/palantir/d1ac83d0-e923-42a5-8e6d-58dd0cab25ca/apply",
+      "https://jobs.lever.co/palantir/d372c805-d0cd-4a10-9522-fbecc78d6f3e/apply",
       "https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2",
       "https://jobs.lever.co/palantir/e24202f1-fccd-470f-b001-e24d901735a4/apply",
       "https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c",
@@ -16897,12 +16944,7 @@
       "https://jobs.lever.co/palantir/f221738b-e97c-4ce3-a12a-17ada2b855e4",
       "https://jobs.lever.co/palantir/fbca0358-083a-4222-bdbb-3bd729b48382",
       "https://jobs.lever.co/palantir/fd3603a9-7016-45c6-9c8d-04c9279ab85e/apply",
-      "https://jobs.lever.co/palantir/76a60923-bb49-40f5-b061-7c7eb1299602/apply",
-      "https://jobs.lever.co/palantir/599b1907-aba1-4303-837b-66e69a521636/apply",
-      "https://jobs.lever.co/palantir/26e23f5d-083b-45aa-b223-1a6e43d960bf/apply",
-      "https://jobs.lever.co/palantir/d372c805-d0cd-4a10-9522-fbecc78d6f3e/apply",
-      "https://jobs.lever.co/palantir/2aa14e4f-d406-486e-9aa8-6ff3358d70a0/apply",
-      "https://jobs.lever.co/palantir/b4aa51a2-bc43-4d67-bf55-12db7feefb3a/apply"
+      "https://jobs.lever.co/palantir/9265acce-12cd-4179-8c50-55d15963532b/apply"
     ]
   },
   {
@@ -18568,7 +18610,8 @@
       "https://jobs.ashbyhq.com/rivianvw.tech/75874976-540a-4e5c-aa72-1b23669c5211/application",
       "https://jobs.ashbyhq.com/rivianvw.tech/89feb2fe-c28c-4dad-846f-09594632ba55",
       "https://jobs.ashbyhq.com/rivianvw.tech/8c659332-b5b2-4968-aa5d-d1352c36a2ae",
-      "https://jobs.ashbyhq.com/rivianvw.tech/b6017142-1123-4999-8c04-d6d3b897f8d9"
+      "https://jobs.ashbyhq.com/rivianvw.tech/b6017142-1123-4999-8c04-d6d3b897f8d9",
+      "https://jobs.ashbyhq.com/rivianvw.tech/4dfbf1e6-3778-4101-8ac7-cd4015d47eff"
     ]
   },
   {
@@ -20167,7 +20210,6 @@
     "urls": [
       "https://jobs.solarwinds.com/job-detail/?gh_jid=4688399005&gh_jid=4688399005",
       "https://jobs.solarwinds.com/job-detail/?gh_jid=4694254005&gh_jid=4694254005",
-      "https://jobs.solarwinds.com/job-detail/?gh_jid=4694485005&gh_jid=4694485005",
       "https://jobs.solarwinds.com/job-detail/?gh_jid=4694486005&gh_jid=4694486005"
     ]
   },
