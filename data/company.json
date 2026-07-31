@@ -5023,7 +5023,9 @@
     "identifier": "careers.cisco.com",
     "domain": "https://careers.cisco.com",
     "page": "",
-    "urls": []
+    "urls": [
+      "https://careers.cisco.com/global/en/job/1449197"
+    ]
   },
   {
     "name": "careers.confluent.io",
@@ -8509,11 +8511,11 @@
       "https://www.esri.com/careers/5157486007?gh_jid=5157486007",
       "https://www.esri.com/careers/5157491007?gh_jid=5157491007",
       "https://www.esri.com/careers/5157495007?gh_jid=5157495007",
+      "https://www.esri.com/careers/5185281007?gh_jid=5185281007",
       "https://www.esri.com/careers/5188226007?gh_jid=5188226007",
       "https://www.esri.com/careers/5190253007?gh_jid=5190253007",
       "https://www.esri.com/careers/5193054007?gh_jid=5193054007",
-      "https://www.esri.com/careers/5198108007?gh_jid=5198108007",
-      "https://www.esri.com/careers/5185281007?gh_jid=5185281007"
+      "https://www.esri.com/careers/5198108007?gh_jid=5198108007"
     ]
   },
   {
@@ -14495,6 +14497,16 @@
       "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Lausanne-Vaud-Switzerland/Intern-AI-Vision-for-Equipment-Development_R72173",
       "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Lausanne-Vaud-Switzerland/Prin-Software-Engineer_R72563",
       "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Lausanne-Vaud-Switzerland/Software-Engineer-I_R72569"
+    ]
+  },
+  {
+    "name": "melius",
+    "ats": "ashby",
+    "identifier": "melius",
+    "domain": "https://jobs.ashbyhq.com",
+    "page": "https://api.ashbyhq.com/posting-api/job-board/melius",
+    "urls": [
+      "https://jobs.ashbyhq.com/melius/6a944911-dbbf-44c7-ba52-7866f7b433cf/application?embed=true"
     ]
   },
   {
