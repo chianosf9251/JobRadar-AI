@@ -10408,6 +10408,16 @@
     "urls": []
   },
   {
+    "name": "gnw",
+    "ats": "workday",
+    "identifier": "gnw-gnw",
+    "domain": "https://gnw.wd1.myworkdayjobs.com/GNW",
+    "page": "https://gnw.wd1.myworkdayjobs.com/wday/cxs/gnw/GNW/jobs",
+    "urls": [
+      "https://gnw.wd1.myworkdayjobs.com/GNW/job/Richmond-Virginia/Genworth-IT-Development-Program-Intern---Summer-2027_REQ-260269-1"
+    ]
+  },
+  {
     "name": "godaddyemployeereferrals",
     "ats": "greenhouse",
     "identifier": "godaddyemployeereferrals",
@@ -11981,7 +11991,8 @@
     "urls": [
       "https://job-boards.greenhouse.io/instalilyai/jobs/4261595009",
       "https://job-boards.greenhouse.io/instalilyai/jobs/4264790009",
-      "https://job-boards.greenhouse.io/instalilyai/jobs/4271757009"
+      "https://job-boards.greenhouse.io/instalilyai/jobs/4271757009",
+      "https://job-boards.greenhouse.io/instalilyai/jobs/4342089009"
     ]
   },
   {
@@ -15744,7 +15755,8 @@
       "https://job-boards.greenhouse.io/newsbreak/jobs/4690574006",
       "https://job-boards.greenhouse.io/newsbreak/jobs/4691989006",
       "https://job-boards.greenhouse.io/newsbreak/jobs/4694899006",
-      "https://job-boards.greenhouse.io/newsbreak/jobs/4700278006"
+      "https://job-boards.greenhouse.io/newsbreak/jobs/4700278006",
+      "https://job-boards.greenhouse.io/newsbreak/jobs/4615879006"
     ]
   },
   {
