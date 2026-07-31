@@ -419,6 +419,13 @@ Every opportunity matching your current filters (country, category, citizenship/
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Homedepot</td>
+      <td width="420" align="left" valign="top">Intern, AI Engineer</td>
+      <td width="180" align="left" valign="top">North York, ON</td>
+      <td width="120" align="left" valign="top"><a href="https://homedepot.wd5.myworkdayjobs.com/careerdepotcanada/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--AI-Engineer_Req188547" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">July 30</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Cummins talent acquisition</td>
       <td width="420" align="left" valign="top">School to Work - AI and Analytics Solution Engineer</td>
       <td width="180" align="left" valign="top">Florence, KY</td>
@@ -546,6 +553,34 @@ Every opportunity matching your current filters (country, category, citizenship/
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td width="180" align="left" valign="top">Resmed</td>
+      <td width="420" align="left" valign="top">Associate Software Engineer</td>
+      <td width="180" align="left" valign="top">San Diego, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://resmed.wd3.myworkdayjobs.com/resmed_external_careers/job/San-Diego-CA-United-States/Associate-Software-Engineer_JR_052316-1" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">July 30</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Manh</td>
+      <td width="420" align="left" valign="top">Software Engineer - Early Career</td>
+      <td width="180" align="left" valign="top">Atlanta, GA</td>
+      <td width="120" align="left" valign="top"><a href="https://manh.wd5.myworkdayjobs.com/campus/job/Atlanta-GA/Software-Engineer---Early-Career_16977" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">July 30</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Axos</td>
+      <td width="420" align="left" valign="top">JBATA- AI Engineer</td>
+      <td width="180" align="left" valign="top">San Diego, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/JBATA--AI-Engineer_JR5108-1" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">July 30</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Axon</td>
+      <td width="420" align="left" valign="top">Embedded Software Engineer I</td>
+      <td width="180" align="left" valign="top">Seattle, WA</td>
+      <td width="120" align="left" valign="top"><a href="https://job-boards.greenhouse.io/axon/jobs/6289451003" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">July 30</td>
+    </tr>
     <tr>
       <td width="180" align="left" valign="top">Flock%20safety</td>
       <td width="420" align="left" valign="top">Associate Wireless Software Engineer</td>
@@ -1323,4 +1358,4 @@ Every opportunity matching your current filters (country, category, citizenship/
 
 ---
 
-📦 Generated from `opportunities.ndjson` &nbsp;•&nbsp; 🕒 Last updated `2026-07-30T16:43:58.900Z`
+📦 Generated from `opportunities.ndjson` &nbsp;•&nbsp; 🕒 Last updated `2026-07-31T00:06:13.100Z`
