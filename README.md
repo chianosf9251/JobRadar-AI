@@ -1303,13 +1303,6 @@
       <td width="120" align="left" valign="top"><a href="https://cadence.wd1.myworkdayjobs.com/univ_careers/job/AUSTIN-03/Software-Engineer-I_R53009" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
       <td width="100" align="left" valign="top">July 4</td>
     </tr>
-    <tr>
-      <td width="180" align="left" valign="top">Bot Auto</td>
-      <td width="420" align="left" valign="top">Machine Learning/Deep Learning Engineer(PhD, New Grad)</td>
-      <td width="180" align="left" valign="top">Houston, TX</td>
-      <td width="120" align="left" valign="top"><a href="https://job-boards.greenhouse.io/botauto/jobs/5290395008" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">July 2</td>
-    </tr>
   </tbody>
 </table>
 
@@ -1334,7 +1327,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-08-01T14:31:31.206Z</code>
+      🕒 Last updated <code>2026-08-01T23:59:56.279Z</code>
     </span>
   </p>
 </div>
