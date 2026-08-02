@@ -5180,12 +5180,12 @@
     "domain": "https://careers.garmin.com",
     "page": "",
     "urls": [
+      "https://careers.garmin.com/jobs/17742?icims=1",
       "https://careers.garmin.com/jobs/18475?icims=1",
       "https://careers.garmin.com/jobs/18510?icims=1",
       "https://careers.garmin.com/jobs/18511?icims=1",
       "https://careers.garmin.com/jobs/18762?icims=1",
-      "https://careers.garmin.com/jobs/19098?icims=1",
-      "https://careers.garmin.com/jobs/17742?icims=1"
+      "https://careers.garmin.com/jobs/19098?icims=1"
     ]
   },
   {
@@ -21724,7 +21724,9 @@
     "domain": "https://www.tesla.com",
     "page": "",
     "urls": [
-      "https://www.tesla.com/careers/search/job/internship-localization-specialist-it-applications-fall-2026-276308"
+      "https://www.tesla.com/careers/search/job/internship-localization-specialist-it-applications-fall-2026-276308",
+      "https://www.tesla.com/careers/search/job/244786?source=Indeed&source=Indeed&tags=organicjob",
+      "https://www.tesla.com/careers/search/job/244845?source=Indeed&source=Indeed&tags=organicjob"
     ]
   },
   {
