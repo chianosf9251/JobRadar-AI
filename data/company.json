@@ -5180,11 +5180,12 @@
     "domain": "https://careers.garmin.com",
     "page": "",
     "urls": [
-      "https://careers.garmin.com/jobs/18762?icims=1",
       "https://careers.garmin.com/jobs/18475?icims=1",
       "https://careers.garmin.com/jobs/18510?icims=1",
       "https://careers.garmin.com/jobs/18511?icims=1",
-      "https://careers.garmin.com/jobs/19098?icims=1"
+      "https://careers.garmin.com/jobs/18762?icims=1",
+      "https://careers.garmin.com/jobs/19098?icims=1",
+      "https://careers.garmin.com/jobs/17742?icims=1"
     ]
   },
   {
@@ -14352,6 +14353,16 @@
     "page": "https://manh.wd5.myworkdayjobs.com/wday/cxs/manh/campus/jobs",
     "urls": [
       "https://manh.wd5.myworkdayjobs.com/campus/job/Atlanta-GA/Software-Engineer---Early-Career_16977"
+    ]
+  },
+  {
+    "name": "mantech.avature.net",
+    "ats": "custom",
+    "identifier": "mantech.avature.net",
+    "domain": "https://mantech.avature.net",
+    "page": "",
+    "urls": [
+      "https://mantech.avature.net/en_US/careers/JobDetail/61501"
     ]
   },
   {
