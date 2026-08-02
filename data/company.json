@@ -1936,6 +1936,16 @@
     ]
   },
   {
+    "name": "apply.careers.microsoft.com",
+    "ats": "custom",
+    "identifier": "apply.careers.microsoft.com",
+    "domain": "https://apply.careers.microsoft.com",
+    "page": "",
+    "urls": [
+      "https://apply.careers.microsoft.com/careers/job/1970393556951951"
+    ]
+  },
+  {
     "name": "apply.workable.com",
     "ats": "custom",
     "identifier": "apply.workable.com",
@@ -1985,6 +1995,7 @@
       "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Bangalore-India/Embedded-SW-Engineer--CAN-Ethernet-BTLD_J000696850",
       "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Bangalore-India/Embedded-Software-Engineer---6-8-Yrs-_J000700891",
       "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Bangalore-India/Radar-Systems-Engineer_J000700823",
+      "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Bangalore-India/Software-Engineer_J000701469-1",
       "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Bangalore-India/Sr-Software-Engineer---ADAS--Embedded--MATLAB---Simulink_J000700887",
       "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Networking-Software-Developer---MTS_J000698858-1",
       "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Chennai-India/Embedded-Software-Engineer---Automotive-Systems_J000697823",
@@ -1994,8 +2005,7 @@
       "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Krakow-Poland/Expert-AI-ML-Engineer---Perception---Planning_J000700856-1",
       "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Krakow-Poland/Expert-Software-Engineer---Middleware_J000701410",
       "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Krakow-Poland/Expert-Software-Engineer---Testing_J000701408",
-      "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Krakow-Poland/Expert-Software-Engineer---Testing_J000701409",
-      "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Bangalore-India/Software-Engineer_J000701469-1"
+      "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Krakow-Poland/Expert-Software-Engineer---Testing_J000701409"
     ]
   },
   {
@@ -13934,7 +13944,8 @@
     "domain": "https://jobs.ashbyhq.com",
     "page": "https://api.ashbyhq.com/posting-api/job-board/Lightfield",
     "urls": [
-      "https://jobs.ashbyhq.com/Lightfield/fc93a467-773d-4805-b342-bf470950732d/application?embed=true"
+      "https://jobs.ashbyhq.com/Lightfield/fc93a467-773d-4805-b342-bf470950732d/application?embed=true",
+      "https://jobs.ashbyhq.com/Lightfield/9a7ef2f9-577a-4242-b884-719e3cdf4420/application?embed=true"
     ]
   },
   {
@@ -15723,6 +15734,12 @@
     "urls": [
       "https://boards.greenhouse.io/neo4j/jobs/4426227006?gh_jid=4426227006",
       "https://boards.greenhouse.io/neo4j/jobs/4426324006?gh_jid=4426324006",
+      "https://boards.greenhouse.io/neo4j/jobs/4555260006?gh_jid=4555260006",
+      "https://boards.greenhouse.io/neo4j/jobs/4567487006?gh_jid=4567487006",
+      "https://boards.greenhouse.io/neo4j/jobs/4660592006?gh_jid=4660592006",
+      "https://boards.greenhouse.io/neo4j/jobs/4660616006?gh_jid=4660616006",
+      "https://boards.greenhouse.io/neo4j/jobs/4674493006?gh_jid=4674493006",
+      "https://boards.greenhouse.io/neo4j/jobs/4674495006?gh_jid=4674495006",
       "https://boards.greenhouse.io/neo4j/jobs/4686125006?gh_jid=4686125006",
       "https://boards.greenhouse.io/neo4j/jobs/4686138006?gh_jid=4686138006",
       "https://boards.greenhouse.io/neo4j/jobs/4687941006?gh_jid=4687941006",
@@ -15736,13 +15753,7 @@
       "https://boards.greenhouse.io/neo4j/jobs/4696151006?gh_jid=4696151006",
       "https://boards.greenhouse.io/neo4j/jobs/4696161006?gh_jid=4696161006",
       "https://boards.greenhouse.io/neo4j/jobs/4699949006?gh_jid=4699949006",
-      "https://boards.greenhouse.io/neo4j/jobs/4699951006?gh_jid=4699951006",
-      "https://boards.greenhouse.io/neo4j/jobs/4555260006?gh_jid=4555260006",
-      "https://boards.greenhouse.io/neo4j/jobs/4567487006?gh_jid=4567487006",
-      "https://boards.greenhouse.io/neo4j/jobs/4660592006?gh_jid=4660592006",
-      "https://boards.greenhouse.io/neo4j/jobs/4660616006?gh_jid=4660616006",
-      "https://boards.greenhouse.io/neo4j/jobs/4674495006?gh_jid=4674495006",
-      "https://boards.greenhouse.io/neo4j/jobs/4674493006?gh_jid=4674493006"
+      "https://boards.greenhouse.io/neo4j/jobs/4699951006?gh_jid=4699951006"
     ]
   },
   {
@@ -16434,6 +16445,7 @@
       "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/Software-Engineer--Production-Engineering_JR2020074-1",
       "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Software-Engineer---NVLink-GPU-Networking_JR2016557",
       "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Software-Engineer--DOCA-SDK_JR2021303",
+      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Software-Engineer--SPE_JR2015623",
       "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/VLSI-Design-Automation-Software-Engineer_JR2021481",
       "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Korea-Seoul/Developer-Technology-Engineer---AI_JR2021112",
       "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Robotics-Software-Engineer---Robot-Simulation-and-Benchmarking_JR2021400",
@@ -16493,8 +16505,7 @@
       "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/System-Software-Engineer--GPU-Development-Tools_JR2015188",
       "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/System-Software-Engineer--GPU-Development-Tools_JR2016197",
       "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-MA-Westford/Software-Engineer---DPU-Platform_JR2015949-1",
-      "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-MO-St-Louis/Performance-Engineer-Intern--Systems-Software---Fall-2026_JR2015779",
-      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Software-Engineer--SPE_JR2015623"
+      "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-MO-St-Louis/Performance-Engineer-Intern--Systems-Software---Fall-2026_JR2015779"
     ]
   },
   {
@@ -16532,6 +16543,7 @@
       "https://nxp.wd3.myworkdayjobs.com/careers/job/Bangalore/AI-ML-driven-ASIC-Design-and-Implementation-Automation-Engineer_R-10063274",
       "https://nxp.wd3.myworkdayjobs.com/careers/job/Bangalore/AI-ML-driven-ASIC-Design-and-Implementation-Automation-Engineer_R-10063275",
       "https://nxp.wd3.myworkdayjobs.com/careers/job/Bangalore/AI-ML-driven-ASIC-Design-and-Implementation-Automation-Engineer_R-10063276",
+      "https://nxp.wd3.myworkdayjobs.com/careers/job/Bangkok/Software-Engineer_R-10064891",
       "https://nxp.wd3.myworkdayjobs.com/careers/job/Bucharest/Linux-Software-Engineer_R-10065758",
       "https://nxp.wd3.myworkdayjobs.com/careers/job/Bucharest/Software-Engineer--Linux-Kernel-BSP_R-10063292-1",
       "https://nxp.wd3.myworkdayjobs.com/careers/job/Bucharest/Software-Engineer-for-Automotive-Security-Firmware_R-10063397",
@@ -16545,8 +16557,7 @@
       "https://nxp.wd3.myworkdayjobs.com/careers/job/Kanata/Digital-Verification-Engineer_R-10063157",
       "https://nxp.wd3.myworkdayjobs.com/careers/job/San-Diego-Treena-St/AI-ML-Driven-ASIC-Design-and-Implementation-Automation-Engineer_R-10065725",
       "https://nxp.wd3.myworkdayjobs.com/careers/job/San-Diego-Treena-St/AI-ML-driven-ASIC-Design-and-Implementation-Automation-Engineer_R-10065724",
-      "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/AI---Software-Engineering-Intern---Fall-2026_R-10064807",
-      "https://nxp.wd3.myworkdayjobs.com/careers/job/Bangkok/Software-Engineer_R-10064891"
+      "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/AI---Software-Engineering-Intern---Fall-2026_R-10064807"
     ]
   },
   {
