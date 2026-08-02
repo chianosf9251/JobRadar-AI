@@ -455,6 +455,13 @@
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Apply.careers.microsoft.com</td>
+      <td width="420" align="left" valign="top">Software Engineer - Gears of War - The Coalition: Internship Opportunities</td>
+      <td width="180" align="left" valign="top">Vancouver, BC</td>
+      <td width="120" align="left" valign="top"><a href="https://apply.careers.microsoft.com/careers/job/1970393556951951?domain=microsoft.com&amp;8fold_id=1970393556951951" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">August 2</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">InstaLILY</td>
       <td width="420" align="left" valign="top">Software Engineer 1 Co-op</td>
       <td width="180" align="left" valign="top">Toronto, ON</td>
@@ -1131,7 +1138,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-08-02T23:10:23.540Z</code>
+      🕒 Last updated <code>2026-08-02T23:57:08.253Z</code>
     </span>
   </p>
 </div>
