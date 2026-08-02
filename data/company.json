@@ -4993,6 +4993,7 @@
       "https://careers.cisco.com/global/en/job/2014802?ph_id=2014802",
       "https://careers.cisco.com/global/en/job/2014951?ph_id=2014951",
       "https://careers.cisco.com/global/en/job/2014972?ph_id=2014972",
+      "https://careers.cisco.com/global/en/job/2015102?ph_id=2015102",
       "https://careers.cisco.com/global/en/job/2015207?ph_id=2015207",
       "https://careers.cisco.com/global/en/job/2015216?ph_id=2015216",
       "https://careers.cisco.com/global/en/job/2015685?ph_id=2015685",
@@ -5045,6 +5046,7 @@
       "https://careers.cisco.com/global/en/job/2019277?ph_id=2019277",
       "https://careers.cisco.com/global/en/job/2019363?ph_id=2019363",
       "https://careers.cisco.com/global/en/job/2019389?ph_id=2019389",
+      "https://careers.cisco.com/global/en/job/2019428?ph_id=2019428",
       "https://careers.cisco.com/global/en/job/2019436?ph_id=2019436",
       "https://careers.cisco.com/global/en/job/2019437?ph_id=2019437",
       "https://careers.cisco.com/global/en/job/2019451?ph_id=2019451",
@@ -5071,9 +5073,7 @@
       "https://careers.cisco.com/global/en/job/2020680?ph_id=2020680",
       "https://careers.cisco.com/global/en/job/2020688?ph_id=2020688",
       "https://careers.cisco.com/global/en/job/2020735?ph_id=2020735",
-      "https://careers.cisco.com/global/en/job/2020808?ph_id=2020808",
-      "https://careers.cisco.com/global/en/job/2019428?ph_id=2019428",
-      "https://careers.cisco.com/global/en/job/2015102?ph_id=2015102"
+      "https://careers.cisco.com/global/en/job/2020808?ph_id=2020808"
     ]
   },
   {
@@ -5179,7 +5179,13 @@
     "identifier": "careers.garmin.com",
     "domain": "https://careers.garmin.com",
     "page": "",
-    "urls": []
+    "urls": [
+      "https://careers.garmin.com/jobs/18762?icims=1",
+      "https://careers.garmin.com/jobs/18475?icims=1",
+      "https://careers.garmin.com/jobs/18510?icims=1",
+      "https://careers.garmin.com/jobs/18511?icims=1",
+      "https://careers.garmin.com/jobs/19098?icims=1"
+    ]
   },
   {
     "name": "careers.gulfstream.com",
@@ -5467,6 +5473,16 @@
     "domain": "https://careers.nintendo.com",
     "page": "",
     "urls": []
+  },
+  {
+    "name": "careers.noblis.org",
+    "ats": "custom",
+    "identifier": "careers.noblis.org",
+    "domain": "https://careers.noblis.org",
+    "page": "",
+    "urls": [
+      "https://careers.noblis.org/jobs/27467?icims=1"
+    ]
   },
   {
     "name": "careers.nrgenergy.com",
@@ -9948,8 +9964,8 @@
       "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Grand-Rapids/Embedded-Software-Engineer---Aerospace_R5036917-1",
       "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Queretaro/Fluid-Systems-Engineering-Intern---GE9X-LEAP-Accessories_R5037675-1",
       "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Remote/AI-Process-Engineer_R5036399-1",
-      "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Remote/Sr-AI-Data-Engineer_R5034165-1",
-      "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Remote/Consulting-Engineer--Manufacturing-Systems-Engineering_R5032310-1"
+      "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Remote/Consulting-Engineer--Manufacturing-Systems-Engineering_R5032310-1",
+      "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Remote/Sr-AI-Data-Engineer_R5034165-1"
     ]
   },
   {
@@ -12596,6 +12612,7 @@
       "https://jobs.baesystems.com/global/en/job/125486BR?ph_id=125486BR",
       "https://jobs.baesystems.com/global/en/job/125495BR?ph_id=125495BR",
       "https://jobs.baesystems.com/global/en/job/125788BR?ph_id=125788BR",
+      "https://jobs.baesystems.com/global/en/job/126227BR?ph_id=126227BR",
       "https://jobs.baesystems.com/global/en/job/126243BR?ph_id=126243BR",
       "https://jobs.baesystems.com/global/en/job/126331BR?ph_id=126331BR",
       "https://jobs.baesystems.com/global/en/job/126562BR?ph_id=126562BR",
@@ -12642,8 +12659,7 @@
       "https://jobs.baesystems.com/global/en/job/127962BR?ph_id=127962BR",
       "https://jobs.baesystems.com/global/en/job/127987BR?ph_id=127987BR",
       "https://jobs.baesystems.com/global/en/job/128098BR?ph_id=128098BR",
-      "https://jobs.baesystems.com/global/en/job/128162BR?ph_id=128162BR",
-      "https://jobs.baesystems.com/global/en/job/126227BR?ph_id=126227BR"
+      "https://jobs.baesystems.com/global/en/job/128162BR?ph_id=128162BR"
     ]
   },
   {
@@ -17099,6 +17115,7 @@
       "https://parsons.wd5.myworkdayjobs.com/search/job/AE---Dubai/Road-Engineer--Roads---Infrastructure-_R182247",
       "https://parsons.wd5.myworkdayjobs.com/search/job/AE---Sharjah/Civil-Engineer--Roads-and-Infrastructure-_R181121",
       "https://parsons.wd5.myworkdayjobs.com/search/job/SA---Riyadh/Traffic-Systems-Engineer_R182955-1",
+      "https://parsons.wd5.myworkdayjobs.com/search/job/US---AL-Huntsville/Ground-Systems-Communication-Network-Software-Engineer_R183045",
       "https://parsons.wd5.myworkdayjobs.com/search/job/US---CA-Torrance/Aerospace-Quality-Systems-Engineer_R182514",
       "https://parsons.wd5.myworkdayjobs.com/search/job/US---CA-Torrance/Aerospace-Systems-Engineer_R182615",
       "https://parsons.wd5.myworkdayjobs.com/search/job/US---CO-Colorado-Springs/Software-Engineer-II---TS-w--SCI-eligibility_R180623",
@@ -17123,8 +17140,7 @@
       "https://parsons.wd5.myworkdayjobs.com/search/job/US---VA-Centreville/Systems-Engineer--Jr--Technical-Documentation----TS-SCI_R182717",
       "https://parsons.wd5.myworkdayjobs.com/search/job/US---VA-Centreville/Systems-Engineer--Jr--Technical-Documentation----TS-SCI_R182720",
       "https://parsons.wd5.myworkdayjobs.com/search/job/US---VA-Chantilly/Systems-Engineering-Intern_R183765",
-      "https://parsons.wd5.myworkdayjobs.com/search/job/US---VA-Reston/Software-Engineer_R178220-1",
-      "https://parsons.wd5.myworkdayjobs.com/search/job/US---AL-Huntsville/Ground-Systems-Communication-Network-Software-Engineer_R183045"
+      "https://parsons.wd5.myworkdayjobs.com/search/job/US---VA-Reston/Software-Engineer_R178220-1"
     ]
   },
   {
@@ -22224,6 +22240,7 @@
       "https://lifeattiktok.com/search/7659527183984019765",
       "https://lifeattiktok.com/search/7659948535374776629",
       "https://lifeattiktok.com/search/7660184968461388037",
+      "https://lifeattiktok.com/search/7660367427276261685",
       "https://lifeattiktok.com/search/7660767857640802565",
       "https://lifeattiktok.com/search/7660769585826154805",
       "https://lifeattiktok.com/search/7660769587276892469",
@@ -22234,8 +22251,7 @@
       "https://lifeattiktok.com/search/7663001893392632069",
       "https://lifeattiktok.com/search/7663003104644008197",
       "https://lifeattiktok.com/search/7663343916948703493",
-      "https://lifeattiktok.com/search/7667469412420798773",
-      "https://lifeattiktok.com/search/7660367427276261685"
+      "https://lifeattiktok.com/search/7667469412420798773"
     ]
   },
   {
