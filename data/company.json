@@ -20114,6 +20114,16 @@
     ]
   },
   {
+    "name": "sjobs.brassring.com",
+    "ats": "custom",
+    "identifier": "sjobs.brassring.com",
+    "domain": "https://sjobs.brassring.com",
+    "page": "",
+    "urls": [
+      "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26336&siteid=5014&PageType=JobDetails&jobid=1855141"
+    ]
+  },
+  {
     "name": "skechers",
     "ats": "workday",
     "identifier": "skechers-one-career-site",
