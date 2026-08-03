@@ -1962,7 +1962,8 @@
     "page": "",
     "urls": [
       "https://apply.careers.microsoft.com/careers/job/1970393556951950",
-      "https://apply.careers.microsoft.com/careers/job/1970393556951951"
+      "https://apply.careers.microsoft.com/careers/job/1970393556951951",
+      "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0"
     ]
   },
   {
@@ -2467,7 +2468,8 @@
       "https://ats.rippling.com/theguarantors-open-positions/jobs/d78ec000-5f8b-43d3-9590-4eb51970e49b",
       "https://ats.rippling.com/tive-careers/jobs/e7ed0c47-bf2e-4105-a793-e48dc0e0f710",
       "https://ats.rippling.com/usare/jobs/8db9bb37-aa5f-40e0-96ac-d1c4ca796aeb",
-      "https://ats.rippling.com/veryable-careers/jobs/cf74672c-c9c5-4be5-8858-04abfd64c20f"
+      "https://ats.rippling.com/veryable-careers/jobs/cf74672c-c9c5-4be5-8858-04abfd64c20f",
+      "https://ats.rippling.com/studyfetch/jobs/4ab846a3-a963-46c3-a60d-03fa832fa7d5"
     ]
   },
   {
@@ -4097,7 +4099,8 @@
       "https://jobs.smartrecruiters.com/BoschGroup/744000140826660",
       "https://jobs.smartrecruiters.com/BoschGroup/744000140917083",
       "https://jobs.smartrecruiters.com/BoschGroup/744000140960719",
-      "https://jobs.smartrecruiters.com/BoschGroup/744000141180479"
+      "https://jobs.smartrecruiters.com/BoschGroup/744000141180479",
+      "https://jobs.smartrecruiters.com/BoschGroup/744000141302469"
     ]
   },
   {
@@ -6280,6 +6283,16 @@
       "https://jobs.ashbyhq.com/checkout.com/3afd3b1d-5082-4af5-a6c7-9b294921ba41",
       "https://jobs.ashbyhq.com/checkout.com/c0f1a326-2924-4a6f-b649-0ed05cccab8e",
       "https://jobs.ashbyhq.com/checkout.com/c37d4aba-998a-4266-8525-2b5fad1bfb56/application?embed=true"
+    ]
+  },
+  {
+    "name": "chicagotradingcampus",
+    "ats": "greenhouse",
+    "identifier": "chicagotradingcampus",
+    "domain": "https://job-boards.greenhouse.io",
+    "page": "https://boards-api.greenhouse.io/v1/boards/chicagotradingcampus/jobs",
+    "urls": [
+      "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716932005"
     ]
   },
   {
@@ -8723,7 +8736,8 @@
       "https://jobs.ashbyhq.com/Etched/831bfa22-d883-450b-9b10-2a16421525a0",
       "https://jobs.ashbyhq.com/Etched/9bceaee5-c3b2-4e8e-9ad3-b3b572a8d9cd",
       "https://jobs.ashbyhq.com/Etched/b09ced5f-c81a-4fbe-a85e-ed743c991e21",
-      "https://jobs.ashbyhq.com/Etched/b45e357c-07ea-4499-9911-1d3cc9b9ac71/application"
+      "https://jobs.ashbyhq.com/Etched/b45e357c-07ea-4499-9911-1d3cc9b9ac71/application",
+      "https://jobs.ashbyhq.com/Etched/f02e8035-7dc9-4b0c-aab7-75bbb4e975b8/application?embed=true"
     ]
   },
   {
@@ -16468,6 +16482,16 @@
     ]
   },
   {
+    "name": "novanta",
+    "ats": "workday",
+    "identifier": "novanta-novanta-careers",
+    "domain": "https://novanta.wd5.myworkdayjobs.com/Novanta-Careers",
+    "page": "https://novanta.wd5.myworkdayjobs.com/wday/cxs/novanta/Novanta-Careers/jobs",
+    "urls": [
+      "https://novanta.wd5.myworkdayjobs.com/Novanta-Careers/job/Apex-NC/Engineering-Co-op_R009487"
+    ]
+  },
+  {
     "name": "novatechengineering.applytojob.com",
     "ats": "custom",
     "identifier": "novatechengineering.applytojob.com",
@@ -17291,6 +17315,16 @@
     "page": "https://boards-api.greenhouse.io/v1/boards/parachutehealth/jobs",
     "urls": [
       "https://job-boards.greenhouse.io/parachutehealth/jobs/5152203007"
+    ]
+  },
+  {
+    "name": "pariveda",
+    "ats": "ashby",
+    "identifier": "pariveda",
+    "domain": "https://jobs.ashbyhq.com",
+    "page": "https://api.ashbyhq.com/posting-api/job-board/pariveda",
+    "urls": [
+      "https://jobs.ashbyhq.com/pariveda/cc4fc0be-c414-4aba-a15d-64daa03476a0/application?embed=true"
     ]
   },
   {
@@ -20582,6 +20616,16 @@
     "domain": "https://snyk.wd103.myworkdayjobs.com/external",
     "page": "https://snyk.wd103.myworkdayjobs.com/wday/cxs/snyk/external/jobs",
     "urls": []
+  },
+  {
+    "name": "Socotec",
+    "ats": "smartrecruiters",
+    "identifier": "Socotec",
+    "domain": "https://jobs.smartrecruiters.com",
+    "page": "https://api.smartrecruiters.com/v1/companies/Socotec/postings",
+    "urls": [
+      "https://jobs.smartrecruiters.com/Socotec/744000141326319"
+    ]
   },
   {
     "name": "socure",
