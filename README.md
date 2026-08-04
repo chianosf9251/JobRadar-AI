@@ -103,6 +103,20 @@
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Apply.careers.microsoft.com</td>
+      <td width="420" align="left" valign="top">Software Engineer: Security &amp; Identity Intern Opportunities for University Students, Redmond</td>
+      <td width="180" align="left" valign="top">Redmond, WA</td>
+      <td width="120" align="left" valign="top"><a href="https://apply.careers.microsoft.com/careers/job/1970393556922930?domain=microsoft.com&amp;8fold_id=1970393556922930" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">August 4</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">↳</td>
+      <td width="420" align="left" valign="top">Software Engineer: AI/ML &amp; LLM Intern Opportunities for University Students, Redmond</td>
+      <td width="180" align="left" valign="top">Redmond, WA</td>
+      <td width="120" align="left" valign="top"><a href="https://apply.careers.microsoft.com/careers/job/1970393556922929?domain=microsoft.com&amp;8fold_id=1970393556922929" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">August 4</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">ByteDance</td>
       <td width="420" align="left" valign="top">Software Engineer Intern, Distributed NoSQL Database Systems</td>
       <td width="180" align="left" valign="top">Seattle, WA</td>
@@ -1369,7 +1383,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-08-04T14:32:43.906Z</code>
+      🕒 Last updated <code>2026-08-04T15:29:35.900Z</code>
     </span>
   </p>
 </div>
