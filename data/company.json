@@ -1996,7 +1996,13 @@
       "https://apply.careers.microsoft.com/careers/job/1970393556922930",
       "https://apply.careers.microsoft.com/careers/job/1970393556951950",
       "https://apply.careers.microsoft.com/careers/job/1970393556951951",
-      "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0"
+      "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0",
+      "https://apply.careers.microsoft.com/careers/job/1970393556953113",
+      "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922922",
+      "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922923",
+      "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922929",
+      "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922930",
+      "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922931"
     ]
   },
   {
@@ -4194,7 +4200,8 @@
       "https://job-boards.greenhouse.io/botauto/jobs/5363495008",
       "https://job-boards.greenhouse.io/botauto/jobs/5370715008",
       "https://job-boards.greenhouse.io/botauto/jobs/5370716008",
-      "https://job-boards.greenhouse.io/botauto/jobs/5370717008"
+      "https://job-boards.greenhouse.io/botauto/jobs/5370717008",
+      "https://job-boards.greenhouse.io/botauto/jobs/5289440008"
     ]
   },
   {
@@ -4919,7 +4926,8 @@
       "https://careers.airbnb.com/positions/7902817?gh_jid=7902817",
       "https://careers.airbnb.com/positions/7945163?gh_jid=7945163",
       "https://careers.airbnb.com/positions/8070597?gh_jid=8070597",
-      "https://careers.airbnb.com/positions/8093038?gh_jid=8093038"
+      "https://careers.airbnb.com/positions/8093038?gh_jid=8093038",
+      "https://careers.datadoghq.com/detail/8023250/?gh_jid=8023250"
     ]
   },
   {
@@ -7551,8 +7559,7 @@
     "urls": [
       "https://careers.datadoghq.com/detail/6572669/?gh_jid=6572669",
       "https://careers.datadoghq.com/detail/6652564/?gh_jid=6652564",
-      "https://careers.datadoghq.com/detail/7194969/?gh_jid=7194969",
-      "https://careers.datadoghq.com/detail/8023250/?gh_jid=8023250"
+      "https://careers.datadoghq.com/detail/7194969/?gh_jid=7194969"
     ]
   },
   {
@@ -10513,6 +10520,7 @@
       "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/XMLNAME-2026-Fulltime----Radar-Systems-Engineer-I---Onsite_01861332",
       "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/XMLNAME-2026-Raytheon-Full-Time--Software-Engineer-I---Onsite-_01854272",
       "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-FULLERTON-676--1801-Hughes-Dr--BLDG-676/Software-Engineer-I---Onsite-_01857157",
+      "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-FULLERTON-676--1801-Hughes-Dr--BLDG-676/Software-Engineer-I--Onsite-_01864064",
       "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-FULLERTON-676--1801-Hughes-Dr--BLDG-676/Systems-Engineer---Algorithms--ONSITE-_01848116",
       "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Systems-Engineer-I---Electronic-Warfare_01852305",
       "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-PASADENA-4800-CUST--4800-Oak-Grove-Dr--OAK-GROVE-External-Site/Guidance--Navigation--and-Control-Analyst--Systems-Engineer---Onsite-_01861292",
@@ -10583,8 +10591,7 @@
       "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/XMLNAME-2026-Raytheon-Full-Time-Software-Engineer-I---EOIR-Advanced-Products-and-Solutions--Onsite-_01851718",
       "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineer-I--On-Site-_01862497",
       "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Systems-Engineer-I---Onsite_01863292",
-      "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/Warminster-Wiltshire/CAST-Systems-engineer_01856214",
-      "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-FULLERTON-676--1801-Hughes-Dr--BLDG-676/Software-Engineer-I--Onsite-_01864064"
+      "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/Warminster-Wiltshire/CAST-Systems-engineer_01856214"
     ]
   },
   {
@@ -12961,12 +12968,12 @@
       "https://jobs.bytedance.com/en/position/7667378931599214853/detail",
       "https://jobs.bytedance.com/en/position/7667876489597257989/detail",
       "https://jobs.bytedance.com/en/position/7667894766036322565/detail",
+      "https://jobs.bytedance.com/en/position/7668212952030841093/detail",
       "https://jobs.bytedance.com/en/position/7668371003554138421/detail",
       "https://jobs.bytedance.com/en/position/7668373268886161669/detail",
       "https://jobs.bytedance.com/en/position/7668374190764050741/detail",
       "https://jobs.bytedance.com/en/position/7668614787018393909/detail",
-      "https://jobs.bytedance.com/en/position/7668799020705679669/detail",
-      "https://jobs.bytedance.com/en/position/7668212952030841093/detail"
+      "https://jobs.bytedance.com/en/position/7668799020705679669/detail"
     ]
   },
   {
@@ -13390,7 +13397,9 @@
       "https://joinbytedance.com/search/7535953226975054098",
       "https://joinbytedance.com/search/7538139519473092882",
       "https://joinbytedance.com/search/7538139519473092882?spread=A3T3U6W",
-      "https://joinbytedance.com/search/7540025509111990546"
+      "https://joinbytedance.com/search/7540025509111990546",
+      "https://joinbytedance.com/search/7668374190764050741",
+      "https://joinbytedance.com/search/7668373268886161669"
     ]
   },
   {
@@ -15467,6 +15476,16 @@
       "https://mmc.wd1.myworkdayjobs.com/mmc/job/Manila---SixNEO/Operational-Excellence---AI-Data-Engineer_R_357384",
       "https://mmc.wd1.myworkdayjobs.com/mmc/job/Singapore---Marina-View/Intern--AI-Research-and-Development_R_344711-1",
       "https://mmc.wd1.myworkdayjobs.com/mmc/job/Washington---Conn-Ave-NW/Investment-Alternatives-Analyst---Infrastructure-Specialist_R_355579"
+    ]
+  },
+  {
+    "name": "modal",
+    "ats": "ashby",
+    "identifier": "modal",
+    "domain": "https://jobs.ashbyhq.com",
+    "page": "https://api.ashbyhq.com/posting-api/job-board/modal",
+    "urls": [
+      "https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a"
     ]
   },
   {
@@ -22779,6 +22798,7 @@
       "https://lifeattiktok.com/search/7667934635573692725",
       "https://lifeattiktok.com/search/7667934860749326645",
       "https://lifeattiktok.com/search/7667934860750063925",
+      "https://lifeattiktok.com/search/7667935150530840837",
       "https://lifeattiktok.com/search/7667935399050692917",
       "https://lifeattiktok.com/search/7667935565120112949",
       "https://lifeattiktok.com/search/7667935633764370741",
@@ -22810,14 +22830,13 @@
       "https://lifeattiktok.com/search/7668725183121000757",
       "https://lifeattiktok.com/search/7668834837268138293",
       "https://lifeattiktok.com/search/7668834837268416821",
+      "https://lifeattiktok.com/search/7668862422178318597",
       "https://lifeattiktok.com/search/7668879883938203957",
       "https://lifeattiktok.com/search/7668921505254410549",
       "https://lifeattiktok.com/search/7669705785962727733",
-      "https://lifeattiktok.com/search/7669711844487399685",
-      "https://lifeattiktok.com/search/7667935150530840837",
       "https://lifeattiktok.com/search/7669711026846058757",
+      "https://lifeattiktok.com/search/7669711844487399685",
       "https://lifeattiktok.com/search/7669712589169117445",
-      "https://lifeattiktok.com/search/7668862422178318597",
       "https://lifeattiktok.com/search/7669943120351906053"
     ]
   },
@@ -24880,6 +24899,16 @@
     "domain": "https://xylem.wd5.myworkdayjobs.com/xylem-careers",
     "page": "https://xylem.wd5.myworkdayjobs.com/wday/cxs/xylem/xylem-careers/jobs",
     "urls": []
+  },
+  {
+    "name": "yotta",
+    "ats": "ashby",
+    "identifier": "yotta",
+    "domain": "https://jobs.ashbyhq.com",
+    "page": "https://api.ashbyhq.com/posting-api/job-board/yotta",
+    "urls": [
+      "https://jobs.ashbyhq.com/yotta/09821a51-fbe6-42a7-a566-0d2b5d40fae3"
+    ]
   },
   {
     "name": "youcom",
