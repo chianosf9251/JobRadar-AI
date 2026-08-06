@@ -19,6 +19,13 @@ Every opportunity matching your current filters (country, category, citizenship/
   <tbody>
     <tr>
       <td width="180" align="left" valign="top">ByteDance</td>
+      <td width="420" align="left" valign="top">GPU/AI Application System Software Engineer Intern</td>
+      <td width="180" align="left" valign="top">San Jose, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://joinbytedance.com/search/7668464504736876853" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">August 6</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">↳</td>
       <td width="420" align="left" valign="top">Video/Image AI/ML Software Engineer Intern - Multimedia 🎓</td>
       <td width="180" align="left" valign="top">San Diego, CA</td>
       <td width="120" align="left" valign="top"><a href="https://jobs.bytedance.com/en/position/7670354329765464373/detail" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
@@ -1645,4 +1652,4 @@ Every opportunity matching your current filters (country, category, citizenship/
 
 ---
 
-📦 Generated from `opportunities.ndjson` &nbsp;•&nbsp; 🕒 Last updated `2026-08-06T08:54:03.742Z`
+📦 Generated from `opportunities.ndjson` &nbsp;•&nbsp; 🕒 Last updated `2026-08-06T14:27:15.259Z`
