@@ -622,6 +622,13 @@ Every opportunity matching your current filters (country, category, citizenship/
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Atoms</td>
+      <td width="420" align="left" valign="top">Software Engineer Intern - Winter 2027</td>
+      <td width="180" align="left" valign="top">New York, NY</td>
+      <td width="120" align="left" valign="top"><a href="https://job-boards.greenhouse.io/cssmerge/jobs/8687915002" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">August 6</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Apply.careers.microsoft.com</td>
       <td width="420" align="left" valign="top">Software Engineer - Gears of War - The Coalition: Internship Opportunities</td>
       <td width="180" align="left" valign="top">Vancouver, BC</td>
@@ -770,6 +777,13 @@ Every opportunity matching your current filters (country, category, citizenship/
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td width="180" align="left" valign="top">Atoms</td>
+      <td width="420" align="left" valign="top">Software Engineer New Grad</td>
+      <td width="180" align="left" valign="top">New York, NY</td>
+      <td width="120" align="left" valign="top"><a href="https://job-boards.greenhouse.io/cssmerge/jobs/8687930002" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">August 6</td>
+    </tr>
     <tr>
       <td width="180" align="left" valign="top">Salesforce</td>
       <td width="420" align="left" valign="top">Software Engineering AMTS (College Grad)</td>
@@ -1659,4 +1673,4 @@ Every opportunity matching your current filters (country, category, citizenship/
 
 ---
 
-📦 Generated from `opportunities.ndjson` &nbsp;•&nbsp; 🕒 Last updated `2026-08-06T15:17:58.363Z`
+📦 Generated from `opportunities.ndjson` &nbsp;•&nbsp; 🕒 Last updated `2026-08-07T00:45:51.193Z`

@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20Parsed-google%20%2F%20gemini--3.1--flash--lite-blue" />
   <img src="https://img.shields.io/badge/Countries-USA%20%C2%B7%20Canada%20%C2%B7%20Taiwan%20%C2%B7%20Remote-green" />
-  <img src="https://img.shields.io/badge/Updated-2026--08--06-orange" />
+  <img src="https://img.shields.io/badge/Updated-2026--08--07-orange" />
   <img src="https://img.shields.io/badge/License-MIT-yellow" />
 </p>
 
@@ -613,34 +613,6 @@
       <td width="120" align="left" valign="top"><a href="https://www.jumptrading.com/hr/job?gh_jid=8052338" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
       <td width="100" align="left" valign="top">July 8</td>
     </tr>
-    <tr>
-      <td width="180" align="left" valign="top">DE Shaw</td>
-      <td width="420" align="left" valign="top">Software Developer Intern</td>
-      <td width="180" align="left" valign="top">New York, NY</td>
-      <td width="120" align="left" valign="top"><a href="https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">July 7</td>
-    </tr>
-    <tr>
-      <td width="180" align="left" valign="top">IMC</td>
-      <td width="420" align="left" valign="top">Software Engineer Intern</td>
-      <td width="180" align="left" valign="top">Chicago, IL</td>
-      <td width="120" align="left" valign="top"><a href="https://www.imc.com/us/careers/jobs/4823924101" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">July 7</td>
-    </tr>
-    <tr>
-      <td width="180" align="left" valign="top">Optiver</td>
-      <td width="420" align="left" valign="top">Software Engineer Intern</td>
-      <td width="180" align="left" valign="top">Austin, TX</td>
-      <td width="120" align="left" valign="top"><a href="https://www.optiver.com/join-us/jobs/technology/austin/software-engineer-intern-summer-2027-austin/" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">July 7</td>
-    </tr>
-    <tr>
-      <td width="180" align="left" valign="top">↳</td>
-      <td width="420" align="left" valign="top">Software Engineer Intern</td>
-      <td width="180" align="left" valign="top">Chicago, IL</td>
-      <td width="120" align="left" valign="top"><a href="https://www.optiver.com/join-us/jobs/technology/chicago/software-engineer-intern-summer-2027-chicago/" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">July 7</td>
-    </tr>
   </tbody>
 </table>
 
@@ -657,6 +629,13 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td width="180" align="left" valign="top">Atoms</td>
+      <td width="420" align="left" valign="top">Software Engineer Intern - Winter 2027</td>
+      <td width="180" align="left" valign="top">New York, NY</td>
+      <td width="120" align="left" valign="top"><a href="https://job-boards.greenhouse.io/cssmerge/jobs/8687915002" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">August 6</td>
+    </tr>
     <tr>
       <td width="180" align="left" valign="top">Apply.careers.microsoft.com</td>
       <td width="420" align="left" valign="top">Software Engineer - Gears of War - The Coalition: Internship Opportunities</td>
@@ -769,13 +748,6 @@
       <td width="120" align="left" valign="top"><a href="https://lifeattiktok.com/search/7659527183984019765" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
       <td width="100" align="left" valign="top">July 8</td>
     </tr>
-    <tr>
-      <td width="180" align="left" valign="top">Amgen</td>
-      <td width="420" align="left" valign="top">Software Engineer Co-op - Multiple Teams</td>
-      <td width="180" align="left" valign="top">Burnaby, BC</td>
-      <td width="120" align="left" valign="top"><a href="https://amgen.wd1.myworkdayjobs.com/careers/job/Canada---Burnaby/Undergraduate--Co-op-Student---Software-Engineer---Large-Molecule-Discovery---Technology_R-249424" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">July 7</td>
-    </tr>
   </tbody>
 </table>
 
@@ -792,6 +764,13 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td width="180" align="left" valign="top">Atoms</td>
+      <td width="420" align="left" valign="top">Software Engineer New Grad</td>
+      <td width="180" align="left" valign="top">New York, NY</td>
+      <td width="120" align="left" valign="top"><a href="https://job-boards.greenhouse.io/cssmerge/jobs/8687930002" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">August 6</td>
+    </tr>
     <tr>
       <td width="180" align="left" valign="top">Salesforce</td>
       <td width="420" align="left" valign="top">Software Engineering AMTS (College Grad)</td>
@@ -1485,27 +1464,6 @@
       <td width="120" align="left" valign="top"><a href="https://www.jumptrading.com/hr/job?gh_jid=8052343" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
       <td width="100" align="left" valign="top">July 8</td>
     </tr>
-    <tr>
-      <td width="180" align="left" valign="top">SimpliSafe</td>
-      <td width="420" align="left" valign="top">Software Engineer 1 - Device Control</td>
-      <td width="180" align="left" valign="top">Boston, MA</td>
-      <td width="120" align="left" valign="top"><a href="https://job-boards.greenhouse.io/simplisafe/jobs/8049515" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">July 7</td>
-    </tr>
-    <tr>
-      <td width="180" align="left" valign="top">Oracle</td>
-      <td width="420" align="left" valign="top">[Remote] Machine Learning Engineer</td>
-      <td width="180" align="left" valign="top">Remote</td>
-      <td width="120" align="left" valign="top"><a href="https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334693" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">July 7</td>
-    </tr>
-    <tr>
-      <td width="180" align="left" valign="top">Cerebras</td>
-      <td width="420" align="left" valign="top">Software Engineer New Grad</td>
-      <td width="180" align="left" valign="top">Toronto, ON</td>
-      <td width="120" align="left" valign="top"><a href="https://jobs.ashbyhq.com/cerebras/99c289fa-8fc6-49f7-b7e8-78ac4e9d99ac/application" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">July 7</td>
-    </tr>
   </tbody>
 </table>
 
@@ -1530,7 +1488,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-08-06T15:17:58.363Z</code>
+      🕒 Last updated <code>2026-08-07T00:45:51.193Z</code>
     </span>
   </p>
 </div>
