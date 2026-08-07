@@ -1044,6 +1044,17 @@
     ]
   },
   {
+    "name": "ameren",
+    "ats": "workday",
+    "identifier": "ameren-external",
+    "domain": "https://ameren.wd1.myworkdayjobs.com/External",
+    "page": "https://ameren.wd1.myworkdayjobs.com/wday/cxs/ameren/External/jobs",
+    "urls": [
+      "https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/DERMS-Co-Op-Intern_033809-1",
+      "https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Digital-Co-op_033841-1"
+    ]
+  },
+  {
     "name": "American Express",
     "ats": "oraclecloud",
     "identifier": "egug.fa.us2.oraclecloud.com",
@@ -3576,7 +3587,9 @@
     "identifier": "belvederetrading",
     "domain": "https://jobs.lever.co",
     "page": "https://api.lever.co/v0/postings/belvederetrading?mode=json",
-    "urls": []
+    "urls": [
+      "https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0/apply"
+    ]
   },
   {
     "name": "benchling",
@@ -10946,7 +10959,9 @@
       "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/XMLNAME-2027-Conversion-Software-Engineer-I--Onsite-_01858534",
       "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-VA-DULLES-710--22110-Pacific-Blvd--BLDG-10/Software-Engineer-I--On-Site--_01862276",
       "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-VA-DULLES-710--22110-Pacific-Blvd--BLDG-10/Software-Engineer-I--On-Site-_01860803",
-      "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/Warminster-Wiltshire/Principle-Training-Systems-Engineer_01851984"
+      "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/Warminster-Wiltshire/Principle-Training-Systems-Engineer_01851984",
+      "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Intern-Conversion--Systems-Engineer-I--Onsite-_01863596",
+      "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Intern-Conversion--Systems-Engineer-I--Onsite-_01863190"
     ]
   },
   {
@@ -19875,8 +19890,8 @@
     "urls": [
       "https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Application-Development_JR101348",
       "https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Application-Development_JR101349",
-      "https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Systems-Engineer_JR101379",
-      "https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Application-Development_JR101382"
+      "https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Application-Development_JR101382",
+      "https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Systems-Engineer_JR101379"
     ]
   },
   {
