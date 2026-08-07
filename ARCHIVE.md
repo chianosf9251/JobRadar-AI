@@ -18,6 +18,20 @@ Every opportunity matching your current filters (country, category, citizenship/
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">TikTok</td>
+      <td width="420" align="left" valign="top">ML Infra Engineer Intern (Ads Infra) - 2027 Summer</td>
+      <td width="180" align="left" valign="top">San Jose, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://lifeattiktok.com/search/7668881813744191749" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">August 6</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">↳</td>
+      <td width="420" align="left" valign="top">Machine Learning Engineer Intern (Commercial AI-CRM and Transaction) - 2027 Summer</td>
+      <td width="180" align="left" valign="top">San Jose, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://lifeattiktok.com/search/7669702702763018501" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">August 6</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">ByteDance</td>
       <td width="420" align="left" valign="top">GPU/AI Application System Software Engineer Intern</td>
       <td width="180" align="left" valign="top">San Jose, CA</td>
@@ -622,6 +636,13 @@ Every opportunity matching your current filters (country, category, citizenship/
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Apply.careers.microsoft.com</td>
+      <td width="420" align="left" valign="top">Software Engineer - Gears of War - The Coalition: Internship Opportunities</td>
+      <td width="180" align="left" valign="top">Vancouver, BC</td>
+      <td width="120" align="left" valign="top"><a href="https://apply.careers.microsoft.com/careers/job/1970393556956276?domain=microsoft.com&amp;8fold_id=1970393556956276" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">August 6</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Atoms</td>
       <td width="420" align="left" valign="top">Software Engineer Intern - Winter 2027</td>
       <td width="180" align="left" valign="top">New York, NY</td>
@@ -777,6 +798,27 @@ Every opportunity matching your current filters (country, category, citizenship/
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td width="180" align="left" valign="top">TikTok</td>
+      <td width="420" align="left" valign="top">Software Engineer Graduate (Global E-commerce-Search) - 2027 Start</td>
+      <td width="180" align="left" valign="top">Seattle, WA</td>
+      <td width="120" align="left" valign="top"><a href="https://lifeattiktok.com/search/7670558992960358661" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">August 6</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">↳</td>
+      <td width="420" align="left" valign="top">(General Hire) Machine Learning Engineer Graduate (Performance Monetization) - 2027 Start (PhD)</td>
+      <td width="180" align="left" valign="top">San Jose, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://lifeattiktok.com/search/7669691057987520773" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">August 6</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Chamberlain</td>
+      <td width="420" align="left" valign="top">Software Engineer I - AI</td>
+      <td width="180" align="left" valign="top">Oak Brook, IL</td>
+      <td width="120" align="left" valign="top"><a href="https://chamberlain.wd1.myworkdayjobs.com/chamberlain_group/job/Oak-Brook-IL/Software-Engineer-I---AI_JR30291" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">August 6</td>
+    </tr>
     <tr>
       <td width="180" align="left" valign="top">Atoms</td>
       <td width="420" align="left" valign="top">Software Engineer New Grad</td>
@@ -1673,4 +1715,4 @@ Every opportunity matching your current filters (country, category, citizenship/
 
 ---
 
-📦 Generated from `opportunities.ndjson` &nbsp;•&nbsp; 🕒 Last updated `2026-08-07T00:45:51.193Z`
+📦 Generated from `opportunities.ndjson` &nbsp;•&nbsp; 🕒 Last updated `2026-08-07T01:48:42.543Z`
