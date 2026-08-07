@@ -2130,7 +2130,8 @@
       "https://apply.workable.com/pony-dot-ai/j/4C1F53EF5D/",
       "https://apply.workable.com/pony-dot-ai/j/BA5FFDBC71/",
       "https://apply.workable.com/texas-sports-academy-main/j/2132C3AB96/apply",
-      "https://apply.workable.com/texas-sports-academy-main/j/CC2A1186D4/apply"
+      "https://apply.workable.com/texas-sports-academy-main/j/CC2A1186D4/apply",
+      "https://apply.workable.com/interimage/j/35ED59E021/apply"
     ]
   },
   {
@@ -13523,8 +13524,8 @@
       "https://jobs.bytedance.com/en/position/7669789046777940229/detail",
       "https://jobs.bytedance.com/en/position/7670354329765464373/detail",
       "https://jobs.bytedance.com/en/position/7670690923748870405/detail",
-      "https://jobs.bytedance.com/en/position/7670778018960542005/detail",
-      "https://jobs.bytedance.com/en/position/7670772641439041797/detail"
+      "https://jobs.bytedance.com/en/position/7670772641439041797/detail",
+      "https://jobs.bytedance.com/en/position/7670778018960542005/detail"
     ]
   },
   {
@@ -23040,6 +23041,16 @@
     ]
   },
   {
+    "name": "terranova",
+    "ats": "ashby",
+    "identifier": "terranova",
+    "domain": "https://jobs.ashbyhq.com",
+    "page": "https://api.ashbyhq.com/posting-api/job-board/terranova",
+    "urls": [
+      "https://jobs.ashbyhq.com/terranova/a8e5a8d2-4af3-4736-b66e-e0804447f7a0/application?embed=true"
+    ]
+  },
+  {
     "name": "tesla.com",
     "ats": "custom",
     "identifier": "tesla.com",
@@ -23597,6 +23608,7 @@
       "https://lifeattiktok.com/search/7660826708283738421",
       "https://lifeattiktok.com/search/7661940129289947397",
       "https://lifeattiktok.com/search/7662216018282023173",
+      "https://lifeattiktok.com/search/7662594807715072261",
       "https://lifeattiktok.com/search/7662684280234232117",
       "https://lifeattiktok.com/search/7662700594251958581",
       "https://lifeattiktok.com/search/7663001893392632069",
@@ -23694,8 +23706,7 @@
       "https://lifeattiktok.com/search/7670295535077427509",
       "https://lifeattiktok.com/search/7670558992960358661",
       "https://lifeattiktok.com/search/7670700387322300677",
-      "https://lifeattiktok.com/search/7670738362521520437",
-      "https://lifeattiktok.com/search/7662594807715072261"
+      "https://lifeattiktok.com/search/7670738362521520437"
     ]
   },
   {
