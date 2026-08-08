@@ -2163,7 +2163,10 @@
       "https://apply.workable.com/pony-dot-ai/j/4C1F53EF5D/",
       "https://apply.workable.com/pony-dot-ai/j/BA5FFDBC71/",
       "https://apply.workable.com/texas-sports-academy-main/j/2132C3AB96/apply",
-      "https://apply.workable.com/texas-sports-academy-main/j/CC2A1186D4/apply"
+      "https://apply.workable.com/texas-sports-academy-main/j/CC2A1186D4/apply",
+      "https://apply.workable.com/pronexus-1/j/AF8C34AC6D/apply",
+      "https://apply.workable.com/arondite/j/5C5C551ADA/apply",
+      "https://apply.workable.com/homey/j/50DF9B3D53/apply"
     ]
   },
   {
@@ -2718,9 +2721,11 @@
     "name": "autodesk",
     "ats": "workday",
     "identifier": "autodesk-ext",
-    "domain": "https://autodesk.wd1.myworkdayjobs.com/ext",
-    "page": "https://autodesk.wd1.myworkdayjobs.com/wday/cxs/autodesk/ext/jobs",
+    "domain": "https://autodesk.wd1.myworkdayjobs.com/Ext",
+    "page": "https://autodesk.wd1.myworkdayjobs.com/wday/cxs/autodesk/Ext/jobs",
     "urls": [
+      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer---FCAP_26WD100406-2",
+      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD100400",
       "https://autodesk.wd1.myworkdayjobs.com/ext/job/APAC---India---Pune---ABIL-Boulevard/Software-Engineer--C----CAD-CAM-_26WD99923-1",
       "https://autodesk.wd1.myworkdayjobs.com/ext/job/Bengaluru-IND/Software-Engineer_26WD99323-2",
       "https://autodesk.wd1.myworkdayjobs.com/ext/job/Birmingham-GBR/Software-Engineer_26WD99922-1",
@@ -2738,9 +2743,7 @@
       "https://autodesk.wd1.myworkdayjobs.com/ext/job/Singapore-SGP/Software-Engineer_26WD100229-1",
       "https://autodesk.wd1.myworkdayjobs.com/ext/job/Toronto-ON-CAN/Machine-Learning-Engineer-3D-Geometry---Multimodal-AI--Toronto--Canada_26WD99904",
       "https://autodesk.wd1.myworkdayjobs.com/ext/job/Toronto-ON-CAN/Software-Developer--Agentic-Evaluation-_26WD96920-1",
-      "https://autodesk.wd1.myworkdayjobs.com/ext/job/Toronto-ON-CAN/Software-Developer--MCP-AI_26WD99364-1",
-      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD100400",
-      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer---FCAP_26WD100406-2"
+      "https://autodesk.wd1.myworkdayjobs.com/ext/job/Toronto-ON-CAN/Software-Developer--MCP-AI_26WD99364-1"
     ]
   },
   {
@@ -2751,13 +2754,13 @@
     "page": "https://autodesk.wd1.myworkdayjobs.com/wday/cxs/autodesk/uni/jobs",
     "urls": [
       "https://autodesk.wd1.myworkdayjobs.com/uni/job/AMER---United-States---Michigan---Novi/Intern--Model-Based-Systems-Engineering_26WD94900-2",
+      "https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer---FCAP_26WD100406-1",
+      "https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD100400-3",
       "https://autodesk.wd1.myworkdayjobs.com/uni/job/Norway---Oslo/Graduate-Software-Engineer_26WD100002-3",
       "https://autodesk.wd1.myworkdayjobs.com/uni/job/Norway---Oslo/Software-Engineering-Intern-Summer-2027_26WD100046-3",
       "https://autodesk.wd1.myworkdayjobs.com/uni/job/Quebec-CAN---Remote/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD98603-1",
       "https://autodesk.wd1.myworkdayjobs.com/uni/job/Quebec-CAN---Remote/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD99464-1",
-      "https://autodesk.wd1.myworkdayjobs.com/uni/job/Singapore-SGP/Software-Engineer-in-Test---AutoCAD_26WD100040",
-      "https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer---FCAP_26WD100406-1",
-      "https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD100400-3"
+      "https://autodesk.wd1.myworkdayjobs.com/uni/job/Singapore-SGP/Software-Engineer-in-Test---AutoCAD_26WD100040"
     ]
   },
   {
@@ -13686,7 +13689,8 @@
       "https://jobs.bytedance.com/en/position/7670354329765464373/detail",
       "https://jobs.bytedance.com/en/position/7670690923748870405/detail",
       "https://jobs.bytedance.com/en/position/7670772641439041797/detail",
-      "https://jobs.bytedance.com/en/position/7670778018960542005/detail"
+      "https://jobs.bytedance.com/en/position/7670778018960542005/detail",
+      "https://jobs.bytedance.com/en/position/7671147251943213317/detail"
     ]
   },
   {
