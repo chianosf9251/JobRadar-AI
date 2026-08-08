@@ -88,7 +88,8 @@
       "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Portugal---Porto/Sr-Software-Engineer----iSens---Porto_31156949",
       "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Pleasanton/Systems-Engineer-I_31157404",
       "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---St-Paul/Product-Performance-Analyst-I_31157263-1",
-      "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---St-Paul/Product-Performance-Analyst-I_31157318-1"
+      "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---St-Paul/Product-Performance-Analyst-I_31157318-1",
+      "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Texas---Irving/Associate-Software-Engineer_31158107-1"
     ]
   },
   {
@@ -2025,7 +2026,15 @@
       "https://jobs.apple.com/en-us/details/200676528-0157/distributed-systems-software-engineer-golang?team=SFTWR",
       "https://jobs.apple.com/en-us/details/200676528-3543/distributed-systems-software-engineer-golang?team=SFTWR",
       "https://jobs.apple.com/en-us/details/200676664-0836/generative-ai-applied-scientist-siml-ise?team=MLAI",
-      "https://jobs.apple.com/en-us/details/200676680-0836/ux-designer-xcode-ai-developer-tools?team=SFTWR"
+      "https://jobs.apple.com/en-us/details/200676680-0836/ux-designer-xcode-ai-developer-tools?team=SFTWR",
+      "https://jobs.apple.com/en-us/details/200676277-3715/site-reliability-engineer-etl-platform-is-t-ai-data-platforms?team=SFTWR",
+      "https://jobs.apple.com/en-us/details/200675994-3715/software-engineer-data-services-is-t-ai-data-platforms?team=SFTWR",
+      "https://jobs.apple.com/en-us/details/200675980-3715/software-engineer-data-services-is-t-ai-data-platforms?team=SFTWR",
+      "https://jobs.apple.com/en-us/details/200675974-3715/software-engineer-athena-synapse-is-t-ai-data-platforms?team=SFTWR",
+      "https://jobs.apple.com/en-us/details/200675981-3715/software-engineer-data-services-is-t-ai-data-platforms?team=SFTWR",
+      "https://jobs.apple.com/en-us/details/200675984-3715/software-engineer-data-services-is-t-ai-data-platforms?team=SFTWR",
+      "https://jobs.apple.com/en-us/details/200675988-3715/software-engineer-data-services-is-t-ai-data-platforms?team=SFTWR",
+      "https://jobs.apple.com/en-us/details/200675992-3715/software-engineer-data-services-is-t-ai-data-platforms?team=SFTWR"
     ]
   },
   {
@@ -3432,7 +3441,8 @@
       "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Pune-Gera-Commerzone-SEZ/Software-Engineer_JR-0000121835",
       "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Pune-Gera-Commerzone-SEZ/Software-engineer_JR-0000093875",
       "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Pune-Gera-Commerzone-SEZ/Software-engineer_JR-0000100382",
-      "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Pune-Gera-Commerzone-SEZ/Technical-Product-Owner_JR-0000085514"
+      "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Pune-Gera-Commerzone-SEZ/Technical-Product-Owner_JR-0000085514",
+      "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Pune-Gera-Commerzone-SEZ/Software-Engineer_JR-0000105558-1"
     ]
   },
   {
@@ -6312,7 +6322,8 @@
       "https://careers.usbank.com/global/en/job/2026-0022352?ph_id=2026-0022352",
       "https://careers.usbank.com/global/en/job/2026-0022668?ph_id=2026-0022668",
       "https://careers.usbank.com/global/en/job/2026-0023200?ph_id=2026-0023200",
-      "https://careers.usbank.com/global/en/job/2026-0024257?ph_id=2026-0024257"
+      "https://careers.usbank.com/global/en/job/2026-0024257?ph_id=2026-0024257",
+      "https://careers.usbank.com/global/en/job/2026-0018795?ph_id=2026-0018795"
     ]
   },
   {
@@ -9819,7 +9830,9 @@
     "identifier": "fermilab-fermilabcareers",
     "domain": "https://fermilab.wd5.myworkdayjobs.com/fermilabcareers",
     "page": "https://fermilab.wd5.myworkdayjobs.com/wday/cxs/fermilab/fermilabcareers/jobs",
-    "urls": []
+    "urls": [
+      "https://fermilab.wd5.myworkdayjobs.com/fermilabcareers/job/Batavia/Power-Distribution-and-Cable-Management-Systems-Engineer_R_009776"
+    ]
   },
   {
     "name": "ffive",
@@ -17697,7 +17710,8 @@
       "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/System-Software-Engineer--GPU-Development-Tools_JR2015188",
       "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/System-Software-Engineer--GPU-Development-Tools_JR2016197",
       "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-MA-Westford/Software-Engineer---DPU-Platform_JR2015949-1",
-      "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-MO-St-Louis/Performance-Engineer-Intern--Systems-Software---Fall-2026_JR2015779"
+      "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-MO-St-Louis/Performance-Engineer-Intern--Systems-Software---Fall-2026_JR2015779",
+      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/HPC-Middleware-Developer_JR2020918"
     ]
   },
   {
@@ -18968,7 +18982,8 @@
     "page": "https://polaris.wd5.myworkdayjobs.com/wday/cxs/polaris/polarisjobs/jobs",
     "urls": [
       "https://polaris.wd5.myworkdayjobs.com/polarisjobs/job/Monterrey-Nuevo-Len-Mexico/Software-Engineer--Blue-Yonder-WMS-_R30074",
-      "https://polaris.wd5.myworkdayjobs.com/polarisjobs/job/Wyoming-MN-USA/Project-Engineer----Vehicle-Electronics---Software-_R29971"
+      "https://polaris.wd5.myworkdayjobs.com/polarisjobs/job/Wyoming-MN-USA/Project-Engineer----Vehicle-Electronics---Software-_R29971",
+      "https://polaris.wd5.myworkdayjobs.com/polarisjobs/job/Medina-MN-USA/Digital---IT-Leadership-Development-Program-Associate---Infrastructure---Information-Security_R30563"
     ]
   },
   {
@@ -20511,7 +20526,9 @@
       "https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/Washington---Bellevue/Software-Engineering-SMTS--Enterprise-IAM_JR353197",
       "https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/Washington---Bellevue/Software-Engineering-SMTS-LMTS_JR352971",
       "https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/Washington---Bellevue/Software-Engineering-SMTS_JR352082-1",
-      "https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/Washington---Seattle/Software-Engineering-SMTS_JR346962"
+      "https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/Washington---Seattle/Software-Engineering-SMTS_JR346962",
+      "https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/Canada---Toronto/Software-Engineering-SMTS_JR353515",
+      "https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/Washington---Bellevue/Software-Engineering-MTS_JR354808"
     ]
   },
   {
@@ -23292,9 +23309,9 @@
     "urls": [
       "https://www.tesla.com/careers/search/job/244786?source=Indeed&source=Indeed&tags=organicjob",
       "https://www.tesla.com/careers/search/job/244845?source=Indeed&source=Indeed&tags=organicjob",
-      "https://www.tesla.com/careers/search/job/internship-localization-specialist-it-applications-fall-2026-276308",
       "https://www.tesla.com/careers/search/job/247989?source=Indeed&source=Indeed&tags=organicjob",
-      "https://www.tesla.com/careers/search/job/247990"
+      "https://www.tesla.com/careers/search/job/247990",
+      "https://www.tesla.com/careers/search/job/internship-localization-specialist-it-applications-fall-2026-276308"
     ]
   },
   {
