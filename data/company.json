@@ -2158,15 +2158,15 @@
     "domain": "https://apply.workable.com",
     "page": "",
     "urls": [
+      "https://apply.workable.com/arondite/j/5C5C551ADA/apply",
+      "https://apply.workable.com/homey/j/50DF9B3D53/apply",
       "https://apply.workable.com/hyperlight/j/5581EA0668/",
       "https://apply.workable.com/interimage/j/35ED59E021/apply",
       "https://apply.workable.com/pony-dot-ai/j/4C1F53EF5D/",
       "https://apply.workable.com/pony-dot-ai/j/BA5FFDBC71/",
-      "https://apply.workable.com/texas-sports-academy-main/j/2132C3AB96/apply",
-      "https://apply.workable.com/texas-sports-academy-main/j/CC2A1186D4/apply",
       "https://apply.workable.com/pronexus-1/j/AF8C34AC6D/apply",
-      "https://apply.workable.com/arondite/j/5C5C551ADA/apply",
-      "https://apply.workable.com/homey/j/50DF9B3D53/apply"
+      "https://apply.workable.com/texas-sports-academy-main/j/2132C3AB96/apply",
+      "https://apply.workable.com/texas-sports-academy-main/j/CC2A1186D4/apply"
     ]
   },
   {
@@ -23292,7 +23292,9 @@
     "urls": [
       "https://www.tesla.com/careers/search/job/244786?source=Indeed&source=Indeed&tags=organicjob",
       "https://www.tesla.com/careers/search/job/244845?source=Indeed&source=Indeed&tags=organicjob",
-      "https://www.tesla.com/careers/search/job/internship-localization-specialist-it-applications-fall-2026-276308"
+      "https://www.tesla.com/careers/search/job/internship-localization-specialist-it-applications-fall-2026-276308",
+      "https://www.tesla.com/careers/search/job/247989?source=Indeed&source=Indeed&tags=organicjob",
+      "https://www.tesla.com/careers/search/job/247990"
     ]
   },
   {
