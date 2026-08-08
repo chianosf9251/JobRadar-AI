@@ -1499,20 +1499,6 @@
       <td width="120" align="left" valign="top"><a href="https://www.google.com/about/careers/applications/jobs/results/113881960924750534-hardware-validation-engineer-cloud-platforms?sort_by=date&amp;page=1" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
       <td width="100" align="left" valign="top">July 10</td>
     </tr>
-    <tr>
-      <td width="180" align="left" valign="top">Cadence</td>
-      <td width="420" align="left" valign="top">Software Engineer, New College Grad 2026 (Undergrads)</td>
-      <td width="180" align="left" valign="top">Burlington, MA</td>
-      <td width="120" align="left" valign="top"><a href="https://cadence.wd1.myworkdayjobs.com/university_talent/job/Burlington-MA/Software-Engineer--New-College-Grad-2026--Undergrads-_R54894" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">July 9</td>
-    </tr>
-    <tr>
-      <td width="180" align="left" valign="top">↳</td>
-      <td width="420" align="left" valign="top">Software Engineer, New College Grad 2026 (Undergrads)</td>
-      <td width="180" align="left" valign="top">Burlington, MA</td>
-      <td width="120" align="left" valign="top"><a href="https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/Burlington-MA/Software-Engineer--New-College-Grad-2026--Undergrads-_R54894-1" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">July 9</td>
-    </tr>
   </tbody>
 </table>
 
@@ -1537,7 +1523,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-08-08T13:48:24.806Z</code>
+      🕒 Last updated <code>2026-08-08T23:26:21.885Z</code>
     </span>
   </p>
 </div>
