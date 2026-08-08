@@ -1785,4 +1785,4 @@ Every opportunity matching your current filters (country, category, citizenship/
 
 ---
 
-📦 Generated from `opportunities.ndjson` &nbsp;•&nbsp; 🕒 Last updated `2026-08-08T02:03:21.783Z`
+📦 Generated from `opportunities.ndjson` &nbsp;•&nbsp; 🕒 Last updated `2026-08-08T07:07:09.068Z`
