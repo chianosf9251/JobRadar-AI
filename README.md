@@ -103,6 +103,13 @@
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">TikTok</td>
+      <td width="420" align="left" valign="top">Software Engineer Intern - Global E-commerce-Search</td>
+      <td width="180" align="left" valign="top">Seattle, WA</td>
+      <td width="120" align="left" valign="top"><a href="https://lifeattiktok.com/search/7670839727059339525" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">August 10</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Open Roles</td>
       <td width="420" align="left" valign="top">Software Engineer Intern - Summer 2027</td>
       <td width="180" align="left" valign="top">New York, NY</td>
@@ -1418,7 +1425,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-08-10T14:26:04.197Z</code>
+      🕒 Last updated <code>2026-08-10T15:10:11.752Z</code>
     </span>
   </p>
 </div>
