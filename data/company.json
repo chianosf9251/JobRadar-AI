@@ -7724,7 +7724,8 @@
       "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Overland-Park-KS/Sr-Software-Engineer_R202680586",
       "https://cox.wd1.myworkdayjobs.com/cox_external_career_site_1/job/Atlanta-GA/Software-Engineer-I_R202679352",
       "https://cox.wd1.myworkdayjobs.com/cox_external_career_site_1/job/Atlanta-GA/Sr-Software-Engineer---Mobile-Development_R202678612",
-      "https://cox.wd1.myworkdayjobs.com/cox_external_career_site_1/job/Burlington-VT/Entry-Level-Software-Engineer--Burlington--VT-_R202679034"
+      "https://cox.wd1.myworkdayjobs.com/cox_external_career_site_1/job/Burlington-VT/Entry-Level-Software-Engineer--Burlington--VT-_R202679034",
+      "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Carmel-IN/Entry-Level-Software-Engineer-Carmel--IN_R202680859"
     ]
   },
   {
@@ -10185,8 +10186,8 @@
     "urls": [
       "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Goleta-CA/Test-Engineer_REQ29265",
       "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/AI-Solution-Analyst_REQ33421",
-      "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Wilsonville-OR/Sr-EO-IR-Systems-Engineer_REQ35068",
-      "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/Jr-Software-Engineer_REQ36188"
+      "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/Jr-Software-Engineer_REQ36188",
+      "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Wilsonville-OR/Sr-EO-IR-Systems-Engineer_REQ35068"
     ]
   },
   {
@@ -13025,6 +13026,16 @@
     "urls": []
   },
   {
+    "name": "ing",
+    "ats": "workday",
+    "identifier": "ing-icsgblcor",
+    "domain": "https://ing.wd3.myworkdayjobs.com/icsgblcor",
+    "page": "https://ing.wd3.myworkdayjobs.com/wday/cxs/ing/icsgblcor/jobs",
+    "urls": [
+      "https://ing.wd3.myworkdayjobs.com/icsgblcor/job/New-York/Summer-2027-Internship---Tech--Innovation-_REQ-10119619"
+    ]
+  },
+  {
     "name": "ingrammicro",
     "ats": "workday",
     "identifier": "ingrammicro-ingrammicro",
@@ -15301,6 +15312,16 @@
       "https://lplfinancial.wd1.myworkdayjobs.com/external/job/Fort-MillCharlotte/Sr-AI-Platform-Engineer---Agent-Integration---Tool_R-051529",
       "https://lplfinancial.wd1.myworkdayjobs.com/external/job/Fort-MillCharlotte/Sr-AI-Platform-Engineer---Retrieval---Knowledge-Systems_R-051530",
       "https://lplfinancial.wd1.myworkdayjobs.com/external/job/Fort-MillCharlotte/VPII-of-Software-Engineering-Delivery_R-051136"
+    ]
+  },
+  {
+    "name": "lplfinancial",
+    "ats": "workday",
+    "identifier": "lplfinancial-university",
+    "domain": "https://lplfinancial.wd1.myworkdayjobs.com/university",
+    "page": "https://lplfinancial.wd1.myworkdayjobs.com/wday/cxs/lplfinancial/university/jobs",
+    "urls": [
+      "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/New-Grad-2027---Software-Engineering_R-052475"
     ]
   },
   {
@@ -24503,9 +24524,11 @@
     "name": "truist",
     "ats": "workday",
     "identifier": "truist-careers",
-    "domain": "https://truist.wd1.myworkdayjobs.com/careers",
-    "page": "https://truist.wd1.myworkdayjobs.com/wday/cxs/truist/careers/jobs",
-    "urls": []
+    "domain": "https://truist.wd1.myworkdayjobs.com/Careers",
+    "page": "https://truist.wd1.myworkdayjobs.com/wday/cxs/truist/Careers/jobs",
+    "urls": [
+      "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/XMLNAME-2027-Technology--Data--and-Operations-Internship---Intern-Conversion-_R0117276"
+    ]
   },
   {
     "name": "trumid",
