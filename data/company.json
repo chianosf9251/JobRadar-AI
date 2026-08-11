@@ -1243,6 +1243,20 @@
     ]
   },
   {
+    "name": "analyticpartners",
+    "ats": "lever",
+    "identifier": "analyticpartners",
+    "domain": "https://jobs.lever.co",
+    "page": "https://api.lever.co/v0/postings/analyticpartners?mode=json",
+    "urls": [
+      "https://jobs.lever.co/analyticpartners/5452f2a3-77ba-4cce-afdd-000351105650/apply",
+      "https://jobs.lever.co/analyticpartners/f4d7b848-878f-4761-be25-3d6e4f4d1a54/apply",
+      "https://jobs.lever.co/analyticpartners/6303782e-636f-4bac-90cd-051411558b8b/apply",
+      "https://jobs.lever.co/analyticpartners/eb778fc4-088f-4c5f-b650-e3042ab1b688/apply",
+      "https://jobs.lever.co/analyticpartners/485ae801-3fae-4dc1-950d-445ba990f6c9/apply"
+    ]
+  },
+  {
     "name": "anavationllc",
     "ats": "lever",
     "identifier": "anavationllc",
@@ -2231,7 +2245,8 @@
       "https://apply.workable.com/responsiveads-inc/j/493EAC12D6/apply",
       "https://apply.workable.com/texas-sports-academy-main/j/2132C3AB96/apply",
       "https://apply.workable.com/texas-sports-academy-main/j/CC2A1186D4/apply",
-      "https://apply.workable.com/trycaddi/j/9D1291C697/apply"
+      "https://apply.workable.com/trycaddi/j/9D1291C697/apply",
+      "https://apply.workable.com/cmic/j/63A27830D0/apply"
     ]
   },
   {
@@ -2805,6 +2820,7 @@
       "https://autodesk.wd1.myworkdayjobs.com/Ext/job/AMER---Canada---Ontario---Toronto---University-Ave/Software-Engineer--Education_26WD98536-2",
       "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Dublin-IRL/Software-Engineer_26WD98116-1",
       "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Krakw-POL/Data-Engineer-with-AI_26WD100418",
+      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-2",
       "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer---FCAP_26WD100406-2",
       "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD100400",
       "https://autodesk.wd1.myworkdayjobs.com/Ext/job/San-Francisco-CA-USA/Information-Systems-Engineer_26WD100505",
@@ -2826,8 +2842,7 @@
       "https://autodesk.wd1.myworkdayjobs.com/ext/job/Singapore-SGP/Software-Engineer_26WD100229-1",
       "https://autodesk.wd1.myworkdayjobs.com/ext/job/Toronto-ON-CAN/Machine-Learning-Engineer-3D-Geometry---Multimodal-AI--Toronto--Canada_26WD99904",
       "https://autodesk.wd1.myworkdayjobs.com/ext/job/Toronto-ON-CAN/Software-Developer--Agentic-Evaluation-_26WD96920-1",
-      "https://autodesk.wd1.myworkdayjobs.com/ext/job/Toronto-ON-CAN/Software-Developer--MCP-AI_26WD99364-1",
-      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-2"
+      "https://autodesk.wd1.myworkdayjobs.com/ext/job/Toronto-ON-CAN/Software-Developer--MCP-AI_26WD99364-1"
     ]
   },
   {
@@ -2838,14 +2853,14 @@
     "page": "https://autodesk.wd1.myworkdayjobs.com/wday/cxs/autodesk/uni/jobs",
     "urls": [
       "https://autodesk.wd1.myworkdayjobs.com/uni/job/AMER---United-States---Michigan---Novi/Intern--Model-Based-Systems-Engineering_26WD94900-2",
+      "https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-1",
       "https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer---FCAP_26WD100406-1",
       "https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD100400-3",
       "https://autodesk.wd1.myworkdayjobs.com/uni/job/Norway---Oslo/Graduate-Software-Engineer_26WD100002-3",
       "https://autodesk.wd1.myworkdayjobs.com/uni/job/Norway---Oslo/Software-Engineering-Intern-Summer-2027_26WD100046-3",
       "https://autodesk.wd1.myworkdayjobs.com/uni/job/Quebec-CAN---Remote/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD98603-1",
       "https://autodesk.wd1.myworkdayjobs.com/uni/job/Quebec-CAN---Remote/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD99464-1",
-      "https://autodesk.wd1.myworkdayjobs.com/uni/job/Singapore-SGP/Software-Engineer-in-Test---AutoCAD_26WD100040",
-      "https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-1"
+      "https://autodesk.wd1.myworkdayjobs.com/uni/job/Singapore-SGP/Software-Engineer-in-Test---AutoCAD_26WD100040"
     ]
   },
   {
@@ -11306,7 +11321,9 @@
       "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/XMLNAME-2027-Conversion-Software-Engineer-I--Onsite-_01858534",
       "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-VA-DULLES-710--22110-Pacific-Blvd--BLDG-10/Software-Engineer-I--On-Site--_01862276",
       "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-VA-DULLES-710--22110-Pacific-Blvd--BLDG-10/Software-Engineer-I--On-Site-_01860803",
-      "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/Warminster-Wiltshire/Principle-Training-Systems-Engineer_01851984"
+      "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/Warminster-Wiltshire/Principle-Training-Systems-Engineer_01851984",
+      "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-NY-REMOTE/Enterprise-Extended-Reality--XR--Intern--Summer-2027---Remote-_01865894",
+      "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Development-Intern--Summer-2027-_01865635"
     ]
   },
   {
@@ -14009,7 +14026,8 @@
       "https://jobs.bytedance.com/en/position/7670772641439041797/detail",
       "https://jobs.bytedance.com/en/position/7670778018960542005/detail",
       "https://jobs.bytedance.com/en/position/7671147251943213317/detail",
-      "https://jobs.bytedance.com/en/position/7671162985123907845/detail"
+      "https://jobs.bytedance.com/en/position/7671162985123907845/detail",
+      "https://jobs.bytedance.com/en/position/7672386983965100341/detail"
     ]
   },
   {
@@ -14783,7 +14801,9 @@
     "identifier": "kimley-horn",
     "domain": "https://careers-kimley-horn.icims.com",
     "page": "https://careers-kimley-horn.icims.com/jobs/search",
-    "urls": []
+    "urls": [
+      "https://careers-kimley-horn.icims.com/jobs/25761/job?mobile=true&needsRedirect=false"
+    ]
   },
   {
     "name": "kinaxis",
@@ -19809,6 +19829,16 @@
     ]
   },
   {
+    "name": "quantbot-technologies",
+    "ats": "greenhouse",
+    "identifier": "quantbot-technologies",
+    "domain": "https://www.quantbot.com",
+    "page": "https://boards-api.greenhouse.io/v1/boards/quantbot-technologies/jobs",
+    "urls": [
+      "https://www.quantbot.com/careers/4299458009?gh_jid=4299458009"
+    ]
+  },
+  {
     "name": "quantco-",
     "ats": "lever",
     "identifier": "quantco-",
@@ -22955,7 +22985,8 @@
       "https://statestreet.wd1.myworkdayjobs.com/global/job/Quincy-Massachusetts/Software-Engineering---Development_R-795595",
       "https://statestreet.wd1.myworkdayjobs.com/global/job/Quincy-Massachusetts/Software-Engineering---Development_R-795776",
       "https://statestreet.wd1.myworkdayjobs.com/global/job/Singapore-Singapore/AI-Security-Automation-Engineer--AVP_R-794582",
-      "https://statestreet.wd1.myworkdayjobs.com/global/job/Toronto-Ontario/Full-Stack-Software-Engineer--Officer_R-792058"
+      "https://statestreet.wd1.myworkdayjobs.com/global/job/Toronto-Ontario/Full-Stack-Software-Engineer--Officer_R-792058",
+      "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer--CRD--New-Graduate_R-795953"
     ]
   },
   {
