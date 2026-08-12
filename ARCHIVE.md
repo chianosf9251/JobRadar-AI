@@ -890,6 +890,13 @@ Every opportunity matching your current filters (country, category, citizenship/
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Chamberlain Group</td>
+      <td width="420" align="left" valign="top">Software Engineer 1 - AI</td>
+      <td width="180" align="left" valign="top">California, USA</td>
+      <td width="120" align="left" valign="top"><a href="https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Remote---California/Software-Engineer-I---AI_JR30290" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">August 12</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Comcast</td>
       <td width="420" align="left" valign="top">Software Engineer 1 - Software Development &amp; Engineering</td>
       <td width="180" align="left" valign="top">Philadelphia, PA</td>
@@ -1883,4 +1890,4 @@ Every opportunity matching your current filters (country, category, citizenship/
 
 ---
 
-📦 Generated from `opportunities.ndjson` &nbsp;•&nbsp; 🕒 Last updated `2026-08-12T20:57:37.133Z`
+📦 Generated from `opportunities.ndjson` &nbsp;•&nbsp; 🕒 Last updated `2026-08-12T22:50:05.686Z`

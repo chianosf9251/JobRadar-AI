@@ -800,6 +800,13 @@
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Chamberlain Group</td>
+      <td width="420" align="left" valign="top">Software Engineer 1 - AI</td>
+      <td width="180" align="left" valign="top">California, USA</td>
+      <td width="120" align="left" valign="top"><a href="https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Remote---California/Software-Engineer-I---AI_JR30290" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">August 12</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Comcast</td>
       <td width="420" align="left" valign="top">Software Engineer 1 - Software Development &amp; Engineering</td>
       <td width="180" align="left" valign="top">Philadelphia, PA</td>
@@ -1541,13 +1548,6 @@
       <td width="120" align="left" valign="top"><a href="https://selinc.wd1.myworkdayjobs.com/sel/job/Idaho---Boise/Associate-Software-Engineer_2026-21552" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
       <td width="100" align="left" valign="top">July 14</td>
     </tr>
-    <tr>
-      <td width="180" align="left" valign="top">DoorDash USA</td>
-      <td width="420" align="left" valign="top">Software Engineer I, Entry-Level (Graduation Date: Fall 2025-Summer 2026)</td>
-      <td width="180" align="left" valign="top">San Francisco, CA</td>
-      <td width="120" align="left" valign="top"><a href="https://job-boards.greenhouse.io/doordashusa/jobs/7263610" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">July 13</td>
-    </tr>
   </tbody>
 </table>
 
@@ -1572,7 +1572,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-08-12T20:57:37.133Z</code>
+      🕒 Last updated <code>2026-08-12T22:50:05.686Z</code>
     </span>
   </p>
 </div>
