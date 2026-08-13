@@ -5368,7 +5368,8 @@
       "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/47273",
       "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/47346",
       "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/47385",
-      "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/48419"
+      "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/48419",
+      "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/48633"
     ]
   },
   {
@@ -13502,6 +13503,16 @@
     ]
   },
   {
+    "name": "InbulksCorp",
+    "ats": "smartrecruiters",
+    "identifier": "InbulksCorp",
+    "domain": "https://jobs.smartrecruiters.com",
+    "page": "https://api.smartrecruiters.com/v1/companies/InbulksCorp/postings",
+    "urls": [
+      "https://jobs.smartrecruiters.com/InbulksCorp/743999750129753"
+    ]
+  },
+  {
     "name": "incident",
     "ats": "ashby",
     "identifier": "incident",
@@ -21216,6 +21227,16 @@
     ]
   },
   {
+    "name": "RRSGroup",
+    "ats": "smartrecruiters",
+    "identifier": "RRSGroup",
+    "domain": "https://jobs.smartrecruiters.com",
+    "page": "https://api.smartrecruiters.com/v1/companies/RRSGroup/postings",
+    "urls": [
+      "https://jobs.smartrecruiters.com/RRSGroup/744000142513209"
+    ]
+  },
+  {
     "name": "rsm",
     "ats": "workday",
     "identifier": "rsm-rsmcareers",
@@ -23166,6 +23187,17 @@
     ]
   },
   {
+    "name": "specteraerospace.bamboohr.com",
+    "ats": "custom",
+    "identifier": "specteraerospace.bamboohr.com",
+    "domain": "https://specteraerospace.bamboohr.com",
+    "page": "",
+    "urls": [
+      "https://specteraerospace.bamboohr.com/careers/122/",
+      "https://specteraerospace.bamboohr.com/careers/120/"
+    ]
+  },
+  {
     "name": "specterops",
     "ats": "greenhouse",
     "identifier": "specterops",
@@ -24255,7 +24287,8 @@
       "https://www.tesla.com/careers/search/job/247989?source=Indeed&source=Indeed&tags=organicjob",
       "https://www.tesla.com/careers/search/job/247990",
       "https://www.tesla.com/careers/search/job/279763",
-      "https://www.tesla.com/careers/search/job/internship-localization-specialist-it-applications-fall-2026-276308"
+      "https://www.tesla.com/careers/search/job/internship-localization-specialist-it-applications-fall-2026-276308",
+      "https://www.tesla.com/careers/search/job/248358"
     ]
   },
   {
