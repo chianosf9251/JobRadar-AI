@@ -6911,6 +6911,16 @@
     ]
   },
   {
+    "name": "cdcn.avature.net",
+    "ats": "custom",
+    "identifier": "cdcn.avature.net",
+    "domain": "https://cdcn.avature.net",
+    "page": "",
+    "urls": [
+      "https://cdcn.avature.net/careers/JobDetail/8611"
+    ]
+  },
+  {
     "name": "cdk",
     "ats": "workday",
     "identifier": "cdk-cdk",
@@ -9632,7 +9642,8 @@
       "https://epicgames.com/careers/jobs/6016396004?gh_jid=6016396004",
       "https://epicgames.com/careers/jobs/6119870004?gh_jid=6119870004",
       "https://epicgames.com/careers/jobs/6123842004?gh_jid=6123842004",
-      "https://epicgames.com/careers/jobs/6123844004?gh_jid=6123844004"
+      "https://epicgames.com/careers/jobs/6123844004?gh_jid=6123844004",
+      "https://epicgames.com/careers/jobs/6141180004?gh_jid=6141180004"
     ]
   },
   {
@@ -24943,7 +24954,8 @@
       "https://lifeattiktok.com/search/7670876337129425205",
       "https://lifeattiktok.com/search/7671211313289398581",
       "https://lifeattiktok.com/search/7672517471946000645",
-      "https://lifeattiktok.com/search/7672654026594093317"
+      "https://lifeattiktok.com/search/7672654026594093317",
+      "https://lifeattiktok.com/search/7672976491146004741"
     ]
   },
   {
