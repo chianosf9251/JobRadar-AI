@@ -1091,11 +1091,11 @@
       "https://amazon.jobs/en/jobs/10501454",
       "https://amazon.jobs/en/jobs/10501460",
       "https://amazon.jobs/en/jobs/10502184",
+      "https://amazon.jobs/en/jobs/10502743/software-development-engineer-early-career-2026",
       "https://amazon.jobs/en/jobs/3116030",
       "https://amazon.jobs/en/jobs/3127861",
       "https://amazon.jobs/en/jobs/3179209",
-      "https://www.amazon.jobs/en/jobs/3136266/robotics-software-development-engineer-intern-co-op-2026?no_int_redir=1",
-      "https://amazon.jobs/en/jobs/10502743/software-development-engineer-early-career-2026"
+      "https://www.amazon.jobs/en/jobs/3136266/robotics-software-development-engineer-intern-co-op-2026?no_int_redir=1"
     ]
   },
   {
@@ -13625,6 +13625,16 @@
     "page": "https://boards-api.greenhouse.io/v1/boards/hyannisportresearch/jobs",
     "urls": [
       "https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003"
+    ]
+  },
+  {
+    "name": "hypercubic",
+    "ats": "ashby",
+    "identifier": "hypercubic",
+    "domain": "https://jobs.ashbyhq.com",
+    "page": "https://api.ashbyhq.com/posting-api/job-board/hypercubic",
+    "urls": [
+      "https://jobs.ashbyhq.com/hypercubic/ab7a23f9-7280-4443-b442-2813dc39d490/application?embed=true"
     ]
   },
   {
