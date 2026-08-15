@@ -8744,6 +8744,16 @@
     ]
   },
   {
+    "name": "dedalus-labs",
+    "ats": "ashby",
+    "identifier": "dedalus-labs",
+    "domain": "https://jobs.ashbyhq.com",
+    "page": "https://api.ashbyhq.com/posting-api/job-board/dedalus-labs",
+    "urls": [
+      "https://jobs.ashbyhq.com/dedalus-labs/bcd6db2e-400b-4ffa-aef3-0948a7b558c2/application?embed=true"
+    ]
+  },
+  {
     "name": "deepgram",
     "ats": "ashby",
     "identifier": "deepgram",
