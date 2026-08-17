@@ -1615,8 +1615,8 @@
       "https://boards.greenhouse.io/andurilindustries/jobs/5210930007?gh_jid=5210930007",
       "https://boards.greenhouse.io/andurilindustries/jobs/5211022007?gh_jid=5211022007",
       "https://boards.greenhouse.io/andurilindustries/jobs/5212828007?gh_jid=5212828007",
-      "https://boards.greenhouse.io/andurilindustries/jobs/5213219007?gh_jid=5213219007",
       "https://boards.greenhouse.io/andurilindustries/jobs/5213218007?gh_jid=5213218007",
+      "https://boards.greenhouse.io/andurilindustries/jobs/5213219007?gh_jid=5213219007",
       "https://boards.greenhouse.io/andurilindustries/jobs/5213220007?gh_jid=5213220007"
     ]
   },
@@ -3995,7 +3995,8 @@
     "domain": "https://jobs.lever.co",
     "page": "https://api.lever.co/v0/postings/belvederetrading?mode=json",
     "urls": [
-      "https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0/apply"
+      "https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0/apply",
+      "https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab"
     ]
   },
   {
@@ -6859,6 +6860,7 @@
       "https://careers.usbank.com/global/en/job/2026-0017325?ph_id=2026-0017325",
       "https://careers.usbank.com/global/en/job/2026-0017341?ph_id=2026-0017341",
       "https://careers.usbank.com/global/en/job/2026-0017389?ph_id=2026-0017389",
+      "https://careers.usbank.com/global/en/job/2026-0017395?ph_id=2026-0017395",
       "https://careers.usbank.com/global/en/job/2026-0017397?ph_id=2026-0017397",
       "https://careers.usbank.com/global/en/job/2026-0017456?ph_id=2026-0017456",
       "https://careers.usbank.com/global/en/job/2026-0018566?ph_id=2026-0018566",
@@ -6881,8 +6883,7 @@
       "https://careers.usbank.com/global/en/job/2026-0022706?ph_id=2026-0022706",
       "https://careers.usbank.com/global/en/job/2026-0023200?ph_id=2026-0023200",
       "https://careers.usbank.com/global/en/job/2026-0023362?ph_id=2026-0023362",
-      "https://careers.usbank.com/global/en/job/2026-0024257?ph_id=2026-0024257",
-      "https://careers.usbank.com/global/en/job/2026-0017395?ph_id=2026-0017395"
+      "https://careers.usbank.com/global/en/job/2026-0024257?ph_id=2026-0024257"
     ]
   },
   {
@@ -11429,8 +11430,8 @@
       "https://careers-gdms.icims.com/jobs/74229/space-force-advanced-software-engineer/job",
       "https://careers-gdms.icims.com/jobs/74257/job?mobile=true&needsRedirect=false",
       "https://careers-gdms.icims.com/jobs/74260/artificial-intelligence-%28ai%29-software-engineer/job",
-      "https://careers-gdms.icims.com/jobs/74284/sr-systems-engineer---hybrid/job",
-      "https://careers-gdms.icims.com/jobs/74274/software-engineer---entry-level/job"
+      "https://careers-gdms.icims.com/jobs/74274/software-engineer---entry-level/job",
+      "https://careers-gdms.icims.com/jobs/74284/sr-systems-engineer---hybrid/job"
     ]
   },
   {
@@ -19740,6 +19741,7 @@
       "https://parsons.wd5.myworkdayjobs.com/search/job/AE---Sharjah/Civil-Engineer--Roads-and-Infrastructure-_R181121",
       "https://parsons.wd5.myworkdayjobs.com/search/job/CA---ON-Oakville/Tunnel-Engineer---Tunnelling---Trenchless-Infrastructure_R184093",
       "https://parsons.wd5.myworkdayjobs.com/search/job/SA---Riyadh/Traffic-Systems-Engineer_R182955-1",
+      "https://parsons.wd5.myworkdayjobs.com/search/job/SA---Riyadh/Utility---Infrastructure-Engineer_R184595",
       "https://parsons.wd5.myworkdayjobs.com/search/job/US---AL-Huntsville/Ground-Systems-Communication-Network-Software-Engineer_R183045",
       "https://parsons.wd5.myworkdayjobs.com/search/job/US---CA-Torrance/Aerospace-Quality-Systems-Engineer_R182514",
       "https://parsons.wd5.myworkdayjobs.com/search/job/US---CA-Torrance/Aerospace-Systems-Engineer_R182615",
@@ -19770,8 +19772,7 @@
       "https://parsons.wd5.myworkdayjobs.com/search/job/US---VA-Chantilly/Systems-Engineering-Intern_R183765",
       "https://parsons.wd5.myworkdayjobs.com/search/job/US---VA-Dahlgren/AEGIS-Systems-Engineer_R184104",
       "https://parsons.wd5.myworkdayjobs.com/search/job/US---VA-Norfolk/Lead-Systems-Engineer_R184306",
-      "https://parsons.wd5.myworkdayjobs.com/search/job/US---VA-Reston/Software-Engineer_R178220-1",
-      "https://parsons.wd5.myworkdayjobs.com/search/job/SA---Riyadh/Utility---Infrastructure-Engineer_R184595"
+      "https://parsons.wd5.myworkdayjobs.com/search/job/US---VA-Reston/Software-Engineer_R178220-1"
     ]
   },
   {
@@ -26455,6 +26456,7 @@
       "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/Software-Engineer_2026-0017341",
       "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/Software-Engineer_2026-0017389",
       "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/Software-Engineer_2026-0017390-1",
+      "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/Software-Engineer_2026-0017395",
       "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/Software-Engineer_2026-0017397",
       "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/Software-Engineer_2026-0017456",
       "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chicago-IL/AI-Scientist_2026-0022706",
@@ -26484,8 +26486,7 @@
       "https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Chennai-India/Software-Engineer_2026-0017264-1",
       "https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Hopkins-MN/Software-Engineer--Mainframe_2026-0019239",
       "https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Saint-Paul-MN/z-OS-Systems-Engineer_2026-0010767",
-      "https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Warsaw-Poland/Credit-Risk-Modeling-Python-Developer_2025-0027794-2",
-      "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/Software-Engineer_2026-0017395"
+      "https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Warsaw-Poland/Credit-Risk-Modeling-Python-Developer_2025-0027794-2"
     ]
   },
   {
