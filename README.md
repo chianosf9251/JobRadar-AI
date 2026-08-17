@@ -679,6 +679,13 @@
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Datadog</td>
+      <td width="420" align="left" valign="top">Software Engineer Intern - Observability and Security Platform</td>
+      <td width="180" align="left" valign="top">Boston, MA</td>
+      <td width="120" align="left" valign="top"><a href="https://careers.datadoghq.com/detail/8052095/?gh_jid=8052095" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">August 17</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Dedalus-labs</td>
       <td width="420" align="left" valign="top">Infrastructure Engineer Intern</td>
       <td width="180" align="left" valign="top">San Francisco, CA</td>
@@ -1579,7 +1586,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-08-17T14:39:02.731Z</code>
+      🕒 Last updated <code>2026-08-17T16:38:03.128Z</code>
     </span>
   </p>
 </div>
