@@ -103,6 +103,13 @@
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Cadence</td>
+      <td width="420" align="left" valign="top">Software Engineering Intern</td>
+      <td width="180" align="left" valign="top">Pittsburgh, PA</td>
+      <td width="120" align="left" valign="top"><a href="https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/PITTSBURGH-03/Software-Engineering-Intern_R52334-2" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">August 17</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Photon</td>
       <td width="420" align="left" valign="top">Software Engineering Intern - AI</td>
       <td width="180" align="left" valign="top">Remote, USA</td>
@@ -679,6 +686,20 @@
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Rbc</td>
+      <td width="420" align="left" valign="top">2027 Winter Student Opportunities RBC Borealis - Machine Learning Software Engineer, 4-8 Months</td>
+      <td width="180" align="left" valign="top">Toronto, ON</td>
+      <td width="120" align="left" valign="top"><a href="https://rbc.wd3.myworkdayjobs.com/rbcearlytalent1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter-Student-Opportunities-RBC-Borealis---Machine-Learning-Software-Engineer--4-8-Months_R-0000184499-1" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">August 17</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">↳</td>
+      <td width="420" align="left" valign="top">2027 Winter Student Opportunities RBC Borealis -Machine Learning Software Engineer, 4 Months - Montreal</td>
+      <td width="180" align="left" valign="top">Montreal, QC</td>
+      <td width="120" align="left" valign="top"><a href="https://rbc.wd3.myworkdayjobs.com/rbcearlytalent1/job/MONTRAL-Quebec-Canada/XMLNAME-2027-Winter-Student-Opportunities-RBC-Borealis--Machine-Learning-Software-Engineer--4-Months---Montreal_R-0000184599-1" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">August 17</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Datadog</td>
       <td width="420" align="left" valign="top">Software Engineer Intern - Observability and Security Platform</td>
       <td width="180" align="left" valign="top">Boston, MA</td>
@@ -799,6 +820,41 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td width="180" align="left" valign="top">TikTok</td>
+      <td width="420" align="left" valign="top">Software Engineer Graduate (Video-on-Demand Algorithm) - 2027 Start</td>
+      <td width="180" align="left" valign="top">San Jose, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://lifeattiktok.com/search/7673674249270839557" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">August 17</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Hp</td>
+      <td width="420" align="left" valign="top">Software Systems Engineer</td>
+      <td width="180" align="left" valign="top">Fort Collins, CO</td>
+      <td width="120" align="left" valign="top"><a href="https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/Fort-Collins-Colorado-United-States-of-America/Software-Systems-Engineer_3166471" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">August 17</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Google</td>
+      <td width="420" align="left" valign="top">Software Engineer, PhD, Early Career, AI/Machine Learning, 2026 Start</td>
+      <td width="180" align="left" valign="top">Sunnyvale, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://www.google.com/about/careers/applications/jobs/results/122258040807137990-software-engineer-phd-early-career-aimachine-learning-2026-start?sort_by=date&amp;page=2" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">August 17</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Bmo</td>
+      <td width="420" align="left" valign="top">Cloud/AI Platform Engineer</td>
+      <td width="180" align="left" valign="top">Toronto, ON</td>
+      <td width="120" align="left" valign="top"><a href="https://bmo.wd3.myworkdayjobs.com/campus/job/Toronto-ON-CAN/Cloud-AI-Platform-Engineer_R260023188-1" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">August 17</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">↳</td>
+      <td width="420" align="left" valign="top">Cloud/AI Platform Engineer</td>
+      <td width="180" align="left" valign="top">Toronto, ON</td>
+      <td width="120" align="left" valign="top"><a href="https://bmo.wd3.myworkdayjobs.com/external/job/Toronto-ON-CAN/Cloud-AI-Platform-Engineer_R260023188" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">August 17</td>
+    </tr>
     <tr>
       <td width="180" align="left" valign="top">Nvidia</td>
       <td width="420" align="left" valign="top">PCB Design EDA and AI Engineer - New College Graduate 2027</td>
@@ -1586,7 +1642,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-08-17T16:38:03.128Z</code>
+      🕒 Last updated <code>2026-08-17T23:26:18.145Z</code>
     </span>
   </p>
 </div>
