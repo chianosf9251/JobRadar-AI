@@ -707,6 +707,13 @@
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Foresters Financial</td>
+      <td width="420" align="left" valign="top">Software Engineer Co-op - AI</td>
+      <td width="180" align="left" valign="top">Toronto, ON</td>
+      <td width="120" align="left" valign="top"><a href="https://foresters.wd3.myworkdayjobs.com/ForestersFinancialCareers/job/Toronto-Ontario/Software-Engineer-Co-op-Student--AI---4-month-contract-_R-2305" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">August 18</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Snorkel AI</td>
       <td width="420" align="left" valign="top">AI Researcher —  Intern</td>
       <td width="180" align="left" valign="top">New York City, NY</td>
@@ -1698,7 +1705,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-08-18T23:24:55.770Z</code>
+      🕒 Last updated <code>2026-08-18T23:35:06.482Z</code>
     </span>
   </p>
 </div>
