@@ -103,6 +103,13 @@
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Microsoft</td>
+      <td width="420" align="left" valign="top">AI Software Engineer Intern</td>
+      <td width="180" align="left" valign="top">Redmond, WA</td>
+      <td width="120" align="left" valign="top"><a href="https://apply.careers.microsoft.com/careers/job/1970393556962891" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">August 19</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Pimco</td>
       <td width="420" align="left" valign="top">2027 Summer Intern - Technology Analyst, Software Engineering</td>
       <td width="180" align="left" valign="top">Austin, TX</td>
@@ -1705,7 +1712,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-08-19T07:48:52.652Z</code>
+      🕒 Last updated <code>2026-08-19T08:48:56.721Z</code>
     </span>
   </p>
 </div>
