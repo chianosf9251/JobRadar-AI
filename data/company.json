@@ -19818,6 +19818,16 @@
     ]
   },
   {
+    "name": "okx",
+    "ats": "greenhouse",
+    "identifier": "okx",
+    "domain": "https://job-boards.greenhouse.io",
+    "page": "https://boards-api.greenhouse.io/v1/boards/okx/jobs",
+    "urls": [
+      "https://job-boards.greenhouse.io/okx/jobs/7897680003"
+    ]
+  },
+  {
     "name": "oldmissioncapital",
     "ats": "greenhouse",
     "identifier": "oldmissioncapital",
