@@ -18,6 +18,13 @@ Every opportunity matching your current filters (country, category, citizenship/
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Centific</td>
+      <td width="420" align="left" valign="top">Software Engineer</td>
+      <td width="180" align="left" valign="top">Redmond, WA</td>
+      <td width="120" align="left" valign="top"><a href="https://centific.wd1.myworkdayjobs.com/centific_global/job/Redmond-Washington/Software-Engineer_JR108257-1" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">August 19</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Nvidia</td>
       <td width="420" align="left" valign="top">System Software Engineer – GPU and SOC (2027 RDSS Intern)</td>
       <td width="180" align="left" valign="top">Taipei, Taiwan</td>
@@ -832,6 +839,20 @@ Every opportunity matching your current filters (country, category, citizenship/
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Autodesk</td>
+      <td width="420" align="left" valign="top">Intern, AI Developer/ Stagiaire en développement IA</td>
+      <td width="180" align="left" valign="top">Montreal, QC</td>
+      <td width="120" align="left" valign="top"><a href="https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-1" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">August 19</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">↳</td>
+      <td width="420" align="left" valign="top">Intern, AI Developer/ Stagiaire en développement IA</td>
+      <td width="180" align="left" valign="top">Montreal, QC</td>
+      <td width="120" align="left" valign="top"><a href="https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-2" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">August 19</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Nvidia</td>
       <td width="420" align="left" valign="top">NVIDIA Spring 2027 Internships: Developer and Performance Technology</td>
       <td width="180" align="left" valign="top">Santa Clara, CA</td>
@@ -1043,6 +1064,20 @@ Every opportunity matching your current filters (country, category, citizenship/
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td width="180" align="left" valign="top">TikTok</td>
+      <td width="420" align="left" valign="top">Software Engineer Graduate (Media Engine) - 2027 Start</td>
+      <td width="180" align="left" valign="top">San Jose, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://lifeattiktok.com/search/7673667938889009461" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">August 19</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Globalfoundries</td>
+      <td width="420" align="left" valign="top">AI/ML Software Engineer (2026 New College Graduate)</td>
+      <td width="180" align="left" valign="top">Richardson, TX</td>
+      <td width="120" align="left" valign="top"><a href="https://globalfoundries.wd1.myworkdayjobs.com/external/job/Richardson/AI-ML-Software-Engineer--2026-New-College-Graduate-_JR-2602832" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">August 19</td>
+    </tr>
     <tr>
       <td width="180" align="left" valign="top">LexisNexis Risk Solutions</td>
       <td width="420" align="left" valign="top">Software Engineer 1</td>
@@ -2170,4 +2205,4 @@ Every opportunity matching your current filters (country, category, citizenship/
 
 ---
 
-📦 Generated from `opportunities.ndjson` &nbsp;•&nbsp; 🕒 Last updated `2026-08-19T21:32:57.953Z`
+📦 Generated from `opportunities.ndjson` &nbsp;•&nbsp; 🕒 Last updated `2026-08-19T23:22:46.298Z`
