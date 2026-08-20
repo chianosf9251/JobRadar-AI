@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20Parsed-google%20%2F%20gemini--3.1--flash--lite-blue" />
   <img src="https://img.shields.io/badge/Countries-USA%20%C2%B7%20Canada%20%C2%B7%20Taiwan%20%C2%B7%20Remote-green" />
-  <img src="https://img.shields.io/badge/Updated-2026--08--19-orange" />
+  <img src="https://img.shields.io/badge/Updated-2026--08--20-orange" />
   <img src="https://img.shields.io/badge/License-MIT-yellow" />
 </p>
 
@@ -919,6 +919,13 @@
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Crusoe</td>
+      <td width="420" align="left" valign="top">Software Engineer 1 - Network</td>
+      <td width="180" align="left" valign="top">San Francisco, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://jobs.ashbyhq.com/Crusoe/9a5223c4-9eb7-4fdb-b97c-f43525df35ed/application?embed=true" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">August 19</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">TikTok</td>
       <td width="420" align="left" valign="top">Software Engineer Graduate (Media Engine) - 2027 Start</td>
       <td width="180" align="left" valign="top">San Jose, CA</td>
@@ -1719,7 +1726,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-08-19T23:33:24.352Z</code>
+      🕒 Last updated <code>2026-08-20T01:37:35.477Z</code>
     </span>
   </p>
 </div>
