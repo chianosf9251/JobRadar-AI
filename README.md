@@ -718,13 +718,6 @@
       <td width="120" align="left" valign="top"><a href="https://arrowstreetcapital.wd5.myworkdayjobs.com/campus_careers/job/Boston/Quantitative-Developer-Intern--Summer-2027_R1506" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
       <td width="100" align="left" valign="top">July 22</td>
     </tr>
-    <tr>
-      <td width="180" align="left" valign="top">ShyftLabs</td>
-      <td width="420" align="left" valign="top">AI Engineer Intern</td>
-      <td width="180" align="left" valign="top">Toronto, ON</td>
-      <td width="120" align="left" valign="top"><a href="https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd/apply" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">July 21</td>
-    </tr>
   </tbody>
 </table>
 
@@ -1761,7 +1754,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-08-21T01:45:36.902Z</code>
+      🕒 Last updated <code>2026-08-21T06:58:04.798Z</code>
     </span>
   </p>
 </div>
