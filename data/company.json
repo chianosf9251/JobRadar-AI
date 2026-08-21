@@ -746,7 +746,6 @@
     "urls": [
       "https://careers.airbnb.com/positions/7716341?gh_jid=7716341",
       "https://careers.airbnb.com/positions/8031907?gh_jid=8031907",
-      "https://careers.airbnb.com/positions/8077506?gh_jid=8077506",
       "https://careers.airbnb.com/positions/8142827?gh_jid=8142827"
     ]
   },
@@ -4436,6 +4435,16 @@
     ]
   },
   {
+    "name": "blackstone",
+    "ats": "workday",
+    "identifier": "blackstone-blackstone_campus_careers",
+    "domain": "https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers",
+    "page": "https://blackstone.wd1.myworkdayjobs.com/wday/cxs/blackstone/Blackstone_Campus_Careers/jobs",
+    "urls": [
+      "https://blackstone.wd1.myworkdayjobs.com/zh-CN/Blackstone_Campus_Careers/job/Miami/XMLNAME-2027-Blackstone-Software-Engineer-Summer-Analyst_45021"
+    ]
+  },
+  {
     "name": "Blinqlabs",
     "ats": "smartrecruiters",
     "identifier": "Blinqlabs",
@@ -5680,9 +5689,9 @@
     "domain": "https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite",
     "page": "https://campbellsoup.wd5.myworkdayjobs.com/wday/cxs/campbellsoup/externalcareers_globalsite/jobs",
     "urls": [
+      "https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---NJ---Camden/Data-Engineer--DA-AI-Co-Op_Req-65838",
       "https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---Remote/Agentic-AI-Engineer-Co-Op_Req-66014",
-      "https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---Remote/Agentic-AI-Engineer-Co-Op_Req-66015",
-      "https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---NJ---Camden/Data-Engineer--DA-AI-Co-Op_Req-65838"
+      "https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---Remote/Agentic-AI-Engineer-Co-Op_Req-66015"
     ]
   },
   {
@@ -5961,9 +5970,9 @@
     "domain": "https://career.mlp.com",
     "page": "",
     "urls": [
-      "https://career.mlp.com/careers/job/755957819661",
+      "https://career.mlp.com/careers/job/755957778821",
       "https://career.mlp.com/careers/job/755957778848",
-      "https://career.mlp.com/careers/job/755957778821"
+      "https://career.mlp.com/careers/job/755957819661"
     ]
   },
   {
@@ -5988,6 +5997,7 @@
       "https://careers.airbnb.com/positions/7945163?gh_jid=7945163",
       "https://careers.airbnb.com/positions/8037090?gh_jid=8037090",
       "https://careers.airbnb.com/positions/8070597?gh_jid=8070597",
+      "https://careers.airbnb.com/positions/8077506?gh_jid=8077506",
       "https://careers.airbnb.com/positions/8093038?gh_jid=8093038",
       "https://careers.airbnb.com/positions/8095390?gh_jid=8095390",
       "https://careers.airbnb.com/positions/8097917?gh_jid=8097917",
@@ -7909,6 +7919,16 @@
       "https://ciena.wd5.myworkdayjobs.com/careers/job/Ottawa/Software-Engineer-and-Tools-Developer-Intern--Fall-2026-_R028752",
       "https://ciena.wd5.myworkdayjobs.com/careers/job/Remote-Singapore/Consultant--Submarine-Systems-Engineering_R031374",
       "https://ciena.wd5.myworkdayjobs.com/careers/job/UK--Edinburgh---19A-Canning-St/Software-Engineering-Intern--3-12-Months-_R031332"
+    ]
+  },
+  {
+    "name": "cigna",
+    "ats": "workday",
+    "identifier": "cigna-cignacareers",
+    "domain": "https://cigna.wd5.myworkdayjobs.com/cignacareers",
+    "page": "https://cigna.wd5.myworkdayjobs.com/wday/cxs/cigna/cignacareers/jobs",
+    "urls": [
+      "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/St-Louis-MO/Technology-Apprentice-Program---Hybrid_26010314"
     ]
   },
   {
@@ -11286,8 +11306,8 @@
       "https://job-boards.greenhouse.io/figureai/jobs/4696533006",
       "https://job-boards.greenhouse.io/figureai/jobs/4699095006",
       "https://job-boards.greenhouse.io/figureai/jobs/4700616006",
-      "https://job-boards.greenhouse.io/figureai/jobs/4705296006",
-      "https://job-boards.greenhouse.io/figureai/jobs/4702104006"
+      "https://job-boards.greenhouse.io/figureai/jobs/4702104006",
+      "https://job-boards.greenhouse.io/figureai/jobs/4705296006"
     ]
   },
   {
@@ -12456,7 +12476,9 @@
       "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Stafford/Principal-Engineer--HVDC-Control---Protection-Algorithm_R5024755",
       "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Stafford/Test-Solution-Development-Engineer_R5030516-1",
       "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Vadodara/Quality-Data-Analytics-Engineer_R5043859-1",
-      "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Zamudio/Embedded-SW-Development-Engineer_R5038666-1"
+      "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Zamudio/Embedded-SW-Development-Engineer_R5038666-1",
+      "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---Energy-Optimization-Software-Engineer-Intern---Summer-2027_R5050022-1",
+      "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---Project-Engineer-Intern---Summer-2027_R5050023-1"
     ]
   },
   {
@@ -12467,7 +12489,9 @@
     "page": "https://gevernova.wd5.myworkdayjobs.com/wday/cxs/gevernova/vernova_externalsite/jobs",
     "urls": [
       "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Findlay-Township/PCS-Application-Engineering-Co-Op-Intern---Summer-2027_R5050417-2",
-      "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Niskayuna/Engineering-Intern---Power-Conversion---Storage-AI-Tool-Developer--2027_R5049957-2"
+      "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Niskayuna/Engineering-Intern---Power-Conversion---Storage-AI-Tool-Developer--2027_R5049957-2",
+      "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---Energy-Optimization-Software-Engineer-Intern---Summer-2027_R5050022-2",
+      "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---Project-Engineer-Intern---Summer-2027_R5050023-2"
     ]
   },
   {
@@ -14226,7 +14250,8 @@
       "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/GEORGIA---VIRTUAL---GA01/Software-Engineer---AI-PDLC--Remote-_Req187159",
       "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/MASSACHUSETTS---VIRTUAL---MA01/Embedded-Software-Engineer_Req187573",
       "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/MASSACHUSETTS---VIRTUAL---MA01/Robotics-Automation-Software-Engineer_Req190892",
-      "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/MASSACHUSETTS---VIRTUAL---MA01/Robotics-Automation-Software-Engineer_Req190930"
+      "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/MASSACHUSETTS---VIRTUAL---MA01/Robotics-Automation-Software-Engineer_Req190930",
+      "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Co-OP-Intern_Req191014"
     ]
   },
   {
@@ -18735,14 +18760,14 @@
     "name": "monolithicpower",
     "ats": "workday",
     "identifier": "monolithicpower-mps_careers",
-    "domain": "https://monolithicpower.wd12.myworkdayjobs.com/mps_careers",
-    "page": "https://monolithicpower.wd12.myworkdayjobs.com/wday/cxs/monolithicpower/mps_careers/jobs",
+    "domain": "https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers",
+    "page": "https://monolithicpower.wd12.myworkdayjobs.com/wday/cxs/monolithicpower/MPS_Careers/jobs",
     "urls": [
+      "https://monolithicpower.wd12.myworkdayjobs.com/en-US/MPS_Careers/job/San-Jose-CA/Application-Engineer-Intern_R-890",
       "https://monolithicpower.wd12.myworkdayjobs.com/mps_careers/job/Barcelona-Spain/Software-Engineer-Intern_R-1786",
       "https://monolithicpower.wd12.myworkdayjobs.com/mps_careers/job/Overijssel-Netherlands/IT-Infrastructure-Engineer_R-1725",
       "https://monolithicpower.wd12.myworkdayjobs.com/mps_careers/job/San-Jose-CA/Infrastructure-Engineer_R-1765",
-      "https://monolithicpower.wd12.myworkdayjobs.com/mps_careers/job/San-Jose-CA/Sr-Reliability-Engineer--Power-Modules-and-AI-Applications_R-1472",
-      "https://monolithicpower.wd12.myworkdayjobs.com/en-US/MPS_Careers/job/San-Jose-CA/Application-Engineer-Intern_R-890"
+      "https://monolithicpower.wd12.myworkdayjobs.com/mps_careers/job/San-Jose-CA/Sr-Reliability-Engineer--Power-Modules-and-AI-Applications_R-1472"
     ]
   },
   {
@@ -28203,6 +28228,7 @@
       "https://job-boards.greenhouse.io/vardaspace/jobs/7821039003",
       "https://job-boards.greenhouse.io/vardaspace/jobs/7821046003",
       "https://job-boards.greenhouse.io/vardaspace/jobs/7821048003",
+      "https://job-boards.greenhouse.io/vardaspace/jobs/7824822003",
       "https://job-boards.greenhouse.io/vardaspace/jobs/7835810003",
       "https://job-boards.greenhouse.io/vardaspace/jobs/7845752003",
       "https://job-boards.greenhouse.io/vardaspace/jobs/7845797003",
@@ -28213,8 +28239,7 @@
       "https://job-boards.greenhouse.io/vardaspace/jobs/7870791003",
       "https://job-boards.greenhouse.io/vardaspace/jobs/7878913003",
       "https://job-boards.greenhouse.io/vardaspace/jobs/7922764003",
-      "https://job-boards.greenhouse.io/vardaspace/jobs/7922767003",
-      "https://job-boards.greenhouse.io/vardaspace/jobs/7824822003"
+      "https://job-boards.greenhouse.io/vardaspace/jobs/7922767003"
     ]
   },
   {
