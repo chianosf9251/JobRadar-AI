@@ -968,6 +968,13 @@
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Garmin</td>
+      <td width="420" align="left" valign="top">Software Engineer 1</td>
+      <td width="180" align="left" valign="top">Yarmouth, ME</td>
+      <td width="120" align="left" valign="top"><a href="https://careers.garmin.com/jobs/19680?icims=1" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">August 21</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Tmobile</td>
       <td width="420" align="left" valign="top">Associate Software Engineer</td>
       <td width="180" align="left" valign="top">Atlanta, GA</td>
@@ -1817,7 +1824,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-08-21T23:26:17.787Z</code>
+      🕒 Last updated <code>2026-08-21T23:34:28.324Z</code>
     </span>
   </p>
 </div>
