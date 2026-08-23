@@ -1541,13 +1541,6 @@
       <td width="120" align="left" valign="top"><a href="https://amazon.jobs/en/jobs/10483963" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
       <td width="100" align="left" valign="top">July 24</td>
     </tr>
-    <tr>
-      <td width="180" align="left" valign="top">Abbvie</td>
-      <td width="420" align="left" valign="top">AI Support Engineer </td>
-      <td width="180" align="left" valign="top">North Chicago, IL</td>
-      <td width="120" align="left" valign="top"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990014267357" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">July 24</td>
-    </tr>
   </tbody>
 </table>
 
@@ -1572,7 +1565,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-08-23T13:34:43.639Z</code>
+      🕒 Last updated <code>2026-08-23T23:23:17.160Z</code>
     </span>
   </p>
 </div>
