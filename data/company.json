@@ -3611,6 +3611,7 @@
       "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Beavercreek-OH/Systems-Engineer_R0247648",
       "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Bethesda-MD/Scientific-Software-Engineer_R0244218",
       "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Boulder-CO/Systems-Engineer_R0243869",
+      "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Bremerton-WA/Software-Engineer---Intern_R0247218",
       "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Chantilly-VA/AI---ML-Engineer_R0242901-1",
       "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Chantilly-VA/AI-ML-Engineer--Mid_R0245169",
       "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Chantilly-VA/AI-ML-Engineer_R0245425",
@@ -3832,8 +3833,7 @@
       "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/Secure-AI-Engineer_R0245884",
       "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/Software-Engineer_R0239218",
       "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/Software-Engineer_R0245012",
-      "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Wharton-NJ/AI-ML-Engineer--Junior_R0245456",
-      "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Bremerton-WA/Software-Engineer---Intern_R0247218"
+      "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Wharton-NJ/AI-ML-Engineer--Junior_R0245456"
     ]
   },
   {
@@ -7478,7 +7478,8 @@
       "https://careers.westinghousenuclear.com/job/Shoreview-Software-Engineering-Intern-Summer-2026-MN-55126/1348239000/?ats=successfactors",
       "https://careers.westinghousenuclear.com/job/Shoreview-Software-Engineering-Intern-Summer-2026-MN-55126/1348239000/?codes=IND",
       "https://careers.westinghousenuclear.com/job/Warrendale-Safety-SW-I&C-Engineer-HMI-Systems-OR/1411189300/?ats=successfactors",
-      "https://careers.westinghousenuclear.com/job/Warrendale-Software-Development-Intern-Summer-2026-OR/1364828400/?ats=successfactors"
+      "https://careers.westinghousenuclear.com/job/Warrendale-Software-Development-Intern-Summer-2026-OR/1364828400/?ats=successfactors",
+      "https://careers.westinghousenuclear.com/job/Cranberry-Township-Summer-Intern-Computer-Engineering-Software-Engineering-NC/1422595200/?ats=successfactors"
     ]
   },
   {
@@ -9096,7 +9097,8 @@
       "https://job-boards.greenhouse.io/cssmerge/jobs/8687930002",
       "https://job-boards.greenhouse.io/cssmerge/jobs/8693034002",
       "https://job-boards.greenhouse.io/cssmerge/jobs/8717657002",
-      "https://job-boards.greenhouse.io/cssmerge/jobs/8738235002"
+      "https://job-boards.greenhouse.io/cssmerge/jobs/8738235002",
+      "https://job-boards.greenhouse.io/cssmerge/jobs/8695475002"
     ]
   },
   {
@@ -9821,9 +9823,9 @@
     "domain": "https://dmainc.wd5.myworkdayjobs.com/dma",
     "page": "https://dmainc.wd5.myworkdayjobs.com/wday/cxs/dmainc/dma/jobs",
     "urls": [
-      "https://dmainc.wd5.myworkdayjobs.com/dma/job/Fort-Wayne-IN/Software-Engineer_REQ568",
+      "https://dmainc.wd5.myworkdayjobs.com/dma/job/Fort-Wayne-IN/Software-Development-Intern---Spring-2027_REQ634",
       "https://dmainc.wd5.myworkdayjobs.com/dma/job/Fort-Wayne-IN/Software-Development-Intern---Summer-2027_REQ636",
-      "https://dmainc.wd5.myworkdayjobs.com/dma/job/Fort-Wayne-IN/Software-Development-Intern---Spring-2027_REQ634"
+      "https://dmainc.wd5.myworkdayjobs.com/dma/job/Fort-Wayne-IN/Software-Engineer_REQ568"
     ]
   },
   {
@@ -11269,12 +11271,12 @@
     "name": "fanniemae",
     "ats": "workday",
     "identifier": "fanniemae-fanniemaecareers",
-    "domain": "https://fanniemae.wd1.myworkdayjobs.com/fanniemaecareers",
-    "page": "https://fanniemae.wd1.myworkdayjobs.com/wday/cxs/fanniemae/fanniemaecareers/jobs",
+    "domain": "https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers",
+    "page": "https://fanniemae.wd1.myworkdayjobs.com/wday/cxs/fanniemae/FannieMaeCareers/jobs",
     "urls": [
+      "https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Reston-VA/Campus---Technology-Program-Intern_JR2810",
       "https://fanniemae.wd1.myworkdayjobs.com/fanniemaecareers/job/Reston-VA/Advisor-Software-Engineer--AI-ML-_JR2645",
-      "https://fanniemae.wd1.myworkdayjobs.com/fanniemaecareers/job/Reston-VA/Systems-Engineer--Nexthink_JR2732",
-      "https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Reston-VA/Campus---Technology-Program-Intern_JR2810"
+      "https://fanniemae.wd1.myworkdayjobs.com/fanniemaecareers/job/Reston-VA/Systems-Engineer--Nexthink_JR2732"
     ]
   },
   {
@@ -11877,14 +11879,14 @@
     "name": "freddiemac",
     "ats": "workday",
     "identifier": "freddiemac-external",
-    "domain": "https://freddiemac.wd5.myworkdayjobs.com/external",
-    "page": "https://freddiemac.wd5.myworkdayjobs.com/wday/cxs/freddiemac/external/jobs",
+    "domain": "https://freddiemac.wd5.myworkdayjobs.com/External",
+    "page": "https://freddiemac.wd5.myworkdayjobs.com/wday/cxs/freddiemac/External/jobs",
     "urls": [
-      "https://freddiemac.wd5.myworkdayjobs.com/external/job/McLean-VA/Software-Engineer-Professional_JR17414",
-      "https://freddiemac.wd5.myworkdayjobs.com/external/job/McLean-VA/Software-Engineering-Professional--Java--Springboot-_JR17454",
-      "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Single-Family-Software-Developer-Intern--Summer-2027_JR17544",
       "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/EO-T-Technology-Intern--Summer-2027_JR17542",
-      "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Multifamily-Software-Development-Intern---Summer-2027_JR17564"
+      "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Multifamily-Software-Development-Intern---Summer-2027_JR17564",
+      "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Single-Family-Software-Developer-Intern--Summer-2027_JR17544",
+      "https://freddiemac.wd5.myworkdayjobs.com/external/job/McLean-VA/Software-Engineer-Professional_JR17414",
+      "https://freddiemac.wd5.myworkdayjobs.com/external/job/McLean-VA/Software-Engineering-Professional--Java--Springboot-_JR17454"
     ]
   },
   {
@@ -19036,7 +19038,8 @@
       "https://monolithicpower.wd12.myworkdayjobs.com/mps_careers/job/Barcelona-Spain/Software-Engineer-Intern_R-1786",
       "https://monolithicpower.wd12.myworkdayjobs.com/mps_careers/job/Overijssel-Netherlands/IT-Infrastructure-Engineer_R-1725",
       "https://monolithicpower.wd12.myworkdayjobs.com/mps_careers/job/San-Jose-CA/Infrastructure-Engineer_R-1765",
-      "https://monolithicpower.wd12.myworkdayjobs.com/mps_careers/job/San-Jose-CA/Sr-Reliability-Engineer--Power-Modules-and-AI-Applications_R-1472"
+      "https://monolithicpower.wd12.myworkdayjobs.com/mps_careers/job/San-Jose-CA/Sr-Reliability-Engineer--Power-Modules-and-AI-Applications_R-1472",
+      "https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose---California/AI-Developer-Intern_R-1756"
     ]
   },
   {
@@ -22667,7 +22670,9 @@
     "domain": "https://rbc.wd3.myworkdayjobs.com/externalprivatepostingstudents",
     "page": "https://rbc.wd3.myworkdayjobs.com/wday/cxs/rbc/externalprivatepostingstudents/jobs",
     "urls": [
-      "https://rbc.wd3.myworkdayjobs.com/externalprivatepostingstudents/job/TORONTO-Ontario-Canada/XMLNAME-2026-Fall---GRM--Developer---AI-Innovation-for-Risk-Management--4-Months-_R-0000174224-3"
+      "https://rbc.wd3.myworkdayjobs.com/externalprivatepostingstudents/job/TORONTO-Ontario-Canada/XMLNAME-2026-Fall---GRM--Developer---AI-Innovation-for-Risk-Management--4-Months-_R-0000174224-3",
+      "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/MISSISSAUGA-Ontario-Canada/Java-Full-Stack-Developer--New-Grad-_R-0000184142",
+      "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/Junior-Full-Stack-Developer--New-Grad-_R-0000185234"
     ]
   },
   {
@@ -23551,6 +23556,17 @@
     "page": "https://saabusa.wd1.myworkdayjobs.com/wday/cxs/saabusa/saab_careers/jobs",
     "urls": [
       "https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Collamer/Associate-Systems-Engineer_R-03186"
+    ]
+  },
+  {
+    "name": "sage49",
+    "ats": "greenhouse",
+    "identifier": "sage49",
+    "domain": "https://job-boards.greenhouse.io",
+    "page": "https://boards-api.greenhouse.io/v1/boards/sage49/jobs",
+    "urls": [
+      "https://job-boards.greenhouse.io/sage49/jobs/6131191004",
+      "https://job-boards.greenhouse.io/sage49/jobs/6131185004"
     ]
   },
   {
@@ -25654,7 +25670,8 @@
     "domain": "https://careers-springswindowfashions.icims.com",
     "page": "https://careers-springswindowfashions.icims.com/jobs/search",
     "urls": [
-      "https://careers-springswindowfashions.icims.com/jobs/12893/job?mobile=true&needsRedirect=false"
+      "https://careers-springswindowfashions.icims.com/jobs/12893/job?mobile=true&needsRedirect=false",
+      "https://careers-springswindowfashions.icims.com/jobs/12891/job?mobile=true&needsRedirect=false"
     ]
   },
   {
@@ -25945,7 +25962,8 @@
       "https://jobs.lever.co/steerbridge/20f336bf-d644-4b91-9e9d-6f724f458f1d",
       "https://jobs.lever.co/steerbridge/2e097205-48ce-4938-80b3-54b47a7092a3",
       "https://jobs.lever.co/steerbridge/46f46107-d8dc-4449-9347-695913a18a36",
-      "https://jobs.lever.co/steerbridge/48998b31-69da-4092-bd06-e1a6fbe38652"
+      "https://jobs.lever.co/steerbridge/48998b31-69da-4092-bd06-e1a6fbe38652",
+      "https://jobs.lever.co/steerbridge/718b3135-d15d-4cbc-9541-1cbb8a6f5ec5/apply"
     ]
   },
   {
@@ -26912,6 +26930,16 @@
     "page": "https://boards-api.greenhouse.io/v1/boards/thealleninstitute/jobs",
     "urls": [
       "https://job-boards.greenhouse.io/thealleninstitute/jobs/7902196"
+    ]
+  },
+  {
+    "name": "thehartford",
+    "ats": "workday",
+    "identifier": "thehartford-careers_external",
+    "domain": "https://thehartford.wd5.myworkdayjobs.com/Careers_External",
+    "page": "https://thehartford.wd5.myworkdayjobs.com/wday/cxs/thehartford/Careers_External/jobs",
+    "urls": [
+      "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Hartford-_R2626105-1"
     ]
   },
   {
