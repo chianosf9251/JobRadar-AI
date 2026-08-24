@@ -750,7 +750,6 @@
     "urls": [
       "https://careers.airbnb.com/positions/7716341?gh_jid=7716341",
       "https://careers.airbnb.com/positions/8031907?gh_jid=8031907",
-      "https://careers.airbnb.com/positions/8142827?gh_jid=8142827",
       "https://careers.airbnb.com/positions/8146265?gh_jid=8146265"
     ]
   },
@@ -6078,6 +6077,7 @@
       "https://careers.airbnb.com/positions/8095390?gh_jid=8095390",
       "https://careers.airbnb.com/positions/8097917?gh_jid=8097917",
       "https://careers.airbnb.com/positions/8127075?gh_jid=8127075",
+      "https://careers.airbnb.com/positions/8142827?gh_jid=8142827",
       "https://careers.datadoghq.com/detail/8023250/?gh_jid=8023250",
       "https://careers.formlabs.com/job/8097694/apply/?gh_jid=8097694",
       "https://careers.formlabs.com/job/8138459/apply/?gh_jid=8138459"
@@ -6247,6 +6247,16 @@
       "https://careers.cboe.com/us/en/job/R-4523?ph_id=R-4523",
       "https://careers.cboe.com/us/en/job/R-4563?ph_id=R-4563",
       "https://careers.cboe.com/us/en/job/R-4581?ph_id=R-4581"
+    ]
+  },
+  {
+    "name": "careers.chick-fil-a.com",
+    "ats": "custom",
+    "identifier": "careers.chick-fil-a.com",
+    "domain": "https://careers.chick-fil-a.com",
+    "page": "",
+    "urls": [
+      "https://careers.chick-fil-a.com/jobs/15017?icims=1"
     ]
   },
   {
@@ -7475,11 +7485,11 @@
       "https://careers.westinghousenuclear.com/job/Cranberry-Township-Enovia-PLM-Developer-Intern-Summer-2026-NC/1338026700/?ats=successfactors",
       "https://careers.westinghousenuclear.com/job/Cranberry-Township-Software-Development-Intern-Summer-2026-NC/1335431600/?ats=successfactors",
       "https://careers.westinghousenuclear.com/job/Cranberry-Township-Software-and-Automation-Intern-Summer-2026-NC/1336532600/?ats=successfactors",
+      "https://careers.westinghousenuclear.com/job/Cranberry-Township-Summer-Intern-Computer-Engineering-Software-Engineering-NC/1422595200/?ats=successfactors",
       "https://careers.westinghousenuclear.com/job/Shoreview-Software-Engineering-Intern-Summer-2026-MN-55126/1348239000/?ats=successfactors",
       "https://careers.westinghousenuclear.com/job/Shoreview-Software-Engineering-Intern-Summer-2026-MN-55126/1348239000/?codes=IND",
       "https://careers.westinghousenuclear.com/job/Warrendale-Safety-SW-I&C-Engineer-HMI-Systems-OR/1411189300/?ats=successfactors",
-      "https://careers.westinghousenuclear.com/job/Warrendale-Software-Development-Intern-Summer-2026-OR/1364828400/?ats=successfactors",
-      "https://careers.westinghousenuclear.com/job/Cranberry-Township-Summer-Intern-Computer-Engineering-Software-Engineering-NC/1422595200/?ats=successfactors"
+      "https://careers.westinghousenuclear.com/job/Warrendale-Software-Development-Intern-Summer-2026-OR/1364828400/?ats=successfactors"
     ]
   },
   {
@@ -9096,9 +9106,9 @@
       "https://job-boards.greenhouse.io/cssmerge/jobs/8687915002",
       "https://job-boards.greenhouse.io/cssmerge/jobs/8687930002",
       "https://job-boards.greenhouse.io/cssmerge/jobs/8693034002",
+      "https://job-boards.greenhouse.io/cssmerge/jobs/8695475002",
       "https://job-boards.greenhouse.io/cssmerge/jobs/8717657002",
-      "https://job-boards.greenhouse.io/cssmerge/jobs/8738235002",
-      "https://job-boards.greenhouse.io/cssmerge/jobs/8695475002"
+      "https://job-boards.greenhouse.io/cssmerge/jobs/8738235002"
     ]
   },
   {
@@ -15776,7 +15786,9 @@
       "https://jj.wd5.myworkdayjobs.com/jj/job/Santa-Clara-California-United-States-of-America/Software-Engineer--Real-time-Software_R-086265-1",
       "https://jj.wd5.myworkdayjobs.com/jj/job/Santa-Clara-California-United-States-of-America/Software-Engineer--Real-time-Software_R-092498",
       "https://jj.wd5.myworkdayjobs.com/jj/job/Suzhou-Jiangsu-China/Manufacturing-Systems-Engineer--Orthopedics_R-090552",
-      "https://jj.wd5.myworkdayjobs.com/jj/job/Titusville-New-Jersey-United-States-of-America/Translational-Post-Doctoral-Researcher---Agentic-AI-for-Neurodegeneration_R-074853-1"
+      "https://jj.wd5.myworkdayjobs.com/jj/job/Titusville-New-Jersey-United-States-of-America/Translational-Post-Doctoral-Researcher---Agentic-AI-for-Neurodegeneration_R-074853-1",
+      "https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-Any-City/Technology-2027-Fall-Co-Op_R-095607",
+      "https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Technology-2027-Spring-Co-Op_R-095605-1"
     ]
   },
   {
@@ -19034,12 +19046,12 @@
     "domain": "https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers",
     "page": "https://monolithicpower.wd12.myworkdayjobs.com/wday/cxs/monolithicpower/MPS_Careers/jobs",
     "urls": [
+      "https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose---California/AI-Developer-Intern_R-1756",
       "https://monolithicpower.wd12.myworkdayjobs.com/en-US/MPS_Careers/job/San-Jose-CA/Application-Engineer-Intern_R-890",
       "https://monolithicpower.wd12.myworkdayjobs.com/mps_careers/job/Barcelona-Spain/Software-Engineer-Intern_R-1786",
       "https://monolithicpower.wd12.myworkdayjobs.com/mps_careers/job/Overijssel-Netherlands/IT-Infrastructure-Engineer_R-1725",
       "https://monolithicpower.wd12.myworkdayjobs.com/mps_careers/job/San-Jose-CA/Infrastructure-Engineer_R-1765",
-      "https://monolithicpower.wd12.myworkdayjobs.com/mps_careers/job/San-Jose-CA/Sr-Reliability-Engineer--Power-Modules-and-AI-Applications_R-1472",
-      "https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose---California/AI-Developer-Intern_R-1756"
+      "https://monolithicpower.wd12.myworkdayjobs.com/mps_careers/job/San-Jose-CA/Sr-Reliability-Engineer--Power-Modules-and-AI-Applications_R-1472"
     ]
   },
   {
@@ -21708,7 +21720,8 @@
       "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Shanghai/IT-AI-Solution-Analyst-Intern_587508",
       "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Shenyang/Advanced-Software-Engineer-C--_586932",
       "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Shenyang/Advanced-Software-Engineer-C--_586933",
-      "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Suzhou/Software-Engineer-Intern_588645-1"
+      "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Suzhou/Software-Engineer-Intern_588645-1",
+      "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Intern-Co-op---Software-System-Engineering---Plymouth--MN---Summer-2027_590406"
     ]
   },
   {
@@ -22652,6 +22665,18 @@
   {
     "name": "rbc",
     "ats": "workday",
+    "identifier": "rbc-externalprivatepostingstudents",
+    "domain": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents",
+    "page": "https://rbc.wd3.myworkdayjobs.com/wday/cxs/rbc/ExternalPrivatePostingStudents/jobs",
+    "urls": [
+      "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/MISSISSAUGA-Ontario-Canada/Java-Full-Stack-Developer--New-Grad-_R-0000184142",
+      "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/Junior-Full-Stack-Developer--New-Grad-_R-0000185234",
+      "https://rbc.wd3.myworkdayjobs.com/externalprivatepostingstudents/job/TORONTO-Ontario-Canada/XMLNAME-2026-Fall---GRM--Developer---AI-Innovation-for-Risk-Management--4-Months-_R-0000174224-3"
+    ]
+  },
+  {
+    "name": "rbc",
+    "ats": "workday",
     "identifier": "rbc-rbcearlytalent1",
     "domain": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1",
     "page": "https://rbc.wd3.myworkdayjobs.com/wday/cxs/rbc/RBCEARLYTALENT1/jobs",
@@ -22661,18 +22686,6 @@
       "https://rbc.wd3.myworkdayjobs.com/rbcearlytalent1/job/MONTRAL-Quebec-Canada/XMLNAME-2027-Winter-Student-Opportunities-RBC-Borealis--Machine-Learning-Software-Engineer--4-Months---Montreal_R-0000184599-1",
       "https://rbc.wd3.myworkdayjobs.com/rbcearlytalent1/job/RBC-WATERPARK-PLACE-88-QUEENS-QUAY-WTORONTO/XMLNAME-2027-Winter-Student-Opportunities-RBC-Borealis---AI-Data-Analyst---8-Months_R-0000184505",
       "https://rbc.wd3.myworkdayjobs.com/rbcearlytalent1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter-Student-Opportunities-RBC-Borealis---Machine-Learning-Software-Engineer--4-8-Months_R-0000184499-1"
-    ]
-  },
-  {
-    "name": "rbc",
-    "ats": "workday",
-    "identifier": "rbc-externalprivatepostingstudents",
-    "domain": "https://rbc.wd3.myworkdayjobs.com/externalprivatepostingstudents",
-    "page": "https://rbc.wd3.myworkdayjobs.com/wday/cxs/rbc/externalprivatepostingstudents/jobs",
-    "urls": [
-      "https://rbc.wd3.myworkdayjobs.com/externalprivatepostingstudents/job/TORONTO-Ontario-Canada/XMLNAME-2026-Fall---GRM--Developer---AI-Innovation-for-Risk-Management--4-Months-_R-0000174224-3",
-      "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/MISSISSAUGA-Ontario-Canada/Java-Full-Stack-Developer--New-Grad-_R-0000184142",
-      "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/Junior-Full-Stack-Developer--New-Grad-_R-0000185234"
     ]
   },
   {
@@ -23565,8 +23578,8 @@
     "domain": "https://job-boards.greenhouse.io",
     "page": "https://boards-api.greenhouse.io/v1/boards/sage49/jobs",
     "urls": [
-      "https://job-boards.greenhouse.io/sage49/jobs/6131191004",
-      "https://job-boards.greenhouse.io/sage49/jobs/6131185004"
+      "https://job-boards.greenhouse.io/sage49/jobs/6131185004",
+      "https://job-boards.greenhouse.io/sage49/jobs/6131191004"
     ]
   },
   {
@@ -25670,8 +25683,8 @@
     "domain": "https://careers-springswindowfashions.icims.com",
     "page": "https://careers-springswindowfashions.icims.com/jobs/search",
     "urls": [
-      "https://careers-springswindowfashions.icims.com/jobs/12893/job?mobile=true&needsRedirect=false",
-      "https://careers-springswindowfashions.icims.com/jobs/12891/job?mobile=true&needsRedirect=false"
+      "https://careers-springswindowfashions.icims.com/jobs/12891/job?mobile=true&needsRedirect=false",
+      "https://careers-springswindowfashions.icims.com/jobs/12893/job?mobile=true&needsRedirect=false"
     ]
   },
   {
