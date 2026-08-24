@@ -1541,13 +1541,6 @@
       <td width="120" align="left" valign="top"><a href="https://job-boards.greenhouse.io/newsbreak/jobs/4700278006" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
       <td width="100" align="left" valign="top">July 27</td>
     </tr>
-    <tr>
-      <td width="180" align="left" valign="top">Bot Auto</td>
-      <td width="420" align="left" valign="top">E/E Architecture &amp; Electrical Systems Engineer</td>
-      <td width="180" align="left" valign="top">Houston, TX</td>
-      <td width="120" align="left" valign="top"><a href="https://job-boards.greenhouse.io/botauto/jobs/5370715008" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">July 25</td>
-    </tr>
   </tbody>
 </table>
 
@@ -1572,7 +1565,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-08-24T13:54:04.552Z</code>
+      🕒 Last updated <code>2026-08-24T14:57:59.139Z</code>
     </span>
   </p>
 </div>
