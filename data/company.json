@@ -2662,7 +2662,8 @@
       "https://apply.workable.com/tmeic-corporation-americas/j/532EE44DFB/apply",
       "https://apply.workable.com/tmeic-corporation-americas/j/D44B74C42B/apply",
       "https://apply.workable.com/trycaddi/j/9D1291C697/apply",
-      "https://apply.workable.com/western-magnetics/j/E366930F3F/apply"
+      "https://apply.workable.com/western-magnetics/j/E366930F3F/apply",
+      "https://apply.workable.com/dcthomson/j/31E88278E1/apply"
     ]
   },
   {
@@ -5680,7 +5681,8 @@
       "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/LONDON-01/Software-Engineer-I---Computational-Fluid-Dynamics--CFD-_R55487-1",
       "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/MONT-SAINT-GUIBERT-01/R-D-Textile-Composite-Modeling-Engineer_R55712",
       "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/PETAH-TIKVA/Application-Engineer---AI---Verification-Solutions_R55844",
-      "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Intern_R53282-1"
+      "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Intern_R53282-1",
+      "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/Burlington-MA/Product-Engineering-Internship--Electronics-Hardware-Design--Fall-2026-_R54158-2"
     ]
   },
   {
@@ -5706,16 +5708,19 @@
     "domain": "https://cadence.wd1.myworkdayjobs.com/university_talent",
     "page": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/university_talent/jobs",
     "urls": [
-      "https://cadence.wd1.myworkdayjobs.com/university_talent/job/Burlington-MA/Software-Engineer--New-College-Grad-2026--Undergrads-_R54894"
+      "https://cadence.wd1.myworkdayjobs.com/university_talent/job/Burlington-MA/Software-Engineer--New-College-Grad-2026--Undergrads-_R54894",
+      "https://cadence.wd1.myworkdayjobs.com/University_Talent/job/Burlington-MA/Product-Engineering-Internship--Electronics-Hardware-Design--Fall-2026-_R54158-1"
     ]
   },
   {
     "name": "cadence",
     "ats": "workday",
     "identifier": "cadence-university_talent_intern",
-    "domain": "https://cadence.wd1.myworkdayjobs.com/university_talent_intern",
-    "page": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/university_talent_intern/jobs",
-    "urls": []
+    "domain": "https://cadence.wd1.myworkdayjobs.com/University_Talent_Intern",
+    "page": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/University_Talent_Intern/jobs",
+    "urls": [
+      "https://cadence.wd1.myworkdayjobs.com/University_Talent_Intern/job/Burlington-MA/Product-Engineering-Internship--Electronics-Hardware-Design--Fall-2026-_R54158"
+    ]
   },
   {
     "name": "cadent",
@@ -19249,13 +19254,13 @@
     "domain": "https://job-boards.greenhouse.io",
     "page": "https://boards-api.greenhouse.io/v1/boards/morsecorpcoop/jobs",
     "urls": [
-      "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968076003",
+      "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7967614003",
       "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7967961003",
-      "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968485003",
-      "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968100003",
+      "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968076003",
       "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968093003",
+      "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968100003",
       "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968338003",
-      "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7967614003"
+      "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968485003"
     ]
   },
   {
