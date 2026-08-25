@@ -4693,7 +4693,8 @@
     "domain": "https://bmo.wd3.myworkdayjobs.com/privileged",
     "page": "https://bmo.wd3.myworkdayjobs.com/wday/cxs/bmo/privileged/jobs",
     "urls": [
-      "https://bmo.wd3.myworkdayjobs.com/privileged/job/Toronto-ON-CAN/Data-Science-Analyst---Audit-AI---Analytics--Winter-2027--Co-op-Internship----4-Months_R260024761"
+      "https://bmo.wd3.myworkdayjobs.com/privileged/job/Toronto-ON-CAN/Data-Science-Analyst---Audit-AI---Analytics--Winter-2027--Co-op-Internship----4-Months_R260024761",
+      "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Software-Developer--New-or-Recent-Graduate-_R260020222-3"
     ]
   },
   {
@@ -8753,6 +8754,19 @@
     "urls": []
   },
   {
+    "name": "compeerfinancial",
+    "ats": "greenhouse",
+    "identifier": "compeerfinancial",
+    "domain": "https://job-boards.greenhouse.io",
+    "page": "https://boards-api.greenhouse.io/v1/boards/compeerfinancial/jobs",
+    "urls": [
+      "https://job-boards.greenhouse.io/compeerfinancial/jobs/5404850008",
+      "https://job-boards.greenhouse.io/compeerfinancial/jobs/5405050008",
+      "https://job-boards.greenhouse.io/compeerfinancial/jobs/5405015008",
+      "https://job-boards.greenhouse.io/compeerfinancial/jobs/5404994008"
+    ]
+  },
+  {
     "name": "composio",
     "ats": "ashby",
     "identifier": "composio",
@@ -10638,7 +10652,8 @@
     "domain": "https://careers-empiricalfoods.icims.com",
     "page": "https://careers-empiricalfoods.icims.com/jobs/search",
     "urls": [
-      "https://careers-empiricalfoods.icims.com/jobs/3770/automation-systems-engineer/job"
+      "https://careers-empiricalfoods.icims.com/jobs/3770/automation-systems-engineer/job",
+      "https://careers-empiricalfoods.icims.com/jobs/4161/job?mobile=true&needsRedirect=false"
     ]
   },
   {
@@ -18376,6 +18391,16 @@
     "page": "https://boards-api.greenhouse.io/v1/boards/mavensecuritiesholdingltd/jobs",
     "urls": [
       "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7705251"
+    ]
+  },
+  {
+    "name": "maximor",
+    "ats": "ashby",
+    "identifier": "maximor",
+    "domain": "https://jobs.ashbyhq.com",
+    "page": "https://api.ashbyhq.com/posting-api/job-board/maximor",
+    "urls": [
+      "https://jobs.ashbyhq.com/maximor/67d0c7d0-fddb-4b8d-aed8-0647337a988e/application?embed=true"
     ]
   },
   {
@@ -28269,7 +28294,8 @@
       "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5104221007",
       "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5144935007",
       "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5152215007",
-      "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5219057007"
+      "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5219057007",
+      "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221555007"
     ]
   },
   {
@@ -29456,6 +29482,16 @@
     "page": "https://api.ashbyhq.com/posting-api/job-board/Voldex",
     "urls": [
       "https://jobs.ashbyhq.com/Voldex/886534ef-8a7d-4a9a-8a8b-59689ee14e2c"
+    ]
+  },
+  {
+    "name": "voleon",
+    "ats": "ashby",
+    "identifier": "voleon",
+    "domain": "https://jobs.ashbyhq.com",
+    "page": "https://api.ashbyhq.com/posting-api/job-board/voleon",
+    "urls": [
+      "https://jobs.ashbyhq.com/voleon/57f1b666-2f4b-4bad-aac0-fa42a1c8fdf6/application?embed=true"
     ]
   },
   {
