@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20Parsed-google%20%2F%20gemini--3.1--flash--lite-blue" />
   <img src="https://img.shields.io/badge/Countries-USA%20%C2%B7%20Canada%20%C2%B7%20Taiwan%20%C2%B7%20Remote-green" />
-  <img src="https://img.shields.io/badge/Updated-2026--08--25-orange" />
+  <img src="https://img.shields.io/badge/Updated-2026--08--26-orange" />
   <img src="https://img.shields.io/badge/License-MIT-yellow" />
 </p>
 
@@ -102,6 +102,13 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td width="180" align="left" valign="top">Steven&#39;s Capital Management</td>
+      <td width="420" align="left" valign="top">Software Engineer</td>
+      <td width="180" align="left" valign="top">Radnor, PA</td>
+      <td width="120" align="left" valign="top"><a href="https://grnh.se/abfli75k1us" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">August 25</td>
+    </tr>
     <tr>
       <td width="180" align="left" valign="top">Verkada</td>
       <td width="420" align="left" valign="top">Embedded Software Engineering Intern 2027</td>
@@ -961,6 +968,13 @@
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">D-Wave Quantum</td>
+      <td width="420" align="left" valign="top">Software Engineer 1 - Systems Software Engineering</td>
+      <td width="180" align="left" valign="top">New Haven, CT</td>
+      <td width="120" align="left" valign="top"><a href="https://ats.rippling.com/d-wave-quantum/jobs/30e6077b-48d6-4f81-bf61-a043582e9b06" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">August 25</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Voleon</td>
       <td width="420" align="left" valign="top">Software Engineer - University Hire 2027</td>
       <td width="180" align="left" valign="top">Berkeley, CA</td>
@@ -1782,7 +1796,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-08-25T23:28:45.754Z</code>
+      🕒 Last updated <code>2026-08-26T01:43:22.991Z</code>
     </span>
   </p>
 </div>
