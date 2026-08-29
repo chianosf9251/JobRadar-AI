@@ -773,7 +773,10 @@
     "identifier": "airbnb",
     "domain": "https://careers.airbnb.com",
     "page": "https://boards-api.greenhouse.io/v1/boards/airbnb/jobs",
-    "urls": []
+    "urls": [
+      "https://careers.airbnb.com/positions/7716341?gh_jid=7716341",
+      "https://careers.airbnb.com/positions/8031907?gh_jid=8031907"
+    ]
   },
   {
     "name": "airliquidehr",
@@ -2584,7 +2587,13 @@
       "https://jobs.apple.com/en-us/details/200680683-0836/full-stack-ui-software-engineer-wallet-payments-commerce-wpc?team=SFTWR",
       "https://jobs.apple.com/en-us/details/200680684-3956/rfhw-systems-engineer?team=HRDWR",
       "https://jobs.apple.com/en-us/details/200680752-0157/software-engineer-early-career-front-end?team=SFTWR",
-      "https://jobs.apple.com/en-us/details/200680752-0836/software-engineer-early-career-front-end?team=SFTWR"
+      "https://jobs.apple.com/en-us/details/200680752-0836/software-engineer-early-career-front-end?team=SFTWR",
+      "https://jobs.apple.com/en-us/details/200680833-3337/on-device-ml-performance-engineer-graphics-games-and-machine-learning?team=MLAI",
+      "https://jobs.apple.com/en-us/details/200680446-0836/software-engineer-simulation-infrastructure?team=SFTWR",
+      "https://jobs.apple.com/en-us/details/200680822-0836/on-device-ml-infrastructure-engineer-coreml-runtime-graphics-games-and-machine-learning?team=MLAI",
+      "https://jobs.apple.com/en-us/details/200680832-0836/on-device-ml-performance-engineer-graphics-games-and-machine-learning?team=MLAI",
+      "https://jobs.apple.com/en-us/details/200668733-0836/software-engineer-applied-machine-learning-localization?team=SFTWR",
+      "https://jobs.apple.com/en-us/details/200678154-3956/software-engineer-java-middleware-ebusiness?team=SFTWR"
     ]
   },
   {
@@ -5457,7 +5466,8 @@
       "https://jobs.smartrecruiters.com/BoschGroup/744000145785190",
       "https://jobs.smartrecruiters.com/BoschGroup/744000145938412",
       "https://jobs.smartrecruiters.com/BoschGroup/744000145938529",
-      "https://jobs.smartrecruiters.com/BoschGroup/744000146010540"
+      "https://jobs.smartrecruiters.com/BoschGroup/744000146010540",
+      "https://jobs.smartrecruiters.com/BoschGroup/744000146296139"
     ]
   },
   {
@@ -6447,11 +6457,9 @@
     "domain": "https://careers.airbnb.com",
     "page": "https://boards-api.greenhouse.io/v1/boards/careers/jobs",
     "urls": [
-      "https://careers.airbnb.com/positions/7716341?gh_jid=7716341",
       "https://careers.airbnb.com/positions/7725256?gh_jid=7725256",
       "https://careers.airbnb.com/positions/7902817?gh_jid=7902817",
       "https://careers.airbnb.com/positions/7945163?gh_jid=7945163",
-      "https://careers.airbnb.com/positions/8031907?gh_jid=8031907",
       "https://careers.airbnb.com/positions/8037090?gh_jid=8037090",
       "https://careers.airbnb.com/positions/8070597?gh_jid=8070597",
       "https://careers.airbnb.com/positions/8077506?gh_jid=8077506",
@@ -6953,7 +6961,8 @@
       "https://careers.cisco.com/global/en/job/2023944?ph_id=2023944",
       "https://careers.cisco.com/global/en/job/2023946?ph_id=2023946",
       "https://careers.cisco.com/global/en/job/2023947?ph_id=2023947",
-      "https://careers.cisco.com/global/en/job/2024278?ph_id=2024278"
+      "https://careers.cisco.com/global/en/job/2024278?ph_id=2024278",
+      "https://careers.cisco.com/global/en/job/2021114?ph_id=2021114"
     ]
   },
   {
@@ -7259,7 +7268,8 @@
       "https://careers.hpe.com/us/en/job/1212379?ph_id=1212379",
       "https://careers.hpe.com/us/en/job/1212457?ph_id=1212457",
       "https://careers.hpe.com/us/en/job/1213624?ph_id=1213624",
-      "https://careers.hpe.com/us/en/job/1213625?ph_id=1213625"
+      "https://careers.hpe.com/us/en/job/1213625?ph_id=1213625",
+      "https://careers.hpe.com/us/en/job/1212267?ph_id=1212267"
     ]
   },
   {
@@ -12484,10 +12494,10 @@
       "https://www.zipline.com/open-roles?gh_jid=7907191003",
       "https://www.zipline.com/open-roles?gh_jid=7918303003",
       "https://www.zipline.com/open-roles?gh_jid=7929236003",
+      "https://www.zipline.com/open-roles?gh_jid=7929354003",
       "https://www.zipline.com/open-roles?gh_jid=7974890003",
       "https://www.zipline.com/open-roles?gh_jid=7974897003",
-      "https://www.zipline.com/open-roles?gh_jid=7978812003",
-      "https://www.zipline.com/open-roles?gh_jid=7929354003"
+      "https://www.zipline.com/open-roles?gh_jid=7978812003"
     ]
   },
   {
@@ -15680,7 +15690,8 @@
       "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Tlaquepaque-Jalisco-Mexico/People-Care-AI-Process-Analyst_1212457-1",
       "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Westford-Massachusetts-United-States-of-America/Software-Engineer--Systems_1208434-2",
       "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Westford-Massachusetts-United-States-of-America/Software-Engineer_1208691-2",
-      "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Westford-Massachusetts-United-States-of-America/Software-Engineer_1208770-1"
+      "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Westford-Massachusetts-United-States-of-America/Software-Engineer_1208770-1",
+      "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/San-Juan-Puerto-Rico-Puerto-Rico/Systems-Engineer--Linux--Yocto_1212267-2"
     ]
   },
   {
@@ -17455,7 +17466,8 @@
       "https://johndeere.eightfold.ai/careers/job/137482489158?domain=johndeere.com&8fold_id=137482489158",
       "https://johndeere.eightfold.ai/careers/job/137482601358?domain=johndeere.com&8fold_id=137482601358",
       "https://johndeere.eightfold.ai/careers/job/137482658047?domain=johndeere.com&8fold_id=137482658047",
-      "https://johndeere.eightfold.ai/careers/job/137482728232?domain=johndeere.com&8fold_id=137482728232"
+      "https://johndeere.eightfold.ai/careers/job/137482728232?domain=johndeere.com&8fold_id=137482728232",
+      "https://johndeere.eightfold.ai/careers/job/137482944034?domain=johndeere.com&8fold_id=137482944034"
     ]
   },
   {
@@ -20537,7 +20549,8 @@
       "https://nationwide.wd1.myworkdayjobs.com/nationwide_career/job/Ohio---Columbus-Three-Nationwide-Plaza/Specialist--Technology-Engineer--Azure-Infrastructure-Engineer-_099045",
       "https://nationwide.wd1.myworkdayjobs.com/nationwide_career/job/Ohio---Columbus-Three-Nationwide-Plaza/Specialist-Software-Engineer--Digital-Assistants_099253",
       "https://nationwide.wd1.myworkdayjobs.com/nationwide_career/job/Ohio---Columbus-Three-Nationwide-Plaza/Sr-Engineer--Software-Engineer---Java_099617-1",
-      "https://nationwide.wd1.myworkdayjobs.com/nationwide_career/job/Ohio---Columbus-Three-Nationwide-Plaza/Sr-Engineer--Software-Engineer---Retirement-Solutions---Java-Angular_098759"
+      "https://nationwide.wd1.myworkdayjobs.com/nationwide_career/job/Ohio---Columbus-Three-Nationwide-Plaza/Sr-Engineer--Software-Engineer---Retirement-Solutions---Java-Angular_098759",
+      "https://nationwide.wd1.myworkdayjobs.com/nationwide_career/job/Ohio---Columbus-Three-Nationwide-Plaza/Sr-Engineer--Software-Engineer--Test-Automation-Developer-_099936"
     ]
   },
   {
@@ -21366,7 +21379,9 @@
       "https://jobs.ashbyhq.com/NorthwoodSpace/56c839ae-d9c7-4647-a0d9-87e3e18f5d42",
       "https://jobs.ashbyhq.com/NorthwoodSpace/5d5833d9-6d3e-4e49-8264-f0322b66f684",
       "https://jobs.ashbyhq.com/NorthwoodSpace/b960b661-e1cc-40d0-bde3-290cd1b58ede",
-      "https://jobs.ashbyhq.com/NorthwoodSpace/f19b12b2-1f52-43a6-8e0e-a866c92c4fc1"
+      "https://jobs.ashbyhq.com/NorthwoodSpace/f19b12b2-1f52-43a6-8e0e-a866c92c4fc1",
+      "https://jobs.ashbyhq.com/NorthwoodSpace/d0cca9dd-ea90-4c3b-94b4-17761932d11c",
+      "https://jobs.ashbyhq.com/NorthwoodSpace/ce3d4b73-461e-4128-a6f1-f933897e8119"
     ]
   },
   {
@@ -22839,12 +22854,12 @@
     "domain": "https://jobs.ashbyhq.com",
     "page": "https://api.ashbyhq.com/posting-api/job-board/persona.ai",
     "urls": [
+      "https://jobs.ashbyhq.com/persona.ai/1e8d195c-e28e-423d-a06a-9eeb401ed4fc/application?embed=true",
       "https://jobs.ashbyhq.com/persona.ai/6078fafd-ba34-4c89-b260-7eb15be3cb9c/application",
       "https://jobs.ashbyhq.com/persona.ai/7bc07e51-fb3e-4363-bd10-83bb5c933e80",
       "https://jobs.ashbyhq.com/persona.ai/cb84dd25-79a6-4719-8068-26f69a15b629",
       "https://jobs.ashbyhq.com/persona.ai/db6d05fe-f579-413a-b64f-e68c560871e2",
-      "https://jobs.ashbyhq.com/persona.ai/fd514a3f-4138-48d5-9862-05ff74a4ca08",
-      "https://jobs.ashbyhq.com/persona.ai/1e8d195c-e28e-423d-a06a-9eeb401ed4fc/application?embed=true"
+      "https://jobs.ashbyhq.com/persona.ai/fd514a3f-4138-48d5-9862-05ff74a4ca08"
     ]
   },
   {
@@ -22938,7 +22953,8 @@
       "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Shanghai/IT-AI-Solution-Analyst-Intern_587508",
       "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Shenyang/Advanced-Software-Engineer-C--_586932",
       "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Shenyang/Advanced-Software-Engineer-C--_586933",
-      "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Suzhou/Software-Engineer-Intern_588645-1"
+      "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Suzhou/Software-Engineer-Intern_588645-1",
+      "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Intern---Data-AI-ML-Engineering---Plymouth--MN---Summer-2027_590404"
     ]
   },
   {
@@ -30185,7 +30201,8 @@
       "https://job-boards.greenhouse.io/vardaspace/jobs/7978933003",
       "https://job-boards.greenhouse.io/vardaspace/jobs/7978942003",
       "https://job-boards.greenhouse.io/vardaspace/jobs/7979613003",
-      "https://job-boards.greenhouse.io/vardaspace/jobs/7980397003"
+      "https://job-boards.greenhouse.io/vardaspace/jobs/7980397003",
+      "https://job-boards.greenhouse.io/vardaspace/jobs/7679461003"
     ]
   },
   {
