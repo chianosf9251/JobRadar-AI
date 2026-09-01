@@ -1192,6 +1192,13 @@
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">InterSystems</td>
+      <td width="420" align="left" valign="top">Software Engineer Rotational Program - Early Career</td>
+      <td width="180" align="left" valign="top">Boston, MA</td>
+      <td width="120" align="left" valign="top"><a href="https://job-boards.greenhouse.io/intersystems/jobs/7827894003" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 1</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Motorolasolutions</td>
       <td width="420" align="left" valign="top">Applied AI Engineer I – Supply Chain</td>
       <td width="180" align="left" valign="top">Chicago, IL</td>
@@ -2062,7 +2069,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-09-01T17:47:29.272Z</code>
+      🕒 Last updated <code>2026-09-01T20:57:19.392Z</code>
     </span>
   </p>
 </div>
