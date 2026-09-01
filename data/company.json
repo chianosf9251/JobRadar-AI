@@ -1262,7 +1262,12 @@
       "https://careers.amd.com/jobs/90891?icims=1",
       "https://careers.amd.com/jobs/90947?icims=1",
       "https://careers.amd.com/jobs/91176?icims=1",
-      "https://careers.amd.com/jobs/91180?icims=1"
+      "https://careers.amd.com/jobs/91180?icims=1",
+      "https://careers.amd.com/jobs/90305?icims=1",
+      "https://careers.amd.com/jobs/91366?icims=1",
+      "https://careers.amd.com/jobs/91367?icims=1",
+      "https://careers.amd.com/jobs/91359?icims=1",
+      "https://careers.amd.com/jobs/91368?icims=1"
     ]
   },
   {
@@ -2843,6 +2848,16 @@
     "page": "",
     "urls": [
       "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Summer-Scholar-AI-Innovation/364696"
+    ]
+  },
+  {
+    "name": "apply.edisoncareers.com",
+    "ats": "custom",
+    "identifier": "apply.edisoncareers.com",
+    "domain": "https://apply.edisoncareers.com",
+    "page": "",
+    "urls": [
+      "https://apply.edisoncareers.com/job/Santa-Ana-2027-Summer-Internship-Computer-Science-(Santa-Ana)-CA-92705/1425158700/?ats=successfactors"
     ]
   },
   {
@@ -7389,10 +7404,10 @@
     "domain": "https://careers.huntingtoningalls.com",
     "page": "",
     "urls": [
-      "https://careers.huntingtoningalls.com/job/Newport-News-SOFTWARE-ENGINEER-1-Virg/1408046100/?ats=successfactors",
-      "https://careers.huntingtoningalls.com/job/Newport-News-SOFTWARE-ENGINEER-1-Virg/1412050700/?ats=successfactors",
+      "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1425126300/?ats=successfactors",
       "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1425127900/?ats=successfactors",
-      "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1425126300/?ats=successfactors"
+      "https://careers.huntingtoningalls.com/job/Newport-News-SOFTWARE-ENGINEER-1-Virg/1408046100/?ats=successfactors",
+      "https://careers.huntingtoningalls.com/job/Newport-News-SOFTWARE-ENGINEER-1-Virg/1412050700/?ats=successfactors"
     ]
   },
   {
@@ -11393,14 +11408,14 @@
       "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008077",
       "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008430",
       "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008442",
+      "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008445",
       "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008503",
       "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008525",
       "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008552",
       "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008577",
       "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008740",
       "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009476",
-      "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010151",
-      "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008445"
+      "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010151"
     ]
   },
   {
@@ -12351,7 +12366,8 @@
     "urls": [
       "https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/AI-Engineer---Automated-Channels-Transformation_R67478-1",
       "https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/AI-Engineer---Automated-Channels-Transformation_R70497",
-      "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Software-Engineer-Co-Op---Enterprise-Finance-Applications---Summer-2027_R71588"
+      "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Software-Engineer-Co-Op---Enterprise-Finance-Applications---Summer-2027_R71588",
+      "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Software-Engineer-Co-Op---Enterprise-Finance-Applications---Spring-2027_R71587"
     ]
   },
   {
@@ -17866,8 +17882,8 @@
       "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210756880",
       "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773759",
       "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774038",
-      "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774813",
-      "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774716"
+      "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774716",
+      "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774813"
     ]
   },
   {
@@ -19537,7 +19553,8 @@
     "domain": "https://job-boards.greenhouse.io",
     "page": "https://boards-api.greenhouse.io/v1/boards/mavensecuritiesholdingltd/jobs",
     "urls": [
-      "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7705251"
+      "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7705251",
+      "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7806987"
     ]
   },
   {
@@ -24408,8 +24425,8 @@
       "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3579321",
       "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3772852",
       "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4450017",
-      "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4464054",
-      "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4464029"
+      "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4464029",
+      "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4464054"
     ]
   },
   {
@@ -26405,6 +26422,7 @@
       "https://jobs.ashbyhq.com/Sierra/149f368c-52d5-408f-ba26-ad888f318a00",
       "https://jobs.ashbyhq.com/Sierra/1d5cf6f0-feba-46a6-98bc-70a1627a76d0",
       "https://jobs.ashbyhq.com/Sierra/2d638355-ee46-44ce-a239-844b9234ba6d",
+      "https://jobs.ashbyhq.com/Sierra/34b31b67-268c-4270-b48f-72e59064c96e/application?embed=true",
       "https://jobs.ashbyhq.com/Sierra/3cdeb98c-a25c-4f3b-a704-1418556454bc",
       "https://jobs.ashbyhq.com/Sierra/43e6eda7-6e46-43e8-82a5-6e5035f063bb",
       "https://jobs.ashbyhq.com/Sierra/4472e6c2-fe4e-4540-a37c-68b9367fe02a",
@@ -26425,7 +26443,7 @@
       "https://jobs.ashbyhq.com/Sierra/c66b30fc-9588-4699-85c1-2166b23b8778",
       "https://jobs.ashbyhq.com/Sierra/e2d3e1f5-03cb-4e18-9f3d-a32f0bb6ff91",
       "https://jobs.ashbyhq.com/Sierra/f51d6c09-d767-4e86-bc62-216b2051e318",
-      "https://jobs.ashbyhq.com/Sierra/34b31b67-268c-4270-b48f-72e59064c96e/application?embed=true"
+      "https://jobs.ashbyhq.com/Sierra/02e1c456-8489-4a74-9fe7-af8845b040e4/application?embed=true"
     ]
   },
   {
@@ -28150,8 +28168,8 @@
       "https://swa.wd1.myworkdayjobs.com/external/job/India-Office/Sr-Software-Engineer---Knowledge-Graph_R-2026-69685",
       "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Assoc-Software-Engineer_R-2026-69992",
       "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Software-Engineer_R-2026-69192-1",
-      "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Sr-Software-Engineer_R-2026-71351",
-      "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Spring-2027-Software-Engineering-Internships_R-2026-71386"
+      "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Spring-2027-Software-Engineering-Internships_R-2026-71386",
+      "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Sr-Software-Engineer_R-2026-71351"
     ]
   },
   {
@@ -28434,11 +28452,13 @@
     "name": "tcenergy",
     "ats": "workday",
     "identifier": "tcenergy-career_site_tc",
-    "domain": "https://tcenergy.wd3.myworkdayjobs.com/career_site_tc",
-    "page": "https://tcenergy.wd3.myworkdayjobs.com/wday/cxs/tcenergy/career_site_tc/jobs",
+    "domain": "https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC",
+    "page": "https://tcenergy.wd3.myworkdayjobs.com/wday/cxs/tcenergy/CAREER_SITE_TC/jobs",
     "urls": [
+      "https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Charleston-West-Virginia/Student-Intern--Engineering_JR-10741",
       "https://tcenergy.wd3.myworkdayjobs.com/career_site_tc/job/Houston-Texas/Performance-Engineer_JR-09697",
-      "https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Charleston-West-Virginia/Student-Intern--Engineering_JR-10741"
+      "https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Houston-Office-TC-Energy-Cente/Student-Intern--Engineering_JR-10742",
+      "https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Calgary-Alberta/Intern---Engineering_JR-10728"
     ]
   },
   {
@@ -28655,7 +28675,8 @@
       "https://www.tesla.com/careers/search/job/281099",
       "https://www.tesla.com/careers/search/job/281467",
       "https://www.tesla.com/careers/search/job/281625",
-      "https://www.tesla.com/careers/search/job/internship-localization-specialist-it-applications-fall-2026-276308"
+      "https://www.tesla.com/careers/search/job/internship-localization-specialist-it-applications-fall-2026-276308",
+      "https://www.tesla.com/careers/search/job/281462"
     ]
   },
   {
@@ -28737,7 +28758,12 @@
     "domain": "https://textron.taleo.net",
     "page": "",
     "urls": [
-      "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=341975"
+      "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=341975",
+      "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342550",
+      "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342688",
+      "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342915",
+      "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342650",
+      "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342666"
     ]
   },
   {
@@ -29741,9 +29767,10 @@
     "name": "travelers",
     "ats": "workday",
     "identifier": "travelers-external",
-    "domain": "https://travelers.wd5.myworkdayjobs.com/external",
-    "page": "https://travelers.wd5.myworkdayjobs.com/wday/cxs/travelers/external/jobs",
+    "domain": "https://travelers.wd5.myworkdayjobs.com/External",
+    "page": "https://travelers.wd5.myworkdayjobs.com/wday/cxs/travelers/External/jobs",
     "urls": [
+      "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Engineering-Development-Program--EDP----Intern_R-52270",
       "https://travelers.wd5.myworkdayjobs.com/external/job/CT---Hartford/Software-Engineer-I---Elixir--Python--AWS_R-52134",
       "https://travelers.wd5.myworkdayjobs.com/external/job/CT---Hartford/Software-Engineer-I---Guidewire-Policy-Configuration_R-51545",
       "https://travelers.wd5.myworkdayjobs.com/external/job/CT---Hartford/Software-Engineer-I--AI-Driven-_R-51215",
@@ -29757,8 +29784,7 @@
       "https://travelers.wd5.myworkdayjobs.com/external/job/MN---St-Paul/Software-Engineer-I---AWS--React--JavaScript_R-51981-1",
       "https://travelers.wd5.myworkdayjobs.com/external/job/MN---St-Paul/Software-Engineer-I---Loss-Sensitive--Java--Spring-Boot--TypeScript--Nodejs--AI-_R-50957",
       "https://travelers.wd5.myworkdayjobs.com/external/job/MN---St-Paul/Software-Engineer-I--Workday----Report-Writer--EIB_R-51637",
-      "https://travelers.wd5.myworkdayjobs.com/external/job/SRY---Redhill/AVP--Software-Engineering--EUR_R-51322",
-      "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Engineering-Development-Program--EDP----Intern_R-52270"
+      "https://travelers.wd5.myworkdayjobs.com/external/job/SRY---Redhill/AVP--Software-Engineering--EUR_R-51322"
     ]
   },
   {
