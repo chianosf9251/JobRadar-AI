@@ -889,6 +889,41 @@
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">AMD</td>
+      <td width="420" align="left" valign="top">Software Engineer Intern/Co-op</td>
+      <td width="180" align="left" valign="top">Markham, ON</td>
+      <td width="120" align="left" valign="top"><a href="https://careers.amd.com/jobs/91368?icims=1" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 1</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">↳</td>
+      <td width="420" align="left" valign="top">Graphics Software Engineer Intern/Co-op</td>
+      <td width="180" align="left" valign="top">Markham, ON</td>
+      <td width="120" align="left" valign="top"><a href="https://careers.amd.com/jobs/91359?icims=1" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 1</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">↳</td>
+      <td width="420" align="left" valign="top">Software Engineer Intern/Co-op</td>
+      <td width="180" align="left" valign="top">Vancouver, BC</td>
+      <td width="120" align="left" valign="top"><a href="https://careers.amd.com/jobs/91367?icims=1" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 1</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">↳</td>
+      <td width="420" align="left" valign="top">Software Engineer Intern/Co-op</td>
+      <td width="180" align="left" valign="top">Calgary, AB</td>
+      <td width="120" align="left" valign="top"><a href="https://careers.amd.com/jobs/91366?icims=1" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 1</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">↳</td>
+      <td width="420" align="left" valign="top">Graphics Software Engineer Intern/Co-op</td>
+      <td width="180" align="left" valign="top">Markham, ON</td>
+      <td width="120" align="left" valign="top"><a href="https://careers.amd.com/jobs/90305?icims=1" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 1</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Geaerospace</td>
       <td width="420" align="left" valign="top">Applied AI Engineer Co-op – Spring 2027 (January Start)</td>
       <td width="180" align="left" valign="top">Remote, USA</td>
@@ -1957,7 +1992,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-09-01T07:40:09.544Z</code>
+      🕒 Last updated <code>2026-09-01T13:26:38.260Z</code>
     </span>
   </p>
 </div>
