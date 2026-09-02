@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20Parsed-google%20%2F%20gemini--3.1--flash--lite-blue" />
   <img src="https://img.shields.io/badge/Countries-USA%20%C2%B7%20Canada%20%C2%B7%20Taiwan%20%C2%B7%20Remote-green" />
-  <img src="https://img.shields.io/badge/Updated-2026--09--01-orange" />
+  <img src="https://img.shields.io/badge/Updated-2026--09--02-orange" />
   <img src="https://img.shields.io/badge/License-MIT-yellow" />
 </p>
 
@@ -102,6 +102,13 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td width="180" align="left" valign="top">HP IQ</td>
+      <td width="420" align="left" valign="top">Software Engineering Intern, Connectivity (Summer 2027)</td>
+      <td width="180" align="left" valign="top">San Francisco, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://job-boards.greenhouse.io/hpiq/jobs/6176783004" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 1</td>
+    </tr>
     <tr>
       <td width="180" align="left" valign="top">Microsoft</td>
       <td width="420" align="left" valign="top">Software Engineer Intern - AI and ML Projects</td>
@@ -938,6 +945,13 @@
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Internship List</td>
+      <td width="420" align="left" valign="top">Vehicle Systems Engineering Intern (Winter/January 2027, 4- 8 Months)</td>
+      <td width="180" align="left" valign="top">Waterloo, ON</td>
+      <td width="120" align="left" valign="top"><a href="https://job-boards.greenhouse.io/internshiplist2000/jobs/5381043008" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 1</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Philips</td>
       <td width="420" align="left" valign="top">Co-op – Software Engineer (R&amp;D) – Cambridge, MA – January - August 2027</td>
       <td width="180" align="left" valign="top">Cambridge, MA</td>
@@ -1184,6 +1198,20 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td width="180" align="left" valign="top">Vermeer</td>
+      <td width="420" align="left" valign="top">Engineer I - Embedded Software Engineer (Engineering Development Program 2027)</td>
+      <td width="180" align="left" valign="top">Pella, IA</td>
+      <td width="120" align="left" valign="top"><a href="https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Plant-7--West-Segment-Office/Engineer-I---Embedded-Software-Engineer--Engineering-Development-Program-2027-_REQ-22180" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 1</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Kla</td>
+      <td width="420" align="left" valign="top">Software Engineer</td>
+      <td width="180" align="left" valign="top">Milpitas, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://kla.wd1.myworkdayjobs.com/ur/job/Milpitas-CA/Software-Engineer_2640196" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 1</td>
+    </tr>
     <tr>
       <td width="180" align="left" valign="top">Valon</td>
       <td width="420" align="left" valign="top">Software Engineer New Grad</td>
@@ -2069,7 +2097,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-09-01T23:16:50.737Z</code>
+      🕒 Last updated <code>2026-09-02T00:54:33.421Z</code>
     </span>
   </p>
 </div>
