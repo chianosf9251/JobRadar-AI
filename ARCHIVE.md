@@ -18,6 +18,13 @@ Every opportunity matching your current filters (country, category, citizenship/
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">The MITRE Corporation</td>
+      <td width="420" align="left" valign="top">Software Engineering Intern</td>
+      <td width="180" align="left" valign="top">Bedford, MA</td>
+      <td width="120" align="left" valign="top"><a href="https://careers.mitre.org/us/en/job/R117125?ph_id=R117125" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 2</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Armadin</td>
       <td width="420" align="left" valign="top">Software Engineer Intern - Agent Systems</td>
       <td width="180" align="left" valign="top">Palo Alto, CA</td>
@@ -1210,6 +1217,20 @@ Every opportunity matching your current filters (country, category, citizenship/
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Apex-technology-inc</td>
+      <td width="420" align="left" valign="top">Software Engineering Internship, Embedded Systems (Spring or Summer 2027)</td>
+      <td width="180" align="left" valign="top">Los Angeles, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://jobs.ashbyhq.com/apex-technology-inc/4203604c-2330-4c89-8432-37af718a6bda" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 2</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Altera</td>
+      <td width="420" align="left" valign="top">Graduate Intern - Engineering Infrastructure</td>
+      <td width="180" align="left" valign="top">San Jose, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/Graduate-Intern---Engineering-Infrastructure_R03066" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 2</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Dedalus Labs</td>
       <td width="420" align="left" valign="top">Systems Engineer Intern</td>
       <td width="180" align="left" valign="top">San Francisco, CA</td>
@@ -1540,6 +1561,20 @@ Every opportunity matching your current filters (country, category, citizenship/
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td width="180" align="left" valign="top">HPE</td>
+      <td width="420" align="left" valign="top">AI &amp; Analytics Solutions Engineer</td>
+      <td width="180" align="left" valign="top">Ft. Collins, CO</td>
+      <td width="120" align="left" valign="top"><a href="https://careers.hpe.com/us/en/job/1212189?ph_id=1212189" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 2</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Ambarella</td>
+      <td width="420" align="left" valign="top">Edge Computer Vision Accelerator Engineer</td>
+      <td width="180" align="left" valign="top">Hsinchu, Taiwan</td>
+      <td width="120" align="left" valign="top"><a href="https://ambarella.wd108.myworkdayjobs.com/ambarella/job/Taiwan-Hsinchu/Edge-Computer-Vision-Accelerator-Engineer_JR100367" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 2</td>
+    </tr>
     <tr>
       <td width="180" align="left" valign="top">Vermeer</td>
       <td width="420" align="left" valign="top">Engineer I - Embedded Software Engineer (Engineering Development Program 2027)</td>
@@ -2870,4 +2905,4 @@ Every opportunity matching your current filters (country, category, citizenship/
 
 ---
 
-📦 Generated from `opportunities.ndjson` &nbsp;•&nbsp; 🕒 Last updated `2026-09-02T13:34:37.239Z`
+📦 Generated from `opportunities.ndjson` &nbsp;•&nbsp; 🕒 Last updated `2026-09-02T17:05:56.680Z`
