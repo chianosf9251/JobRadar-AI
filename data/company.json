@@ -7614,7 +7614,8 @@
       "https://careers.jhuapl.edu/jobs/59779?icims=1",
       "https://careers.jhuapl.edu/jobs/59782?icims=1",
       "https://careers.jhuapl.edu/jobs/59798?icims=1",
-      "https://careers.jhuapl.edu/jobs/59832?icims=1"
+      "https://careers.jhuapl.edu/jobs/59832?icims=1",
+      "https://careers.jhuapl.edu/jobs/59883?icims=1"
     ]
   },
   {
@@ -8863,6 +8864,16 @@
       "https://jobs.ashbyhq.com/checkout.com/c0f1a326-2924-4a6f-b649-0ed05cccab8e",
       "https://jobs.ashbyhq.com/checkout.com/c37d4aba-998a-4266-8525-2b5fad1bfb56/application?embed=true",
       "https://jobs.ashbyhq.com/checkout.com/e35e589f-acd7-4fbd-ae69-f79387393e84"
+    ]
+  },
+  {
+    "name": "cheiron",
+    "ats": "ashby",
+    "identifier": "cheiron",
+    "domain": "https://jobs.ashbyhq.com",
+    "page": "https://api.ashbyhq.com/posting-api/job-board/cheiron",
+    "urls": [
+      "https://jobs.ashbyhq.com/cheiron/36763c16-8996-4c66-b693-d48329413678/application?embed=true"
     ]
   },
   {
@@ -10468,7 +10479,8 @@
     "page": "https://api.ashbyhq.com/posting-api/job-board/dedalus-labs",
     "urls": [
       "https://jobs.ashbyhq.com/dedalus-labs/bcd6db2e-400b-4ffa-aef3-0948a7b558c2/application?embed=true",
-      "https://jobs.ashbyhq.com/dedalus-labs/fab1accf-2b21-453b-869f-a08759fa605c"
+      "https://jobs.ashbyhq.com/dedalus-labs/fab1accf-2b21-453b-869f-a08759fa605c",
+      "https://jobs.ashbyhq.com/dedalus-labs/6037de96-d9c7-418f-ad23-56bb327225a6/application?embed=true"
     ]
   },
   {
@@ -17638,7 +17650,9 @@
       "https://jobs.bytedance.com/en/position/7672557061679483189/detail",
       "https://jobs.bytedance.com/en/position/7672626707586746629/detail",
       "https://jobs.bytedance.com/en/position/7675345626188335365/detail",
-      "https://jobs.bytedance.com/en/position/7678449088065997109/detail"
+      "https://jobs.bytedance.com/en/position/7678449088065997109/detail",
+      "https://jobs.bytedance.com/en/position/7678450462765254965/detail",
+      "https://jobs.bytedance.com/en/position/7678451067500529925/detail"
     ]
   },
   {
@@ -18072,8 +18086,8 @@
       "https://johndeere.eightfold.ai/careers/job/137482601358?domain=johndeere.com&8fold_id=137482601358",
       "https://johndeere.eightfold.ai/careers/job/137482658047?domain=johndeere.com&8fold_id=137482658047",
       "https://johndeere.eightfold.ai/careers/job/137482728232?domain=johndeere.com&8fold_id=137482728232",
-      "https://johndeere.eightfold.ai/careers/job/137482944034?domain=johndeere.com&8fold_id=137482944034",
-      "https://johndeere.eightfold.ai/careers/job/137482769212"
+      "https://johndeere.eightfold.ai/careers/job/137482769212",
+      "https://johndeere.eightfold.ai/careers/job/137482944034?domain=johndeere.com&8fold_id=137482944034"
     ]
   },
   {
@@ -29079,8 +29093,9 @@
       "https://www.tesla.com/careers/search/job/281462",
       "https://www.tesla.com/careers/search/job/281467",
       "https://www.tesla.com/careers/search/job/281625",
+      "https://www.tesla.com/careers/search/job/281936",
       "https://www.tesla.com/careers/search/job/internship-localization-specialist-it-applications-fall-2026-276308",
-      "https://www.tesla.com/careers/search/job/281936"
+      "https://www.tesla.com/careers/search/job/282147"
     ]
   },
   {
