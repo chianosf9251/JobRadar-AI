@@ -103,6 +103,20 @@
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Schonfeld</td>
+      <td width="420" align="left" valign="top">2027 Software Engineering Intern</td>
+      <td width="180" align="left" valign="top">New York, NY</td>
+      <td width="120" align="left" valign="top"><a href="https://job-boards.greenhouse.io/schonfeld/jobs/8180089" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 4</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Scale AI</td>
+      <td width="420" align="left" valign="top">Software Engineering Intern (Summer 2027) </td>
+      <td width="180" align="left" valign="top">San Francisco, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://job-boards.greenhouse.io/scaleai/jobs/4730845005" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 4</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Micron</td>
       <td width="420" align="left" valign="top">Intern - AI Agentic Systems Engineer</td>
       <td width="180" align="left" valign="top">Folsom, CA</td>
@@ -868,6 +882,20 @@
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Texas instruments</td>
+      <td width="420" align="left" valign="top">Systems Engineering Intern - Machine Learning Expert</td>
+      <td width="180" align="left" valign="top">Dallas, TX</td>
+      <td width="120" align="left" valign="top"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017705" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 4</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Nokia</td>
+      <td width="420" align="left" valign="top">AI-Agent Development Co-op</td>
+      <td width="180" align="left" valign="top">San Jose, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39978" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 4</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Sunlife</td>
       <td width="420" align="left" valign="top">Student, Associate Software Engineer (Winter 2027)</td>
       <td width="180" align="left" valign="top">Waterloo, ON</td>
@@ -1191,6 +1219,13 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td width="180" align="left" valign="top">Scale AI</td>
+      <td width="420" align="left" valign="top">Software Engineer - New Grad</td>
+      <td width="180" align="left" valign="top">San Francisco, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://job-boards.greenhouse.io/scaleai/jobs/4730836005" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 4</td>
+    </tr>
     <tr>
       <td width="180" align="left" valign="top">TikTok</td>
       <td width="420" align="left" valign="top">Research Scientist Graduate (Conversational AI)- 2027 Start (PhD)</td>
@@ -2003,20 +2038,6 @@
       <td width="120" align="left" valign="top"><a href="https://bmo.wd3.myworkdayjobs.com/external/job/Toronto-ON-CAN/Applied-AI-Scientist---Generative-AI---Agentic-Systems_R260022110" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
       <td width="100" align="left" valign="top">August 5</td>
     </tr>
-    <tr>
-      <td width="180" align="left" valign="top">Lyft</td>
-      <td width="420" align="left" valign="top">Software Engineer</td>
-      <td width="180" align="left" valign="top">San Francisco, CA</td>
-      <td width="120" align="left" valign="top"><a href="https://app.careerpuck.com/job-board/lyft/job/8678744002?gh_jid=8678744002" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">August 5</td>
-    </tr>
-    <tr>
-      <td width="180" align="left" valign="top">Gen-digital</td>
-      <td width="420" align="left" valign="top">AI &amp; Machine Learning Engineer I</td>
-      <td width="180" align="left" valign="top">Mountain View, CA</td>
-      <td width="120" align="left" valign="top"><a href="https://jobs.ashbyhq.com/gen-digital/b3ab78c4-af7c-4a95-9bbb-f6264e0c3adf" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">August 5</td>
-    </tr>
   </tbody>
 </table>
 
@@ -2041,7 +2062,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-09-04T08:52:51.584Z</code>
+      🕒 Last updated <code>2026-09-04T16:46:13.347Z</code>
     </span>
   </p>
 </div>

@@ -18,6 +18,20 @@ Every opportunity matching your current filters (country, category, citizenship/
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Schonfeld</td>
+      <td width="420" align="left" valign="top">2027 Software Engineering Intern</td>
+      <td width="180" align="left" valign="top">New York, NY</td>
+      <td width="120" align="left" valign="top"><a href="https://job-boards.greenhouse.io/schonfeld/jobs/8180089" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 4</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Scale AI</td>
+      <td width="420" align="left" valign="top">Software Engineering Intern (Summer 2027) </td>
+      <td width="180" align="left" valign="top">San Francisco, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://job-boards.greenhouse.io/scaleai/jobs/4730845005" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 4</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Micron</td>
       <td width="420" align="left" valign="top">Intern - AI Agentic Systems Engineer</td>
       <td width="180" align="left" valign="top">Folsom, CA</td>
@@ -1259,6 +1273,20 @@ Every opportunity matching your current filters (country, category, citizenship/
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Texas instruments</td>
+      <td width="420" align="left" valign="top">Systems Engineering Intern - Machine Learning Expert</td>
+      <td width="180" align="left" valign="top">Dallas, TX</td>
+      <td width="120" align="left" valign="top"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017705" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 4</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Nokia</td>
+      <td width="420" align="left" valign="top">AI-Agent Development Co-op</td>
+      <td width="180" align="left" valign="top">San Jose, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39978" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 4</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Sunlife</td>
       <td width="420" align="left" valign="top">Student, Associate Software Engineer (Winter 2027)</td>
       <td width="180" align="left" valign="top">Waterloo, ON</td>
@@ -1652,6 +1680,13 @@ Every opportunity matching your current filters (country, category, citizenship/
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td width="180" align="left" valign="top">Scale AI</td>
+      <td width="420" align="left" valign="top">Software Engineer - New Grad</td>
+      <td width="180" align="left" valign="top">San Francisco, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://job-boards.greenhouse.io/scaleai/jobs/4730836005" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 4</td>
+    </tr>
     <tr>
       <td width="180" align="left" valign="top">TikTok</td>
       <td width="420" align="left" valign="top">Research Scientist Graduate (Conversational AI)- 2027 Start (PhD)</td>
@@ -3059,4 +3094,4 @@ Every opportunity matching your current filters (country, category, citizenship/
 
 ---
 
-📦 Generated from `opportunities.ndjson` &nbsp;•&nbsp; 🕒 Last updated `2026-09-04T08:52:51.584Z`
+📦 Generated from `opportunities.ndjson` &nbsp;•&nbsp; 🕒 Last updated `2026-09-04T16:46:13.347Z`
