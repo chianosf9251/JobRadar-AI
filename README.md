@@ -882,6 +882,13 @@
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Royal Bank of Canada</td>
+      <td width="420" align="left" valign="top">Capital Markets Analyst Intern - AidenEdge</td>
+      <td width="180" align="left" valign="top">New York, NY</td>
+      <td width="120" align="left" valign="top"><a href="https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/BROOKFIELD-PLACE-FKA-3-WORLD-FINANCIAL-CENTER-200-VESEY-STREETNEW-YORK/XMLNAME-2027-Capital-Markets--AidenEdge-Program-Winter-Analyst--4-Months-_R-0000186586" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 4</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Texas instruments</td>
       <td width="420" align="left" valign="top">Systems Engineering Intern - Machine Learning Expert</td>
       <td width="180" align="left" valign="top">Dallas, TX</td>
@@ -2062,7 +2069,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-09-04T16:46:13.347Z</code>
+      🕒 Last updated <code>2026-09-04T17:32:26.362Z</code>
     </span>
   </p>
 </div>
