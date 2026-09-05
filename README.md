@@ -103,6 +103,13 @@
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Zipline</td>
+      <td width="420" align="left" valign="top">Aircraft Software Integration Intern</td>
+      <td width="180" align="left" valign="top">South San Francisco, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://www.zipline.com/open-roles/7986848003?gh_jid=7986848003" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 4</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Apex-technology-inc</td>
       <td width="420" align="left" valign="top">Simulation Software Engineering Internship (Spring or Summer 2027) </td>
       <td width="180" align="left" valign="top">Los Angeles, CA</td>
@@ -902,6 +909,13 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td width="180" align="left" valign="top">Brave</td>
+      <td width="420" align="left" valign="top">Software Engineer Intern - Waterloo University</td>
+      <td width="180" align="left" valign="top">Canada</td>
+      <td width="120" align="left" valign="top"><a href="https://job-boards.greenhouse.io/brave/jobs/8161945" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 4</td>
+    </tr>
     <tr>
       <td width="180" align="left" valign="top">Rivianvw.tech</td>
       <td width="420" align="left" valign="top">Software Engineering Intern - Connected Systems (January - August 2027)</td>
@@ -2069,7 +2083,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-09-05T00:38:37.619Z</code>
+      🕒 Last updated <code>2026-09-05T00:48:58.220Z</code>
     </span>
   </p>
 </div>
