@@ -6918,6 +6918,7 @@
       "https://careers.airbnb.com/positions/8142827?gh_jid=8142827",
       "https://careers.airbnb.com/positions/8146265?gh_jid=8146265",
       "https://careers.aqr.com/jobs?gh_jid=7493461&gh_jid=7493461",
+      "https://careers.datadoghq.com/detail/6572669/?gh_jid=6572669",
       "https://careers.datadoghq.com/detail/8023250/?gh_jid=8023250",
       "https://careers.formlabs.com/job/8097694/apply/?gh_jid=8097694",
       "https://careers.formlabs.com/job/8138459/apply/?gh_jid=8138459",
@@ -7813,11 +7814,15 @@
       "https://careers.hpe.com/us/en/job/1211994?ph_id=1211994",
       "https://careers.hpe.com/us/en/job/1212124?ph_id=1212124",
       "https://careers.hpe.com/us/en/job/1212189?ph_id=1212189",
+      "https://careers.hpe.com/us/en/job/1212247?ph_id=1212247",
       "https://careers.hpe.com/us/en/job/1212251?ph_id=1212251",
+      "https://careers.hpe.com/us/en/job/1212261?ph_id=1212261",
+      "https://careers.hpe.com/us/en/job/1212262?ph_id=1212262",
       "https://careers.hpe.com/us/en/job/1212264?ph_id=1212264",
       "https://careers.hpe.com/us/en/job/1212266?ph_id=1212266",
       "https://careers.hpe.com/us/en/job/1212267?ph_id=1212267",
       "https://careers.hpe.com/us/en/job/1212271?ph_id=1212271",
+      "https://careers.hpe.com/us/en/job/1212272?ph_id=1212272",
       "https://careers.hpe.com/us/en/job/1212359?ph_id=1212359",
       "https://careers.hpe.com/us/en/job/1212364?ph_id=1212364",
       "https://careers.hpe.com/us/en/job/1212379?ph_id=1212379",
@@ -7825,11 +7830,7 @@
       "https://careers.hpe.com/us/en/job/1213032?ph_id=1213032",
       "https://careers.hpe.com/us/en/job/1213624?ph_id=1213624",
       "https://careers.hpe.com/us/en/job/1213625?ph_id=1213625",
-      "https://careers.hpe.com/us/en/job/1214490?ph_id=1214490",
-      "https://careers.hpe.com/us/en/job/1212272?ph_id=1212272",
-      "https://careers.hpe.com/us/en/job/1212247?ph_id=1212247",
-      "https://careers.hpe.com/us/en/job/1212261?ph_id=1212261",
-      "https://careers.hpe.com/us/en/job/1212262?ph_id=1212262"
+      "https://careers.hpe.com/us/en/job/1214490?ph_id=1214490"
     ]
   },
   {
@@ -10772,7 +10773,6 @@
     "domain": "https://careers.datadoghq.com",
     "page": "https://boards-api.greenhouse.io/v1/boards/datadog/jobs",
     "urls": [
-      "https://careers.datadoghq.com/detail/6572669/?gh_jid=6572669",
       "https://careers.datadoghq.com/detail/6652564/?gh_jid=6652564",
       "https://careers.datadoghq.com/detail/7194969/?gh_jid=7194969",
       "https://careers.datadoghq.com/detail/8052095/?gh_jid=8052095"
@@ -12815,22 +12815,22 @@
     "page": "https://api.ashbyhq.com/posting-api/job-board/fab2",
     "urls": [
       "https://jobs.ashbyhq.com/fab2/0c4dc4f4-01c9-4138-a666-e7234cda7e95",
+      "https://jobs.ashbyhq.com/fab2/15020e6e-be1c-4455-95a3-aa798474cec4",
+      "https://jobs.ashbyhq.com/fab2/2b0ab443-c7d8-4547-9766-111747f0b361",
       "https://jobs.ashbyhq.com/fab2/2cdb7ce3-a4c0-4586-9e8a-33ce06dcced0",
+      "https://jobs.ashbyhq.com/fab2/36ab33ab-82e7-4cc4-8137-f451fd6036a0",
       "https://jobs.ashbyhq.com/fab2/3c7fd0f1-b25f-413c-8e62-6ef00a9d47da",
       "https://jobs.ashbyhq.com/fab2/4e3958f5-4e0d-4acc-9072-e40822ddf904",
       "https://jobs.ashbyhq.com/fab2/4e4f8c44-2f9b-4cb4-9e44-01d24b367b2f",
+      "https://jobs.ashbyhq.com/fab2/53f3fe23-9d2d-4eef-bd28-968d011f86c7",
+      "https://jobs.ashbyhq.com/fab2/602d73a8-d190-4fc1-97e9-99b7f5fa7475",
       "https://jobs.ashbyhq.com/fab2/615feebf-d9e3-4583-9c85-ba16af44e65c/application?embed=true",
       "https://jobs.ashbyhq.com/fab2/73ea74f8-e72a-432a-92aa-5f90f77679ed",
       "https://jobs.ashbyhq.com/fab2/867c67f7-20b5-4726-b9da-85a760d3851e?embed=true",
       "https://jobs.ashbyhq.com/fab2/8a5418ba-b893-47aa-b503-483129111325",
       "https://jobs.ashbyhq.com/fab2/907766af-a3c0-49a3-b01e-246baa437d10",
       "https://jobs.ashbyhq.com/fab2/947338ca-e135-4398-9aa3-79e131bc03d5/application?embed=true",
-      "https://jobs.ashbyhq.com/fab2/f38b33e7-149e-45b2-b03f-fb8c1b437765/application?embed=true",
-      "https://jobs.ashbyhq.com/fab2/602d73a8-d190-4fc1-97e9-99b7f5fa7475",
-      "https://jobs.ashbyhq.com/fab2/15020e6e-be1c-4455-95a3-aa798474cec4",
-      "https://jobs.ashbyhq.com/fab2/36ab33ab-82e7-4cc4-8137-f451fd6036a0",
-      "https://jobs.ashbyhq.com/fab2/2b0ab443-c7d8-4547-9766-111747f0b361",
-      "https://jobs.ashbyhq.com/fab2/53f3fe23-9d2d-4eef-bd28-968d011f86c7"
+      "https://jobs.ashbyhq.com/fab2/f38b33e7-149e-45b2-b03f-fb8c1b437765/application?embed=true"
     ]
   },
   {
@@ -14071,6 +14071,7 @@
     "urls": [
       "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Atlanta/Digital-Technology-Intern---US---Atlanta--GA----Summer-2027_R5038078",
       "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Bohemia/Embedded-Systems-Engineer-Co-op--Bohemia--NY----Spring-2027_R5035583-1",
+      "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Cheltenham/GE-Aerospace-Software-Engineering---12-Month-Placement_R5039374-2",
       "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Dayton/Systems-Engineering-Co-op---Electrical-Engineering---Computer-Engineering-Science--Electric-Power----US---Fall-2027_R5030143-1",
       "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Dayton/Systems-Engineering-Co-op---Electrical-Engineering---Computer-Engineering-Science--Electric-Power----US---Spring-2027_R5030099-1",
       "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Dayton/Systems-Engineering-Co-op---Mechanical-Aerospace-Engineering--Electric-Power----US---Fall-2027_R5030145-1",
@@ -14086,6 +14087,7 @@
       "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Engines-Engineering-Intern---Computer-or-Software-Engineering---US---Summer-2027_R5029622-1",
       "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Software-Engineer-AI-ML_R5034608-1",
       "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Systems-Engineering-Section-Leader---Small-UAV-Engines-Development_R5034359-2",
+      "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Gloucester/GE-Aerospace-Systems-Engineering---12-Month-Placement_R5039377-1",
       "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Grand-Rapids/Embedded-Software-Engineer---Aerospace_R5036917-1",
       "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Grand-Rapids/Systems-Engineering-Co-op---Electrical-Engineering---Computer-Engineering-Science--Avionics----US---Fall-2027_R5030141-1",
       "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Grand-Rapids/Systems-Engineering-Co-op---Electrical-Engineering---Computer-Engineering-Science--Avionics----US---Spring-2027_R5030096-2",
@@ -14102,9 +14104,7 @@
       "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Remote/Software-Engineer_R5038542-1",
       "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Remote/Software-Engineer_R5038544-1",
       "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Remote/Sr-AI-Data-Engineer_R5034165-1",
-      "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Remote/Sr-AI-Data-Engineer_R5039157-1",
-      "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Cheltenham/GE-Aerospace-Software-Engineering---12-Month-Placement_R5039374-2",
-      "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Gloucester/GE-Aerospace-Systems-Engineering---12-Month-Placement_R5039377-1"
+      "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Remote/Sr-AI-Data-Engineer_R5039157-1"
     ]
   },
   {
@@ -16805,8 +16805,12 @@
       "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/San-Jose-California-United-States-of-America/Software-Engineer_1210117-2",
       "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/San-Juan-Puerto-Rico-Puerto-Rico/AI-Ops-Engineer_1212264-4",
       "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/San-Juan-Puerto-Rico-Puerto-Rico/AI-Ops-Engineer_1212266",
+      "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/San-Juan-Puerto-Rico-Puerto-Rico/Full-Stack-AI-Engineer_1212272-5",
       "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/San-Juan-Puerto-Rico-Puerto-Rico/Senior-Engineer---NPAT-Content-Services-AI-Infra_1212251-5",
       "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/San-Juan-Puerto-Rico-Puerto-Rico/Systems--Software-Engineer_1212271-2",
+      "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/San-Juan-Puerto-Rico-Puerto-Rico/Systems-Engineer--Linux--Yocto_1212247-5",
+      "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/San-Juan-Puerto-Rico-Puerto-Rico/Systems-Engineer--Linux--Yocto_1212261-1",
+      "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/San-Juan-Puerto-Rico-Puerto-Rico/Systems-Engineer--Linux--Yocto_1212262-4",
       "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/San-Juan-Puerto-Rico-Puerto-Rico/Systems-Engineer--Linux--Yocto_1212267-2",
       "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Singapore-Central-Singapore-Singapore/Embedded-Software-Engineer--Firmware_1208174-2",
       "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Spring-Texas-United-States-of-America/AI-and-Machine-Learning-Engineer_1209939-2",
@@ -16825,11 +16829,7 @@
       "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Westford-Massachusetts-United-States-of-America/Software-Engineer--Systems_1208434-2",
       "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Westford-Massachusetts-United-States-of-America/Software-Engineer_1208691-2",
       "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Westford-Massachusetts-United-States-of-America/Software-Engineer_1208770-1",
-      "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Winnersh-Berkshire-United-Kingdom/HPC---AI-Application-Performance-Engineer_1212364-2",
-      "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/San-Juan-Puerto-Rico-Puerto-Rico/Systems-Engineer--Linux--Yocto_1212261-1",
-      "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/San-Juan-Puerto-Rico-Puerto-Rico/Systems-Engineer--Linux--Yocto_1212262-4",
-      "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/San-Juan-Puerto-Rico-Puerto-Rico/Systems-Engineer--Linux--Yocto_1212247-5",
-      "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/San-Juan-Puerto-Rico-Puerto-Rico/Full-Stack-AI-Engineer_1212272-5"
+      "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Winnersh-Berkshire-United-Kingdom/HPC---AI-Application-Performance-Engineer_1212364-2"
     ]
   },
   {
@@ -23256,7 +23256,8 @@
       "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/System-Software-Engineer--GPU-Development-Tools_JR2015188",
       "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/System-Software-Engineer--GPU-Development-Tools_JR2016197",
       "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-MA-Westford/Software-Engineer---DPU-Platform_JR2015949-1",
-      "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-MO-St-Louis/Performance-Engineer-Intern--Systems-Software---Fall-2026_JR2015779"
+      "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-MO-St-Louis/Performance-Engineer-Intern--Systems-Software---Fall-2026_JR2015779",
+      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Software-Engineer---Networking-Platforms--Diagnostics-Tools-and-Performance_JR2025162"
     ]
   },
   {
@@ -24042,7 +24043,8 @@
       "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Plano-United-States-of-America/AI-Strategic-Partnerships-Business-Development_JR-019606",
       "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Remote---France/Channel-Systems-Engineer---France_JR-021281",
       "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Seattle-United-States-of-America/District-Systems-Engineer_JR-021682",
-      "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Toronto-Canada/District-Systems-Engineer_JR-020760"
+      "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Toronto-Canada/District-Systems-Engineer_JR-020760",
+      "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---Israel---Tel-Aviv/Linux-Internals-Software-Engineer--Cortex-_JR-022156"
     ]
   },
   {
@@ -26520,7 +26522,9 @@
       "https://www.rubrik.com/company/careers/departments/job.8076301?gh_jid=8076301",
       "https://www.rubrik.com/company/careers/departments/job.8121053?gh_jid=8121053",
       "https://www.rubrik.com/company/careers/departments/job.8122613?gh_jid=8122613",
-      "https://www.rubrik.com/company/careers/departments/job.8157246?gh_jid=8157246"
+      "https://www.rubrik.com/company/careers/departments/job.8157246?gh_jid=8157246",
+      "https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537",
+      "https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523"
     ]
   },
   {
@@ -31685,8 +31689,8 @@
     "page": "https://api.ashbyhq.com/posting-api/job-board/uipath",
     "urls": [
       "https://jobs.ashbyhq.com/uipath/6a1408b8-7d66-4fc7-90a2-480199454f57",
-      "https://jobs.ashbyhq.com/uipath/aff7bb82-cfa5-4eb3-a91f-2e784dd9dbdc",
-      "https://jobs.ashbyhq.com/uipath/a6ed0fbe-3505-46ab-9ec5-469d8356f8d8"
+      "https://jobs.ashbyhq.com/uipath/a6ed0fbe-3505-46ab-9ec5-469d8356f8d8",
+      "https://jobs.ashbyhq.com/uipath/aff7bb82-cfa5-4eb3-a91f-2e784dd9dbdc"
     ]
   },
   {
@@ -32118,9 +32122,9 @@
     "urls": [
       "https://vanderlande.wd3.myworkdayjobs.com/careers/job/Istanbul/Low-Level-Control-Engineer_JR37676",
       "https://vanderlande.wd3.myworkdayjobs.com/careers/job/Pune-I/Software-Engineer-II_JR33592",
+      "https://vanderlande.wd3.myworkdayjobs.com/careers/job/Veghel-Netherlands/Junior-Software-Engineer-Emulation_JR37813",
       "https://vanderlande.wd3.myworkdayjobs.com/careers/job/Veghel-Netherlands/System-Test-and-Integration-Engineer_JR37760-1",
-      "https://vanderlande.wd3.myworkdayjobs.com/careers/job/Veghel/Internship-Graduation--Improving-Engineering-Productivity-with-AI_JR37471",
-      "https://vanderlande.wd3.myworkdayjobs.com/careers/job/Veghel-Netherlands/Junior-Software-Engineer-Emulation_JR37813"
+      "https://vanderlande.wd3.myworkdayjobs.com/careers/job/Veghel/Internship-Graduation--Improving-Engineering-Productivity-with-AI_JR37471"
     ]
   },
   {
