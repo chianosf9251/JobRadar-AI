@@ -6918,7 +6918,6 @@
       "https://careers.airbnb.com/positions/8142827?gh_jid=8142827",
       "https://careers.airbnb.com/positions/8146265?gh_jid=8146265",
       "https://careers.aqr.com/jobs?gh_jid=7493461&gh_jid=7493461",
-      "https://careers.datadoghq.com/detail/6572669/?gh_jid=6572669",
       "https://careers.datadoghq.com/detail/8023250/?gh_jid=8023250",
       "https://careers.formlabs.com/job/8097694/apply/?gh_jid=8097694",
       "https://careers.formlabs.com/job/8138459/apply/?gh_jid=8138459",
@@ -10773,6 +10772,7 @@
     "domain": "https://careers.datadoghq.com",
     "page": "https://boards-api.greenhouse.io/v1/boards/datadog/jobs",
     "urls": [
+      "https://careers.datadoghq.com/detail/6572669/?gh_jid=6572669",
       "https://careers.datadoghq.com/detail/6652564/?gh_jid=6652564",
       "https://careers.datadoghq.com/detail/7194969/?gh_jid=7194969",
       "https://careers.datadoghq.com/detail/8052095/?gh_jid=8052095"
@@ -23133,6 +23133,7 @@
       "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Advanced-Development-Engineer--GPU-Networking_JR2014867",
       "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Software-Engineer---Chip-Simulation_JR2022737",
       "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Software-Engineer---NVLink-GPU-Networking_JR2016557",
+      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Software-Engineer---Networking-Platforms--Diagnostics-Tools-and-Performance_JR2025162",
       "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/AI-Engineering-Platform-Development-Engineer_JR2019514",
       "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/CL-QA-Test-Engineer-and-Lab-Infrastructure-Owner_JR2024409",
       "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/DPU-Performance-Validation-Engineer_JR2023305",
@@ -23256,8 +23257,7 @@
       "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/System-Software-Engineer--GPU-Development-Tools_JR2015188",
       "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/System-Software-Engineer--GPU-Development-Tools_JR2016197",
       "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-MA-Westford/Software-Engineer---DPU-Platform_JR2015949-1",
-      "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-MO-St-Louis/Performance-Engineer-Intern--Systems-Software---Fall-2026_JR2015779",
-      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Software-Engineer---Networking-Platforms--Diagnostics-Tools-and-Performance_JR2025162"
+      "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-MO-St-Louis/Performance-Engineer-Intern--Systems-Software---Fall-2026_JR2015779"
     ]
   },
   {
@@ -24029,6 +24029,7 @@
       "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---India---Mumbai/Systems-Engineer--Presales-_JR-019463",
       "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---Israel---CyberArk-Petach-Tikva/Data-Engineer--Data---AI-solutions-_JR-019830",
       "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---Israel---CyberArk-Petach-Tikva/Software-Engineer--Credential-Provider-_JR-022004",
+      "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---Israel---Tel-Aviv/Linux-Internals-Software-Engineer--Cortex-_JR-022156",
       "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---Israel---Tel-Aviv/Sr-Software-Engineer--Email-Security--Cortex-_JR-019122",
       "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---UAE---Dubai/Systems-Engineer--Oman-_JR-019171",
       "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011570",
@@ -24043,8 +24044,7 @@
       "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Plano-United-States-of-America/AI-Strategic-Partnerships-Business-Development_JR-019606",
       "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Remote---France/Channel-Systems-Engineer---France_JR-021281",
       "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Seattle-United-States-of-America/District-Systems-Engineer_JR-021682",
-      "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Toronto-Canada/District-Systems-Engineer_JR-020760",
-      "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---Israel---Tel-Aviv/Linux-Internals-Software-Engineer--Cortex-_JR-022156"
+      "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Toronto-Canada/District-Systems-Engineer_JR-020760"
     ]
   },
   {
@@ -25591,7 +25591,8 @@
       "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/Junior-Full-Stack-Developer--New-Grad-_R-0000185234",
       "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/Machine-Learning-Software-Engineer----New-Grad-_R-0000182134",
       "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/Machine-Learning-Software-Engineer-I--New-Grad-_R-0000183231",
-      "https://rbc.wd3.myworkdayjobs.com/externalprivatepostingstudents/job/TORONTO-Ontario-Canada/XMLNAME-2026-Fall---GRM--Developer---AI-Innovation-for-Risk-Management--4-Months-_R-0000174224-3"
+      "https://rbc.wd3.myworkdayjobs.com/externalprivatepostingstudents/job/TORONTO-Ontario-Canada/XMLNAME-2026-Fall---GRM--Developer---AI-Innovation-for-Risk-Management--4-Months-_R-0000174224-3",
+      "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/Product-Engineer--New-Grad-_R-0000187092"
     ]
   },
   {
@@ -26523,8 +26524,8 @@
       "https://www.rubrik.com/company/careers/departments/job.8121053?gh_jid=8121053",
       "https://www.rubrik.com/company/careers/departments/job.8122613?gh_jid=8122613",
       "https://www.rubrik.com/company/careers/departments/job.8157246?gh_jid=8157246",
-      "https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537",
-      "https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523"
+      "https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523",
+      "https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537"
     ]
   },
   {
