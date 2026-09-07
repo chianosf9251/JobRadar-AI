@@ -103,6 +103,13 @@
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Xcel Energy</td>
+      <td width="420" align="left" valign="top">AI Solutions Development Intern</td>
+      <td width="180" align="left" valign="top">Denver, CO</td>
+      <td width="120" align="left" valign="top"><a href="https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/AI-Solutions-Development-Intern-CO--MN_JR116329-1" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 7</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Fab2</td>
       <td width="420" align="left" valign="top">Infrastructure Software Engineering Intern - Summer</td>
       <td width="180" align="left" valign="top">Austin, TX</td>
@@ -1796,7 +1803,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-09-07T00:41:49.335Z</code>
+      🕒 Last updated <code>2026-09-07T09:13:29.081Z</code>
     </span>
   </p>
 </div>
