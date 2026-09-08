@@ -103,6 +103,20 @@
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Micron Technology</td>
+      <td width="420" align="left" valign="top">Software Engineer Intern - Mask Technology Center</td>
+      <td width="180" align="left" valign="top">Boise, ID</td>
+      <td width="120" align="left" valign="top"><a href="https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Software-Engineer_JR108550" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 8</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Dick&#39;s Sporting Goods</td>
+      <td width="420" align="left" valign="top">Software Engineer Intern - Corporate Internship</td>
+      <td width="180" align="left" valign="top">Pittsburgh, PA</td>
+      <td width="120" align="left" valign="top"><a href="https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/Customer-Support-Center/Software-Engineering---Summer-2027-Corporate-Internship_202608792-1" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 8</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Nxp</td>
       <td width="420" align="left" valign="top">Systems Engineer Intern - Summer 2027</td>
       <td width="180" align="left" valign="top">Irvine, CA</td>
@@ -1810,7 +1824,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-09-08T00:56:09.792Z</code>
+      🕒 Last updated <code>2026-09-08T07:08:52.059Z</code>
     </span>
   </p>
 </div>
