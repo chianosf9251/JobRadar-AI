@@ -103,6 +103,27 @@
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Talos-trading</td>
+      <td width="420" align="left" valign="top">Software Engineer Intern, Dealer</td>
+      <td width="180" align="left" valign="top">New York, NY</td>
+      <td width="120" align="left" valign="top"><a href="https://jobs.ashbyhq.com/Talos-Trading/91fd5274-3b6b-43cf-b366-9f6dc2ae5977" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 8</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Danaher</td>
+      <td width="420" align="left" valign="top">Software Engineering Intern</td>
+      <td width="180" align="left" valign="top">Chaska, MN</td>
+      <td width="120" align="left" valign="top"><a href="https://jobs.danaher.com/global/en/job/R1316911?ph_id=R1316911" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 8</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Datadog</td>
+      <td width="420" align="left" valign="top">Software Engineering Intern (Summer)</td>
+      <td width="180" align="left" valign="top">Boston, MA</td>
+      <td width="120" align="left" valign="top"><a href="https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 8</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Micron Technology</td>
       <td width="420" align="left" valign="top">Software Engineer Intern - Mask Technology Center</td>
       <td width="180" align="left" valign="top">Boise, ID</td>
@@ -826,6 +847,55 @@
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Rivianvw.tech</td>
+      <td width="420" align="left" valign="top">Software Engineering Intern - Vehicle Controls (January - August 2027)</td>
+      <td width="180" align="left" valign="top">Irvine, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://jobs.ashbyhq.com/rivianvw.tech/f5aa59d9-4fdc-42d5-931d-efd9e6d96f2f" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 8</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Onehealthineers</td>
+      <td width="420" align="left" valign="top">Systems Engineering Co-op - Knoxville, TN</td>
+      <td width="180" align="left" valign="top">Knoxville, TN</td>
+      <td width="120" align="left" valign="top"><a href="https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/KNV-I/Systems-Engineering-Co-op---Knoxville--TN_R-30684" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 8</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Coherent corp. us</td>
+      <td width="420" align="left" valign="top">TEMP- Software Engineer</td>
+      <td width="180" align="left" valign="top">Fremont, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2014627" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 8</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Cambiumlearning</td>
+      <td width="420" align="left" valign="top">Software Engineer Intern – AI Applications</td>
+      <td width="180" align="left" valign="top">Remote, USA</td>
+      <td width="120" align="left" valign="top"><a href="https://cambiumlearning.wd1.myworkdayjobs.com/camb/job/Remote/Software-Engineer-Intern---AI-Applications_REQ-4610" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 8</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Bmo</td>
+      <td width="420" align="left" valign="top">AI/Platform Analyst, 8 months (Co-op/Internship) - 8 months</td>
+      <td width="180" align="left" valign="top">Toronto, ON</td>
+      <td width="120" align="left" valign="top"><a href="https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/AI-Platform-Analyst--8-months--Co-op-Internship----8-months_R260026129-1" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 8</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">↳</td>
+      <td width="420" align="left" valign="top">AI/Platform Analyst, 8 months (Co-op/Internship) - 8 months</td>
+      <td width="180" align="left" valign="top">Toronto, ON</td>
+      <td width="120" align="left" valign="top"><a href="https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/AI-Platform-Analyst--8-months--Co-op-Internship----8-months_R260026129-2" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 8</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">↳</td>
+      <td width="420" align="left" valign="top">AI/Platform Analyst, 8 months (Co-op/Internship) - 8 months</td>
+      <td width="180" align="left" valign="top">Toronto, ON</td>
+      <td width="120" align="left" valign="top"><a href="https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/AI-Platform-Analyst--8-months--Co-op-Internship----8-months_R260026129-3" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 8</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Brave</td>
       <td width="420" align="left" valign="top">Software Engineer Intern - Waterloo University</td>
       <td width="180" align="left" valign="top">Canada</td>
@@ -1170,6 +1240,13 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td width="180" align="left" valign="top">Google</td>
+      <td width="420" align="left" valign="top">Software Engineer, Search Ads in AI Experiences</td>
+      <td width="180" align="left" valign="top">Mountain View, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://www.google.com/about/careers/applications/jobs/results/99532077367468742-software-engineer-search-ads-in-ai-experiences?sort_by=date&amp;page=6" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 8</td>
+    </tr>
     <tr>
       <td width="180" align="left" valign="top">Scale AI</td>
       <td width="420" align="left" valign="top">Software Engineer - New Grad</td>
@@ -1824,7 +1901,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-09-08T12:47:57.467Z</code>
+      🕒 Last updated <code>2026-09-08T17:05:45.704Z</code>
     </span>
   </p>
 </div>
