@@ -18,6 +18,41 @@ Every opportunity matching your current filters (country, category, citizenship/
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Retell AI</td>
+      <td width="420" align="left" valign="top">Forward Deployed Engineer Intern</td>
+      <td width="180" align="left" valign="top">Redwood City, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://jobs.ashbyhq.com/retell-ai/9515b331-91af-401b-a6dd-569ef40c5b48/application?embed=true" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 8</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Talos</td>
+      <td width="420" align="left" valign="top">Software Engineer Intern - RFQ</td>
+      <td width="180" align="left" valign="top">New York, NY</td>
+      <td width="120" align="left" valign="top"><a href="https://jobs.ashbyhq.com/Talos-Trading/2c833180-484f-4657-80e3-f822cf1a0285/application?embed=true" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 8</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Two Sigma</td>
+      <td width="420" align="left" valign="top">Software Engineering Intern - Summer 2027</td>
+      <td width="180" align="left" valign="top">New York, NY</td>
+      <td width="120" align="left" valign="top"><a href="https://twosigma.avature.net/careers/JobDetail/14016" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 8</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Semgrep</td>
+      <td width="420" align="left" valign="top">Software Engineer Intern - Cloud Platform</td>
+      <td width="180" align="left" valign="top">San Francisco, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://jobs.ashbyhq.com/semgrep/8e64dc7f-e925-4361-86d5-b01ee518c987/application?embed=true" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 8</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Viam</td>
+      <td width="420" align="left" valign="top">Software Engineer Intern</td>
+      <td width="180" align="left" valign="top">New York, NY</td>
+      <td width="120" align="left" valign="top"><a href="https://job-boards.greenhouse.io/viamrobotics/jobs/6185046004" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 8</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">M3USA</td>
       <td width="420" align="left" valign="top">AI Engineering Intern</td>
       <td width="180" align="left" valign="top">Fort Washington, PA</td>
@@ -1300,6 +1335,34 @@ Every opportunity matching your current filters (country, category, citizenship/
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td width="180" align="left" valign="top">TD Bank</td>
+      <td width="420" align="left" valign="top">Software Engineer Intern Co-op</td>
+      <td width="180" align="left" valign="top">Toronto, ON</td>
+      <td width="120" align="left" valign="top"><a href="https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-Co-op---Intern--Winter-2027-_R_1509790" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 8</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Herzog Railroad Services</td>
+      <td width="420" align="left" valign="top">Software Intern</td>
+      <td width="180" align="left" valign="top">St. Joseph, MO</td>
+      <td width="120" align="left" valign="top"><a href="https://careers.herzog.com/jobs/2931?icims=1" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 8</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Vercel</td>
+      <td width="420" align="left" valign="top">Software Engineer Intern</td>
+      <td width="180" align="left" valign="top">San Francisco, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://job-boards.greenhouse.io/vercel/jobs/6181755004" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 8</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Rivian and Volkswagen Group Technologies</td>
+      <td width="420" align="left" valign="top">Software Engineering Intern - Vehicle Controls</td>
+      <td width="180" align="left" valign="top">Vancouver, BC</td>
+      <td width="120" align="left" valign="top"><a href="https://jobs.ashbyhq.com/rivianvw.tech/e00c49b7-44c1-4f0c-af3c-2c7a7402185b/application?embed=true" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 8</td>
+    </tr>
     <tr>
       <td width="180" align="left" valign="top">Rivianvw.tech</td>
       <td width="420" align="left" valign="top">Software Engineering Intern - Vehicle Controls (January - August 2027)</td>
@@ -2989,4 +3052,4 @@ Every opportunity matching your current filters (country, category, citizenship/
 
 ---
 
-📦 Generated from `opportunities.ndjson` &nbsp;•&nbsp; 🕒 Last updated `2026-09-08T17:13:13.195Z`
+📦 Generated from `opportunities.ndjson` &nbsp;•&nbsp; 🕒 Last updated `2026-09-08T23:21:10.166Z`
