@@ -18,6 +18,13 @@ Every opportunity matching your current filters (country, category, citizenship/
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Navy Federal</td>
+      <td width="420" align="left" valign="top">Payments AI Engineer Intern 🎓</td>
+      <td width="180" align="left" valign="top">Vienna, VA</td>
+      <td width="120" align="left" valign="top"><a href="https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32400" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 9</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Tel</td>
       <td width="420" align="left" valign="top">Software Engineer, AI Research Summer 2027 Intern</td>
       <td width="180" align="left" valign="top">San Jose, CA</td>
@@ -1363,6 +1370,13 @@ Every opportunity matching your current filters (country, category, citizenship/
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td width="180" align="left" valign="top">Pomerleau</td>
+      <td width="420" align="left" valign="top">Forward Deployed AI Solutions Intern</td>
+      <td width="180" align="left" valign="top">Montreal, QC</td>
+      <td width="120" align="left" valign="top"><a href="https://pomerleau.avature.net/en_US/Jobs/JobDetail/3619" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 9</td>
+    </tr>
     <tr>
       <td width="180" align="left" valign="top">Onehealthineers</td>
       <td width="420" align="left" valign="top">Software Engineering Co-op - Hoffman Estates, IL</td>
@@ -3136,4 +3150,4 @@ Every opportunity matching your current filters (country, category, citizenship/
 
 ---
 
-📦 Generated from `opportunities.ndjson` &nbsp;•&nbsp; 🕒 Last updated `2026-09-09T17:04:08.172Z`
+📦 Generated from `opportunities.ndjson` &nbsp;•&nbsp; 🕒 Last updated `2026-09-09T18:27:47.623Z`

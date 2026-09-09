@@ -103,6 +103,13 @@
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Navy Federal</td>
+      <td width="420" align="left" valign="top">Payments AI Engineer Intern 🎓</td>
+      <td width="180" align="left" valign="top">Vienna, VA</td>
+      <td width="120" align="left" valign="top"><a href="https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32400" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 9</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Tel</td>
       <td width="420" align="left" valign="top">Software Engineer, AI Research Summer 2027 Intern</td>
       <td width="180" align="left" valign="top">San Jose, CA</td>
@@ -909,6 +916,13 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td width="180" align="left" valign="top">Pomerleau</td>
+      <td width="420" align="left" valign="top">Forward Deployed AI Solutions Intern</td>
+      <td width="180" align="left" valign="top">Montreal, QC</td>
+      <td width="120" align="left" valign="top"><a href="https://pomerleau.avature.net/en_US/Jobs/JobDetail/3619" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 9</td>
+    </tr>
     <tr>
       <td width="180" align="left" valign="top">Onehealthineers</td>
       <td width="420" align="left" valign="top">Software Engineering Co-op - Hoffman Estates, IL</td>
@@ -2027,7 +2041,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-09-09T17:04:08.172Z</code>
+      🕒 Last updated <code>2026-09-09T18:27:47.623Z</code>
     </span>
   </p>
 </div>
