@@ -18,6 +18,34 @@ Every opportunity matching your current filters (country, category, citizenship/
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Tel</td>
+      <td width="420" align="left" valign="top">Software Engineer, AI Research Summer 2027 Intern</td>
+      <td width="180" align="left" valign="top">San Jose, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://tel.wd3.myworkdayjobs.com/tel-careers/job/San-Jose/Software-Engineer--AI-Research-Summer-2027-Intern_R26-01531" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 9</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Spgi</td>
+      <td width="420" align="left" valign="top">Software Engineer - Summer Intern 2027</td>
+      <td width="180" align="left" valign="top">Cambridge, MA</td>
+      <td width="120" align="left" valign="top"><a href="https://spgi.wd5.myworkdayjobs.com/kensho_careers/job/Cambridge-MA/Software-Engineer---Summer-Intern-2027_331717-1" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 9</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">↳</td>
+      <td width="420" align="left" valign="top">Software Engineer - Summer Intern 2027</td>
+      <td width="180" align="left" valign="top">Cambridge, MA</td>
+      <td width="120" align="left" valign="top"><a href="https://spgi.wd5.myworkdayjobs.com/spgi_careers/job/Cambridge-MA/Software-Engineer---Summer-Intern-2027_331717-2" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 9</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com</td>
+      <td width="420" align="left" valign="top">Summer Associate Internship (AI Engineer)</td>
+      <td width="180" align="left" valign="top">Vienna, VA</td>
+      <td width="120" align="left" valign="top"><a href="https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32261" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 9</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Retell AI</td>
       <td width="420" align="left" valign="top">Forward Deployed Engineer Intern</td>
       <td width="180" align="left" valign="top">Redwood City, CA</td>
@@ -1336,6 +1364,27 @@ Every opportunity matching your current filters (country, category, citizenship/
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Onehealthineers</td>
+      <td width="420" align="left" valign="top">Software Engineering Co-op - Hoffman Estates, IL</td>
+      <td width="180" align="left" valign="top">Hoffman Estates, IL</td>
+      <td width="120" align="left" valign="top"><a href="https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/HES/Software-Engineering-Co-op---Hoffman-Estates--IL_R-30649" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 9</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Navcanada</td>
+      <td width="420" align="left" valign="top">JR-8229 – Radar Systems Engineering COOP</td>
+      <td width="180" align="left" valign="top">Ottawa, ON</td>
+      <td width="120" align="left" valign="top"><a href="https://navcanada.wd10.myworkdayjobs.com/nav_careers/job/Ottawa/Radar-Systems-Engineering-Student--Co-op-4-or-8-months-COOP-available-position_JR-8229" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 9</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Kinaxis</td>
+      <td width="420" align="left" valign="top">Intern Developer, AI Solutions</td>
+      <td width="180" align="left" valign="top">Ottawa, ON</td>
+      <td width="120" align="left" valign="top"><a href="https://careers-kinaxis.icims.com/jobs/35343/intern-developer%2c-ai-solutions/job" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 9</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Globalhr</td>
       <td width="420" align="left" valign="top">Software Engineering Co-op (Fall/Spring 2027)</td>
       <td width="180" align="left" valign="top">Cedar Rapids, IA</td>
@@ -1827,6 +1876,20 @@ Every opportunity matching your current filters (country, category, citizenship/
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td width="180" align="left" valign="top">Viavisolutions</td>
+      <td width="420" align="left" valign="top">Rotational Program Development Engineer-Generative AI</td>
+      <td width="180" align="left" valign="top">Colorado Springs, CO</td>
+      <td width="120" align="left" valign="top"><a href="https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Colorado-Springs-CO-USA/Rotational-Program-Development-Engineer_260004989-1" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 9</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Texas instruments</td>
+      <td width="420" align="left" valign="top">Career Accelerator Program - Software Engineer</td>
+      <td width="180" align="left" valign="top">Dallas, TX</td>
+      <td width="120" align="left" valign="top"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017577" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 9</td>
+    </tr>
     <tr>
       <td width="180" align="left" valign="top">Globalhr</td>
       <td width="420" align="left" valign="top">Software Engineer I (Onsite)</td>
@@ -3073,4 +3136,4 @@ Every opportunity matching your current filters (country, category, citizenship/
 
 ---
 
-📦 Generated from `opportunities.ndjson` &nbsp;•&nbsp; 🕒 Last updated `2026-09-09T09:31:49.587Z`
+📦 Generated from `opportunities.ndjson` &nbsp;•&nbsp; 🕒 Last updated `2026-09-09T17:04:08.172Z`
