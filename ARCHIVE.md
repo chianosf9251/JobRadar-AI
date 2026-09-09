@@ -18,6 +18,27 @@ Every opportunity matching your current filters (country, category, citizenship/
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Sequence Holdings</td>
+      <td width="420" align="left" valign="top">Software Engineer Intern</td>
+      <td width="180" align="left" valign="top">New York City, NY</td>
+      <td width="120" align="left" valign="top"><a href="https://jobs.ashbyhq.com/seqholdings/9dc9a7f3-198a-43c0-be75-a3aba228bf2c/application?embed=true" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 9</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Domino Data Lab</td>
+      <td width="420" align="left" valign="top">Software Engineer Intern</td>
+      <td width="180" align="left" valign="top">Remote, USA</td>
+      <td width="120" align="left" valign="top"><a href="https://app.careerpuck.com/job-board/domino-data-lab/job/7992560?gh_jid=7992560" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 9</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">DV Trading</td>
+      <td width="420" align="left" valign="top">AI Engineer Intern</td>
+      <td width="180" align="left" valign="top">Chicago, IL</td>
+      <td width="120" align="left" valign="top"><a href="https://job-boards.greenhouse.io/dvtrading/jobs/4732429005" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 9</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Navy Federal</td>
       <td width="420" align="left" valign="top">Payments AI Engineer Intern 🎓</td>
       <td width="180" align="left" valign="top">Vienna, VA</td>
@@ -1371,6 +1392,13 @@ Every opportunity matching your current filters (country, category, citizenship/
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Interplay</td>
+      <td width="420" align="left" valign="top">AI Intern - AI Labs</td>
+      <td width="180" align="left" valign="top">New York, NY</td>
+      <td width="120" align="left" valign="top"><a href="https://jobs.ashbyhq.com/interplay/bdf67758-1f20-4a01-8bb3-ccebfa79e9ac/application?embed=true" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 9</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Pomerleau</td>
       <td width="420" align="left" valign="top">Forward Deployed AI Solutions Intern</td>
       <td width="180" align="left" valign="top">Montreal, QC</td>
@@ -1890,6 +1918,27 @@ Every opportunity matching your current filters (country, category, citizenship/
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td width="180" align="left" valign="top">Instabase</td>
+      <td width="420" align="left" valign="top">Software Engineer - Early Careers</td>
+      <td width="180" align="left" valign="top">San Francisco, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://job-boards.greenhouse.io/instabase/jobs/8783218002" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 9</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Domino Data Lab</td>
+      <td width="420" align="left" valign="top">Software Engineer New Grad</td>
+      <td width="180" align="left" valign="top">Remote, USA</td>
+      <td width="120" align="left" valign="top"><a href="https://app.careerpuck.com/job-board/domino-data-lab/job/7992556?gh_jid=7992556" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 9</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Replit</td>
+      <td width="420" align="left" valign="top">Software Engineer New Grad - Summer 2027</td>
+      <td width="180" align="left" valign="top">Foster City, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc/application?embed=true" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 9</td>
+    </tr>
     <tr>
       <td width="180" align="left" valign="top">Viavisolutions</td>
       <td width="420" align="left" valign="top">Rotational Program Development Engineer-Generative AI</td>
@@ -3150,4 +3199,4 @@ Every opportunity matching your current filters (country, category, citizenship/
 
 ---
 
-📦 Generated from `opportunities.ndjson` &nbsp;•&nbsp; 🕒 Last updated `2026-09-09T18:27:47.623Z`
+📦 Generated from `opportunities.ndjson` &nbsp;•&nbsp; 🕒 Last updated `2026-09-09T23:59:58.099Z`

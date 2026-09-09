@@ -103,6 +103,27 @@
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Sequence Holdings</td>
+      <td width="420" align="left" valign="top">Software Engineer Intern</td>
+      <td width="180" align="left" valign="top">New York City, NY</td>
+      <td width="120" align="left" valign="top"><a href="https://jobs.ashbyhq.com/seqholdings/9dc9a7f3-198a-43c0-be75-a3aba228bf2c/application?embed=true" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 9</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Domino Data Lab</td>
+      <td width="420" align="left" valign="top">Software Engineer Intern</td>
+      <td width="180" align="left" valign="top">Remote, USA</td>
+      <td width="120" align="left" valign="top"><a href="https://app.careerpuck.com/job-board/domino-data-lab/job/7992560?gh_jid=7992560" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 9</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">DV Trading</td>
+      <td width="420" align="left" valign="top">AI Engineer Intern</td>
+      <td width="180" align="left" valign="top">Chicago, IL</td>
+      <td width="120" align="left" valign="top"><a href="https://job-boards.greenhouse.io/dvtrading/jobs/4732429005" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 9</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Navy Federal</td>
       <td width="420" align="left" valign="top">Payments AI Engineer Intern 🎓</td>
       <td width="180" align="left" valign="top">Vienna, VA</td>
@@ -872,34 +893,6 @@
       <td width="120" align="left" valign="top"><a href="https://jobs.bytedance.com/en/position/7672386983965100341/detail" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
       <td width="100" align="left" valign="top">August 11</td>
     </tr>
-    <tr>
-      <td width="180" align="left" valign="top">↳</td>
-      <td width="420" align="left" valign="top">Software Engineer Intern - AML-Engine-Orchestration</td>
-      <td width="180" align="left" valign="top">San Jose, CA</td>
-      <td width="120" align="left" valign="top"><a href="https://jobs.bytedance.com/en/position/7671162985123907845/detail" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">August 10</td>
-    </tr>
-    <tr>
-      <td width="180" align="left" valign="top">TikTok</td>
-      <td width="420" align="left" valign="top">(General Hire) Machine Learning Engineer Intern (Performance Monetization) - 2027 Summer</td>
-      <td width="180" align="left" valign="top">San Jose, CA</td>
-      <td width="120" align="left" valign="top"><a href="https://lifeattiktok.com/search/7669693163422845237" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">August 10</td>
-    </tr>
-    <tr>
-      <td width="180" align="left" valign="top">DV Trading</td>
-      <td width="420" align="left" valign="top">Software Engineer Intern - Summer 2027 (DV Commodities)</td>
-      <td width="180" align="left" valign="top">New York, NY</td>
-      <td width="120" align="left" valign="top"><a href="https://job-boards.greenhouse.io/dvtrading/jobs/4719119005" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">August 10</td>
-    </tr>
-    <tr>
-      <td width="180" align="left" valign="top">Atoms</td>
-      <td width="420" align="left" valign="top">Machine Learning PhD Software Engineer Intern 🎓</td>
-      <td width="180" align="left" valign="top">New York, NY</td>
-      <td width="120" align="left" valign="top"><a href="https://job-boards.greenhouse.io/cssmerge/jobs/8693034002" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">August 10</td>
-    </tr>
   </tbody>
 </table>
 
@@ -916,6 +909,13 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td width="180" align="left" valign="top">Interplay</td>
+      <td width="420" align="left" valign="top">AI Intern - AI Labs</td>
+      <td width="180" align="left" valign="top">New York, NY</td>
+      <td width="120" align="left" valign="top"><a href="https://jobs.ashbyhq.com/interplay/bdf67758-1f20-4a01-8bb3-ccebfa79e9ac/application?embed=true" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 9</td>
+    </tr>
     <tr>
       <td width="180" align="left" valign="top">Pomerleau</td>
       <td width="420" align="left" valign="top">Forward Deployed AI Solutions Intern</td>
@@ -1350,13 +1350,6 @@
       <td width="120" align="left" valign="top"><a href="https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-2" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
       <td width="100" align="left" valign="top">August 11</td>
     </tr>
-    <tr>
-      <td width="180" align="left" valign="top">Figma</td>
-      <td width="420" align="left" valign="top">Software Engineer Intern (Winter 2027)</td>
-      <td width="180" align="left" valign="top">San Francisco, CA</td>
-      <td width="120" align="left" valign="top"><a href="https://boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">August 10</td>
-    </tr>
   </tbody>
 </table>
 
@@ -1373,6 +1366,27 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td width="180" align="left" valign="top">Instabase</td>
+      <td width="420" align="left" valign="top">Software Engineer - Early Careers</td>
+      <td width="180" align="left" valign="top">San Francisco, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://job-boards.greenhouse.io/instabase/jobs/8783218002" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 9</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Domino Data Lab</td>
+      <td width="420" align="left" valign="top">Software Engineer New Grad</td>
+      <td width="180" align="left" valign="top">Remote, USA</td>
+      <td width="120" align="left" valign="top"><a href="https://app.careerpuck.com/job-board/domino-data-lab/job/7992556?gh_jid=7992556" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 9</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Replit</td>
+      <td width="420" align="left" valign="top">Software Engineer New Grad - Summer 2027</td>
+      <td width="180" align="left" valign="top">Foster City, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc/application?embed=true" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 9</td>
+    </tr>
     <tr>
       <td width="180" align="left" valign="top">Viavisolutions</td>
       <td width="420" align="left" valign="top">Rotational Program Development Engineer-Generative AI</td>
@@ -1996,27 +2010,6 @@
       <td width="120" align="left" valign="top"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990014551564" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
       <td width="100" align="left" valign="top">August 11</td>
     </tr>
-    <tr>
-      <td width="180" align="left" valign="top">TikTok</td>
-      <td width="420" align="left" valign="top">AI Systems Engineer Graduate (AI Code Infrastructure-Agentic Ops US) - 2027 Start</td>
-      <td width="180" align="left" valign="top">San Jose, CA</td>
-      <td width="120" align="left" valign="top"><a href="https://lifeattiktok.com/search/7665989305914984709" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">August 10</td>
-    </tr>
-    <tr>
-      <td width="180" align="left" valign="top">Meta</td>
-      <td width="420" align="left" valign="top">Postdoctoral Researcher, AI and Systems Co-design Team  </td>
-      <td width="180" align="left" valign="top">Menlo Park, CA</td>
-      <td width="120" align="left" valign="top"><a href="https://www.metacareers.com/profile/job_details/952809451162824" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">August 10</td>
-    </tr>
-    <tr>
-      <td width="180" align="left" valign="top">DV Trading</td>
-      <td width="420" align="left" valign="top">2027 Graduate Software Engineer (DV Commodities)</td>
-      <td width="180" align="left" valign="top">New York, NY</td>
-      <td width="120" align="left" valign="top"><a href="https://job-boards.greenhouse.io/dvtrading/jobs/4719126005" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">August 10</td>
-    </tr>
   </tbody>
 </table>
 
@@ -2041,7 +2034,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-09-09T18:27:47.623Z</code>
+      🕒 Last updated <code>2026-09-09T23:59:58.099Z</code>
     </span>
   </p>
 </div>
