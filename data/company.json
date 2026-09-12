@@ -3801,6 +3801,7 @@
       "https://ats.rippling.com/conceptplus/jobs/916978a4-fa79-4f6e-9eb6-515aa1cf3fb5",
       "https://ats.rippling.com/conceptplus/jobs/ba9c388a-7b1b-4779-b3b2-efc0e69154d7",
       "https://ats.rippling.com/d-wave-quantum/jobs/30e6077b-48d6-4f81-bf61-a043582e9b06",
+      "https://ats.rippling.com/dialogue-en/jobs/3c2341d5-604d-463c-8b79-5d1669d81e78",
       "https://ats.rippling.com/en-GB/chess/jobs/de7de575-d89b-4039-a2ce-ca68ef79c536",
       "https://ats.rippling.com/en-GB/chess/jobs/f199901c-ee5f-4846-97ed-b2252be44a30",
       "https://ats.rippling.com/en-GB/moon/jobs/8b81bca7-1a64-4377-8ea8-869aac03080b",
@@ -3828,8 +3829,7 @@
       "https://ats.rippling.com/theguarantors-open-positions/jobs/d78ec000-5f8b-43d3-9590-4eb51970e49b",
       "https://ats.rippling.com/tive-careers/jobs/e7ed0c47-bf2e-4105-a793-e48dc0e0f710",
       "https://ats.rippling.com/usare/jobs/8db9bb37-aa5f-40e0-96ac-d1c4ca796aeb",
-      "https://ats.rippling.com/veryable-careers/jobs/cf74672c-c9c5-4be5-8858-04abfd64c20f",
-      "https://ats.rippling.com/dialogue-en/jobs/3c2341d5-604d-463c-8b79-5d1669d81e78"
+      "https://ats.rippling.com/veryable-careers/jobs/cf74672c-c9c5-4be5-8858-04abfd64c20f"
     ]
   },
   {
@@ -7241,6 +7241,16 @@
       "https://career.mlp.com/careers/job/755957778821",
       "https://career.mlp.com/careers/job/755957778848",
       "https://career.mlp.com/careers/job/755957819661"
+    ]
+  },
+  {
+    "name": "career4.successfactors.com",
+    "ats": "custom",
+    "identifier": "career4.successfactors.com",
+    "domain": "https://career4.successfactors.com",
+    "page": "",
+    "urls": [
+      "https://career4.successfactors.com/careers?career_ns=job_listing&company=colgate&selected_lang=nl-NL&career_job_req_id=169295"
     ]
   },
   {
@@ -19440,6 +19450,16 @@
     ]
   },
   {
+    "name": "jobs.constellationenergy.com",
+    "ats": "custom",
+    "identifier": "jobs.constellationenergy.com",
+    "domain": "https://jobs.constellationenergy.com",
+    "page": "",
+    "urls": [
+      "https://jobs.constellationenergy.com/jobs/138708?icims=1"
+    ]
+  },
+  {
     "name": "jobs.coxenterprises.com",
     "ats": "custom",
     "identifier": "jobs.coxenterprises.com",
@@ -20061,12 +20081,14 @@
     ]
   },
   {
-    "name": "K&S Careers",
+    "name": "K&S",
     "ats": "oraclecloud",
     "identifier": "etyy.fa.ap2.oraclecloud.com",
     "domain": "https://etyy.fa.ap2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job",
     "page": "https://etyy.fa.ap2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&finder=findReqs%3BsiteNumber%3DCX_1%2Climit%3D25%2CsortBy%3DPOSTING_DATES_DESC&expand=requisitionList.secondaryLocations%2CrequisitionList.otherWorkLocations",
-    "urls": []
+    "urls": [
+      "https://etyy.fa.ap2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11648"
+    ]
   },
   {
     "name": "k2spacecorporation",
