@@ -1553,6 +1553,13 @@ Every opportunity matching your current filters (country, category, citizenship/
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Kulicke &amp; Soffa</td>
+      <td width="420" align="left" valign="top">Software Engineering Intern</td>
+      <td width="180" align="left" valign="top">Fort Washington, PA</td>
+      <td width="120" align="left" valign="top"><a href="https://etyy.fa.ap2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11648" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 12</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Qualcomm</td>
       <td width="420" align="left" valign="top">Machine Learning Compiler &amp; Performance Engineering Intern - Systems</td>
       <td width="180" align="left" valign="top">Markham, ON</td>
@@ -3486,4 +3493,4 @@ Every opportunity matching your current filters (country, category, citizenship/
 
 ---
 
-📦 Generated from `opportunities.ndjson` &nbsp;•&nbsp; 🕒 Last updated `2026-09-12T04:06:32.662Z`
+📦 Generated from `opportunities.ndjson` &nbsp;•&nbsp; 🕒 Last updated `2026-09-12T08:42:26.545Z`
