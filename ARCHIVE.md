@@ -18,6 +18,13 @@ Every opportunity matching your current filters (country, category, citizenship/
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">ibotta</td>
+      <td width="420" align="left" valign="top">Software Engineer Intern</td>
+      <td width="180" align="left" valign="top">Denver, CO</td>
+      <td width="120" align="left" valign="top"><a href="https://jobs.ashbyhq.com/ibotta/3130669e-16aa-4f63-834d-b83571c8d269/application?embed=true" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 11</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">NewsBreak</td>
       <td width="420" align="left" valign="top">Nearby AI Internship Program - Engineering Track</td>
       <td width="180" align="left" valign="top">Mountain View, CA</td>
@@ -1545,6 +1552,13 @@ Every opportunity matching your current filters (country, category, citizenship/
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td width="180" align="left" valign="top">Qualcomm</td>
+      <td width="420" align="left" valign="top">Machine Learning Compiler &amp; Performance Engineering Intern - Systems</td>
+      <td width="180" align="left" valign="top">Markham, ON</td>
+      <td width="120" align="left" valign="top"><a href="https://qualcomm.eightfold.ai/careers/job/446721064018" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 11</td>
+    </tr>
     <tr>
       <td width="180" align="left" valign="top">SK hynix memory solutions America Inc.</td>
       <td width="420" align="left" valign="top">Embedded Software Engineer Intern</td>
@@ -3472,4 +3486,4 @@ Every opportunity matching your current filters (country, category, citizenship/
 
 ---
 
-📦 Generated from `opportunities.ndjson` &nbsp;•&nbsp; 🕒 Last updated `2026-09-12T00:54:49.595Z`
+📦 Generated from `opportunities.ndjson` &nbsp;•&nbsp; 🕒 Last updated `2026-09-12T04:06:32.662Z`
