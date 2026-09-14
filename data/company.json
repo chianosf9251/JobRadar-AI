@@ -3872,10 +3872,10 @@
       "https://ats.rippling.com/supernova-technology/jobs/7ea1a05c-b0e6-4f1a-b53c-193ce3d91502",
       "https://ats.rippling.com/theguarantors-open-positions/jobs/478122bd-b7ef-4a0b-a0cd-d204c856f382",
       "https://ats.rippling.com/theguarantors-open-positions/jobs/d78ec000-5f8b-43d3-9590-4eb51970e49b",
+      "https://ats.rippling.com/tive-careers/jobs/c88ab3d3-a8e7-4639-b95b-d6c9b5290dd0",
       "https://ats.rippling.com/tive-careers/jobs/e7ed0c47-bf2e-4105-a793-e48dc0e0f710",
       "https://ats.rippling.com/usare/jobs/8db9bb37-aa5f-40e0-96ac-d1c4ca796aeb",
-      "https://ats.rippling.com/veryable-careers/jobs/cf74672c-c9c5-4be5-8858-04abfd64c20f",
-      "https://ats.rippling.com/tive-careers/jobs/c88ab3d3-a8e7-4639-b95b-d6c9b5290dd0"
+      "https://ats.rippling.com/veryable-careers/jobs/cf74672c-c9c5-4be5-8858-04abfd64c20f"
     ]
   },
   {
@@ -4141,7 +4141,9 @@
     "domain": "https://award.co",
     "page": "https://boards-api.greenhouse.io/v1/boards/awardco/jobs",
     "urls": [
-      "https://award.co/position?gh_jid=5856737004"
+      "https://award.co/position?gh_jid=5856737004",
+      "https://award.co/position?gh_jid=4136562004",
+      "https://award.co/position?gh_jid=4322220004"
     ]
   },
   {
@@ -5174,13 +5176,13 @@
     "name": "bdo",
     "ats": "workday",
     "identifier": "bdo-bdo",
-    "domain": "https://bdo.wd3.myworkdayjobs.com/bdo",
-    "page": "https://bdo.wd3.myworkdayjobs.com/wday/cxs/bdo/bdo/jobs",
+    "domain": "https://bdo.wd3.myworkdayjobs.com/BDO",
+    "page": "https://bdo.wd3.myworkdayjobs.com/wday/cxs/bdo/BDO/jobs",
     "urls": [
+      "https://bdo.wd3.myworkdayjobs.com/BDO/job/Toronto---Bay-St/Co-op-or-Intern--Full-Stack-Developer--January-2027-_JR7057",
       "https://bdo.wd3.myworkdayjobs.com/bdo/job/Calgary---8th-Ave-SW/Senior-Data-Scientist--ASR_JR5874",
       "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/AI-Engineer---Generative---Agentic-AI_JR5256",
-      "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/AI-Scientist---Engineer--Assurance-Innovation-Lab_JR6615",
-      "https://bdo.wd3.myworkdayjobs.com/BDO/job/Toronto---Bay-St/Co-op-or-Intern--Full-Stack-Developer--January-2027-_JR7057"
+      "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/AI-Scientist---Engineer--Assurance-Innovation-Lab_JR6615"
     ]
   },
   {
@@ -9805,7 +9807,8 @@
     "domain": "https://jobs.ashbyhq.com",
     "page": "https://api.ashbyhq.com/posting-api/job-board/chartahealth",
     "urls": [
-      "https://jobs.ashbyhq.com/chartahealth/9403a4cc-1bac-4798-9d82-be31ba8b42a0/application?embed=true"
+      "https://jobs.ashbyhq.com/chartahealth/9403a4cc-1bac-4798-9d82-be31ba8b42a0/application?embed=true",
+      "https://jobs.ashbyhq.com/chartahealth/0c76d54d-0ca8-4ab6-b360-c2dbae7b17cf/application?embed=true"
     ]
   },
   {
@@ -9908,7 +9911,8 @@
       "https://cibc.wd3.myworkdayjobs.com/campus/job/Chicago-IL/XMLNAME-2027-Spring-Term-Software-Engineer-Co-op---Chicago--Northeastern-University-_2617782",
       "https://cibc.wd3.myworkdayjobs.com/campus/job/Chicago-IL/XMLNAME-2027-Summer-Intern---Software-Engineering_2618322",
       "https://cibc.wd3.myworkdayjobs.com/campus/job/New-York-NY/XMLNAME-2027-Analyst-I--Global-Investment-Banking---Energy--Infrastructure----Transition_2618583",
-      "https://cibc.wd3.myworkdayjobs.com/campus/job/New-York-NY/XMLNAME-2027-Investment-Banking-Summer-Analyst---Energy--Infrastructure----Transition_2604726"
+      "https://cibc.wd3.myworkdayjobs.com/campus/job/New-York-NY/XMLNAME-2027-Investment-Banking-Summer-Analyst---Energy--Infrastructure----Transition_2604726",
+      "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Global-Markets--Electronic-Trading---Summer-2027-Analyst--4-months-_2618801"
     ]
   },
   {
@@ -13700,6 +13704,16 @@
     ]
   },
   {
+    "name": "fanvue.com",
+    "ats": "ashby",
+    "identifier": "fanvue.com",
+    "domain": "https://jobs.ashbyhq.com",
+    "page": "https://api.ashbyhq.com/posting-api/job-board/fanvue.com",
+    "urls": [
+      "https://jobs.ashbyhq.com/fanvue.com/9ba53c5b-dcc7-4e6c-8ecc-0647a62761ce/application?embed=true"
+    ]
+  },
+  {
     "name": "faralloncapitalmanagementllc",
     "ats": "greenhouse",
     "identifier": "faralloncapitalmanagementllc",
@@ -16189,6 +16203,7 @@
       "https://www.google.com/about/careers/applications/jobs/results/112140056407220934-forward-deployed-engineer-iv-developer-ai-google-cloud?sort_by=date&page=2",
       "https://www.google.com/about/careers/applications/jobs/results/112166529511891654-software-engineer-infrastructure-ads-data-hub?sort_by=date&page=1",
       "https://www.google.com/about/careers/applications/jobs/results/112226771696263878-software-engineer-phd-early-careers-platform-system-software?sort_by=date&page=9",
+      "https://www.google.com/about/careers/applications/jobs/results/112499004540887750",
       "https://www.google.com/about/careers/applications/jobs/results/112518690523488966",
       "https://www.google.com/about/careers/applications/jobs/results/112524389945090758-software-engineer-google-wallet-physical-access?sort_by=date&page=4",
       "https://www.google.com/about/careers/applications/jobs/results/112688507624792774-software-engineer-personalization-and-recommendations-ai?sort_by=date&page=6",
@@ -16228,6 +16243,7 @@
       "https://www.google.com/about/careers/applications/jobs/results/116982173008831174-software-engineer-rapid-innovation-google-public-sector?sort_by=date&page=6",
       "https://www.google.com/about/careers/applications/jobs/results/117117301806768838-ai-outcome-customer-engineer-fde-google-cloud?sort_by=date&page=1",
       "https://www.google.com/about/careers/applications/jobs/results/117380930657493702-software-engineer-site-reliability-engineering-workspace-ai?sort_by=date&page=2",
+      "https://www.google.com/about/careers/applications/jobs/results/117572151191446214",
       "https://www.google.com/about/careers/applications/jobs/results/117655609385329350-research-software-engineer-multimodal-ai?sort_by=date&page=1",
       "https://www.google.com/about/careers/applications/jobs/results/118044144474956486-organizational-ai-researcher-deepmind-mountain-view-or-london?sort_by=date&page=1",
       "https://www.google.com/about/careers/applications/jobs/results/118088647315464902-software-engineer-google-enterprise-network?sort_by=date&page=6",
@@ -16645,9 +16661,7 @@
       "https://www.google.com/about/careers/applications/jobs/results/99817141326226118-software-engineer-tv-systems?sort_by=date&page=3",
       "https://www.google.com/about/careers/applications/jobs/results/99817746379743942-fullstack-software-engineer-genai-deepmind?sort_by=date&page=2",
       "https://www.google.com/about/careers/applications/jobs/results/99875129290302150-npi-engineer-embedded-firmware-and-software-emerging-accelerator-software?sort_by=date&page=3",
-      "https://www.google.com/about/careers/applications/jobs/results/99901850966205126-robotics-automation-engineer-platforms-infrastructure?sort_by=date&page=2",
-      "https://www.google.com/about/careers/applications/jobs/results/117572151191446214",
-      "https://www.google.com/about/careers/applications/jobs/results/112499004540887750"
+      "https://www.google.com/about/careers/applications/jobs/results/99901850966205126-robotics-automation-engineer-platforms-infrastructure?sort_by=date&page=2"
     ]
   },
   {
@@ -19778,7 +19792,10 @@
     "domain": "https://jobs.intuit.com",
     "page": "",
     "urls": [
-      "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-full-stack/27595/99856180864"
+      "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-full-stack/27595/99856180864",
+      "https://jobs.intuit.com/job/mountain-view/summer-2027-mobile-software-engineering-intern-ios/27595/100620927568",
+      "https://jobs.intuit.com/job/mountain-view/summer-2027-mobile-software-engineering-intern-android/27595/100620927552",
+      "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616"
     ]
   },
   {
@@ -21387,8 +21404,8 @@
     "domain": "https://lowes.wd5.myworkdayjobs.com/LWS_External_CS",
     "page": "https://lowes.wd5.myworkdayjobs.com/wday/cxs/lowes/LWS_External_CS/jobs",
     "urls": [
-      "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Software-Engineer---Undergrad-Internship---Summer-2027_JR-02623576",
-      "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Exploratory-Software-Engineering---Undergrad-Internship---Summer-2027_JR-02623542"
+      "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Exploratory-Software-Engineering---Undergrad-Internship---Summer-2027_JR-02623542",
+      "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Software-Engineer---Undergrad-Internship---Summer-2027_JR-02623576"
     ]
   },
   {
@@ -23945,7 +23962,8 @@
     "page": "",
     "urls": [
       "https://nexthopai.bamboohr.com/careers/107/",
-      "https://nexthopai.bamboohr.com/careers/24/"
+      "https://nexthopai.bamboohr.com/careers/24/",
+      "https://nexthopai.bamboohr.com/careers/62/"
     ]
   },
   {
@@ -25325,6 +25343,17 @@
       "https://jobs.ashbyhq.com/openai/f8b84ae5-743b-41c9-8432-02dff9993d6b",
       "https://jobs.ashbyhq.com/openai/fcb0ed1a-9329-4e8f-8aab-92bb626d8141",
       "https://jobs.ashbyhq.com/openai/fff02c39-1185-427c-bf89-70d7eaa5e3db"
+    ]
+  },
+  {
+    "name": "opengov",
+    "ats": "ashby",
+    "identifier": "opengov",
+    "domain": "https://jobs.ashbyhq.com",
+    "page": "https://api.ashbyhq.com/posting-api/job-board/opengov",
+    "urls": [
+      "https://jobs.ashbyhq.com/opengov/c31622c1-be01-4d4a-b7cf-d116be84cc08/application?embed=true",
+      "https://jobs.ashbyhq.com/opengov/d036cfd6-5a01-41ed-af73-78fc32854849/application?embed=true"
     ]
   },
   {
@@ -27469,7 +27498,8 @@
       "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4450017",
       "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4464029",
       "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4464054",
-      "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4476288"
+      "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4476288",
+      "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4501054"
     ]
   },
   {
@@ -28446,7 +28476,8 @@
       "https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Collamer/Systems-Engineering-Co-Op--Spring---Summer-2027-_R-03226-1",
       "https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Collamer/Systems-Engineering-Co-Op--Spring---Summer-2027-_R-03230-1",
       "https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Collamer/Systems-Engineering-Co-Op--Summer-2027-_R-03231-1",
-      "https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Enterprise/Program-Performance-Management-Analyst_R-03219-1"
+      "https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Enterprise/Program-Performance-Management-Analyst_R-03219-1",
+      "https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Collamer/Software-Engineer-Co-Op--Summer-2027-_R-03264-1"
     ]
   },
   {
@@ -30701,6 +30732,16 @@
     ]
   },
   {
+    "name": "spaice-tech",
+    "ats": "ashby",
+    "identifier": "spaice-tech",
+    "domain": "https://jobs.ashbyhq.com",
+    "page": "https://api.ashbyhq.com/posting-api/job-board/spaice-tech",
+    "urls": [
+      "https://jobs.ashbyhq.com/spaice-tech/16468d27-11e9-498c-87b6-3469f5f4ee12/application?embed=true"
+    ]
+  },
+  {
     "name": "span",
     "ats": "ashby",
     "identifier": "span",
@@ -32129,7 +32170,8 @@
       "https://www.tesla.com/careers/search/job/282483",
       "https://www.tesla.com/careers/search/job/283117",
       "https://www.tesla.com/careers/search/job/283220",
-      "https://www.tesla.com/careers/search/job/internship-localization-specialist-it-applications-fall-2026-276308"
+      "https://www.tesla.com/careers/search/job/internship-localization-specialist-it-applications-fall-2026-276308",
+      "https://www.tesla.com/careers/search/job/283395"
     ]
   },
   {
@@ -35352,7 +35394,8 @@
       "https://jobs.smartrecruiters.com/WesternDigital/744000143217669",
       "https://jobs.smartrecruiters.com/WesternDigital/744000146897509",
       "https://jobs.smartrecruiters.com/WesternDigital/744000147435839",
-      "https://jobs.smartrecruiters.com/WesternDigital/744000149194469"
+      "https://jobs.smartrecruiters.com/WesternDigital/744000149194469",
+      "https://jobs.smartrecruiters.com/WesternDigital/744000149367234"
     ]
   },
   {
@@ -35473,6 +35516,16 @@
     "urls": []
   },
   {
+    "name": "withpace",
+    "ats": "ashby",
+    "identifier": "withpace",
+    "domain": "https://jobs.ashbyhq.com",
+    "page": "https://api.ashbyhq.com/posting-api/job-board/withpace",
+    "urls": [
+      "https://jobs.ashbyhq.com/withpace/9acdae91-3834-4c08-8579-fd14ff40a76b/application?embed=true"
+    ]
+  },
+  {
     "name": "witnessai",
     "ats": "ashby",
     "identifier": "witnessai",
@@ -35525,6 +35578,16 @@
     "page": "",
     "urls": [
       "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?jobId=555080"
+    ]
+  },
+  {
+    "name": "workshop",
+    "ats": "greenhouse",
+    "identifier": "workshop",
+    "domain": "https://job-boards.greenhouse.io",
+    "page": "https://boards-api.greenhouse.io/v1/boards/workshop/jobs",
+    "urls": [
+      "https://job-boards.greenhouse.io/workshop/jobs/5237900007"
     ]
   },
   {
