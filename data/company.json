@@ -6893,6 +6893,17 @@
     ]
   },
   {
+    "name": "cai",
+    "ats": "workday",
+    "identifier": "cai-computer_aid",
+    "domain": "https://cai.wd5.myworkdayjobs.com/computer_aid",
+    "page": "https://cai.wd5.myworkdayjobs.com/wday/cxs/cai/computer_aid/jobs",
+    "urls": [
+      "https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Software-Developer-Intern_R8451",
+      "https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Software-Developer-Intern_R8462"
+    ]
+  },
+  {
     "name": "calamp",
     "ats": "icims",
     "identifier": "calamp",
@@ -32266,8 +32277,8 @@
       "https://www.tesla.com/careers/search/job/283117",
       "https://www.tesla.com/careers/search/job/283220",
       "https://www.tesla.com/careers/search/job/283395",
-      "https://www.tesla.com/careers/search/job/internship-localization-specialist-it-applications-fall-2026-276308",
-      "https://www.tesla.com/careers/search/job/283447"
+      "https://www.tesla.com/careers/search/job/283447",
+      "https://www.tesla.com/careers/search/job/internship-localization-specialist-it-applications-fall-2026-276308"
     ]
   },
   {
