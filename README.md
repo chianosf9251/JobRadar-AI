@@ -103,6 +103,27 @@
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Microsoft</td>
+      <td width="420" align="left" valign="top">Software Engineer Intern</td>
+      <td width="180" align="left" valign="top">Vancouver, BC</td>
+      <td width="120" align="left" valign="top"><a href="https://apply.careers.microsoft.com/careers/job/1970393556991773" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 15</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">NOV</td>
+      <td width="420" align="left" valign="top">Software Engineer Intern - Rig Technologies</td>
+      <td width="180" align="left" valign="top">Houston, TX</td>
+      <td width="120" align="left" valign="top"><a href="https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/44449" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 15</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Elire</td>
+      <td width="420" align="left" valign="top">AI Software Developer Intern - Multiple Teams</td>
+      <td width="180" align="left" valign="top">Minneapolis, MN</td>
+      <td width="120" align="left" valign="top"><a href="https://jobs.jobvite.com/elire/job/oM5LAfwW?nl=1&amp;nl=1&amp;fr=false" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 15</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">SingleStore</td>
       <td width="420" align="left" valign="top">Software Engineer Intern</td>
       <td width="180" align="left" valign="top">Seattle, WA</td>
@@ -1127,6 +1148,13 @@
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Ambrook</td>
+      <td width="420" align="left" valign="top">Software Engineer Co-op</td>
+      <td width="180" align="left" valign="top">New York, NY</td>
+      <td width="120" align="left" valign="top"><a href="https://jobs.ashbyhq.com/ambrook/29ffbcea-17c3-4488-9d57-a9f7249b49a5/application?embed=true" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 15</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Baxter</td>
       <td width="420" align="left" valign="top">Associate Software Engineer Co-op</td>
       <td width="180" align="left" valign="top">Skaneateles Falls, NY</td>
@@ -1639,6 +1667,13 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td width="180" align="left" valign="top">Bruno Independent Living Aids</td>
+      <td width="420" align="left" valign="top">Junior Software Developer - AI Focus</td>
+      <td width="180" align="left" valign="top">Oconomowoc, WI</td>
+      <td width="120" align="left" valign="top"><a href="https://careers-bruno.icims.com/jobs/3336/job?mobile=true&amp;needsRedirect=false" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 15</td>
+    </tr>
     <tr>
       <td width="180" align="left" valign="top">SingleStore</td>
       <td width="420" align="left" valign="top">Software Engineer-New Grad 2027</td>
@@ -2370,7 +2405,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-09-16T01:04:16.332Z</code>
+      🕒 Last updated <code>2026-09-16T01:18:35.945Z</code>
     </span>
   </p>
 </div>
