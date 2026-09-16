@@ -2209,6 +2209,16 @@
     ]
   },
   {
+    "name": "aperaaiinc",
+    "ats": "greenhouse",
+    "identifier": "aperaaiinc",
+    "domain": "https://job-boards.greenhouse.io",
+    "page": "https://boards-api.greenhouse.io/v1/boards/aperaaiinc/jobs",
+    "urls": [
+      "https://job-boards.greenhouse.io/aperaaiinc/jobs/5239394007"
+    ]
+  },
+  {
     "name": "apex-technology-inc",
     "ats": "ashby",
     "identifier": "apex-technology-inc",
@@ -3250,13 +3260,13 @@
       "https://apply.careers.microsoft.com/careers/job/1970393556979054",
       "https://apply.careers.microsoft.com/careers/job/1970393556983221",
       "https://apply.careers.microsoft.com/careers/job/1970393556983223",
+      "https://apply.careers.microsoft.com/careers/job/1970393556991773",
       "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0",
       "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922922",
       "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922923",
       "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922929",
       "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922930",
-      "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922931",
-      "https://apply.careers.microsoft.com/careers/job/1970393556991773"
+      "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922931"
     ]
   },
   {
@@ -3299,14 +3309,14 @@
       "https://apply.workable.com/pony-dot-ai/j/BA5FFDBC71/",
       "https://apply.workable.com/pronexus-1/j/AF8C34AC6D/apply",
       "https://apply.workable.com/responsiveads-inc/j/493EAC12D6/apply",
+      "https://apply.workable.com/saalex/j/758C0628C9/apply",
       "https://apply.workable.com/texas-sports-academy-main/j/2132C3AB96/apply",
       "https://apply.workable.com/texas-sports-academy-main/j/CC2A1186D4/apply",
       "https://apply.workable.com/tmeic-corporation-americas/j/532EE44DFB/apply",
       "https://apply.workable.com/tmeic-corporation-americas/j/D44B74C42B/apply",
       "https://apply.workable.com/trycaddi/j/9D1291C697/apply",
       "https://apply.workable.com/western-magnetics/j/E366930F3F/apply",
-      "https://apply.workable.com/zaber/j/EAB5877DC3/apply",
-      "https://apply.workable.com/saalex/j/758C0628C9/apply"
+      "https://apply.workable.com/zaber/j/EAB5877DC3/apply"
     ]
   },
   {
@@ -3897,6 +3907,7 @@
     "domain": "https://ats.rippling.com",
     "page": "",
     "urls": [
+      "https://ats.rippling.com/apexanalytix-careers/jobs/40e4727d-e132-4de0-89ba-b4fdbd5860a7",
       "https://ats.rippling.com/apexanalytix-careers/jobs/b6f42a08-a4e8-45f1-868f-567a09112ebc",
       "https://ats.rippling.com/apexanalytix-careers/jobs/e4557482-8bb2-4c04-a074-41566107e6f1",
       "https://ats.rippling.com/chess/jobs/f199901c-ee5f-4846-97ed-b2252be44a30",
@@ -3934,8 +3945,7 @@
       "https://ats.rippling.com/tive-careers/jobs/c88ab3d3-a8e7-4639-b95b-d6c9b5290dd0",
       "https://ats.rippling.com/tive-careers/jobs/e7ed0c47-bf2e-4105-a793-e48dc0e0f710",
       "https://ats.rippling.com/usare/jobs/8db9bb37-aa5f-40e0-96ac-d1c4ca796aeb",
-      "https://ats.rippling.com/veryable-careers/jobs/cf74672c-c9c5-4be5-8858-04abfd64c20f",
-      "https://ats.rippling.com/apexanalytix-careers/jobs/40e4727d-e132-4de0-89ba-b4fdbd5860a7"
+      "https://ats.rippling.com/veryable-careers/jobs/cf74672c-c9c5-4be5-8858-04abfd64c20f"
     ]
   },
   {
@@ -9725,9 +9735,7 @@
     "identifier": "ccrenew",
     "domain": "https://ccrenew.com",
     "page": "https://boards-api.greenhouse.io/v1/boards/ccrenew/jobs",
-    "urls": [
-      "https://ccrenew.com/careers/job-listing/?gh_jid=8180722"
-    ]
+    "urls": []
   },
   {
     "name": "cdcn.avature.net",
@@ -11475,7 +11483,9 @@
     "identifier": "cypresscreekrenewables",
     "domain": "https://ccrenew.com",
     "page": "https://boards-api.greenhouse.io/v1/boards/cypresscreekrenewables/jobs",
-    "urls": []
+    "urls": [
+      "https://ccrenew.com/careers/job-listing/?gh_jid=8180722"
+    ]
   },
   {
     "name": "d-Matrix",
@@ -13015,6 +13025,7 @@
       "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26007700",
       "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008043",
       "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008077",
+      "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008230",
       "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008430",
       "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008442",
       "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008445",
@@ -13035,7 +13046,7 @@
       "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010082",
       "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010151",
       "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010738",
-      "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008230"
+      "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010928"
     ]
   },
   {
@@ -20076,7 +20087,8 @@
     "domain": "https://jobs.entergy.com",
     "page": "",
     "urls": [
-      "https://jobs.entergy.com/job/New-Orleans-Student-Intern-AI-Summer-2027-Loui/1430182400/?ats=successfactors"
+      "https://jobs.entergy.com/job/New-Orleans-Student-Intern-AI-Summer-2027-Loui/1430182400/?ats=successfactors",
+      "https://jobs.entergy.com/job/New-Orleans-Student-Intern-AI-Developer-Spring-2027-Loui/1430299700/?ats=successfactors"
     ]
   },
   {
@@ -20135,6 +20147,7 @@
       "https://jobs.jobvite.com/blackboard/job/ouk3zfwa?nl=1&nl=1&fr=false",
       "https://jobs.jobvite.com/careers/idtus/job/oiEfyfwt/apply",
       "https://jobs.jobvite.com/careers/tylertech/job/oreVxfwR",
+      "https://jobs.jobvite.com/elire/job/oM5LAfwW?nl=1&nl=1&fr=false",
       "https://jobs.jobvite.com/idtus/job/oFNfyfwZ?nl=1&nl=1&fr=false",
       "https://jobs.jobvite.com/idtus/job/oN7iyfwu?nl=1&nl=1&fr=false",
       "https://jobs.jobvite.com/idtus/job/oY6myfwI?nl=1&nl=1&fr=false",
@@ -20154,11 +20167,10 @@
       "https://jobs.jobvite.com/panynj/job/oej1yfwQ?nl=1&nl=1&fr=false",
       "https://jobs.jobvite.com/sews/job/oYlrAfw4?nl=1&nl=1&fr=false",
       "https://jobs.jobvite.com/src-inc/job/ohUjyfwM",
+      "https://jobs.jobvite.com/tylertech/job/oqQJAfwj?nl=1&nl=1&fr=false",
       "https://jobs.jobvite.com/visionist/job/oEBdAfwM?nl=1&nl=1&fr=false",
       "https://jobs.jobvite.com/visionist/job/oTxGAfwq?nl=1&nl=1&fr=false",
-      "https://jobs.jobvite.com/windriver/job/ooShxfwO",
-      "https://jobs.jobvite.com/tylertech/job/oqQJAfwj?nl=1&nl=1&fr=false",
-      "https://jobs.jobvite.com/elire/job/oM5LAfwW?nl=1&nl=1&fr=false"
+      "https://jobs.jobvite.com/windriver/job/ooShxfwO"
     ]
   },
   {
@@ -21616,6 +21628,17 @@
     "page": "https://livenation.wd503.myworkdayjobs.com/wday/cxs/livenation/tmexternalsite/jobs",
     "urls": [
       "https://livenation.wd503.myworkdayjobs.com/tmexternalsite/job/Remote---United-Kingdom/Principle-Software-Engineer--Remote--United-Kingdom-_JR-92362-1"
+    ]
+  },
+  {
+    "name": "liveoakbancshares",
+    "ats": "workday",
+    "identifier": "liveoakbancshares-live_oak",
+    "domain": "https://liveoakbancshares.wd1.myworkdayjobs.com/Live_Oak",
+    "page": "https://liveoakbancshares.wd1.myworkdayjobs.com/wday/cxs/liveoakbancshares/Live_Oak/jobs",
+    "urls": [
+      "https://liveoakbancshares.wd1.myworkdayjobs.com/en-US/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--Architecture-Engineering_R-002630",
+      "https://liveoakbancshares.wd1.myworkdayjobs.com/en-US/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--AI-Enablement---Forward-Deployed-Engineering_R-002624"
     ]
   },
   {
