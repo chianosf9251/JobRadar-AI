@@ -1148,6 +1148,13 @@
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Apera AI</td>
+      <td width="420" align="left" valign="top">Software Developer Co-op - C++</td>
+      <td width="180" align="left" valign="top">Vancouver, BC</td>
+      <td width="120" align="left" valign="top"><a href="https://job-boards.greenhouse.io/aperaaiinc/jobs/5239394007" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 16</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Ambrook</td>
       <td width="420" align="left" valign="top">Software Engineer Co-op</td>
       <td width="180" align="left" valign="top">New York, NY</td>
@@ -2405,7 +2412,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-09-16T01:18:35.945Z</code>
+      🕒 Last updated <code>2026-09-16T07:34:38.725Z</code>
     </span>
   </p>
 </div>
