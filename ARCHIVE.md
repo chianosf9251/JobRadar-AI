@@ -18,6 +18,13 @@ Every opportunity matching your current filters (country, category, citizenship/
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Bedrock Robotics</td>
+      <td width="420" align="left" valign="top">Software Engineer Intern - Fleet Platform</td>
+      <td width="180" align="left" valign="top">New York, NY</td>
+      <td width="120" align="left" valign="top"><a href="https://jobs.ashbyhq.com/bedrock-robotics/8927dd7e-a48d-49a2-92eb-09ec059432f4/application?embed=true" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 16</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Relay</td>
       <td width="420" align="left" valign="top">Relay Launchpad Intern - Software Engineer (Device Team)</td>
       <td width="180" align="left" valign="top">Raleigh, NC</td>
@@ -3871,4 +3878,4 @@ Every opportunity matching your current filters (country, category, citizenship/
 
 ---
 
-📦 Generated from `opportunities.ndjson` &nbsp;•&nbsp; 🕒 Last updated `2026-09-16T17:31:41.580Z`
+📦 Generated from `opportunities.ndjson` &nbsp;•&nbsp; 🕒 Last updated `2026-09-16T18:06:39.375Z`
