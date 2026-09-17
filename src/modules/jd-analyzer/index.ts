@@ -50,6 +50,14 @@ export function isEligibleJD(jd: JD) {
     return [false, "AI judged this role not relevant to the target domain"];
   }
 
+  if (CONFIG.target?.excludePhdRequired && jd.phdRequired === true) {
+    return [false, "PhD is required"];
+  }
+
+  if (CONFIG.target?.excludeBachelorOnly && jd.bachelorOnly === true) {
+    return [false, "role is restricted to Bachelor's-level candidates only"];
+  }
+
   const internCategories = new Set<string>([
     JobCategory.SUMMER_INTERN,
     JobCategory.OFF_SEASON_INTERN,

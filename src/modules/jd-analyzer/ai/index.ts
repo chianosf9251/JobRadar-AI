@@ -19,6 +19,14 @@ const JD_PROPERTIES: Record<keyof JD, unknown> = {
     type: ["boolean", "null"],
   },
 
+  phdRequired: {
+    type: ["boolean", "null"],
+  },
+
+  bachelorOnly: {
+    type: ["boolean", "null"],
+  },
+
   qualifications: {
     type: "array",
     items: {
@@ -58,6 +66,8 @@ const JD_PROPERTIES: Record<keyof JD, unknown> = {
 const JD_REQUIRED = [
   "citizenship",
   "sponsorship",
+  "phdRequired",
+  "bachelorOnly",
   "qualifications",
   "country",
   "location",

@@ -12,6 +12,8 @@ export function normalizeJD(response: JDResponse): JD {
   return {
     citizenship: response.citizenship,
     sponsorship: response.sponsorship,
+    phdRequired: response.phdRequired,
+    bachelorOnly: response.bachelorOnly,
     country: response.country,
     location: response.location,
     qualifications: response.qualifications,

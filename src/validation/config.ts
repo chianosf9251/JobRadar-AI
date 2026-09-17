@@ -43,6 +43,14 @@ export const TargetSchema = z
 
     excludeKeywords: z.array(z.string()).optional(),
 
+    // Drops postings where the AI found a PhD/doctorate to be an explicit hard requirement.
+    excludePhdRequired: z.boolean().optional(),
+
+    // Drops postings the AI found explicitly restricted to Bachelor's-level candidates only
+    // (excluding Master's/PhD holders) — not postings that merely list Bachelor's as the
+    // minimum requirement.
+    excludeBachelorOnly: z.boolean().optional(),
+
     // Drops summer/off-season intern postings whose parsed season year is earlier than this
     // (e.g. 2027 excludes "2026 Fall" but keeps "2027 Summer"). A posting whose season couldn't
     // be parsed to a year is kept rather than dropped, since the JD may still be for this cycle

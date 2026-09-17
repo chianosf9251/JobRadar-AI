@@ -117,6 +117,8 @@
       "bank",
       "ecosystem"
     ],
+    "excludePhdRequired": true,
+    "excludeBachelorOnly": true,
     "internYear": 2027
   },
   "ai": {

@@ -5,6 +5,8 @@ import { parseAIJDResult } from "./response";
 const validResponse = {
   citizenship: false,
   sponsorship: true,
+  phdRequired: false,
+  bachelorOnly: false,
   country: "USA",
   location: "New York",
   qualifications: ["TypeScript"],

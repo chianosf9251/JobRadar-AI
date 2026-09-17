@@ -6,6 +6,8 @@ import { COUNTRIES } from "@/constants/country";
 export const JDResponseSchema = z.object({
   citizenship: z.boolean().nullable(),
   sponsorship: z.boolean().nullable(),
+  phdRequired: z.boolean().nullable(),
+  bachelorOnly: z.boolean().nullable(),
   country: z.enum(COUNTRIES),
   location: z.string().nullable(),
   qualifications: z.array(z.string()),

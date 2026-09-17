@@ -9,6 +9,11 @@ export interface JD {
   citizenship: boolean | null;
   sponsorship: boolean | null;
   qualifications: string[] | null;
+  // true if a PhD/doctorate is explicitly required (not just preferred/a plus).
+  phdRequired: boolean | null;
+  // true if the role explicitly restricts to Bachelor's-level candidates only (excludes
+  // candidates with a Master's/PhD) — not just Bachelor's listed as the minimum requirement.
+  bachelorOnly: boolean | null;
 
   // these fields are added to fill the gap between Job and JD
   country: (typeof COUNTRIES)[number];

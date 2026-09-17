@@ -20,19 +20,22 @@ const CONCURRENCY = 5;
 const RESEARCH_TITLE_PATTERN =
   /research scientist|research engineer|applied scientist|research fellow/i;
 
-// Backfill for opportunities analyzed before the relevant/relevanceTier fields existed,
-// plus re-analysis of research-titled postings so they pick up the "research" relevanceTier.
-// Only re-analyzes postings that already pass the current filters (country, category,
-// citizenship/sponsorship, intern year, exclude keywords) — not the full historical archive
-// — to keep the AI re-analysis cost bounded. Also prunes postings whose apply link no
-// longer resolves (job closed/removed).
+// Backfill for opportunities analyzed before the relevant/relevanceTier/phdRequired/
+// bachelorOnly fields existed, plus re-analysis of research-titled postings so they pick
+// up the "research" relevanceTier. Only re-analyzes postings that already pass the current
+// filters (country, category, citizenship/sponsorship, intern year, exclude keywords) —
+// not the full historical archive — to keep the AI re-analysis cost bounded. Also prunes
+// postings whose apply link no longer resolves (job closed/removed).
 async function main() {
   const opportunities = await readNdjsonFile<Opportunity>(OPPORTUNITIES_PATH);
 
   const matching = getMatchingOpportunities(opportunities);
   const needsBackfill = matching.filter(
     (job) =>
-      job.jd && (!("relevanceTier" in job.jd) || RESEARCH_TITLE_PATTERN.test(job.role))
+      job.jd &&
+      (!("relevanceTier" in job.jd) ||
+        !("phdRequired" in job.jd) ||
+        RESEARCH_TITLE_PATTERN.test(job.role))
   );
 
   logger.info({ count: needsBackfill.length }, "🔁 Backfilling relevance for old JDs");

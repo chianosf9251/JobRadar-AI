@@ -38,7 +38,34 @@ Return:
 Do not infer sponsorship from equal opportunity statements.
 Do not treat CPT or OPT acceptance as visa sponsorship unless visa sponsorship is explicitly mentioned.
 
-3. country
+3. phdRequired
+
+Return:
+- true if the job description explicitly states a PhD or doctorate is required (a hard
+  requirement, not merely preferred/a plus/nice-to-have)
+- false if a PhD is not required (including when a PhD is listed as preferred but a lower
+  degree is explicitly acceptable, or education requirements are Bachelor's/Master's level)
+- null if unclear or education requirements are not mentioned
+
+Do not return true just because a PhD is mentioned as preferred or as one of several
+acceptable qualifications (e.g. "Bachelor's, Master's, or PhD in a related field").
+
+4. bachelorOnly
+
+Return:
+- true only if the job description explicitly restricts the role to Bachelor's-level
+  candidates and excludes candidates with a Master's or PhD (e.g. an explicit cap on
+  education level, or a program explicitly scoped to Bachelor's-level new grads that
+  states graduate-degree holders do not qualify)
+- false if Bachelor's degree is listed as the minimum requirement without excluding
+  candidates who hold a Master's or PhD (this is the common case)
+- null if education requirements are not mentioned
+
+Do not return true just because a Bachelor's degree is the only degree mentioned — most
+job descriptions list a minimum requirement without excluding higher degrees, and that
+should be false, not true.
+
+5. country
 
 Choose exactly one supported country.
 
@@ -60,7 +87,7 @@ Use "Unsure" if the location is unclear, missing, or ambiguous.
 
 Never invent a country.
 
-4. location
+6. location
 
 Return the most specific primary work location as a string.
 
@@ -89,7 +116,7 @@ Rules:
 Do not invent city, state, province, or country.
 Do not expand abbreviations unless the job description clearly provides them.
 
-5. qualifications
+7. qualifications
 
 Extract candidate requirements only.
 
@@ -124,7 +151,7 @@ Formatting:
 - remove duplicates
 - merge overlapping qualifications
 
-6. category
+8. category
 
 Determine exactly one category using the following decision order.
 
@@ -208,7 +235,7 @@ If no clear category can be determined, return "mid level" only for professional
 Otherwise return "entry level" only when there are clear entry-level signals.
 If neither applies, return "mid level".
 
-7. season
+9. season
 
 Determine exactly one season.
 
@@ -225,7 +252,7 @@ If category is "entry level", "mid level", or "senior level":
 
 Never return a season that is not listed in the supported seasons.
 
-8. relevant
+10. relevant
 
 Determine whether this role genuinely matches the target domain, based on reading and
 understanding the actual responsibilities and qualifications in the JD text — not by
@@ -251,7 +278,7 @@ surface a borderline match for a human to quickly skip than to silently drop a g
 If no target keywords are listed above, judge relevance based on general software
 engineering / technical relevance instead.
 
-9. relevanceTier
+11. relevanceTier
 
 Only meaningful when relevant is true (still choose a value even when relevant is false;
 it will be ignored). Classify how closely the role's core responsibilities align with the
