@@ -30,17 +30,19 @@ export const TargetSchema = z
       .optional(),
 
     "full-time": z
-      .array(z.enum([JobCategory.ENTRY_LEVEL, JobCategory.MID_LEVEL, JobCategory.SENIOR_LEVEL]))
+      .array(
+        z.enum([
+          JobCategory.ENTRY_LEVEL,
+          JobCategory.MID_LEVEL,
+          JobCategory.SENIOR_LEVEL,
+          JobCategory.RESEARCH,
+        ])
+      )
       .min(
         1,
-        "full-time has to be at least one of the following: entry level, mid level, senior level"
+        "full-time has to be at least one of the following: entry level, mid level, senior level, research"
       )
       .optional(),
-
-    // Research roles (e.g. Research Scientist, Research Engineer) are classified into their
-    // own "research" category regardless of seniority, separate from the intern/full-time
-    // seniority ladder above.
-    research: z.boolean().optional(),
 
     countries: z.array(CountrySchema),
 

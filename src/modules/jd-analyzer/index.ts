@@ -38,7 +38,6 @@ export function isEligibleJD(jd: JD) {
   const allowedCategories = new Set([
     ...(CONFIG.target?.intern ?? []),
     ...(CONFIG.target?.["full-time"] ?? []),
-    ...(CONFIG.target?.research ? [JobCategory.RESEARCH] : []),
   ]);
   if (jd.category && !allowedCategories.has(jd.category)) {
     return [false, `${jd.category} is not in the allowed categories`];
