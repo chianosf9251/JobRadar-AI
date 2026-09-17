@@ -19,13 +19,6 @@ Every opportunity matching your current filters (country, category, citizenship/
   <tbody>
     <tr>
       <td width="180" align="left" valign="top">Visa</td>
-      <td width="420" align="left" valign="top">Staff Research Scientist, Intern - PhD Quantum</td>
-      <td width="180" align="left" valign="top">Foster City, CA</td>
-      <td width="120" align="left" valign="top"><a href="https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Staff-Research-Scientist--Intern---PhD-Quantum_REF088578W-2" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">September 17</td>
-    </tr>
-    <tr>
-      <td width="180" align="left" valign="top">↳</td>
       <td width="420" align="left" valign="top">Staff Research Scientist, Intern - PhD Foundational AI</td>
       <td width="180" align="left" valign="top">Foster City, CA</td>
       <td width="120" align="left" valign="top"><a href="https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Staff-Research-Scientist--Intern---PhD-Foundational-AI_REF088579W-1" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
@@ -3633,4 +3626,4 @@ Every opportunity matching your current filters (country, category, citizenship/
 
 ---
 
-📦 Generated from `opportunities.ndjson` &nbsp;•&nbsp; 🕒 Last updated `2026-09-17T18:26:03.132Z`
+📦 Generated from `opportunities.ndjson` &nbsp;•&nbsp; 🕒 Last updated `2026-09-17T18:36:04.414Z`
