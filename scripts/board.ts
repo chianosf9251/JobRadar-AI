@@ -16,6 +16,7 @@ import {
   groupByTier,
   normalizeCompany,
   TIER_LABELS,
+  TIER_ORDER,
 } from "@/modules/job-board";
 import { readNdjsonFile } from "@/utils/data";
 import { escapeHtml } from "@/utils/html";
@@ -168,18 +169,17 @@ ${chips}
 }
 
 function buildTierFilterBar(grouped: Map<RelevanceTier, Opportunity[]>): string {
-  if (grouped.size === 0) return "";
+  // Show every configured tier as a filter chip, even ones with zero current matches —
+  // otherwise a tier silently disappears from the UI whenever nothing currently falls
+  // into it, instead of reading as "0 right now".
+  const chips = TIER_ORDER.map((tier) => {
+    const count = grouped.get(tier)?.length ?? 0;
 
-  const chips = Array.from(grouped.keys())
-    .map((tier) => {
-      const count = grouped.get(tier)!.length;
-
-      return `      <label class="chip">
+    return `      <label class="chip">
         <input type="checkbox" data-tier="${escapeHtml(tier)}" checked />
         ${escapeHtml(TIER_LABELS[tier])} <span class="count">${count}</span>
       </label>`;
-    })
-    .join("\n");
+  }).join("\n");
 
   return `  <div class="filters" role="group" aria-label="Filter by relevance category">
     <span class="filters-label">Category</span>
