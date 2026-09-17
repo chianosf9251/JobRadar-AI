@@ -7,22 +7,13 @@
     "full-time": [
       "entry level"
     ],
+    "research": true,
     "countries": [
       "USA",
-      "Canada",
-      "Taiwan",
-      "Remote"
+      "Taiwan"
     ],
     "filter": {
       "USA": {
-        "allow_citizenship_required": false,
-        "allow_no_sponsorship": false
-      },
-      "Canada": {
-        "allow_citizenship_required": false,
-        "allow_no_sponsorship": false
-      },
-      "Remote": {
         "allow_citizenship_required": false,
         "allow_no_sponsorship": false
       }
@@ -30,6 +21,7 @@
     "keywords": [
       "software engineering",
       "software engineer",
+      "research scientist",
       "ai",
       "infra",
       "infrastructure",

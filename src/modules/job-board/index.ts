@@ -4,6 +4,7 @@ import type { JD, Opportunity, RelevanceTier } from "@/types/jobs";
 import type { Config } from "@/validation/config";
 
 import { isEligibleJD } from "@/modules/jd-analyzer";
+import { JobCategory } from "@/validation/config";
 
 export type JDWithLocation = JD & {
   location?: string | null;
@@ -85,6 +86,7 @@ export function buildTargetCategories(config: Config): string[] {
   return unique([
     ...(config.target.intern ?? []).map(normalizeCategory),
     ...(config.target["full-time"] ?? []).map(normalizeCategory),
+    ...(config.target.research ? [normalizeCategory(JobCategory.RESEARCH)] : []),
   ]);
 }
 

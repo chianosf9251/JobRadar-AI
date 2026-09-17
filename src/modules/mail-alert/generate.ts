@@ -159,6 +159,9 @@ function formTitle(category?: JobCategory, season?: Season) {
     case JobCategory.SENIOR_LEVEL:
       return `Senior Level`;
 
+    case JobCategory.RESEARCH:
+      return `Research`;
+
     default:
       category satisfies undefined;
       return "Normal Level";
