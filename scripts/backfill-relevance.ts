@@ -14,16 +14,26 @@ import { logger } from "@/utils/logger";
 
 const CONCURRENCY = 5;
 
-// One-time backfill for opportunities analyzed before the relevant/relevanceTier fields
-// existed. Only re-analyzes postings that already pass the current filters (country,
-// category, citizenship/sponsorship, intern year, exclude keywords) — not the full
-// historical archive — to keep the AI re-analysis cost bounded. Also prunes postings
-// whose apply link no longer resolves (job closed/removed).
+// Postings whose title reads as a research role, re-analyzed even when they already have
+// a relevanceTier — this is how already-tagged Research Scientist/Engineer postings pick
+// up the "research" tier that was added after they were first analyzed.
+const RESEARCH_TITLE_PATTERN =
+  /research scientist|research engineer|applied scientist|research fellow/i;
+
+// Backfill for opportunities analyzed before the relevant/relevanceTier fields existed,
+// plus re-analysis of research-titled postings so they pick up the "research" relevanceTier.
+// Only re-analyzes postings that already pass the current filters (country, category,
+// citizenship/sponsorship, intern year, exclude keywords) — not the full historical archive
+// — to keep the AI re-analysis cost bounded. Also prunes postings whose apply link no
+// longer resolves (job closed/removed).
 async function main() {
   const opportunities = await readNdjsonFile<Opportunity>(OPPORTUNITIES_PATH);
 
   const matching = getMatchingOpportunities(opportunities);
-  const needsBackfill = matching.filter((job) => job.jd && !("relevanceTier" in job.jd));
+  const needsBackfill = matching.filter(
+    (job) =>
+      job.jd && (!("relevanceTier" in job.jd) || RESEARCH_TITLE_PATTERN.test(job.role))
+  );
 
   logger.info({ count: needsBackfill.length }, "🔁 Backfilling relevance for old JDs");
 
