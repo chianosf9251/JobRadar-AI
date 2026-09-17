@@ -12,7 +12,7 @@ export const JDResponseSchema = z.object({
   category: z.enum(JOB_CATEGORIES),
   season: z.enum(SEASONS),
   relevant: z.boolean(),
-  relevanceTier: z.enum(["gpu-llm-inference", "mle", "swe-sde", "other"]),
+  relevanceTier: z.enum(["gpu-llm-inference", "mle", "swe-sde", "research", "other"]),
 });
 
 export type JDResponse = z.infer<typeof JDResponseSchema>;

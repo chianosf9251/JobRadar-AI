@@ -3,7 +3,7 @@ import type { JobCategory } from "@/validation/config";
 import type { Season } from "@/validation/season";
 
 // Coarse relevance tiers for sorting (e.g. the Obsidian digest), most-relevant first.
-export type RelevanceTier = "gpu-llm-inference" | "mle" | "swe-sde" | "other";
+export type RelevanceTier = "gpu-llm-inference" | "mle" | "swe-sde" | "research" | "other";
 
 export interface JD {
   citizenship: boolean | null;

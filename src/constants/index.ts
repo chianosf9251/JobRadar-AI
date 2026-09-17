@@ -47,7 +47,6 @@ export const JOB_CATEGORIES = [
   JobCategory.ENTRY_LEVEL,
   JobCategory.MID_LEVEL,
   JobCategory.SENIOR_LEVEL,
-  JobCategory.RESEARCH,
 ] as const;
 
 export const SOURCES: Source[] = [

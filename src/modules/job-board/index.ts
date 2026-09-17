@@ -158,12 +158,19 @@ export function normalizeCompany(value: string): string {
 }
 
 // Most-relevant first, per the AI's relevanceTier judgment.
-export const TIER_ORDER: RelevanceTier[] = ["gpu-llm-inference", "mle", "swe-sde", "other"];
+export const TIER_ORDER: RelevanceTier[] = [
+  "gpu-llm-inference",
+  "mle",
+  "swe-sde",
+  "research",
+  "other",
+];
 
 export const TIER_LABELS: Record<RelevanceTier, string> = {
   "gpu-llm-inference": "🚀 GPU / LLM Inference",
   mle: "🧠 MLE",
   "swe-sde": "⚙️ SWE / SDE",
+  research: "🔬 Research",
   other: "📦 Other",
 };
 

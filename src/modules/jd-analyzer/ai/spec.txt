@@ -148,18 +148,7 @@ Internship signals override all seniority signals.
 
 Stop.
 
-Step 2: Research
-
-Return "research" if the role's primary function is research rather than general software
-engineering — e.g. the title or core responsibilities are Research Scientist, Research
-Engineer, Applied Scientist, Research Fellow, or similar — regardless of seniority level.
-
-Research signals override entry/mid/senior seniority signals, but not the internship signal
-in Step 1 (a research internship is still "summer intern" or "off-season intern").
-
-Stop.
-
-Step 3: Entry Level
+Step 2: Entry Level
 
 Return "entry level" if the role explicitly targets:
 - new graduates
@@ -173,7 +162,7 @@ Return "entry level" if the role explicitly targets:
 
 Stop.
 
-Step 4: Student signals
+Step 3: Student signals
 
 Return "entry level" if the role requires or asks for:
 - GPA
@@ -183,7 +172,7 @@ Return "entry level" if the role requires or asks for:
 
 Stop.
 
-Step 5: Senior title
+Step 4: Senior title
 
 Return "senior level" only if the job title contains:
 - Senior
@@ -199,7 +188,7 @@ Do not use these words from company descriptions, responsibilities, benefits, eq
 
 Stop.
 
-Step 6: Senior experience
+Step 5: Senior experience
 
 Return "senior level" only if the role explicitly requires 5+ years of professional experience or more.
 
@@ -207,13 +196,13 @@ Do not classify as senior level for 3+ or 4+ years alone.
 
 Stop.
 
-Step 7: Mid Level
+Step 6: Mid Level
 
 Return "mid level" if the role is a professional engineering position and does not match any previous rule.
 
 Stop.
 
-Step 8
+Step 7
 
 If no clear category can be determined, return "mid level" only for professional engineering roles.
 Otherwise return "entry level" only when there are clear entry-level signals.
@@ -231,7 +220,7 @@ If category is "off-season intern":
 - return the matching supported Fall, Spring, or Winter season if clear
 - return "None" if the internship season is unclear
 
-If category is "entry level", "mid level", "senior level", or "research":
+If category is "entry level", "mid level", or "senior level":
 - return "None"
 
 Never return a season that is not listed in the supported seasons.
@@ -272,12 +261,17 @@ target domain, most-relevant first:
   compilers/runtimes for accelerators (MLIR, LLVM, TVM, XLA, IREE), or LLM inference
   systems (vLLM, SGLang, FlashInfer, TensorRT, attention kernels, KV cache, inference
   engines). This is the closest possible match to the target domain.
-- "mle": the role is a Machine Learning Engineer / applied ML / ML research engineering
-  position — training, modeling, ML platform, or applied ML work — that is relevant but
-  not specifically about GPU kernels or LLM inference systems.
+- "mle": the role is a Machine Learning Engineer / applied ML position — training,
+  modeling, ML platform, or applied ML engineering work — that is relevant but not
+  specifically about GPU kernels or LLM inference systems, and not primarily a research
+  role (see "research" below).
 - "swe-sde": the role is a general Software Engineer / SDE / systems engineer position
   that is relevant (e.g. distributed systems, performance engineering, systems software)
   but is not ML-focused and not specifically about GPU kernels or LLM inference.
+- "research": the role's primary function is research rather than production engineering
+  — e.g. the title or core responsibilities are Research Scientist, Research Engineer,
+  Applied Scientist, Research Fellow, or similar, focused on novel modeling, algorithms,
+  or publishing — and it is relevant to the target domain.
 - "other": relevant, but doesn't clearly fit any of the above.
 
 ---BEGIN JD TEXT---

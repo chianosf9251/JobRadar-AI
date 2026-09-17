@@ -51,7 +51,7 @@ const JD_PROPERTIES: Record<keyof JD, unknown> = {
 
   relevanceTier: {
     type: "string",
-    enum: ["gpu-llm-inference", "mle", "swe-sde", "other"],
+    enum: ["gpu-llm-inference", "mle", "swe-sde", "research", "other"],
   },
 };
 
