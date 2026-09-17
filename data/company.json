@@ -2230,7 +2230,8 @@
     "domain": "https://job-boards.greenhouse.io",
     "page": "https://boards-api.greenhouse.io/v1/boards/aperaaiinc/jobs",
     "urls": [
-      "https://job-boards.greenhouse.io/aperaaiinc/jobs/5239394007"
+      "https://job-boards.greenhouse.io/aperaaiinc/jobs/5239394007",
+      "https://job-boards.greenhouse.io/aperaaiinc/jobs/5240259007"
     ]
   },
   {
@@ -3975,7 +3976,8 @@
       "https://ats.rippling.com/tive-careers/jobs/c88ab3d3-a8e7-4639-b95b-d6c9b5290dd0",
       "https://ats.rippling.com/tive-careers/jobs/e7ed0c47-bf2e-4105-a793-e48dc0e0f710",
       "https://ats.rippling.com/usare/jobs/8db9bb37-aa5f-40e0-96ac-d1c4ca796aeb",
-      "https://ats.rippling.com/veryable-careers/jobs/cf74672c-c9c5-4be5-8858-04abfd64c20f"
+      "https://ats.rippling.com/veryable-careers/jobs/cf74672c-c9c5-4be5-8858-04abfd64c20f",
+      "https://ats.rippling.com/collieraerospace/jobs/5a8bf9a3-c4f5-4c5a-ba9a-188979106827"
     ]
   },
   {
@@ -11831,7 +11833,18 @@
     "page": "https://api.ashbyhq.com/posting-api/job-board/decagon",
     "urls": [
       "https://jobs.ashbyhq.com/decagon/3a68de82-c874-4cd2-b639-17948748e212",
-      "https://jobs.ashbyhq.com/decagon/c68de30e-1293-48bd-8f8e-dbbbb7d204b9"
+      "https://jobs.ashbyhq.com/decagon/c68de30e-1293-48bd-8f8e-dbbbb7d204b9",
+      "https://jobs.ashbyhq.com/decagon/16529089-a048-4bc3-8456-3f197135e00b/application?embed=true"
+    ]
+  },
+  {
+    "name": "decisionpointcorp",
+    "ats": "icims",
+    "identifier": "decisionpointcorp",
+    "domain": "https://careers-decisionpointcorp.icims.com",
+    "page": "https://careers-decisionpointcorp.icims.com/jobs/search",
+    "urls": [
+      "https://careers-decisionpointcorp.icims.com/jobs/3771/job?mobile=true&needsRedirect=false"
     ]
   },
   {
@@ -13109,6 +13122,16 @@
       "https://job-boards.greenhouse.io/elwoodtechnologies/jobs/6112453004",
       "https://job-boards.greenhouse.io/elwoodtechnologies/jobs/6112510004",
       "https://job-boards.greenhouse.io/elwoodtechnologies/jobs/6173309004"
+    ]
+  },
+  {
+    "name": "emergentlabsinc",
+    "ats": "greenhouse",
+    "identifier": "emergentlabsinc",
+    "domain": "https://job-boards.greenhouse.io",
+    "page": "https://boards-api.greenhouse.io/v1/boards/emergentlabsinc/jobs",
+    "urls": [
+      "https://job-boards.greenhouse.io/emergentlabsinc/jobs/4323651009"
     ]
   },
   {
@@ -15259,7 +15282,8 @@
       "https://careers-gdms.icims.com/jobs/74971/sr-systems-engineer/job",
       "https://careers-gdms.icims.com/jobs/74992/systems-engineer-%e2%80%93-strategic-weapons-control/job",
       "https://careers-gdms.icims.com/jobs/74993/software-engineering-intern/job",
-      "https://careers-gdms.icims.com/jobs/75006/advanced-software-engineer/job"
+      "https://careers-gdms.icims.com/jobs/75006/advanced-software-engineer/job",
+      "https://careers-gdms.icims.com/jobs/74785/job?mobile=true&needsRedirect=false"
     ]
   },
   {
@@ -17765,6 +17789,16 @@
     ]
   },
   {
+    "name": "headlandstechnologiesllc",
+    "ats": "greenhouse",
+    "identifier": "headlandstechnologiesllc",
+    "domain": "https://job-boards.greenhouse.io",
+    "page": "https://boards-api.greenhouse.io/v1/boards/headlandstechnologiesllc/jobs",
+    "urls": [
+      "https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4336806009"
+    ]
+  },
+  {
     "name": "healf",
     "ats": "ashby",
     "identifier": "healf",
@@ -19326,7 +19360,9 @@
       "https://job-boards.greenhouse.io/intersystems/jobs/7593638003",
       "https://job-boards.greenhouse.io/intersystems/jobs/7827894003",
       "https://job-boards.greenhouse.io/intersystems/jobs/7885384003",
-      "https://www.intersystems.com/careers/careers-search/?gh_jid=7593713003"
+      "https://www.intersystems.com/careers/careers-search/?gh_jid=7593713003",
+      "https://job-boards.greenhouse.io/intersystems/jobs/7992646003",
+      "https://job-boards.greenhouse.io/intersystems/jobs/7992645003"
     ]
   },
   {
@@ -19842,7 +19878,8 @@
     "page": "https://jobs-cesi.icims.com/jobs/11204/job?mobile=true&needsRedirect=false",
     "urls": [
       "https://jobs-cesi.icims.com/jobs/11204/job?mobile=true&needsRedirect=false",
-      "https://jobs-cesi.icims.com/jobs/11206/job?mobile=true&needsRedirect=false"
+      "https://jobs-cesi.icims.com/jobs/11206/job?mobile=true&needsRedirect=false",
+      "https://jobs-cesi.icims.com/jobs/11219/job?mobile=true&needsRedirect=false"
     ]
   },
   {
@@ -21199,6 +21236,16 @@
     "urls": [
       "https://jobs.ashbyhq.com/kirin/1bb1109e-514f-464f-b694-3721010107ae",
       "https://jobs.ashbyhq.com/kirin/38772f01-84fd-4f09-a36d-e7fa86341b99/application?embed=true"
+    ]
+  },
+  {
+    "name": "kitware",
+    "ats": "lever",
+    "identifier": "kitware",
+    "domain": "https://jobs.lever.co",
+    "page": "https://api.lever.co/v0/postings/kitware?mode=json",
+    "urls": [
+      "https://jobs.lever.co/kitware/7b6ff8f9-34c6-4338-845d-4e1bbc142906/apply"
     ]
   },
   {
@@ -27991,6 +28038,16 @@
     ]
   },
   {
+    "name": "ragleinc.applytojob.com",
+    "ats": "custom",
+    "identifier": "ragleinc.applytojob.com",
+    "domain": "https://ragleinc.applytojob.com",
+    "page": "",
+    "urls": [
+      "https://ragleinc.applytojob.com/apply/lonTfWhOqm/Software-Engineer-Intern"
+    ]
+  },
+  {
     "name": "rakuten",
     "ats": "workday",
     "identifier": "rakuten-rakutenamericas",
@@ -28455,6 +28512,16 @@
     "domain": "https://jobs.ashbyhq.com",
     "page": "https://api.ashbyhq.com/posting-api/job-board/Remedy%20Scientific",
     "urls": []
+  },
+  {
+    "name": "RenesasElectronics",
+    "ats": "smartrecruiters",
+    "identifier": "RenesasElectronics",
+    "domain": "https://jobs.smartrecruiters.com",
+    "page": "https://api.smartrecruiters.com/v1/companies/RenesasElectronics/postings",
+    "urls": [
+      "https://jobs.smartrecruiters.com/RenesasElectronics/744000149952164"
+    ]
   },
   {
     "name": "replit",
@@ -32908,7 +32975,8 @@
       "https://www.tesla.com/careers/search/job/283220",
       "https://www.tesla.com/careers/search/job/283395",
       "https://www.tesla.com/careers/search/job/283447",
-      "https://www.tesla.com/careers/search/job/internship-localization-specialist-it-applications-fall-2026-276308"
+      "https://www.tesla.com/careers/search/job/internship-localization-specialist-it-applications-fall-2026-276308",
+      "https://www.tesla.com/careers/search/job/283630"
     ]
   },
   {
