@@ -1386,13 +1386,13 @@
       "https://amazon.jobs/en/jobs/10552120",
       "https://amazon.jobs/en/jobs/10552155",
       "https://amazon.jobs/en/jobs/10552156",
+      "https://amazon.jobs/en/jobs/10552937/software-development-engineer-internship-summer-2027-usa",
       "https://amazon.jobs/en/jobs/10552986",
       "https://amazon.jobs/en/jobs/3116030",
       "https://amazon.jobs/en/jobs/3127861",
       "https://amazon.jobs/en/jobs/3179209",
       "https://www.amazon.jobs/en/jobs/3066646/business-intelligence-engineer-co-op-2026-us",
-      "https://www.amazon.jobs/en/jobs/3136266/robotics-software-development-engineer-intern-co-op-2026?no_int_redir=1",
-      "https://amazon.jobs/en/jobs/10552937/software-development-engineer-internship-summer-2027-usa"
+      "https://www.amazon.jobs/en/jobs/3136266/robotics-software-development-engineer-intern-co-op-2026?no_int_redir=1"
     ]
   },
   {
@@ -3365,7 +3365,8 @@
       "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922923",
       "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922929",
       "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922930",
-      "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922931"
+      "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922931",
+      "https://apply.careers.microsoft.com/careers/job/1970393556982258"
     ]
   },
   {
@@ -20178,8 +20179,7 @@
       "https://jobs.solarwinds.com/job-detail/?gh_jid=4694254005&gh_jid=4694254005",
       "https://jobs.solarwinds.com/job-detail/?gh_jid=4694485005&gh_jid=4694485005",
       "https://jobs.solarwinds.com/job-detail/?gh_jid=4694486005&gh_jid=4694486005",
-      "https://jobs.solarwinds.com/job-detail/?gh_jid=4704992005&gh_jid=4704992005",
-      "https://jobs.solarwinds.com/job-detail/?gh_jid=4716665005&gh_jid=4716665005"
+      "https://jobs.solarwinds.com/job-detail/?gh_jid=4704992005&gh_jid=4704992005"
     ]
   },
   {
@@ -31546,7 +31546,9 @@
     "identifier": "solarwinds",
     "domain": "https://jobs.solarwinds.com",
     "page": "https://boards-api.greenhouse.io/v1/boards/solarwinds/jobs",
-    "urls": []
+    "urls": [
+      "https://jobs.solarwinds.com/job-detail/?gh_jid=4716665005&gh_jid=4716665005"
+    ]
   },
   {
     "name": "solidpower",
