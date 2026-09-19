@@ -1978,7 +1978,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-09-19T05:38:05.041Z</code>
+      🕒 Last updated <code>2026-09-19T16:19:00.369Z</code>
     </span>
   </p>
 </div>
