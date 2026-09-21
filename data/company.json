@@ -15028,6 +15028,16 @@
     ]
   },
   {
+    "name": "fmr",
+    "ats": "workday",
+    "identifier": "fmr-fidelitycareers",
+    "domain": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers",
+    "page": "https://fmr.wd1.myworkdayjobs.com/wday/cxs/fmr/fidelitycareers/jobs",
+    "urls": [
+      "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/One-Destiny-Way-Westlake-TX/Summer-2027-Undergraduate-Internship---Software_2134524"
+    ]
+  },
+  {
     "name": "foresters",
     "ats": "workday",
     "identifier": "foresters-forestersfinancialcareers",
@@ -17758,7 +17768,8 @@
       "https://gresearch.wd103.myworkdayjobs.com/g-research/job/London-UK/Software-Engineer---Custom-I-O_R3581",
       "https://gresearch.wd103.myworkdayjobs.com/g-research/job/London-UK/Software-Engineer---Observability-Instrumentation_R3628",
       "https://gresearch.wd103.myworkdayjobs.com/g-research/job/London-UK/Software-Engineer_R2489",
-      "https://gresearch.wd103.myworkdayjobs.com/g-research/job/London-UK/Software-Engineer_R3732-1"
+      "https://gresearch.wd103.myworkdayjobs.com/g-research/job/London-UK/Software-Engineer_R3732-1",
+      "https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Software-Engineering-Intern_R3746"
     ]
   },
   {
@@ -19259,7 +19270,8 @@
     "domain": "https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job",
     "page": "https://icbpjb.fa.ocs.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&finder=findReqs%3BsiteNumber%3DLazardProfessionalCareers%2Climit%3D25%2CsortBy%3DPOSTING_DATES_DESC&expand=requisitionList.secondaryLocations%2CrequisitionList.otherWorkLocations",
     "urls": [
-      "https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6603"
+      "https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6603",
+      "https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6606"
     ]
   },
   {
@@ -33662,7 +33674,8 @@
     "domain": "https://job-boards.greenhouse.io",
     "page": "https://boards-api.greenhouse.io/v1/boards/teletrackingtechnologiesinc/jobs",
     "urls": [
-      "https://job-boards.greenhouse.io/teletrackingtechnologiesinc/jobs/5397299008"
+      "https://job-boards.greenhouse.io/teletrackingtechnologiesinc/jobs/5397299008",
+      "https://job-boards.greenhouse.io/teletrackingtechnologiesinc/jobs/5425154008"
     ]
   },
   {
@@ -35721,6 +35734,29 @@
     "domain": "https://jobs.ashbyhq.com",
     "page": "https://api.ashbyhq.com/posting-api/job-board/Unwrap",
     "urls": []
+  },
+  {
+    "name": "upbound",
+    "ats": "workday",
+    "identifier": "upbound-upbound",
+    "domain": "https://upbound.wd501.myworkdayjobs.com/Upbound",
+    "page": "https://upbound.wd501.myworkdayjobs.com/wday/cxs/upbound/Upbound/jobs",
+    "urls": [
+      "https://upbound.wd501.myworkdayjobs.com/Upbound/job/Plano-TX/Software-Engineer-Intern_R-100761",
+      "https://upbound.wd501.myworkdayjobs.com/Upbound/job/Draper-UT/Software-Engineer-Intern_R-100759",
+      "https://upbound.wd501.myworkdayjobs.com/Upbound/job/Plano-TX/Software-Engineer-Intern_R-100762",
+      "https://upbound.wd501.myworkdayjobs.com/Upbound/job/Plano-TX/Digital-Commerce-Intern_R-100767"
+    ]
+  },
+  {
+    "name": "upbound",
+    "ats": "workday",
+    "identifier": "upbound-acima",
+    "domain": "https://upbound.wd501.myworkdayjobs.com/Acima",
+    "page": "https://upbound.wd501.myworkdayjobs.com/wday/cxs/upbound/Acima/jobs",
+    "urls": [
+      "https://upbound.wd501.myworkdayjobs.com/Acima/job/Draper-UT/Software-Engineer-Intern_R-100759-1"
+    ]
   },
   {
     "name": "us-erac",
