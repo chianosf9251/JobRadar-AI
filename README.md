@@ -103,6 +103,13 @@
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Nebraska Medicine</td>
+      <td width="420" align="left" valign="top">Forward Deployed AI Engineer Intern</td>
+      <td width="180" align="left" valign="top">Omaha, NE</td>
+      <td width="120" align="left" valign="top"><a href="https://nebraskamed.wd5.myworkdayjobs.com/nm/job/Omaha-NE/Intern---Forward-Deployed-AI-Engineer_REQ-38924" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 21</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">SingleStore</td>
       <td width="420" align="left" valign="top">MIT- Software Engineer Intern | Helios</td>
       <td width="180" align="left" valign="top">Seattle, WA</td>
@@ -1894,7 +1901,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-09-21T18:31:24.631Z</code>
+      🕒 Last updated <code>2026-09-21T23:59:30.408Z</code>
     </span>
   </p>
 </div>
