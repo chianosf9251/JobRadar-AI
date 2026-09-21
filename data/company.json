@@ -4268,6 +4268,16 @@
     ]
   },
   {
+    "name": "AutoZone",
+    "ats": "oraclecloud",
+    "identifier": "egud.fa.us2.oraclecloud.com",
+    "domain": "https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job",
+    "page": "https://egud.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&finder=findReqs%3BsiteNumber%3DCX_1%2Climit%3D25%2CsortBy%3DPOSTING_DATES_DESC&expand=requisitionList.secondaryLocations%2CrequisitionList.otherWorkLocations",
+    "urls": [
+      "https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155451"
+    ]
+  },
+  {
     "name": "avathon",
     "ats": "greenhouse",
     "identifier": "avathon",
@@ -8354,6 +8364,7 @@
       "https://careers.cisco.com/global/en/job/2023246?ph_id=2023246",
       "https://careers.cisco.com/global/en/job/2023271?ph_id=2023271",
       "https://careers.cisco.com/global/en/job/2023279?ph_id=2023279",
+      "https://careers.cisco.com/global/en/job/2023293?ph_id=2023293",
       "https://careers.cisco.com/global/en/job/2023307?ph_id=2023307",
       "https://careers.cisco.com/global/en/job/2023308?ph_id=2023308",
       "https://careers.cisco.com/global/en/job/2023342?ph_id=2023342",
@@ -8466,6 +8477,7 @@
       "https://careers.cisco.com/global/en/job/2025014?ph_id=2025014",
       "https://careers.cisco.com/global/en/job/2025067?ph_id=2025067",
       "https://careers.cisco.com/global/en/job/2025073?ph_id=2025073",
+      "https://careers.cisco.com/global/en/job/2025143?ph_id=2025143",
       "https://careers.cisco.com/global/en/job/2025217?ph_id=2025217",
       "https://careers.cisco.com/global/en/job/2025269?ph_id=2025269",
       "https://careers.cisco.com/global/en/job/2025273?ph_id=2025273",
@@ -8481,9 +8493,7 @@
       "https://careers.cisco.com/global/en/job/2025809?ph_id=2025809",
       "https://careers.cisco.com/global/en/job/2025890?ph_id=2025890",
       "https://careers.cisco.com/global/en/job/2025972?ph_id=2025972",
-      "https://careers.cisco.com/global/en/job/2026102?ph_id=2026102",
-      "https://careers.cisco.com/global/en/job/2023293?ph_id=2023293",
-      "https://careers.cisco.com/global/en/job/2025143?ph_id=2025143"
+      "https://careers.cisco.com/global/en/job/2026102?ph_id=2026102"
     ]
   },
   {
@@ -8962,6 +8972,7 @@
       "https://careers.itw.com/global/en/job/JR4585?ph_id=JR4585",
       "https://careers.itw.com/us/en/job/JR10060?ph_id=JR10060",
       "https://careers.itw.com/us/en/job/JR10122?ph_id=JR10122",
+      "https://careers.itw.com/us/en/job/JR10129?ph_id=JR10129",
       "https://careers.itw.com/us/en/job/JR10146?ph_id=JR10146",
       "https://careers.itw.com/us/en/job/JR7886?ph_id=JR7886",
       "https://careers.itw.com/us/en/job/JR9109?ph_id=JR9109",
@@ -8970,8 +8981,7 @@
       "https://careers.itw.com/us/en/job/JR9391?ph_id=JR9391",
       "https://careers.itw.com/us/en/job/JR9516?ph_id=JR9516",
       "https://careers.itw.com/us/en/job/JR9697?ph_id=JR9697",
-      "https://careers.itw.com/us/en/job/JR9885?ph_id=JR9885",
-      "https://careers.itw.com/us/en/job/JR10129?ph_id=JR10129"
+      "https://careers.itw.com/us/en/job/JR9885?ph_id=JR9885"
     ]
   },
   {
@@ -19889,6 +19899,17 @@
     ]
   },
   {
+    "name": "interstates",
+    "ats": "greenhouse",
+    "identifier": "interstates",
+    "domain": "https://www.interstates.com",
+    "page": "https://boards-api.greenhouse.io/v1/boards/interstates/jobs",
+    "urls": [
+      "https://www.interstates.com/careers/jobs?gh_jid=4218341009&gh_jid=4218341009",
+      "https://www.interstates.com/careers/jobs?gh_jid=4218343009&gh_jid=4218343009"
+    ]
+  },
+  {
     "name": "intersystems",
     "ats": "greenhouse",
     "identifier": "intersystems",
@@ -23579,7 +23600,8 @@
     "urls": [
       "https://job-boards.greenhouse.io/mercury/jobs/6011827004",
       "https://job-boards.greenhouse.io/mercury/jobs/6101145004",
-      "https://job-boards.greenhouse.io/mercury/jobs/6150432004"
+      "https://job-boards.greenhouse.io/mercury/jobs/6150432004",
+      "https://job-boards.greenhouse.io/mercury/jobs/6199367004"
     ]
   },
   {
@@ -26183,6 +26205,7 @@
       "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Linux-for-Edge-System-Software-Engineer--RDSS-intern-_JR2023971",
       "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/PCB-Design-EDA-and-AI-Engineer---New-College-Graduate-2027_JR2023370",
       "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Silicon-Software-Engineer---System-and-AI--RDSS-Intern-_JR2025538",
+      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Software-Engineer--Simulation-and-Virtualization--RDSS-Intern-_JR2025783",
       "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineer---Embedded-Power-Management--RDSS-Intern-_JR2023967",
       "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineer---GPU-and-SOC--2027-RDSS-Intern-_JR2023628",
       "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineer--RDSS-Intern-_JR2024500",
@@ -26251,6 +26274,7 @@
       "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Dynamo---Fall-2026_JR2022295",
       "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Platform-Support-Engineer---GPU-Cloud_JR2025175",
       "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Security-Compiler-Engineer_JR2013937",
+      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer---CUDA-Chips_JR2026249-1",
       "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer---GPU-and-SOC_JR2015886",
       "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer---GPU_JR2017734",
       "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer---GeForce-NOW-Low-Latency-Streaming_JR2021605",
@@ -26299,9 +26323,7 @@
       "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/System-Software-Engineer--GPU-Development-Tools_JR2015188",
       "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/System-Software-Engineer--GPU-Development-Tools_JR2016197",
       "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-MA-Westford/Software-Engineer---DPU-Platform_JR2015949-1",
-      "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-MO-St-Louis/Performance-Engineer-Intern--Systems-Software---Fall-2026_JR2015779",
-      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Software-Engineer--Simulation-and-Virtualization--RDSS-Intern-_JR2025783",
-      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer---CUDA-Chips_JR2026249-1"
+      "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-MO-St-Louis/Performance-Engineer-Intern--Systems-Software---Fall-2026_JR2015779"
     ]
   },
   {
@@ -34407,6 +34429,7 @@
       "https://lifeattiktok.com/search/7509598272319719687",
       "https://lifeattiktok.com/search/7512071532823496978",
       "https://lifeattiktok.com/search/7515277586445322503",
+      "https://lifeattiktok.com/search/7516696922863864072",
       "https://lifeattiktok.com/search/7517099008936397064",
       "https://lifeattiktok.com/search/7517105710544161032",
       "https://lifeattiktok.com/search/7517108164819454216",
@@ -34484,6 +34507,7 @@
       "https://lifeattiktok.com/search/7592014594232142085?spread=5MWH5CQ",
       "https://lifeattiktok.com/search/7592368550477465909",
       "https://lifeattiktok.com/search/7593108760621779253?spread=5MWH5CQ",
+      "https://lifeattiktok.com/search/7594895259798325557",
       "https://lifeattiktok.com/search/7595305817516165381",
       "https://lifeattiktok.com/search/7595306554946193717",
       "https://lifeattiktok.com/search/7595344466313529653",
@@ -34581,6 +34605,7 @@
       "https://lifeattiktok.com/search/7663036950303050037",
       "https://lifeattiktok.com/search/7663036952090347829",
       "https://lifeattiktok.com/search/7663042453461600517",
+      "https://lifeattiktok.com/search/7663323544226761013",
       "https://lifeattiktok.com/search/7663343916948703493",
       "https://lifeattiktok.com/search/7663362103877880069",
       "https://lifeattiktok.com/search/7663383164115437877",
@@ -34769,10 +34794,7 @@
       "https://lifeattiktok.com/search/7678060214174157061",
       "https://lifeattiktok.com/search/7680987768009754885",
       "https://lifeattiktok.com/search/7682669149835725109",
-      "https://lifeattiktok.com/search/7683533453997328693",
-      "https://lifeattiktok.com/search/7663323544226761013",
-      "https://lifeattiktok.com/search/7516696922863864072",
-      "https://lifeattiktok.com/search/7594895259798325557"
+      "https://lifeattiktok.com/search/7683533453997328693"
     ]
   },
   {
@@ -35424,8 +35446,8 @@
       "https://job-boards.greenhouse.io/twilio/jobs/8098945",
       "https://job-boards.greenhouse.io/twilio/jobs/8100236",
       "https://job-boards.greenhouse.io/twilio/jobs/8103253",
-      "https://job-boards.greenhouse.io/twilio/jobs/8190889",
-      "https://job-boards.greenhouse.io/twilio/jobs/8190887"
+      "https://job-boards.greenhouse.io/twilio/jobs/8190887",
+      "https://job-boards.greenhouse.io/twilio/jobs/8190889"
     ]
   },
   {
