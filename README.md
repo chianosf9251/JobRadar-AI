@@ -2013,7 +2013,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-09-23T05:45:15.211Z</code>
+      🕒 Last updated <code>2026-09-23T11:13:31.882Z</code>
     </span>
   </p>
 </div>
