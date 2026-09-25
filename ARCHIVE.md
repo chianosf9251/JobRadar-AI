@@ -18,6 +18,13 @@ Every opportunity matching your current filters (country, category, citizenship/
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Selinc</td>
+      <td width="420" align="left" valign="top">Software Engineer Intern</td>
+      <td width="180" align="left" valign="top">Boise, ID</td>
+      <td width="120" align="left" valign="top"><a href="https://selinc.wd1.myworkdayjobs.com/sel/job/Idaho---Boise/Software-Engineer-Intern_2026-23076" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 25</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Genesis-molecular-ai</td>
       <td width="420" align="left" valign="top">Software Engineer Intern - 2027</td>
       <td width="180" align="left" valign="top">San Mateo, CA</td>
@@ -2073,6 +2080,13 @@ Every opportunity matching your current filters (country, category, citizenship/
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Eversana</td>
+      <td width="420" align="left" valign="top">AI Security Engineer I</td>
+      <td width="180" align="left" valign="top">Overland Park, KS</td>
+      <td width="120" align="left" valign="top"><a href="https://jobs.smartrecruiters.com/EVERSANA1/744000151855805" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 25</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Nuro</td>
       <td width="420" align="left" valign="top">Software Engineer, Performance Tooling and Infrastructure New Grad</td>
       <td width="180" align="left" valign="top">Mountain View, CA</td>
@@ -3549,4 +3563,4 @@ Every opportunity matching your current filters (country, category, citizenship/
 
 ---
 
-📦 Generated from `opportunities.ndjson` &nbsp;•&nbsp; 🕒 Last updated `2026-09-25T07:27:48.666Z`
+📦 Generated from `opportunities.ndjson` &nbsp;•&nbsp; 🕒 Last updated `2026-09-25T17:47:54.186Z`
