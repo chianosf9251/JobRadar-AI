@@ -3609,7 +3609,8 @@
       "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922923",
       "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922929",
       "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922930",
-      "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922931"
+      "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922931",
+      "https://apply.careers.microsoft.com/careers/job/1970393557008714"
     ]
   },
   {
@@ -10326,6 +10327,16 @@
     ]
   },
   {
+    "name": "careers.varsitybrands.com",
+    "ats": "custom",
+    "identifier": "careers.varsitybrands.com",
+    "domain": "https://careers.varsitybrands.com",
+    "page": "",
+    "urls": [
+      "https://careers.varsitybrands.com/global/en/job/JR114518"
+    ]
+  },
+  {
     "name": "careers.viasat.com",
     "ats": "custom",
     "identifier": "careers.viasat.com",
@@ -15559,6 +15570,16 @@
     "urls": []
   },
   {
+    "name": "flint",
+    "ats": "ashby",
+    "identifier": "flint",
+    "domain": "https://jobs.ashbyhq.com",
+    "page": "https://api.ashbyhq.com/posting-api/job-board/flint",
+    "urls": [
+      "https://jobs.ashbyhq.com/flint/39f9e665-7037-4dff-b77a-ff7039df2bfc/application?embed=true"
+    ]
+  },
+  {
     "name": "flir",
     "ats": "workday",
     "identifier": "flir-flircareers",
@@ -18502,6 +18523,16 @@
       "https://www.google.com/about/careers/applications/jobs/results/99817746379743942-fullstack-software-engineer-genai-deepmind?sort_by=date&page=2",
       "https://www.google.com/about/careers/applications/jobs/results/99875129290302150-npi-engineer-embedded-firmware-and-software-emerging-accelerator-software?sort_by=date&page=3",
       "https://www.google.com/about/careers/applications/jobs/results/99901850966205126-robotics-automation-engineer-platforms-infrastructure?sort_by=date&page=2"
+    ]
+  },
+  {
+    "name": "GovSignals",
+    "ats": "ashby",
+    "identifier": "GovSignals",
+    "domain": "https://jobs.ashbyhq.com",
+    "page": "https://api.ashbyhq.com/posting-api/job-board/GovSignals",
+    "urls": [
+      "https://jobs.ashbyhq.com/GovSignals/e894290c-3263-424e-b7a4-8dcc32ca8ca9/application?embed=true"
     ]
   },
   {
@@ -21953,6 +21984,8 @@
       "https://jobs.jobvite.com/inogen/job/oTz6zfwR?nl=1&nl=1&fr=false",
       "https://jobs.jobvite.com/inogen/job/oz8IzfwI?nl=1&nl=1&fr=false",
       "https://jobs.jobvite.com/legalzoom/job/oRCaAfwX?nl=1&nl=1&fr=false",
+      "https://jobs.jobvite.com/metropolitantransportationauthority/job/o4WRAfwb?nl=1&nl=1&fr=false",
+      "https://jobs.jobvite.com/metropolitantransportationauthority/job/o6WRAfwd?nl=1&nl=1&fr=false",
       "https://jobs.jobvite.com/nutanix/job/o7Ghyfwm?nl=1&nl=1&fr=false",
       "https://jobs.jobvite.com/nutanix/job/oAZfyfw6?nl=1&nl=1&fr=false",
       "https://jobs.jobvite.com/nutanix/job/oFskyfwJ?nl=1&nl=1&fr=false",
@@ -21972,9 +22005,7 @@
       "https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false",
       "https://jobs.jobvite.com/visionist/job/oEBdAfwM?nl=1&nl=1&fr=false",
       "https://jobs.jobvite.com/visionist/job/oTxGAfwq?nl=1&nl=1&fr=false",
-      "https://jobs.jobvite.com/windriver/job/ooShxfwO",
-      "https://jobs.jobvite.com/metropolitantransportationauthority/job/o4WRAfwb?nl=1&nl=1&fr=false",
-      "https://jobs.jobvite.com/metropolitantransportationauthority/job/o6WRAfwd?nl=1&nl=1&fr=false"
+      "https://jobs.jobvite.com/windriver/job/ooShxfwO"
     ]
   },
   {
@@ -21993,12 +22024,12 @@
     "page": "",
     "urls": [
       "https://jobs.keysight.com/jobs/54165?icims=1",
+      "https://jobs.keysight.com/jobs/54274?icims=1",
       "https://jobs.keysight.com/jobs/54327?icims=1",
       "https://jobs.keysight.com/jobs/54329?icims=1",
       "https://jobs.keysight.com/jobs/54371?icims=1",
       "https://jobs.keysight.com/jobs/54395?icims=1",
-      "https://jobs.keysight.com/jobs/54638?icims=1",
-      "https://jobs.keysight.com/jobs/54274?icims=1"
+      "https://jobs.keysight.com/jobs/54638?icims=1"
     ]
   },
   {
@@ -22772,9 +22803,9 @@
       "https://careers-kinaxis.icims.com/jobs/35343/intern-developer%2c-ai-solutions/job",
       "https://careers-kinaxis.icims.com/jobs/35344/intern-site-reliability-engineer--infrastructure/job",
       "https://careers-kinaxis.icims.com/jobs/35349/job?mobile=true&needsRedirect=false",
+      "https://careers-kinaxis.icims.com/jobs/35372/job?mobile=true&needsRedirect=false",
       "https://careers-kinaxis.icims.com/jobs/35377/co-op-intern-developer%2c-ai-innovation/job",
-      "https://careers-kinaxis.icims.com/jobs/35378/job?mobile=true&needsRedirect=false",
-      "https://careers-kinaxis.icims.com/jobs/35372/job?mobile=true&needsRedirect=false"
+      "https://careers-kinaxis.icims.com/jobs/35378/job?mobile=true&needsRedirect=false"
     ]
   },
   {
@@ -35376,7 +35407,8 @@
       "https://www.tesla.com/careers/search/job/283395",
       "https://www.tesla.com/careers/search/job/283447",
       "https://www.tesla.com/careers/search/job/283630",
-      "https://www.tesla.com/careers/search/job/internship-localization-specialist-it-applications-fall-2026-276308"
+      "https://www.tesla.com/careers/search/job/internship-localization-specialist-it-applications-fall-2026-276308",
+      "https://www.tesla.com/careers/search/job/284776"
     ]
   },
   {
