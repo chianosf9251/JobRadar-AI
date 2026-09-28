@@ -18,6 +18,13 @@ Every opportunity matching your current filters (country, category, citizenship/
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Xenergy</td>
+      <td width="420" align="left" valign="top">Systems Engineering Internship - Summer 2027</td>
+      <td width="180" align="left" valign="top">Gaithersburg, MD</td>
+      <td width="120" align="left" valign="top"><a href="https://xenergy.wd5.myworkdayjobs.com/x-energyus/job/Rockville-MD/Systems-Engineering-Internship---Summer-2027_R101358-1" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 28</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Apply.careers.microsoft.com</td>
       <td width="420" align="left" valign="top">Software Engineer: Intern Opportunity for University Students</td>
       <td width="180" align="left" valign="top">Mountain View, CA</td>
@@ -1975,6 +1982,13 @@ Every opportunity matching your current filters (country, category, citizenship/
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Globalfoundries</td>
+      <td width="420" align="left" valign="top">AI/ML Analytics Engineer (2027 New College Graduate)</td>
+      <td width="180" align="left" valign="top">Malta, NY</td>
+      <td width="120" align="left" valign="top"><a href="https://globalfoundries.wd1.myworkdayjobs.com/external/job/USA---New-York---Malta/AI-ML-Analytics-Engineer--2027-New-College-Graduate-_JR-2604942" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 28</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Snapfinance</td>
       <td width="420" align="left" valign="top">Software Engineer - Applied AI</td>
       <td width="180" align="left" valign="top">West Valley City, UT</td>
@@ -3346,4 +3360,4 @@ Every opportunity matching your current filters (country, category, citizenship/
 
 ---
 
-📦 Generated from `opportunities.ndjson` &nbsp;•&nbsp; 🕒 Last updated `2026-09-28T01:24:04.435Z`
+📦 Generated from `opportunities.ndjson` &nbsp;•&nbsp; 🕒 Last updated `2026-09-28T20:07:44.579Z`

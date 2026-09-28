@@ -103,6 +103,13 @@
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Xenergy</td>
+      <td width="420" align="left" valign="top">Systems Engineering Internship - Summer 2027</td>
+      <td width="180" align="left" valign="top">Gaithersburg, MD</td>
+      <td width="120" align="left" valign="top"><a href="https://xenergy.wd5.myworkdayjobs.com/x-energyus/job/Rockville-MD/Systems-Engineering-Internship---Summer-2027_R101358-1" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 28</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Apply.careers.microsoft.com</td>
       <td width="420" align="left" valign="top">Software Engineer: Intern Opportunity for University Students</td>
       <td width="180" align="left" valign="top">Mountain View, CA</td>
@@ -886,13 +893,6 @@
       <td width="120" align="left" valign="top"><a href="https://c3.ai/job-description/8739037002?gh_jid=8739037002" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
       <td width="100" align="left" valign="top">August 31</td>
     </tr>
-    <tr>
-      <td width="180" align="left" valign="top">Persona AI</td>
-      <td width="420" align="left" valign="top">Robotics Software Intern - Manipulation</td>
-      <td width="180" align="left" valign="top">Houston, TX</td>
-      <td width="120" align="left" valign="top"><a href="https://jobs.ashbyhq.com/persona.ai/1e8d195c-e28e-423d-a06a-9eeb401ed4fc/application?embed=true" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">August 28</td>
-    </tr>
   </tbody>
 </table>
 
@@ -1184,6 +1184,13 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td width="180" align="left" valign="top">Globalfoundries</td>
+      <td width="420" align="left" valign="top">AI/ML Analytics Engineer (2027 New College Graduate)</td>
+      <td width="180" align="left" valign="top">Malta, NY</td>
+      <td width="120" align="left" valign="top"><a href="https://globalfoundries.wd1.myworkdayjobs.com/external/job/USA---New-York---Malta/AI-ML-Analytics-Engineer--2027-New-College-Graduate-_JR-2604942" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 28</td>
+    </tr>
     <tr>
       <td width="180" align="left" valign="top">Snapfinance</td>
       <td width="420" align="left" valign="top">Software Engineer - Applied AI</td>
@@ -1775,7 +1782,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-09-28T01:24:04.435Z</code>
+      🕒 Last updated <code>2026-09-28T20:07:44.579Z</code>
     </span>
   </p>
 </div>
