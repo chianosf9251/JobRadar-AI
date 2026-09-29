@@ -103,6 +103,13 @@
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Rhoda AI</td>
+      <td width="420" align="left" valign="top">Robot Software Engineer Intern</td>
+      <td width="180" align="left" valign="top">Mountain View, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://jobs.ashbyhq.com/rhoda-ai/9a57c8ff-dd2b-4547-a46a-44658a699ba5/application?embed=true" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">September 29</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Globalhr</td>
       <td width="420" align="left" valign="top">Software Engineering Intern -  (Summer 2027)</td>
       <td width="180" align="left" valign="top">Cedar Rapids, IA</td>
@@ -1796,7 +1803,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-09-29T02:35:25.648Z</code>
+      🕒 Last updated <code>2026-09-29T08:12:42.236Z</code>
     </span>
   </p>
 </div>
