@@ -1528,6 +1528,16 @@
     ]
   },
   {
+    "name": "amca",
+    "ats": "greenhouse",
+    "identifier": "amca",
+    "domain": "https://job-boards.greenhouse.io",
+    "page": "https://boards-api.greenhouse.io/v1/boards/amca/jobs",
+    "urls": [
+      "https://job-boards.greenhouse.io/amca/jobs/4425120009"
+    ]
+  },
+  {
     "name": "AMD",
     "ats": "custom",
     "identifier": "amd",
@@ -36034,9 +36044,9 @@
       "https://www.tesla.com/careers/search/job/283447",
       "https://www.tesla.com/careers/search/job/283630",
       "https://www.tesla.com/careers/search/job/284776",
+      "https://www.tesla.com/careers/search/job/284924",
       "https://www.tesla.com/careers/search/job/284925",
-      "https://www.tesla.com/careers/search/job/internship-localization-specialist-it-applications-fall-2026-276308",
-      "https://www.tesla.com/careers/search/job/284924"
+      "https://www.tesla.com/careers/search/job/internship-localization-specialist-it-applications-fall-2026-276308"
     ]
   },
   {
