@@ -5415,7 +5415,8 @@
       "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Winchester-VA/Systems-Engineer_R0248563",
       "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Winchester-VA/Systems-Engineer_R0248564",
       "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Winchester-VA/Systems-Engineer_R0248580",
-      "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Wright-Patterson-AFB-OH/Microelectronics-Systems-Engineer_R0247703"
+      "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Wright-Patterson-AFB-OH/Microelectronics-Systems-Engineer_R0247703",
+      "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Product-Engineering-Intern_R0250655"
     ]
   },
   {
@@ -7509,6 +7510,7 @@
       "https://caci.wd1.myworkdayjobs.com/external/job/Florham-Park-NJ-US/Embedded-Software-Engineer_328142",
       "https://caci.wd1.myworkdayjobs.com/external/job/Florham-Park-NJ-US/Embedded-Software-Engineer_330200-1",
       "https://caci.wd1.myworkdayjobs.com/external/job/Florham-Park-NJ-US/Software-Engineer_328144-1",
+      "https://caci.wd1.myworkdayjobs.com/external/job/Florham-Park-NJ-US/Software-Network-Engineering-Intern---Summer-2027_332895",
       "https://caci.wd1.myworkdayjobs.com/external/job/Florham-Park-NJ-US/Wireless-Protocols-Software-Engineer_328307",
       "https://caci.wd1.myworkdayjobs.com/external/job/Fort-Belvoir-VA-US/Systems-Engineer_331083",
       "https://caci.wd1.myworkdayjobs.com/external/job/Fort-Bragg-NC-US/AI-ML-Engineer--Geospatial-_331730",
@@ -7676,8 +7678,7 @@
       "https://caci.wd1.myworkdayjobs.com/external/job/Ypsilanti-MI-US/Software-Engineer_331503",
       "https://caci.wd1.myworkdayjobs.com/external/job/Ypsilanti-MI-US/Software-Engineer_332174",
       "https://caci.wd1.myworkdayjobs.com/external/job/Ypsilanti-MI-US/Systems-Engineer_325904",
-      "https://caci.wd1.myworkdayjobs.com/external/job/Ypsilanti-MI-US/Systems-Engineer_332638-1",
-      "https://caci.wd1.myworkdayjobs.com/external/job/Florham-Park-NJ-US/Software-Network-Engineering-Intern---Summer-2027_332895"
+      "https://caci.wd1.myworkdayjobs.com/external/job/Ypsilanti-MI-US/Systems-Engineer_332638-1"
     ]
   },
   {
@@ -29312,6 +29313,16 @@
     ]
   },
   {
+    "name": "patchmypc",
+    "ats": "lever",
+    "identifier": "patchmypc",
+    "domain": "https://jobs.lever.co",
+    "page": "https://api.lever.co/v0/postings/patchmypc?mode=json",
+    "urls": [
+      "https://jobs.lever.co/patchmypc/e2bbd0a9-5810-4cf0-bb71-3fd2e1125341/apply"
+    ]
+  },
+  {
     "name": "pathai",
     "ats": "greenhouse",
     "identifier": "pathai",
@@ -34312,6 +34323,16 @@
     "page": "https://soti.wd3.myworkdayjobs.com/wday/cxs/soti/soti-next-gen/jobs",
     "urls": [
       "https://soti.wd3.myworkdayjobs.com/soti-next-gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Performance-Test-Engineer-Intern--January-2027-12-Months-_R10437"
+    ]
+  },
+  {
+    "name": "soti",
+    "ats": "workday",
+    "identifier": "soti-careers",
+    "domain": "https://soti.wd3.myworkdayjobs.com/Careers",
+    "page": "https://soti.wd3.myworkdayjobs.com/wday/cxs/soti/Careers/jobs",
+    "urls": [
+      "https://soti.wd3.myworkdayjobs.com/Careers/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-MobiControl-Apple-HQ--January-2027-12-Months-_R10551"
     ]
   },
   {
