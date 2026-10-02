@@ -1450,6 +1450,7 @@
       "https://amazon.jobs/en/jobs/10528110",
       "https://amazon.jobs/en/jobs/10528709",
       "https://amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027",
+      "https://amazon.jobs/en/jobs/10529546/software-development-engineer-amazon-dedicated-cloud-early-career-2026-amazon-dedicated-cloud-adc",
       "https://amazon.jobs/en/jobs/10530005",
       "https://amazon.jobs/en/jobs/10531458",
       "https://amazon.jobs/en/jobs/10532204",
@@ -1514,8 +1515,7 @@
       "https://amazon.jobs/en/jobs/3127861",
       "https://amazon.jobs/en/jobs/3179209",
       "https://www.amazon.jobs/en/jobs/3066646/business-intelligence-engineer-co-op-2026-us",
-      "https://www.amazon.jobs/en/jobs/3136266/robotics-software-development-engineer-intern-co-op-2026?no_int_redir=1",
-      "https://amazon.jobs/en/jobs/10529546/software-development-engineer-amazon-dedicated-cloud-early-career-2026-amazon-dedicated-cloud-adc"
+      "https://www.amazon.jobs/en/jobs/3136266/robotics-software-development-engineer-intern-co-op-2026?no_int_redir=1"
     ]
   },
   {
@@ -3807,7 +3807,8 @@
       "https://apply.workable.com/tmeic-corporation-americas/j/D44B74C42B/apply",
       "https://apply.workable.com/trycaddi/j/9D1291C697/apply",
       "https://apply.workable.com/western-magnetics/j/E366930F3F/apply",
-      "https://apply.workable.com/zaber/j/EAB5877DC3/apply"
+      "https://apply.workable.com/zaber/j/EAB5877DC3/apply",
+      "https://apply.workable.com/mindex/j/84B10DB922/apply"
     ]
   },
   {
@@ -15351,7 +15352,8 @@
     "domain": "https://expedia.wd108.myworkdayjobs.com/search",
     "page": "https://expedia.wd108.myworkdayjobs.com/wday/cxs/expedia/search/jobs",
     "urls": [
-      "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Software-Development-Engineer-I_R-108739"
+      "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Software-Development-Engineer-I_R-108739",
+      "https://expedia.wd108.myworkdayjobs.com/search/job/Canada---British-Columbia---Vancouver/Software-Development-Engineer-I_R-109478"
     ]
   },
   {
@@ -18892,6 +18894,7 @@
       "https://www.google.com/about/careers/applications/jobs/results/134485208953955014-software-engineer-google-pay-shopping?sort_by=date&page=7",
       "https://www.google.com/about/careers/applications/jobs/results/134502876301927110-partner-forward-deployed-engineer-generative-ai-google-cloud?sort_by=date&page=2",
       "https://www.google.com/about/careers/applications/jobs/results/134731487747416774-silicon-validation-engineer-google-cloud?sort_by=date&page=15",
+      "https://www.google.com/about/careers/applications/jobs/results/135156989620560582",
       "https://www.google.com/about/careers/applications/jobs/results/135157584154763974-software-engineer-for-women-in-tech-candidates?sort_by=date&page=1",
       "https://www.google.com/about/careers/applications/jobs/results/135227481845048006-forward-deployed-engineer-gen-ai-google-cloud-english-portuguese?sort_by=date&page=4",
       "https://www.google.com/about/careers/applications/jobs/results/135550857448956614-software-engineer-full-stack-kids-and-families-product?sort_by=date&page=2",
@@ -19254,8 +19257,7 @@
       "https://www.google.com/about/careers/applications/jobs/results/99817746379743942-fullstack-software-engineer-genai-deepmind?sort_by=date&page=2",
       "https://www.google.com/about/careers/applications/jobs/results/99858021361820358-ai-outcome-customer-engineer-gtm-ai-tech-google-cloud?sort_by=date&page=4",
       "https://www.google.com/about/careers/applications/jobs/results/99875129290302150-npi-engineer-embedded-firmware-and-software-emerging-accelerator-software?sort_by=date&page=3",
-      "https://www.google.com/about/careers/applications/jobs/results/99901850966205126-robotics-automation-engineer-platforms-infrastructure?sort_by=date&page=2",
-      "https://www.google.com/about/careers/applications/jobs/results/135156989620560582"
+      "https://www.google.com/about/careers/applications/jobs/results/99901850966205126-robotics-automation-engineer-platforms-infrastructure?sort_by=date&page=2"
     ]
   },
   {
@@ -22883,8 +22885,8 @@
       "https://jobs.keysight.com/jobs/54414?icims=1",
       "https://jobs.keysight.com/jobs/54638?icims=1",
       "https://jobs.keysight.com/jobs/54649?icims=1",
-      "https://jobs.keysight.com/jobs/54671?icims=1",
-      "https://jobs.keysight.com/jobs/54668?icims=1"
+      "https://jobs.keysight.com/jobs/54668?icims=1",
+      "https://jobs.keysight.com/jobs/54671?icims=1"
     ]
   },
   {
@@ -27086,7 +27088,8 @@
     "domain": "https://ncr.wd1.myworkdayjobs.com/ext_non_us",
     "page": "https://ncr.wd1.myworkdayjobs.com/wday/cxs/ncr/ext_non_us/jobs",
     "urls": [
-      "https://ncr.wd1.myworkdayjobs.com/ext_non_us/job/BATH-GBR/Software-Engineer_R0156991"
+      "https://ncr.wd1.myworkdayjobs.com/ext_non_us/job/BATH-GBR/Software-Engineer_R0156991",
+      "https://ncr.wd1.myworkdayjobs.com/ext_non_us/job/BATH-GBR/Junior-DevOps-Engineer_R0158519"
     ]
   },
   {
@@ -34056,6 +34059,17 @@
     ]
   },
   {
+    "name": "shopback-2",
+    "ats": "lever",
+    "identifier": "shopback-2",
+    "domain": "https://jobs.lever.co",
+    "page": "https://api.lever.co/v0/postings/shopback-2?mode=json",
+    "urls": [
+      "https://jobs.lever.co/shopback-2/e5f5e276-e7f7-43e0-a224-5259d242fe98/apply",
+      "https://jobs.lever.co/shopback-2/640ac3fb-dae5-4738-95b9-9cb80cc7ad15/apply"
+    ]
+  },
+  {
     "name": "shopify.com",
     "ats": "custom",
     "identifier": "shopify.com",
@@ -39137,7 +39151,8 @@
       "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Senior-AI-ML-Scientist_175859",
       "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Technology-Leadership-Program---Data---Analytics--Scientist----PA_180092-1",
       "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Toronto-Canada/AI-ML-Engineer_182187",
-      "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Wayne-PA/Full-Stack-Software-Engineer--Resiliency-Engineering-Platforms_181441-1"
+      "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Wayne-PA/Full-Stack-Software-Engineer--Resiliency-Engineering-Platforms_181441-1",
+      "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship-Application-Development--PA-_182757"
     ]
   },
   {
