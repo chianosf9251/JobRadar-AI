@@ -1374,6 +1374,13 @@
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Parasail</td>
+      <td width="420" align="left" valign="top">Software Engineer New Grad - Forward Deploy</td>
+      <td width="180" align="left" valign="top">San Mateo, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://jobs.ashbyhq.com/parasail/da595923-4e35-4ba1-875d-383276069cf7/application?embed=true" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 2</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">TikTok</td>
       <td width="420" align="left" valign="top">Research Scientist Graduate (Ads Creative) - 2027 Start</td>
       <td width="180" align="left" valign="top">San Jose, CA</td>
@@ -2006,7 +2013,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-10-03T01:43:27.732Z</code>
+      🕒 Last updated <code>2026-10-03T06:18:31.316Z</code>
     </span>
   </p>
 </div>
