@@ -963,13 +963,6 @@
       <td width="120" align="left" valign="top"><a href="https://careers.adobe.com/us/en/job/R171666?ph_id=R171666" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
       <td width="100" align="left" valign="top">September 3</td>
     </tr>
-    <tr>
-      <td width="180" align="left" valign="top">Hermeus</td>
-      <td width="420" align="left" valign="top">Software Engineer Intern - Command &amp; Control</td>
-      <td width="180" align="left" valign="top">Atlanta, GA</td>
-      <td width="120" align="left" valign="top"><a href="https://jobs.lever.co/hermeus/5b08e2df-c9db-4831-aece-67d89e744796/apply" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">September 3</td>
-    </tr>
   </tbody>
 </table>
 
@@ -2013,7 +2006,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-10-03T06:18:31.316Z</code>
+      🕒 Last updated <code>2026-10-03T12:24:17.513Z</code>
     </span>
   </p>
 </div>
