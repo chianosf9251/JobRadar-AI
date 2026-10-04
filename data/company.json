@@ -1528,8 +1528,10 @@
       "https://amazon.jobs/en/jobs/3127861",
       "https://amazon.jobs/en/jobs/3179209",
       "https://www.amazon.jobs/en/jobs/3066646/business-intelligence-engineer-co-op-2026-us",
+      "https://www.amazon.jobs/en/jobs/3101249/software-development-engineer-internship-winter-2026-us",
       "https://www.amazon.jobs/en/jobs/3136266/robotics-software-development-engineer-intern-co-op-2026?no_int_redir=1",
-      "https://www.amazon.jobs/en/jobs/3101249/software-development-engineer-internship-winter-2026-us"
+      "https://amazon.jobs/en/jobs/10568490",
+      "https://amazon.jobs/en/jobs/10568484"
     ]
   },
   {
@@ -8018,7 +8020,9 @@
     "identifier": "campaignmonitor-marigold",
     "domain": "https://campaignmonitor.wd5.myworkdayjobs.com/marigold",
     "page": "https://campaignmonitor.wd5.myworkdayjobs.com/wday/cxs/campaignmonitor/marigold/jobs",
-    "urls": []
+    "urls": [
+      "https://campaignmonitor.wd5.myworkdayjobs.com/marigold/job/AUS-NSW-Remote/Full-Stack-Software-Engineer_R2478"
+    ]
   },
   {
     "name": "campbellsoup",
@@ -9772,7 +9776,9 @@
       "https://careers.hpe.com/us/en/job/1215473?ph_id=1215473",
       "https://careers.hpe.com/us/en/job/1215476?ph_id=1215476",
       "https://careers.hpe.com/us/en/job/1215628?ph_id=1215628",
-      "https://careers.hpe.com/us/en/job/1215804?ph_id=1215804"
+      "https://careers.hpe.com/us/en/job/1215804?ph_id=1215804",
+      "https://careers.hpe.com/us/en/job/1215797?ph_id=1215797",
+      "https://careers.hpe.com/us/en/job/1215799?ph_id=1215799"
     ]
   },
   {
@@ -14407,7 +14413,9 @@
       "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/VNM---HO-CHI-MINH-CITY/Software-Engineer_51585418",
       "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/VNM---HO-CHI-MINH-CITY/Software-Engineering_51584919-1",
       "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/VNM---HO-CHI-MINH-CITY/Software-Engineering_51588585",
-      "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/VNM---HO-CHI-MINH-CITY/Software-Engineering_51590468"
+      "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/VNM---HO-CHI-MINH-CITY/Software-Engineering_51590468",
+      "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---TN---CHENNAI/Sr-Analyst-I-Software-Engineering_51589781",
+      "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---AP---HYDERABAD/Analyst-I-Software-Engineering-RR-0473425_51590568-1"
     ]
   },
   {
@@ -20911,7 +20919,9 @@
       "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Westford-Massachusetts-United-States-of-America/Software-Engineer--Systems_1208434-2",
       "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Westford-Massachusetts-United-States-of-America/Software-Engineer_1208691-2",
       "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Westford-Massachusetts-United-States-of-America/Software-Engineer_1208770-1",
-      "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Winnersh-Berkshire-United-Kingdom/HPC---AI-Application-Performance-Engineer_1212364-2"
+      "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Winnersh-Berkshire-United-Kingdom/HPC---AI-Application-Performance-Engineer_1212364-2",
+      "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Bengaluru-Karntaka-India/XMLNAME-1215799-Systems-Platform-QA-and-AI-engineer_1215797-2",
+      "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Bengaluru-Karntaka-India/Systems-Platform-QA-and-AI-engineer_1215799-2"
     ]
   },
   {
