@@ -1524,14 +1524,14 @@
       "https://amazon.jobs/en/jobs/10568038",
       "https://amazon.jobs/en/jobs/10568040",
       "https://amazon.jobs/en/jobs/10568156",
+      "https://amazon.jobs/en/jobs/10568484",
+      "https://amazon.jobs/en/jobs/10568490",
       "https://amazon.jobs/en/jobs/3116030",
       "https://amazon.jobs/en/jobs/3127861",
       "https://amazon.jobs/en/jobs/3179209",
       "https://www.amazon.jobs/en/jobs/3066646/business-intelligence-engineer-co-op-2026-us",
       "https://www.amazon.jobs/en/jobs/3101249/software-development-engineer-internship-winter-2026-us",
-      "https://www.amazon.jobs/en/jobs/3136266/robotics-software-development-engineer-intern-co-op-2026?no_int_redir=1",
-      "https://amazon.jobs/en/jobs/10568490",
-      "https://amazon.jobs/en/jobs/10568484"
+      "https://www.amazon.jobs/en/jobs/3136266/robotics-software-development-engineer-intern-co-op-2026?no_int_redir=1"
     ]
   },
   {
@@ -1558,7 +1558,8 @@
     "page": "https://api.ashbyhq.com/posting-api/job-board/ambrook",
     "urls": [
       "https://jobs.ashbyhq.com/ambrook/29ffbcea-17c3-4488-9d57-a9f7249b49a5/application?embed=true",
-      "https://jobs.ashbyhq.com/ambrook/899496e3-cbb0-4c84-885a-7391991054b5"
+      "https://jobs.ashbyhq.com/ambrook/899496e3-cbb0-4c84-885a-7391991054b5",
+      "https://jobs.ashbyhq.com/ambrook/3b116b4f-d264-4ac4-92cb-deacdd7656ef"
     ]
   },
   {
@@ -9776,9 +9777,9 @@
       "https://careers.hpe.com/us/en/job/1215473?ph_id=1215473",
       "https://careers.hpe.com/us/en/job/1215476?ph_id=1215476",
       "https://careers.hpe.com/us/en/job/1215628?ph_id=1215628",
-      "https://careers.hpe.com/us/en/job/1215804?ph_id=1215804",
       "https://careers.hpe.com/us/en/job/1215797?ph_id=1215797",
-      "https://careers.hpe.com/us/en/job/1215799?ph_id=1215799"
+      "https://careers.hpe.com/us/en/job/1215799?ph_id=1215799",
+      "https://careers.hpe.com/us/en/job/1215804?ph_id=1215804"
     ]
   },
   {
@@ -10760,7 +10761,8 @@
       "https://careers.usbank.com/global/en/job/2026-0029043?ph_id=2026-0029043",
       "https://careers.usbank.com/global/en/job/2026-0029593?ph_id=2026-0029593",
       "https://careers.usbank.com/global/en/job/2026-0029790?ph_id=2026-0029790",
-      "https://careers.usbank.com/global/en/job/2026-0030686?ph_id=2026-0030686"
+      "https://careers.usbank.com/global/en/job/2026-0030686?ph_id=2026-0030686",
+      "https://careers.usbank.com/global/en/job/2026-0030551?ph_id=2026-0030551"
     ]
   },
   {
@@ -13526,7 +13528,9 @@
     "identifier": "dexmate",
     "domain": "https://jobs.ashbyhq.com",
     "page": "https://api.ashbyhq.com/posting-api/job-board/dexmate",
-    "urls": []
+    "urls": [
+      "https://jobs.ashbyhq.com/dexmate/8d24ff24-0109-40bb-86b3-0161c913a539"
+    ]
   },
   {
     "name": "dfwairport",
@@ -14326,6 +14330,7 @@
       "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/GBR---ANY-CITY/Infrastructure-Platform-Engineer_51588201",
       "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/GBR---HAM---FARNBOROUGH/Infrastructure-Platform-Architect_51584419",
       "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/GBR---SCT---EDINBURGH/Desktop-Engineer_51588537",
+      "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---AP---HYDERABAD/Analyst-I-Software-Engineering-RR-0473425_51590568-1",
       "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---AP---HYDERABAD/Sr-Analyst-I-Software-Engineering_51578512",
       "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---AP---HYDERABAD/Sr-Analyst-I-Software-Engineering_51578513",
       "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---AP---HYDERABAD/Sr-Analyst-I-Software-Engineering_51586909-2",
@@ -14352,6 +14357,7 @@
       "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---MP---INDORE/Sr-Analyst-I-Software-Engineering---RR-0437720_51585776-1",
       "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---TN---CHENNAI/Sr-Analyst-I-Software-Engineering_51577785",
       "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---TN---CHENNAI/Sr-Analyst-I-Software-Engineering_51583641",
+      "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---TN---CHENNAI/Sr-Analyst-I-Software-Engineering_51589781",
       "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/ITA---BA---BITRITTO/AI---Data-Science-Engineer_51565123",
       "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/ITA---BA---BITRITTO/Software-Developer_51534991",
       "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/ITA---MI---CERNUSCO-SUL-NAVIGLIO/AI---Data-Science-Engineer_51565121",
@@ -14413,9 +14419,7 @@
       "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/VNM---HO-CHI-MINH-CITY/Software-Engineer_51585418",
       "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/VNM---HO-CHI-MINH-CITY/Software-Engineering_51584919-1",
       "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/VNM---HO-CHI-MINH-CITY/Software-Engineering_51588585",
-      "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/VNM---HO-CHI-MINH-CITY/Software-Engineering_51590468",
-      "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---TN---CHENNAI/Sr-Analyst-I-Software-Engineering_51589781",
-      "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---AP---HYDERABAD/Analyst-I-Software-Engineering-RR-0473425_51590568-1"
+      "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/VNM---HO-CHI-MINH-CITY/Software-Engineering_51590468"
     ]
   },
   {
@@ -20811,6 +20815,7 @@
       "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Bengaluru-Karntaka-India/Systems-Engineer---Data-path---HPE-Alletra-Storage-MP-X10000--Object-Storage-product-development-_1214833-3",
       "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Bengaluru-Karntaka-India/Systems-Engineer---Data-path---HPE-Alletra-Storage-MP-X10000--Object-Storage-product-development-_1214836-3",
       "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Bengaluru-Karntaka-India/Systems-Engineer_1209771-1",
+      "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Bengaluru-Karntaka-India/Systems-Platform-QA-and-AI-engineer_1215799-2",
       "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Bengaluru-Karntaka-India/Systems-Software-Developer--C-C----Systems-Programming---OS--Kernel-_1208898-2",
       "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Bengaluru-Karntaka-India/Systems-Software-Engineer---Performance-Test-and-Analysis_1214687-2",
       "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Bengaluru-Karntaka-India/Systems-Software-Engineer--Software-Update-QA_1214704-2",
@@ -20820,6 +20825,7 @@
       "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Bengaluru-Karntaka-India/Systems-Software-Engineer_1202432-2",
       "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Bengaluru-Karntaka-India/Systems-Software-engineer-III_1205476-2",
       "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Bengaluru-Karntaka-India/Systems-software-engineer-I---RIS---Test_1210310-2",
+      "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Bengaluru-Karntaka-India/XMLNAME-1215799-Systems-Platform-QA-and-AI-engineer_1215797-2",
       "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Bloomington-Minnesota-United-States-of-America/File-Systems-Engineer_1213934-2",
       "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Bloomington-Minnesota-United-States-of-America/HPC---AI-Performance-Engineer_1206826-3",
       "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Bloomington-Minnesota-United-States-of-America/HPC-and-AI-Performance-Engineer_1212980-3",
@@ -20919,9 +20925,7 @@
       "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Westford-Massachusetts-United-States-of-America/Software-Engineer--Systems_1208434-2",
       "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Westford-Massachusetts-United-States-of-America/Software-Engineer_1208691-2",
       "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Westford-Massachusetts-United-States-of-America/Software-Engineer_1208770-1",
-      "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Winnersh-Berkshire-United-Kingdom/HPC---AI-Application-Performance-Engineer_1212364-2",
-      "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Bengaluru-Karntaka-India/XMLNAME-1215799-Systems-Platform-QA-and-AI-engineer_1215797-2",
-      "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Bengaluru-Karntaka-India/Systems-Platform-QA-and-AI-engineer_1215799-2"
+      "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Winnersh-Berkshire-United-Kingdom/HPC---AI-Application-Performance-Engineer_1212364-2"
     ]
   },
   {
@@ -35751,7 +35755,8 @@
       "https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Ontario-Toronto/Software-Engineer-P2---PA2026JBGRAD02_R45794-1",
       "https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Ontario-Toronto/Software-Engineer-P2---PA2026Q1JB050_R42442",
       "https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Remote---Texas-US/Software-Engineer-with-AI_R45609",
-      "https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Toronto-Canada/Analyst--Risk-Analytics---Performance_R45965"
+      "https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Toronto-Canada/Analyst--Risk-Analytics---Performance_R45965",
+      "https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Remote---Poland/Generative-AI-Developer_R44674"
     ]
   },
   {
@@ -37138,7 +37143,8 @@
       "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017914",
       "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017917",
       "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017998",
-      "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25018141"
+      "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25018141",
+      "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25004166"
     ]
   },
   {
@@ -37262,7 +37268,28 @@
       "https://thales.wd3.myworkdayjobs.com/careers/job/Tubize/Systems-Engineer---Critical-Communication_R0323825-1",
       "https://thales.wd3.myworkdayjobs.com/careers/job/Vlizy-Villacoublay/Product-Owner---Lewis-Engineering-Agentic-AI-F-H_R0335608-2",
       "https://thales.wd3.myworkdayjobs.com/careers/job/William-Street/Systems-Engineer_R0341199-1",
-      "https://thales.wd3.myworkdayjobs.com/careers/job/Zaventem_EXC/Software-Engineering-Intern_R0339364"
+      "https://thales.wd3.myworkdayjobs.com/careers/job/Zaventem_EXC/Software-Engineering-Intern_R0339364",
+      "https://thales.wd3.myworkdayjobs.com/careers/job/Glasgow/XMLNAME-2027-AI-Engineer-Apprentice---AI-and-Data-Science-Graduate-Level-Apprenticeship_R0337760",
+      "https://thales.wd3.myworkdayjobs.com/careers/job/Crawley/XMLNAME-2027-AI-Engineer-Apprentice---Level-6-Machine-Learning_R0337755",
+      "https://thales.wd3.myworkdayjobs.com/careers/job/Crawley/XMLNAME-2027-AI-Researcher-Apprentice---Level-6-Machine-Learning_R0337756-1",
+      "https://thales.wd3.myworkdayjobs.com/careers/job/Templecombe/XMLNAME-2027-Machine-Learning-Apprentice---Level-6-AI-Engineer_R0337867-1",
+      "https://thales.wd3.myworkdayjobs.com/careers/job/Crawley/XMLNAME-2027-Software-Engineering-Apprentice---Level-6-Digital-and-Technology-Solutions-Degree-Apprenticeship_R0337707",
+      "https://thales.wd3.myworkdayjobs.com/careers/job/Templecombe/XMLNAME-2027-Software-Engineering-Apprentice---Level-6-Digital-and-Technology-Solutions-Degree-Apprenticeship_R0337865",
+      "https://thales.wd3.myworkdayjobs.com/careers/job/Cheadle/XMLNAME-2027-Software-Engineering-Apprentice_R0337863",
+      "https://thales.wd3.myworkdayjobs.com/careers/job/Crawley/XMLNAME-2027-Software-Engineering-Graduate_R0337725",
+      "https://thales.wd3.myworkdayjobs.com/careers/job/Templecombe/XMLNAME-2027-Software-Engineering-Graduate_R0337787",
+      "https://thales.wd3.myworkdayjobs.com/careers/job/Belfast/XMLNAME-2027-Software-Engineering-Graduate_R0337788",
+      "https://thales.wd3.myworkdayjobs.com/careers/job/Glasgow/XMLNAME-2027-Software-Engineering-Graduate_R0337840",
+      "https://thales.wd3.myworkdayjobs.com/careers/job/Cheadle/XMLNAME-2027-Software-Engineering-Graduate_R0337871",
+      "https://thales.wd3.myworkdayjobs.com/careers/job/Cheadle/XMLNAME-2027-Systems-Engineering--IVVQ--Apprentice_R0337861",
+      "https://thales.wd3.myworkdayjobs.com/careers/job/Crawley/XMLNAME-2027-Systems-Engineering-Apprentice_R0337705",
+      "https://thales.wd3.myworkdayjobs.com/careers/job/Reading/XMLNAME-2027-Systems-Engineering-Apprentice_R0337716",
+      "https://thales.wd3.myworkdayjobs.com/careers/job/Cheadle/XMLNAME-2027-Systems-Engineering-Apprentice_R0337858",
+      "https://thales.wd3.myworkdayjobs.com/careers/job/Templecombe/XMLNAME-2027-Systems-Engineering-Apprentice_R0337859",
+      "https://thales.wd3.myworkdayjobs.com/careers/job/Crawley/XMLNAME-2027-Systems-Engineering-Graduate_R0337728",
+      "https://thales.wd3.myworkdayjobs.com/careers/job/Belfast/XMLNAME-2027-Systems-Engineering-Graduate_R0337783",
+      "https://thales.wd3.myworkdayjobs.com/careers/job/Glasgow/XMLNAME-2027-Systems-Engineering-Graduate_R0337839",
+      "https://thales.wd3.myworkdayjobs.com/careers/job/Cheadle/XMLNAME-2027-Systems-Engineering-Graduate_R0337854"
     ]
   },
   {
@@ -38042,7 +38069,8 @@
       "https://lifeattiktok.com/search/7682669149835725109",
       "https://lifeattiktok.com/search/7683533453997328693",
       "https://lifeattiktok.com/search/7684427309076400437",
-      "https://lifeattiktok.com/search/7690664722437474613"
+      "https://lifeattiktok.com/search/7690664722437474613",
+      "https://lifeattiktok.com/search/7667944966433737013"
     ]
   },
   {
