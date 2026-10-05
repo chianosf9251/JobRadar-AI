@@ -907,6 +907,16 @@
     ]
   },
   {
+    "name": "ag",
+    "ats": "workday",
+    "identifier": "ag-airbus",
+    "domain": "https://ag.wd3.myworkdayjobs.com/Airbus",
+    "page": "https://ag.wd3.myworkdayjobs.com/wday/cxs/ag/Airbus/jobs",
+    "urls": [
+      "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bristol-Area/Digital-and-Technology-Solutions-Degree-Engineering-Apprenticeship_JR10430012"
+    ]
+  },
+  {
     "name": "AGTechnologies1",
     "ats": "smartrecruiters",
     "identifier": "AGTechnologies1",
@@ -1558,8 +1568,8 @@
     "page": "https://api.ashbyhq.com/posting-api/job-board/ambrook",
     "urls": [
       "https://jobs.ashbyhq.com/ambrook/29ffbcea-17c3-4488-9d57-a9f7249b49a5/application?embed=true",
-      "https://jobs.ashbyhq.com/ambrook/899496e3-cbb0-4c84-885a-7391991054b5",
-      "https://jobs.ashbyhq.com/ambrook/3b116b4f-d264-4ac4-92cb-deacdd7656ef"
+      "https://jobs.ashbyhq.com/ambrook/3b116b4f-d264-4ac4-92cb-deacdd7656ef",
+      "https://jobs.ashbyhq.com/ambrook/899496e3-cbb0-4c84-885a-7391991054b5"
     ]
   },
   {
@@ -10761,8 +10771,8 @@
       "https://careers.usbank.com/global/en/job/2026-0029043?ph_id=2026-0029043",
       "https://careers.usbank.com/global/en/job/2026-0029593?ph_id=2026-0029593",
       "https://careers.usbank.com/global/en/job/2026-0029790?ph_id=2026-0029790",
-      "https://careers.usbank.com/global/en/job/2026-0030686?ph_id=2026-0030686",
-      "https://careers.usbank.com/global/en/job/2026-0030551?ph_id=2026-0030551"
+      "https://careers.usbank.com/global/en/job/2026-0030551?ph_id=2026-0030551",
+      "https://careers.usbank.com/global/en/job/2026-0030686?ph_id=2026-0030686"
     ]
   },
   {
@@ -26970,7 +26980,8 @@
       "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/Associate-Scientist--Post-Doc-Fellow--AI-ML---Computational-Biology-for-Antigen-Design_R419377-1",
       "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/Associate-Scientist--Postdoctoral-Fellow---AI-in-Infectious-Disease-Modeling_R402279",
       "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Computer-Scientist---Agentic---Augmented-Authoring-Systems---Co-op_R412857",
-      "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Standardizing-Automation-Scripting-Practices-Through-AI-Enabled-Knowledge-Repository---Intern_R412939"
+      "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Standardizing-Automation-Scripting-Practices-Through-AI-Enabled-Knowledge-Repository---Intern_R412939",
+      "https://msd.wd5.myworkdayjobs.com/searchjobs/job/GBR---London---London-Moorgate-WeWork/Student-Placement---IT-Developer-Analyst_R418573"
     ]
   },
   {
@@ -35754,9 +35765,9 @@
       "https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Ontario-Toronto/Intern---Technical_R40419",
       "https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Ontario-Toronto/Software-Engineer-P2---PA2026JBGRAD02_R45794-1",
       "https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Ontario-Toronto/Software-Engineer-P2---PA2026Q1JB050_R42442",
+      "https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Remote---Poland/Generative-AI-Developer_R44674",
       "https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Remote---Texas-US/Software-Engineer-with-AI_R45609",
-      "https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Toronto-Canada/Analyst--Risk-Analytics---Performance_R45965",
-      "https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Remote---Poland/Generative-AI-Developer_R44674"
+      "https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Toronto-Canada/Analyst--Risk-Analytics---Performance_R45965"
     ]
   },
   {
@@ -37097,6 +37108,7 @@
     "urls": [
       "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25003298",
       "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25004126",
+      "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25004166",
       "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25005461",
       "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25005636",
       "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25008815",
@@ -37143,8 +37155,7 @@
       "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017914",
       "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017917",
       "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017998",
-      "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25018141",
-      "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25004166"
+      "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25018141"
     ]
   },
   {
@@ -37186,6 +37197,8 @@
       "https://thales.wd3.myworkdayjobs.com/careers/job/Austin/Software-Engineer_R0340210-1",
       "https://thales.wd3.myworkdayjobs.com/careers/job/Bangalore---Indraprastha/Industrial-Data---AI-Engineer_R0340554",
       "https://thales.wd3.myworkdayjobs.com/careers/job/Belfast/Systems-Engineer---IAS_R0335249-1",
+      "https://thales.wd3.myworkdayjobs.com/careers/job/Belfast/XMLNAME-2027-Software-Engineering-Graduate_R0337788",
+      "https://thales.wd3.myworkdayjobs.com/careers/job/Belfast/XMLNAME-2027-Systems-Engineering-Graduate_R0337783",
       "https://thales.wd3.myworkdayjobs.com/careers/job/Berlin/IT-Infrastructure-Specialist--m-w-d-_R0331272",
       "https://thales.wd3.myworkdayjobs.com/careers/job/British-Columbia-Remote/CO-OP-Systems-Engineer_R0336218-1",
       "https://thales.wd3.myworkdayjobs.com/careers/job/Bucharest-Orhideea/AI---Machine-Learning-Engineer---Models-That-Guide-Missions--Not-Ads_R0333980-1",
@@ -37195,8 +37208,19 @@
       "https://thales.wd3.myworkdayjobs.com/careers/job/Bucharest/Infrastructure-Engineer--with-DevOps-skills-_R0336201-1",
       "https://thales.wd3.myworkdayjobs.com/careers/job/Bucharest/Java-Software-Engineer_R0161685",
       "https://thales.wd3.myworkdayjobs.com/careers/job/Cheadle/Dev-Ops-Software-Engineer---Maritime-Mission-Systems_R0317454-1",
+      "https://thales.wd3.myworkdayjobs.com/careers/job/Cheadle/XMLNAME-2027-Software-Engineering-Apprentice_R0337863",
+      "https://thales.wd3.myworkdayjobs.com/careers/job/Cheadle/XMLNAME-2027-Software-Engineering-Graduate_R0337871",
+      "https://thales.wd3.myworkdayjobs.com/careers/job/Cheadle/XMLNAME-2027-Systems-Engineering--IVVQ--Apprentice_R0337861",
+      "https://thales.wd3.myworkdayjobs.com/careers/job/Cheadle/XMLNAME-2027-Systems-Engineering-Apprentice_R0337858",
+      "https://thales.wd3.myworkdayjobs.com/careers/job/Cheadle/XMLNAME-2027-Systems-Engineering-Graduate_R0337854",
       "https://thales.wd3.myworkdayjobs.com/careers/job/Crawley/Industrial-Data---Software-Engineer_R0339441",
       "https://thales.wd3.myworkdayjobs.com/careers/job/Crawley/Software-Engineer_R0336434",
+      "https://thales.wd3.myworkdayjobs.com/careers/job/Crawley/XMLNAME-2027-AI-Engineer-Apprentice---Level-6-Machine-Learning_R0337755",
+      "https://thales.wd3.myworkdayjobs.com/careers/job/Crawley/XMLNAME-2027-AI-Researcher-Apprentice---Level-6-Machine-Learning_R0337756-1",
+      "https://thales.wd3.myworkdayjobs.com/careers/job/Crawley/XMLNAME-2027-Software-Engineering-Apprentice---Level-6-Digital-and-Technology-Solutions-Degree-Apprenticeship_R0337707",
+      "https://thales.wd3.myworkdayjobs.com/careers/job/Crawley/XMLNAME-2027-Software-Engineering-Graduate_R0337725",
+      "https://thales.wd3.myworkdayjobs.com/careers/job/Crawley/XMLNAME-2027-Systems-Engineering-Apprentice_R0337705",
+      "https://thales.wd3.myworkdayjobs.com/careers/job/Crawley/XMLNAME-2027-Systems-Engineering-Graduate_R0337728",
       "https://thales.wd3.myworkdayjobs.com/careers/job/DITZINGEN-SRA-OME/Werkstudent--internship-or-Master-thesis--m-f-d--within-Radar-Systems-Engineering-department-in-the-Domain-Surface-Radar--SRA-_R0335091",
       "https://thales.wd3.myworkdayjobs.com/careers/job/DITZINGEN-SRA-OME/Werkstudent--m-f-d--within-Radar-Systems-Engineering-department-in-the-Domain-Surface-Radar--SRA-_R0336402",
       "https://thales.wd3.myworkdayjobs.com/careers/job/Elancourt/Ingnieur-logiciel-Expriment---SwE--F-H-_R0336132-2",
@@ -37204,6 +37228,9 @@
       "https://thales.wd3.myworkdayjobs.com/careers/job/Elancourt/SwE---Ingnieur-Dveloppement-Logiciel--F-H-_R0336891-1",
       "https://thales.wd3.myworkdayjobs.com/careers/job/Fort-Worth/Network-Software-Engineer_R0317046-1",
       "https://thales.wd3.myworkdayjobs.com/careers/job/Glasgow/Systems-Engineer_R0338331",
+      "https://thales.wd3.myworkdayjobs.com/careers/job/Glasgow/XMLNAME-2027-AI-Engineer-Apprentice---AI-and-Data-Science-Graduate-Level-Apprenticeship_R0337760",
+      "https://thales.wd3.myworkdayjobs.com/careers/job/Glasgow/XMLNAME-2027-Software-Engineering-Graduate_R0337840",
+      "https://thales.wd3.myworkdayjobs.com/careers/job/Glasgow/XMLNAME-2027-Systems-Engineering-Graduate_R0337839",
       "https://thales.wd3.myworkdayjobs.com/careers/job/Hengelo/C---Software-Engineer---Electro-Optical--Radar-Core-Processing-_R0337036-1",
       "https://thales.wd3.myworkdayjobs.com/careers/job/Hengelo/Java-Software-engineer--SITE-team-_R0329194-1",
       "https://thales.wd3.myworkdayjobs.com/careers/job/Hengelo/Radar-Software-Engineer-C----TRK-_R0330428",
@@ -37240,6 +37267,7 @@
       "https://thales.wd3.myworkdayjobs.com/careers/job/Quebec-City/Applied-AI-Research-Scientist---Data-Scientist---Scientifique-en-IA-Applique---Scientifique-de-Donnes_R0335173",
       "https://thales.wd3.myworkdayjobs.com/careers/job/Quebec-City/Full-Stack-Developer---Agentic-AI_R0339111-2",
       "https://thales.wd3.myworkdayjobs.com/careers/job/Reading/AI-Researcher_R0336386",
+      "https://thales.wd3.myworkdayjobs.com/careers/job/Reading/XMLNAME-2027-Systems-Engineering-Apprentice_R0337716",
       "https://thales.wd3.myworkdayjobs.com/careers/job/Rydalmere/Software-Engineer_R0333331",
       "https://thales.wd3.myworkdayjobs.com/careers/job/Rydalmere/Systems-Engineer_R0302822-1",
       "https://thales.wd3.myworkdayjobs.com/careers/job/Rydalmere/Systems-Engineer_R0334936",
@@ -37263,33 +37291,16 @@
       "https://thales.wd3.myworkdayjobs.com/careers/job/Singapore/Software-Engineer_R0336605-1",
       "https://thales.wd3.myworkdayjobs.com/careers/job/TEL-AVIV/C----Software-Engineer_R0335214",
       "https://thales.wd3.myworkdayjobs.com/careers/job/TEL-AVIV/C---Software-Engineer--12-Month-Fixed-Term-Position-_R0335217",
+      "https://thales.wd3.myworkdayjobs.com/careers/job/Templecombe/XMLNAME-2027-Machine-Learning-Apprentice---Level-6-AI-Engineer_R0337867-1",
+      "https://thales.wd3.myworkdayjobs.com/careers/job/Templecombe/XMLNAME-2027-Software-Engineering-Apprentice---Level-6-Digital-and-Technology-Solutions-Degree-Apprenticeship_R0337865",
+      "https://thales.wd3.myworkdayjobs.com/careers/job/Templecombe/XMLNAME-2027-Software-Engineering-Graduate_R0337787",
+      "https://thales.wd3.myworkdayjobs.com/careers/job/Templecombe/XMLNAME-2027-Systems-Engineering-Apprentice_R0337859",
       "https://thales.wd3.myworkdayjobs.com/careers/job/Templecombe/XMLNAME-2027-Systems-Engineering-Graduate_R0337784-1",
       "https://thales.wd3.myworkdayjobs.com/careers/job/Toulouse/Product-Design-Authority--Technical-Responsible-of-space-SAR-performance-engineer_R0322882-1",
       "https://thales.wd3.myworkdayjobs.com/careers/job/Tubize/Systems-Engineer---Critical-Communication_R0323825-1",
       "https://thales.wd3.myworkdayjobs.com/careers/job/Vlizy-Villacoublay/Product-Owner---Lewis-Engineering-Agentic-AI-F-H_R0335608-2",
       "https://thales.wd3.myworkdayjobs.com/careers/job/William-Street/Systems-Engineer_R0341199-1",
-      "https://thales.wd3.myworkdayjobs.com/careers/job/Zaventem_EXC/Software-Engineering-Intern_R0339364",
-      "https://thales.wd3.myworkdayjobs.com/careers/job/Glasgow/XMLNAME-2027-AI-Engineer-Apprentice---AI-and-Data-Science-Graduate-Level-Apprenticeship_R0337760",
-      "https://thales.wd3.myworkdayjobs.com/careers/job/Crawley/XMLNAME-2027-AI-Engineer-Apprentice---Level-6-Machine-Learning_R0337755",
-      "https://thales.wd3.myworkdayjobs.com/careers/job/Crawley/XMLNAME-2027-AI-Researcher-Apprentice---Level-6-Machine-Learning_R0337756-1",
-      "https://thales.wd3.myworkdayjobs.com/careers/job/Templecombe/XMLNAME-2027-Machine-Learning-Apprentice---Level-6-AI-Engineer_R0337867-1",
-      "https://thales.wd3.myworkdayjobs.com/careers/job/Crawley/XMLNAME-2027-Software-Engineering-Apprentice---Level-6-Digital-and-Technology-Solutions-Degree-Apprenticeship_R0337707",
-      "https://thales.wd3.myworkdayjobs.com/careers/job/Templecombe/XMLNAME-2027-Software-Engineering-Apprentice---Level-6-Digital-and-Technology-Solutions-Degree-Apprenticeship_R0337865",
-      "https://thales.wd3.myworkdayjobs.com/careers/job/Cheadle/XMLNAME-2027-Software-Engineering-Apprentice_R0337863",
-      "https://thales.wd3.myworkdayjobs.com/careers/job/Crawley/XMLNAME-2027-Software-Engineering-Graduate_R0337725",
-      "https://thales.wd3.myworkdayjobs.com/careers/job/Templecombe/XMLNAME-2027-Software-Engineering-Graduate_R0337787",
-      "https://thales.wd3.myworkdayjobs.com/careers/job/Belfast/XMLNAME-2027-Software-Engineering-Graduate_R0337788",
-      "https://thales.wd3.myworkdayjobs.com/careers/job/Glasgow/XMLNAME-2027-Software-Engineering-Graduate_R0337840",
-      "https://thales.wd3.myworkdayjobs.com/careers/job/Cheadle/XMLNAME-2027-Software-Engineering-Graduate_R0337871",
-      "https://thales.wd3.myworkdayjobs.com/careers/job/Cheadle/XMLNAME-2027-Systems-Engineering--IVVQ--Apprentice_R0337861",
-      "https://thales.wd3.myworkdayjobs.com/careers/job/Crawley/XMLNAME-2027-Systems-Engineering-Apprentice_R0337705",
-      "https://thales.wd3.myworkdayjobs.com/careers/job/Reading/XMLNAME-2027-Systems-Engineering-Apprentice_R0337716",
-      "https://thales.wd3.myworkdayjobs.com/careers/job/Cheadle/XMLNAME-2027-Systems-Engineering-Apprentice_R0337858",
-      "https://thales.wd3.myworkdayjobs.com/careers/job/Templecombe/XMLNAME-2027-Systems-Engineering-Apprentice_R0337859",
-      "https://thales.wd3.myworkdayjobs.com/careers/job/Crawley/XMLNAME-2027-Systems-Engineering-Graduate_R0337728",
-      "https://thales.wd3.myworkdayjobs.com/careers/job/Belfast/XMLNAME-2027-Systems-Engineering-Graduate_R0337783",
-      "https://thales.wd3.myworkdayjobs.com/careers/job/Glasgow/XMLNAME-2027-Systems-Engineering-Graduate_R0337839",
-      "https://thales.wd3.myworkdayjobs.com/careers/job/Cheadle/XMLNAME-2027-Systems-Engineering-Graduate_R0337854"
+      "https://thales.wd3.myworkdayjobs.com/careers/job/Zaventem_EXC/Software-Engineering-Intern_R0339364"
     ]
   },
   {
@@ -37946,6 +37957,7 @@
       "https://lifeattiktok.com/search/7667935738840090933",
       "https://lifeattiktok.com/search/7667935739300317493",
       "https://lifeattiktok.com/search/7667935739300792629",
+      "https://lifeattiktok.com/search/7667944966433737013",
       "https://lifeattiktok.com/search/7668158657595803909",
       "https://lifeattiktok.com/search/7668206301950642437",
       "https://lifeattiktok.com/search/7668307535980267829",
@@ -38069,8 +38081,7 @@
       "https://lifeattiktok.com/search/7682669149835725109",
       "https://lifeattiktok.com/search/7683533453997328693",
       "https://lifeattiktok.com/search/7684427309076400437",
-      "https://lifeattiktok.com/search/7690664722437474613",
-      "https://lifeattiktok.com/search/7667944966433737013"
+      "https://lifeattiktok.com/search/7690664722437474613"
     ]
   },
   {
