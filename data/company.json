@@ -3858,6 +3858,7 @@
     "page": "",
     "urls": [
       "https://apply.workable.com/arondite/j/5C5C551ADA/apply",
+      "https://apply.workable.com/arondite/j/D3211449EF/apply",
       "https://apply.workable.com/cmic/j/63A27830D0/apply",
       "https://apply.workable.com/cogna/j/45A6283F88/apply",
       "https://apply.workable.com/coretek-services/j/8D69C6C871/apply",
@@ -3881,8 +3882,7 @@
       "https://apply.workable.com/tmeic-corporation-americas/j/D44B74C42B/apply",
       "https://apply.workable.com/trycaddi/j/9D1291C697/apply",
       "https://apply.workable.com/western-magnetics/j/E366930F3F/apply",
-      "https://apply.workable.com/zaber/j/EAB5877DC3/apply",
-      "https://apply.workable.com/arondite/j/D3211449EF/apply"
+      "https://apply.workable.com/zaber/j/EAB5877DC3/apply"
     ]
   },
   {
@@ -4401,6 +4401,16 @@
     ]
   },
   {
+    "name": "asteraearlycareer2027",
+    "ats": "greenhouse",
+    "identifier": "asteraearlycareer2027",
+    "domain": "https://job-boards.greenhouse.io",
+    "page": "https://boards-api.greenhouse.io/v1/boards/asteraearlycareer2027/jobs",
+    "urls": [
+      "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731594005"
+    ]
+  },
+  {
     "name": "astranis",
     "ats": "greenhouse",
     "identifier": "astranis",
@@ -4552,6 +4562,7 @@
       "https://ats.rippling.com/es-419/redaspen-careers/jobs/a7c49185-bdf4-412d-8a98-96a71d479b5e",
       "https://ats.rippling.com/greengas/jobs/b2938290-cc66-4f54-9888-bbe286c1d9b6",
       "https://ats.rippling.com/intelliguard/jobs/f7754742-8ec6-4803-b2fc-1a50c682030f",
+      "https://ats.rippling.com/joinroot/jobs/845e02f9-86ee-41f9-a9ad-730ed08fca3b",
       "https://ats.rippling.com/journaltech/jobs/3a6f4ca2-b4af-4fdd-8819-eb477a5ebb8c",
       "https://ats.rippling.com/moon/jobs/8b81bca7-1a64-4377-8ea8-869aac03080b",
       "https://ats.rippling.com/netwrix-corporation/jobs/95977180-8005-434e-a490-4ca254ae3f2f",
@@ -4569,8 +4580,7 @@
       "https://ats.rippling.com/tive-careers/jobs/c88ab3d3-a8e7-4639-b95b-d6c9b5290dd0",
       "https://ats.rippling.com/tive-careers/jobs/e7ed0c47-bf2e-4105-a793-e48dc0e0f710",
       "https://ats.rippling.com/usare/jobs/8db9bb37-aa5f-40e0-96ac-d1c4ca796aeb",
-      "https://ats.rippling.com/veryable-careers/jobs/cf74672c-c9c5-4be5-8858-04abfd64c20f",
-      "https://ats.rippling.com/joinroot/jobs/845e02f9-86ee-41f9-a9ad-730ed08fca3b"
+      "https://ats.rippling.com/veryable-careers/jobs/cf74672c-c9c5-4be5-8858-04abfd64c20f"
     ]
   },
   {
@@ -7302,7 +7312,8 @@
       "https://bostonscientific.eightfold.ai/careers/job/563602813660671?domain=bostonscientific.com&8fold_id=563602813660671",
       "https://bostonscientific.eightfold.ai/careers/job/563602813674232",
       "https://bostonscientific.eightfold.ai/careers/job/563602813713169?domain=bostonscientific.com&8fold_id=563602813713169",
-      "https://bostonscientific.eightfold.ai/careers?query=software&start=0&pid=563602812412848&sort_by=relevance?8fold_id=563602812412848"
+      "https://bostonscientific.eightfold.ai/careers?query=software&start=0&pid=563602812412848&sort_by=relevance?8fold_id=563602812412848",
+      "https://bostonscientific.eightfold.ai/careers/job/563602813584306"
     ]
   },
   {
@@ -8109,6 +8120,16 @@
     "urls": [
       "https://campus-globalcareers-atlassian.icims.com/jobs/26070/software-engineer%2c-2027-graduate-canada/job",
       "https://campus-globalcareers-atlassian.icims.com/jobs/26275/software-engineer-intern%2c-2027-canada/job"
+    ]
+  },
+  {
+    "name": "campus-libertymutual",
+    "ats": "icims",
+    "identifier": "campus-libertymutual",
+    "domain": "https://campus-libertymutual.icims.com",
+    "page": "https://campus-libertymutual.icims.com/jobs/261797/job?mobile=true&needsRedirect=false",
+    "urls": [
+      "https://campus-libertymutual.icims.com/jobs/261797/job?mobile=true&needsRedirect=false"
     ]
   },
   {
@@ -12121,7 +12142,8 @@
       "https://boards.greenhouse.io/cloudflare/jobs/8214470?gh_jid=8214470",
       "https://boards.greenhouse.io/cloudflare/jobs/8223480?gh_jid=8223480",
       "https://boards.greenhouse.io/cloudflare/jobs/8245503?gh_jid=8245503",
-      "https://boards.greenhouse.io/cloudflare/jobs/8248635?gh_jid=8248635"
+      "https://boards.greenhouse.io/cloudflare/jobs/8248635?gh_jid=8248635",
+      "https://boards.greenhouse.io/cloudflare/jobs/8245211"
     ]
   },
   {
@@ -17242,8 +17264,8 @@
       "https://careers-gdms.icims.com/jobs/75294/nc3-sr-advanced-software-engineer/job",
       "https://careers-gdms.icims.com/jobs/75314/advanced-software-engineer/job",
       "https://careers-gdms.icims.com/jobs/75324/systems-engineer/job",
-      "https://careers-gdms.icims.com/jobs/75369/embedded-rust-software-engineer-%28cleared%29/job",
-      "https://careers-gdms.icims.com/jobs/75346/job?mobile=true&needsRedirect=false"
+      "https://careers-gdms.icims.com/jobs/75346/job?mobile=true&needsRedirect=false",
+      "https://careers-gdms.icims.com/jobs/75369/embedded-rust-software-engineer-%28cleared%29/job"
     ]
   },
   {
@@ -21396,6 +21418,18 @@
     ]
   },
   {
+    "name": "idtus.pinpointhq.com",
+    "ats": "custom",
+    "identifier": "idtus.pinpointhq.com",
+    "domain": "https://idtus.pinpointhq.com",
+    "page": "",
+    "urls": [
+      "https://idtus.pinpointhq.com/en/postings/eac7d1ca-2dbd-4c60-8f65-979f0a9e3f33?ats=pinpointhq",
+      "https://idtus.pinpointhq.com/en/postings/20817d1b-bd0e-4aa8-a3d5-78e4614b52a3?ats=pinpointhq",
+      "https://idtus.pinpointhq.com/en/postings/0900a5f2-65d5-4cfa-8b14-b2a58d156d53?ats=pinpointhq"
+    ]
+  },
+  {
     "name": "ignite-digital",
     "ats": "greenhouse",
     "identifier": "ignite-digital",
@@ -23081,12 +23115,12 @@
       "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/210923",
       "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/210926",
       "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/211041",
+      "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216251",
       "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216263",
       "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineering-Intern/210884",
       "https://jobs.ea.com/en_US/careers/JobDetail/Systems-Engineer-Intern/211115",
       "https://jobs.ea.com/en_US/careers/JobDetail/Systems-Software-Engineer-Co-op/210903",
-      "https://jobs.ea.com/en_US/careers/JobDetail/VINU-C-Software-Engineer-Co-op/210935",
-      "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216251"
+      "https://jobs.ea.com/en_US/careers/JobDetail/VINU-C-Software-Engineer-Co-op/210935"
     ]
   },
   {
@@ -25225,6 +25259,16 @@
     "urls": [
       "https://jobs.smartrecruiters.com/M3USA/744000148244649",
       "https://jobs.smartrecruiters.com/M3USA/744000152758649"
+    ]
+  },
+  {
+    "name": "machindustries",
+    "ats": "greenhouse",
+    "identifier": "machindustries",
+    "domain": "https://job-boards.greenhouse.io",
+    "page": "https://boards-api.greenhouse.io/v1/boards/machindustries/jobs",
+    "urls": [
+      "https://job-boards.greenhouse.io/machindustries/jobs/4401995009"
     ]
   },
   {
@@ -27489,8 +27533,8 @@
       "https://jobs.smartrecruiters.com/NBCUniversal3/744000148833215",
       "https://jobs.smartrecruiters.com/NBCUniversal3/744000151428284",
       "https://jobs.smartrecruiters.com/NBCUniversal3/744000152263199",
-      "https://jobs.smartrecruiters.com/NBCUniversal3/744000153593799",
-      "https://jobs.smartrecruiters.com/NBCUniversal3/744000153538044"
+      "https://jobs.smartrecruiters.com/NBCUniversal3/744000153538044",
+      "https://jobs.smartrecruiters.com/NBCUniversal3/744000153593799"
     ]
   },
   {
@@ -35288,6 +35332,16 @@
     ]
   },
   {
+    "name": "solutions",
+    "ats": "greenhouse",
+    "identifier": "solutions",
+    "domain": "https://job-boards.greenhouse.io",
+    "page": "https://boards-api.greenhouse.io/v1/boards/solutions/jobs",
+    "urls": [
+      "https://job-boards.greenhouse.io/solutions/jobs/4711210006"
+    ]
+  },
+  {
     "name": "somfygroup",
     "ats": "smartrecruiters",
     "identifier": "somfygroup",
@@ -36056,6 +36110,17 @@
     "domain": "https://careers-ssoe.icims.com",
     "page": "https://careers-ssoe.icims.com/jobs/search",
     "urls": []
+  },
+  {
+    "name": "stackadapt-confidential",
+    "ats": "greenhouse",
+    "identifier": "stackadapt-confidential",
+    "domain": "https://job-boards.greenhouse.io",
+    "page": "https://boards-api.greenhouse.io/v1/boards/stackadapt-confidential/jobs",
+    "urls": [
+      "https://job-boards.greenhouse.io/stackadapt-confidential/jobs/4386552009",
+      "https://job-boards.greenhouse.io/stackadapt-confidential/jobs/4386549009"
+    ]
   },
   {
     "name": "staff-emory",
@@ -41048,6 +41113,19 @@
       "https://wgu.wd5.myworkdayjobs.com/external/job/Salt-Lake-City-UT/Software-Engineer-Python-Angular_JR-025709",
       "https://wgu.wd5.myworkdayjobs.com/external/job/Salt-Lake-City-UT/Systems-Engineer---Infrastructure_JR-026187",
       "https://wgu.wd5.myworkdayjobs.com/external/job/Salt-Lake-City-UT/Systems-Engineer---Linux_JR-025704-1"
+    ]
+  },
+  {
+    "name": "whoop",
+    "ats": "ashby",
+    "identifier": "whoop",
+    "domain": "https://jobs.ashbyhq.com",
+    "page": "https://api.ashbyhq.com/posting-api/job-board/whoop",
+    "urls": [
+      "https://jobs.ashbyhq.com/whoop/f9985943-da11-4cbd-9c44-d2f7e421f65e/application?embed=true",
+      "https://jobs.ashbyhq.com/whoop/0623a9e9-d7bb-4ee5-8100-51c68df81133/application?embed=true",
+      "https://jobs.ashbyhq.com/whoop/b9dc032d-3fd9-4da4-ba2d-175d17bfaf80/application?embed=true",
+      "https://jobs.ashbyhq.com/whoop/2910a5f6-fb5e-4fe6-bb9a-24d6995d8173/application?embed=true"
     ]
   },
   {
