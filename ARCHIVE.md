@@ -2248,6 +2248,13 @@ Every opportunity matching your current filters (country, category, citizenship/
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">ID.me</td>
+      <td width="420" align="left" valign="top">Software Engineer 2 New Grad - Developer Portal</td>
+      <td width="180" align="left" valign="top">Mountain View, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://job-boards.greenhouse.io/idme/jobs/8011089003" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 5</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Nuro</td>
       <td width="420" align="left" valign="top">New Grad Software Engineer, Routing</td>
       <td width="180" align="left" valign="top">Mountain View, CA</td>
@@ -3654,4 +3661,4 @@ Every opportunity matching your current filters (country, category, citizenship/
 
 ---
 
-📦 Generated from `opportunities.ndjson` &nbsp;•&nbsp; 🕒 Last updated `2026-10-06T02:48:00.059Z`
+📦 Generated from `opportunities.ndjson` &nbsp;•&nbsp; 🕒 Last updated `2026-10-06T02:54:47.197Z`
