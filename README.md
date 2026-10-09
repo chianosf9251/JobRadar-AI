@@ -103,6 +103,13 @@
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">My7elevenhr</td>
+      <td width="420" align="left" valign="top">AI Engineer Intern</td>
+      <td width="180" align="left" valign="top">Irving, TX</td>
+      <td width="120" align="left" valign="top"><a href="https://my7elevenhr.wd12.myworkdayjobs.com/careers/job/SSC-Irving-TX/AI-Engineer-Intern_R26_5974-1" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 8</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Two Sigma</td>
       <td width="420" align="left" valign="top">Software Engineer New Grad</td>
       <td width="180" align="left" valign="top">London, UK</td>
@@ -1318,6 +1325,62 @@
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Snowflake</td>
+      <td width="420" align="left" valign="top">Software Engineer - Customer Experience Engineering</td>
+      <td width="180" align="left" valign="top">Menlo Park, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://jobs.ashbyhq.com/snowflake/5ca0fa74-9e43-4468-8f1c-0a3aa0a993ec" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 8</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Meta</td>
+      <td width="420" align="left" valign="top">Software Engineer, Systems Machine Learning</td>
+      <td width="180" align="left" valign="top">Menlo Park, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://www.metacareers.com/profile/job_details/874427792330028" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 8</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">↳</td>
+      <td width="420" align="left" valign="top">Research Scientist, Wearables AI</td>
+      <td width="180" align="left" valign="top">New York, NY</td>
+      <td width="120" align="left" valign="top"><a href="https://www.metacareers.com/profile/job_details/1664500798343394" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 8</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Lucid Motors</td>
+      <td width="420" align="left" valign="top">Software Engineer, ADAS Behavior Planning and Integration</td>
+      <td width="180" align="left" valign="top">Newark, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://lucidmotors.com/careers/search/5242854007?gh_jid=5242854007" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 8</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Hpe</td>
+      <td width="420" align="left" valign="top">Storage Systems/Software Engineer</td>
+      <td width="180" align="left" valign="top">Andover, MA</td>
+      <td width="120" align="left" valign="top"><a href="https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Andover-Massachusetts-United-States-of-America/Storage-Systems-Software-Engineer_1215626-2" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 8</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">HPE</td>
+      <td width="420" align="left" valign="top">Storage Systems/Software Engineer</td>
+      <td width="180" align="left" valign="top">Andover, MA</td>
+      <td width="120" align="left" valign="top"><a href="https://careers.hpe.com/us/en/job/1215626?ph_id=1215626" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 8</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Brain Corp</td>
+      <td width="420" align="left" valign="top">Software Engineer I, Firmware</td>
+      <td width="180" align="left" valign="top">San Diego, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://www.braincorp.com/open-positions?gh_jid=8879726002" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 8</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Bot Auto</td>
+      <td width="420" align="left" valign="top">Software Engineer, Core Platforms</td>
+      <td width="180" align="left" valign="top">Houston, TX</td>
+      <td width="120" align="left" valign="top"><a href="https://job-boards.greenhouse.io/botauto/jobs/5448119008" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 8</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Aurelian</td>
       <td width="420" align="left" valign="top">Software Engineer New Grad</td>
       <td width="180" align="left" valign="top">Seattle, WA</td>
@@ -2006,7 +2069,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-10-09T01:54:51.008Z</code>
+      🕒 Last updated <code>2026-10-09T02:45:34.670Z</code>
     </span>
   </p>
 </div>
