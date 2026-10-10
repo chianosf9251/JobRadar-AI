@@ -930,7 +930,8 @@
       "https://job-boards.greenhouse.io/affirm/jobs/8008645003",
       "https://job-boards.greenhouse.io/affirm/jobs/8008649003",
       "https://job-boards.greenhouse.io/affirm/jobs/8010617003",
-      "https://job-boards.greenhouse.io/affirm/jobs/8011590003"
+      "https://job-boards.greenhouse.io/affirm/jobs/8011590003",
+      "https://job-boards.greenhouse.io/affirm/jobs/8011375003"
     ]
   },
   {
@@ -1681,7 +1682,8 @@
       "https://careers.amd.com/jobs/91865?icims=1",
       "https://careers.amd.com/jobs/91866?icims=1",
       "https://careers.amd.com/jobs/91867?icims=1",
-      "https://careers.amd.com/jobs/92636?icims=1"
+      "https://careers.amd.com/jobs/92636?icims=1",
+      "https://careers.amd.com/jobs/91341?icims=1"
     ]
   },
   {
@@ -8768,6 +8770,16 @@
     ]
   },
   {
+    "name": "capstoneinvestmentadvisors",
+    "ats": "greenhouse",
+    "identifier": "capstoneinvestmentadvisors",
+    "domain": "https://job-boards.greenhouse.io",
+    "page": "https://boards-api.greenhouse.io/v1/boards/capstoneinvestmentadvisors/jobs",
+    "urls": [
+      "https://job-boards.greenhouse.io/capstoneinvestmentadvisors/jobs/8882130002"
+    ]
+  },
+  {
     "name": "CapTechConsulting",
     "ats": "smartrecruiters",
     "identifier": "CapTechConsulting",
@@ -12702,6 +12714,16 @@
       "https://cohesity.wd5.myworkdayjobs.com/cohesity_careers/job/Pune---Panchshil---India-Office/Software-Engineer-4--MTS-4-_R04561-1",
       "https://cohesity.wd5.myworkdayjobs.com/cohesity_careers/job/Santa-Clara-CA---USA-Office/Software-Engineer_R01282",
       "https://cohesity.wd5.myworkdayjobs.com/cohesity_careers/job/Santa-Clara-CA---USA-Office/Software-Engineer_R04460-1"
+    ]
+  },
+  {
+    "name": "coinbase",
+    "ats": "greenhouse",
+    "identifier": "coinbase",
+    "domain": "https://boards.greenhouse.io",
+    "page": "https://boards-api.greenhouse.io/v1/boards/coinbase/jobs",
+    "urls": [
+      "https://boards.greenhouse.io/embed/job_app?token=8175510"
     ]
   },
   {
@@ -23784,7 +23806,11 @@
       "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineering-Intern/216240",
       "https://jobs.ea.com/en_US/careers/JobDetail/Systems-Engineer-Intern/211115",
       "https://jobs.ea.com/en_US/careers/JobDetail/Systems-Software-Engineer-Co-op/210903",
-      "https://jobs.ea.com/en_US/careers/JobDetail/VINU-C-Software-Engineer-Co-op/210935"
+      "https://jobs.ea.com/en_US/careers/JobDetail/VINU-C-Software-Engineer-Co-op/210935",
+      "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Summer-2027-8-Months-Sports-Technology/216225",
+      "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Co-op/216231",
+      "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Co-op/216230",
+      "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Summer-2027-8-months-UFC/216226"
     ]
   },
   {
@@ -38367,6 +38393,16 @@
       "https://tencent.wd1.myworkdayjobs.com/oa_huoshui_platform/job/Singapore-CapitaSky/WXG---Software-Engineer---Infrastructure_R107473-1",
       "https://tencent.wd1.myworkdayjobs.com/oa_huoshui_platform/job/UK-London/Software-Engineering-Intern_R107162",
       "https://tencent.wd1.myworkdayjobs.com/oa_huoshui_platform/job/US-California-Palo-Alto/Site-Reliability-Engineer--SRE--Intern---AI-Infrastructure_R108158"
+    ]
+  },
+  {
+    "name": "tenet3",
+    "ats": "greenhouse",
+    "identifier": "tenet3",
+    "domain": "https://job-boards.greenhouse.io",
+    "page": "https://boards-api.greenhouse.io/v1/boards/tenet3/jobs",
+    "urls": [
+      "https://job-boards.greenhouse.io/tenet3/jobs/8878874002"
     ]
   },
   {
