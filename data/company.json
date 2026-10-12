@@ -1006,7 +1006,6 @@
       "https://careers.airbnb.com/positions/7716341?gh_jid=7716341",
       "https://careers.airbnb.com/positions/8154749?gh_jid=8154749",
       "https://careers.airbnb.com/positions/8189374?gh_jid=8189374",
-      "https://careers.airbnb.com/positions/8239985?gh_jid=8239985",
       "https://careers.airbnb.com/positions/8257855?gh_jid=8257855"
     ]
   },
@@ -8954,6 +8953,7 @@
       "https://careers.airbnb.com/positions/8214444?gh_jid=8214444",
       "https://careers.airbnb.com/positions/8227620?gh_jid=8227620",
       "https://careers.airbnb.com/positions/8239930?gh_jid=8239930",
+      "https://careers.airbnb.com/positions/8239985?gh_jid=8239985",
       "https://careers.airbnb.com/positions/8245428?gh_jid=8245428",
       "https://careers.airbnb.com/positions/8247303?gh_jid=8247303",
       "https://careers.aqr.com/jobs?gh_jid=7493461&gh_jid=7493461",
@@ -24494,6 +24494,18 @@
     "urls": []
   },
   {
+    "name": "kainos",
+    "ats": "workday",
+    "identifier": "kainos-kainos",
+    "domain": "https://kainos.wd3.myworkdayjobs.com/kainos",
+    "page": "https://kainos.wd3.myworkdayjobs.com/wday/cxs/kainos/kainos/jobs",
+    "urls": [
+      "https://kainos.wd3.myworkdayjobs.com/kainos/job/Derry-Londonderry/Placement-Technologist--L-Derry----June-2027-Start-Date_JR_18557-1",
+      "https://kainos.wd3.myworkdayjobs.com/kainos/job/Belfast/Placement-Technologist--Belfast----June-2027-Start-Date_JR_18556",
+      "https://kainos.wd3.myworkdayjobs.com/kainos/job/Birmingham/Placement-Technologist--Birmingham----July-2027-Start-Date_JR_18558"
+    ]
+  },
+  {
     "name": "kairospower",
     "ats": "greenhouse",
     "identifier": "kairospower",
@@ -29802,6 +29814,7 @@
       "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern--Test-Automation---Autonomous-Vehicles_JR2023302",
       "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Wuerselen/Software-Engineer---Test-Infrastructure---Automation_JR2026186",
       "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/AI-Developer-Technology-Engineer_JR2008156",
+      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/ASIC-Design-Engineer---Performance-Monitoring_JR2027619",
       "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/GPU-Core-Pipeline-IP-Verification-Engineer_JR2020914",
       "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/GPU-Core-Pipeline-IP-Verification-Engineer_JR2024121",
       "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/IP-Verification-Engineer---GPU-Core-Pipeline_JR2019962",
@@ -29938,6 +29951,7 @@
       "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Coding-Agent-Harness-Engineering----New-College-Grad-2026_JR2023749",
       "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DGX-Cloud-AI-Infrastructure---New-College-Grad-2026_JR2026477",
       "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DGX-Cloud-AI-Infrastructure_JR2019248",
+      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337",
       "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Deep-Learning-Libraries---New-College-Graduate-2026_JR2023252",
       "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--GPU-Design-Automation_JR2017504",
       "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--GPU-Performance-Tools_JR2017424",
@@ -30008,9 +30022,7 @@
       "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/System-Software-Engineer--GPU-Development-Tools_JR2015188",
       "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/System-Software-Engineer--GPU-Development-Tools_JR2016197",
       "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-MA-Westford/Software-Engineer---DPU-Platform_JR2015949-1",
-      "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-MO-St-Louis/Performance-Engineer-Intern--Systems-Software---Fall-2026_JR2015779",
-      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/ASIC-Design-Engineer---Performance-Monitoring_JR2027619",
-      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337"
+      "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-MO-St-Louis/Performance-Engineer-Intern--Systems-Software---Fall-2026_JR2015779"
     ]
   },
   {
@@ -32715,8 +32727,8 @@
       "https://qualcomm.eightfold.ai/careers/job/446721362964?domain=qualcomm.com&8fold_id=446721362964",
       "https://qualcomm.eightfold.ai/careers/job/446721404983?domain=qualcomm.com&8fold_id=446721404983",
       "https://qualcomm.eightfold.ai/careers/job/446721435576?domain=qualcomm.com&8fold_id=446721435576",
-      "https://qualcomm.eightfold.ai/careers/job/446721456155?domain=qualcomm.com&8fold_id=446721456155",
-      "https://qualcomm.eightfold.ai/careers/job/446721454928?domain=qualcomm.com&8fold_id=446721454928"
+      "https://qualcomm.eightfold.ai/careers/job/446721454928?domain=qualcomm.com&8fold_id=446721454928",
+      "https://qualcomm.eightfold.ai/careers/job/446721456155?domain=qualcomm.com&8fold_id=446721456155"
     ]
   },
   {
@@ -41749,6 +41761,7 @@
       "https://vizient.wd1.myworkdayjobs.com/vizient_careers/job/Edina-MN-55435/AVP--AI-Quality---Reliability-Engineering_34015R-1",
       "https://vizient.wd1.myworkdayjobs.com/vizient_careers/job/Irving-TX-75062-Vizient-Corporate-HQ/AI-ML-Engineer_33356R",
       "https://vizient.wd1.myworkdayjobs.com/vizient_careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Associate-Software-Engineer_35387R-1",
+      "https://vizient.wd1.myworkdayjobs.com/vizient_careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Quality-Software-Engineer_35367R",
       "https://vizient.wd1.myworkdayjobs.com/vizient_careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Software-Engineer_32584R",
       "https://vizient.wd1.myworkdayjobs.com/vizient_careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Software-Engineer_32661R",
       "https://vizient.wd1.myworkdayjobs.com/vizient_careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Sr-AI-ML-Engineer_33014R",
@@ -41756,8 +41769,7 @@
       "https://vizient.wd1.myworkdayjobs.com/vizient_careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Sr-Software-Engineer---Sitecore-Developer_35316R",
       "https://vizient.wd1.myworkdayjobs.com/vizient_careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Sr-Software-Engineer_34187R",
       "https://vizient.wd1.myworkdayjobs.com/vizient_careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Sr-Software-Engineer_35336R",
-      "https://vizient.wd1.myworkdayjobs.com/vizient_careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Sr-Software-Quality-Engineer_33663R",
-      "https://vizient.wd1.myworkdayjobs.com/vizient_careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Quality-Software-Engineer_35367R"
+      "https://vizient.wd1.myworkdayjobs.com/vizient_careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Sr-Software-Quality-Engineer_33663R"
     ]
   },
   {
