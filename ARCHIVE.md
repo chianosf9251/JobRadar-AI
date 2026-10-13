@@ -18,6 +18,20 @@ Every opportunity matching your current filters (country, category, citizenship/
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">HPE</td>
+      <td width="420" align="left" valign="top">HPC/AI System Admin HW/SW Service Engineer Intern</td>
+      <td width="180" align="left" valign="top">Tennessee, USA</td>
+      <td width="120" align="left" valign="top"><a href="https://careers.hpe.com/us/en/job/1213404?ph_id=1213404" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 12</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">↳</td>
+      <td width="420" align="left" valign="top">HPC/AI Systems Service Process Improvement Engineer Intern</td>
+      <td width="180" align="left" valign="top">Illinois, USA</td>
+      <td width="120" align="left" valign="top"><a href="https://careers.hpe.com/us/en/job/1213402?ph_id=1213402" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 12</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Nvidia</td>
       <td width="420" align="left" valign="top">System Software Engineering Intern, GPU and SOC - Summer 2027</td>
       <td width="180" align="left" valign="top">Taipei, Taiwan</td>
@@ -1854,6 +1868,13 @@ Every opportunity matching your current filters (country, category, citizenship/
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Netic</td>
+      <td width="420" align="left" valign="top">Software Engineer – Gap Year</td>
+      <td width="180" align="left" valign="top">San Francisco, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://jobs.ashbyhq.com/netic/e645059a-a2e8-4cfd-84e8-085d92da6e62" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 12</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Kla</td>
       <td width="420" align="left" valign="top">Algorithm Engineering Intern (GPU/CUDA)</td>
       <td width="180" align="left" valign="top">Milpitas, CA</td>
@@ -2247,6 +2268,20 @@ Every opportunity matching your current filters (country, category, citizenship/
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td width="180" align="left" valign="top">Meta</td>
+      <td width="420" align="left" valign="top">Research Engineer, Language - Wearables Voice AI</td>
+      <td width="180" align="left" valign="top">New York, NY</td>
+      <td width="120" align="left" valign="top"><a href="https://www.metacareers.com/profile/job_details/1622348099529936" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 12</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Bostonscientific</td>
+      <td width="420" align="left" valign="top">Forward Deployment AI Engineer</td>
+      <td width="180" align="left" valign="top">Arden Hills, MN</td>
+      <td width="120" align="left" valign="top"><a href="https://bostonscientific.eightfold.ai/careers/job/563602813765676?domain=bostonscientific.com&amp;8fold_id=563602813765676" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 12</td>
+    </tr>
     <tr>
       <td width="180" align="left" valign="top">TikTok</td>
       <td width="420" align="left" valign="top">Machine Learning Engineer Graduate (Conversational AI) - 2027 Start</td>
@@ -3724,4 +3759,4 @@ Every opportunity matching your current filters (country, category, citizenship/
 
 ---
 
-📦 Generated from `opportunities.ndjson` &nbsp;•&nbsp; 🕒 Last updated `2026-10-13T00:26:15.330Z`
+📦 Generated from `opportunities.ndjson` &nbsp;•&nbsp; 🕒 Last updated `2026-10-13T03:27:23.788Z`
