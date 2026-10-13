@@ -19554,6 +19554,16 @@
     ]
   },
   {
+    "name": "goodlord",
+    "ats": "ashby",
+    "identifier": "goodlord",
+    "domain": "https://jobs.ashbyhq.com",
+    "page": "https://api.ashbyhq.com/posting-api/job-board/goodlord",
+    "urls": [
+      "https://jobs.ashbyhq.com/goodlord/7b103308-98c7-4505-b8c6-b98383e51b61/application?embed=true"
+    ]
+  },
+  {
     "name": "goodrx",
     "ats": "workday",
     "identifier": "goodrx-careers",
@@ -38171,7 +38181,8 @@
       "https://sunlife.wd3.myworkdayjobs.com/campus/job/Waterloo-Ontario/Student--Associate-Software-Engineer--Winter-2027-_JR00127614",
       "https://sunlife.wd3.myworkdayjobs.com/campus/job/Waterloo-Ontario/Student--MarTech-Software-Engineer--Winter-2027-_JR00128038",
       "https://sunlife.wd3.myworkdayjobs.com/campus/job/Waterloo-Ontario/Student--Software-Engineer--Winter-2027-_JR00127612",
-      "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/North-York-Ontario/Student--Jr-Analytics-and-Automation-Developer--Winter-2027-_JR00127514"
+      "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/North-York-Ontario/Student--Jr-Analytics-and-Automation-Developer--Winter-2027-_JR00127514",
+      "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Waterloo-Ontario/Associate-Software-Engineer--Fall--2026-_JR00128496"
     ]
   },
   {
@@ -41825,6 +41836,16 @@
     "urls": [
       "https://jobs.lever.co/verygoodsecurity/32fe92a6-13d5-4132-b77c-a7a5ed74f38b/apply",
       "https://jobs.lever.co/verygoodsecurity/3c278049-a47f-4d9a-8514-57791cf3e240"
+    ]
+  },
+  {
+    "name": "vestmark",
+    "ats": "greenhouse",
+    "identifier": "vestmark",
+    "domain": "https://job-boards.greenhouse.io",
+    "page": "https://boards-api.greenhouse.io/v1/boards/vestmark/jobs",
+    "urls": [
+      "https://job-boards.greenhouse.io/vestmark/jobs/8204509"
     ]
   },
   {
