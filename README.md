@@ -103,6 +103,41 @@
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Point72</td>
+      <td width="420" align="left" valign="top">2027 Summer Internship – Software Engineer </td>
+      <td width="180" align="left" valign="top">New York, NY</td>
+      <td width="120" align="left" valign="top"><a href="https://boards.greenhouse.io/point72/jobs/8885733002?gh_jid=8885733002" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 14</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Lseg</td>
+      <td width="420" align="left" valign="top">Intern - Software Engineer</td>
+      <td width="180" align="left" valign="top">New York, NY</td>
+      <td width="120" align="left" valign="top"><a href="https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/New-York-City-United-States/Intern---Software-Engineer_R0124266-1" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 14</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Kiongroup</td>
+      <td width="420" align="left" valign="top">Software Engineering Intern</td>
+      <td width="180" align="left" valign="top">Grand Rapids, MI</td>
+      <td width="120" align="left" valign="top"><a href="https://kiongroup.wd3.myworkdayjobs.com/KION_SCS/job/Grand-Rapids-MI-United-States/Software-Engineering-Intern_JR-0097732" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 14</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Generalmotors</td>
+      <td width="420" align="left" valign="top">2027 Intern - AI/ML Engineer, Autonomous Vehicle ML Infrastructure</td>
+      <td width="180" align="left" valign="top">Sunnyvale, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer--Autonomous-Vehicle-ML-Infrastructure_JR-202622410" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 14</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">↳</td>
+      <td width="420" align="left" valign="top">2027 Intern - AI/ML Engineer - Capacity &amp; Performance Engineering, Autonomous Vehicles</td>
+      <td width="180" align="left" valign="top">Sunnyvale, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer---Capacity---Performance-Engineering--Autonomous-Vehicles_JR-202622406" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 14</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Wing</td>
       <td width="420" align="left" valign="top">Motion Planning Software Engineering Intern, Summer 2027</td>
       <td width="180" align="left" valign="top">Palo Alto, CA</td>
@@ -935,20 +970,6 @@
       <td width="120" align="left" valign="top"><a href="https://boards.greenhouse.io/figma/jobs/6143238004?gh_jid=6143238004" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
       <td width="100" align="left" valign="top">September 14</td>
     </tr>
-    <tr>
-      <td width="180" align="left" valign="top">SEP</td>
-      <td width="420" align="left" valign="top">Software Engineer Intern</td>
-      <td width="180" align="left" valign="top">Westfield, IN</td>
-      <td width="120" align="left" valign="top"><a href="https://jobs.lever.co/sep/4efbdbce-a753-41b5-8ed7-0661cd193178/apply" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">September 14</td>
-    </tr>
-    <tr>
-      <td width="180" align="left" valign="top">Dell Technologies</td>
-      <td width="420" align="left" valign="top">Software Engineering Intern</td>
-      <td width="180" align="left" valign="top">Round Rock, TX</td>
-      <td width="120" align="left" valign="top"><a href="https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/297773" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">September 14</td>
-    </tr>
   </tbody>
 </table>
 
@@ -965,6 +986,34 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td width="180" align="left" valign="top">Skydio</td>
+      <td width="420" align="left" valign="top">Manufacturing Software Engineer Intern - Winter 2027</td>
+      <td width="180" align="left" valign="top">San Mateo, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://jobs.ashbyhq.com/skydio/ffc665c1-2aa6-4c2f-b04b-93a6fb7b5feb" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 14</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Nvidia</td>
+      <td width="420" align="left" valign="top">System Software Engineer - Base OS (RDSS Intern)</td>
+      <td width="180" align="left" valign="top">Taipei, Taiwan</td>
+      <td width="120" align="left" valign="top"><a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineer---Base-OS--RDSS-Intern-_JR2025948" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 14</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Hitachi</td>
+      <td width="420" align="left" valign="top">Research Intern, Knowledge Engineering &amp; Generative AI</td>
+      <td width="180" align="left" valign="top">Santa Clara, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Santa-Clara-California-United-States/Research-Intern--Knowledge-Engineering---Generative-AI_R0148396" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 14</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">ATOMS Careers page</td>
+      <td width="420" align="left" valign="top">Software Engineering Intern - 2027 Winter Term </td>
+      <td width="180" align="left" valign="top">Seattle, WA</td>
+      <td width="120" align="left" valign="top"><a href="https://job-boards.greenhouse.io/cssmerge/jobs/8888411002" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 14</td>
+    </tr>
     <tr>
       <td width="180" align="left" valign="top">Zoox</td>
       <td width="420" align="left" valign="top">Contract Student Worker – AI Validation and Benchmarking Engineer (40hrs / week Full-Time)</td>
@@ -1228,6 +1277,13 @@
   <tbody>
     <tr>
       <td width="180" align="left" valign="top">Nvidia</td>
+      <td width="420" align="left" valign="top">PCB Design EDA and AI Engineer - New College Graduate 2027</td>
+      <td width="180" align="left" valign="top">Taipei, Taiwan</td>
+      <td width="120" align="left" valign="top"><a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/PCB-Design-EDA-and-AI-Engineer---New-College-Graduate-2027_JR2027611" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 14</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">↳</td>
       <td width="420" align="left" valign="top">SoC Software Engineer – New College Graduate 2026</td>
       <td width="180" align="left" valign="top">Santa Clara, CA</td>
       <td width="120" align="left" valign="top"><a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Graduate-2026_JR2027552-1" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
@@ -1877,13 +1933,6 @@
       <td width="120" align="left" valign="top"><a href="https://careers.hpe.com/us/en/job/1213475?ph_id=1213475" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
       <td width="100" align="left" valign="top">September 14</td>
     </tr>
-    <tr>
-      <td width="180" align="left" valign="top">Mimecast</td>
-      <td width="420" align="left" valign="top">Software Engineer 1 - Endpoint Sensor</td>
-      <td width="180" align="left" valign="top">Minneapolis, MN</td>
-      <td width="120" align="left" valign="top"><a href="https://mimecast.wd5.myworkdayjobs.com/Mimecast-Careers/job/United-States-of-America-Minnesota--Minneapolis/Software-Engineer-I_R6708-1" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">September 14</td>
-    </tr>
   </tbody>
 </table>
 
@@ -1908,7 +1957,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-10-14T13:31:33.828Z</code>
+      🕒 Last updated <code>2026-10-14T17:53:19.614Z</code>
     </span>
   </p>
 </div>
