@@ -103,6 +103,20 @@
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Skydio</td>
+      <td width="420" align="left" valign="top">Software Engineer Intern</td>
+      <td width="180" align="left" valign="top">San Mateo, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://jobs.ashbyhq.com/skydio/79fdda46-4ff5-42c7-b208-55f2084cdb8c/application?embed=true" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 15</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">onsemi</td>
+      <td width="420" align="left" valign="top">Manufacturing AI Engineering Intern</td>
+      <td width="180" align="left" valign="top">Hopewell Junction, NY</td>
+      <td width="120" align="left" valign="top"><a href="https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506642" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 15</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Icf</td>
       <td width="420" align="left" valign="top">2027 Summer Intern, AI Engineer (Reston, VA)</td>
       <td width="180" align="left" valign="top">Reston, VA</td>
@@ -966,6 +980,13 @@
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Atoms</td>
+      <td width="420" align="left" valign="top">Software Engineer Intern</td>
+      <td width="180" align="left" valign="top">New York, NY</td>
+      <td width="120" align="left" valign="top"><a href="https://job-boards.greenhouse.io/atoms/jobs/8356071002" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 15</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Cubic</td>
       <td width="420" align="left" valign="top">Systems Engineering Execution Intern</td>
       <td width="180" align="left" valign="top">San Diego, CA</td>
@@ -1254,6 +1275,13 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td width="180" align="left" valign="top">SirenOpt</td>
+      <td width="420" align="left" valign="top">Software Engineer - Early Career - C++ &amp; Systems</td>
+      <td width="180" align="left" valign="top">San Leandro, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://job-boards.greenhouse.io/sirenopt/jobs/4452002009" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 15</td>
+    </tr>
     <tr>
       <td width="180" align="left" valign="top">Globalhr</td>
       <td width="420" align="left" valign="top">Software Engineer I - Next Gen Systems - Onsite</td>
@@ -1894,7 +1922,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-10-15T01:19:29.485Z</code>
+      🕒 Last updated <code>2026-10-15T07:13:12.861Z</code>
     </span>
   </p>
 </div>
