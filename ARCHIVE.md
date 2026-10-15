@@ -18,6 +18,20 @@ Every opportunity matching your current filters (country, category, citizenship/
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Icf</td>
+      <td width="420" align="left" valign="top">2027 Summer Intern, AI Engineer (Reston, VA)</td>
+      <td width="180" align="left" valign="top">Reston, VA</td>
+      <td width="120" align="left" valign="top"><a href="https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--AI-Engineer--Reston--VA-_R2603521" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 14</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Figure</td>
+      <td width="420" align="left" valign="top">Embedded Software Engineering Intern, Platform</td>
+      <td width="180" align="left" valign="top">San Jose, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://job-boards.greenhouse.io/figureai/jobs/4722086006" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 14</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Point72</td>
       <td width="420" align="left" valign="top">2027 Summer Internship – Software Engineer </td>
       <td width="180" align="left" valign="top">New York, NY</td>
@@ -1994,6 +2008,20 @@ Every opportunity matching your current filters (country, category, citizenship/
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Cubic</td>
+      <td width="420" align="left" valign="top">Systems Engineering Execution Intern</td>
+      <td width="180" align="left" valign="top">San Diego, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://cubic.wd1.myworkdayjobs.com/cubic_usa_careers/job/San-Diego-California/Systems-Engineering-Execution-Intern_REQ_50178" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 14</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Alliance</td>
+      <td width="420" align="left" valign="top">Software Engineer Intern - Spring 2027 - Santa Clara, CA</td>
+      <td width="180" align="left" valign="top">Santa Clara, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Santa-Clara-California---United-States-of-America/Software-Engineer-Intern---Spring-2027---Santa-Clara--CA_R00214269" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 14</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Skydio</td>
       <td width="420" align="left" valign="top">Manufacturing Software Engineer Intern - Winter 2027</td>
       <td width="180" align="left" valign="top">San Mateo, CA</td>
@@ -2436,6 +2464,13 @@ Every opportunity matching your current filters (country, category, citizenship/
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td width="180" align="left" valign="top">Globalhr</td>
+      <td width="420" align="left" valign="top">Software Engineer I - Next Gen Systems - Onsite</td>
+      <td width="180" align="left" valign="top">Cedar Rapids, IA</td>
+      <td width="120" align="left" valign="top"><a href="https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Software-Engineer-I---Next-Gen-Systems---Onsite_01881673" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 14</td>
+    </tr>
     <tr>
       <td width="180" align="left" valign="top">Nvidia</td>
       <td width="420" align="left" valign="top">PCB Design EDA and AI Engineer - New College Graduate 2027</td>
@@ -3969,4 +4004,4 @@ Every opportunity matching your current filters (country, category, citizenship/
 
 ---
 
-📦 Generated from `opportunities.ndjson` &nbsp;•&nbsp; 🕒 Last updated `2026-10-14T18:31:43.595Z`
+📦 Generated from `opportunities.ndjson` &nbsp;•&nbsp; 🕒 Last updated `2026-10-15T01:19:29.485Z`

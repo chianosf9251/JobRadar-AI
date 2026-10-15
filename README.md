@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20Parsed-google%20%2F%20gemini--3.1--flash--lite-blue" />
   <img src="https://img.shields.io/badge/Countries-USA%20%C2%B7%20Taiwan-green" />
-  <img src="https://img.shields.io/badge/Updated-2026--10--14-orange" />
+  <img src="https://img.shields.io/badge/Updated-2026--10--15-orange" />
   <img src="https://img.shields.io/badge/License-MIT-yellow" />
 </p>
 
@@ -102,6 +102,20 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td width="180" align="left" valign="top">Icf</td>
+      <td width="420" align="left" valign="top">2027 Summer Intern, AI Engineer (Reston, VA)</td>
+      <td width="180" align="left" valign="top">Reston, VA</td>
+      <td width="120" align="left" valign="top"><a href="https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--AI-Engineer--Reston--VA-_R2603521" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 14</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Figure</td>
+      <td width="420" align="left" valign="top">Embedded Software Engineering Intern, Platform</td>
+      <td width="180" align="left" valign="top">San Jose, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://job-boards.greenhouse.io/figureai/jobs/4722086006" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 14</td>
+    </tr>
     <tr>
       <td width="180" align="left" valign="top">Point72</td>
       <td width="420" align="left" valign="top">2027 Summer Internship – Software Engineer </td>
@@ -935,34 +949,6 @@
       <td width="120" align="left" valign="top"><a href="https://jobs.apple.com/en-us/details/200683709-3950/software-engineer-intern-core-os?team=SFTWR" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
       <td width="100" align="left" valign="top">September 15</td>
     </tr>
-    <tr>
-      <td width="180" align="left" valign="top">DoorDash Canada</td>
-      <td width="420" align="left" valign="top">Software Engineer, Intern (Summer 2027) - TOR</td>
-      <td width="180" align="left" valign="top">New York, NY</td>
-      <td width="120" align="left" valign="top"><a href="https://job-boards.greenhouse.io/doordashcanada/jobs/8170944" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">September 14</td>
-    </tr>
-    <tr>
-      <td width="180" align="left" valign="top">Charta Health</td>
-      <td width="420" align="left" valign="top">Forward Deployed AI Engineer Intern</td>
-      <td width="180" align="left" valign="top">San Francisco, CA</td>
-      <td width="120" align="left" valign="top"><a href="https://jobs.ashbyhq.com/chartahealth/0c76d54d-0ca8-4ab6-b360-c2dbae7b17cf/application?embed=true" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">September 14</td>
-    </tr>
-    <tr>
-      <td width="180" align="left" valign="top">SingleStore</td>
-      <td width="420" align="left" valign="top">Software Engineer Intern</td>
-      <td width="180" align="left" valign="top">San Francisco, CA</td>
-      <td width="120" align="left" valign="top"><a href="https://job-boards.greenhouse.io/singlestore/jobs/8154399" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">September 14</td>
-    </tr>
-    <tr>
-      <td width="180" align="left" valign="top">Lowe&#39;s</td>
-      <td width="420" align="left" valign="top">Exploratory Software Engineer Intern</td>
-      <td width="180" align="left" valign="top">Charlotte, NC</td>
-      <td width="120" align="left" valign="top"><a href="https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Exploratory-Software-Engineering---Undergrad-Internship---Summer-2027_JR-02623542" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">September 14</td>
-    </tr>
   </tbody>
 </table>
 
@@ -979,6 +965,20 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td width="180" align="left" valign="top">Cubic</td>
+      <td width="420" align="left" valign="top">Systems Engineering Execution Intern</td>
+      <td width="180" align="left" valign="top">San Diego, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://cubic.wd1.myworkdayjobs.com/cubic_usa_careers/job/San-Diego-California/Systems-Engineering-Execution-Intern_REQ_50178" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 14</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Alliance</td>
+      <td width="420" align="left" valign="top">Software Engineer Intern - Spring 2027 - Santa Clara, CA</td>
+      <td width="180" align="left" valign="top">Santa Clara, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Santa-Clara-California---United-States-of-America/Software-Engineer-Intern---Spring-2027---Santa-Clara--CA_R00214269" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 14</td>
+    </tr>
     <tr>
       <td width="180" align="left" valign="top">Skydio</td>
       <td width="420" align="left" valign="top">Manufacturing Software Engineer Intern - Winter 2027</td>
@@ -1238,13 +1238,6 @@
       <td width="120" align="left" valign="top"><a href="https://job-boards.greenhouse.io/cartesiansystems/jobs/4408204009" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
       <td width="100" align="left" valign="top">September 16</td>
     </tr>
-    <tr>
-      <td width="180" align="left" valign="top">Western Digital</td>
-      <td width="420" align="left" valign="top">Systems Architecture Co-op - AI Systems Strategy 🎓</td>
-      <td width="180" align="left" valign="top">Rochester, MN</td>
-      <td width="120" align="left" valign="top"><a href="https://jobs.smartrecruiters.com/WesternDigital/744000149367234" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">September 14</td>
-    </tr>
   </tbody>
 </table>
 
@@ -1261,6 +1254,13 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td width="180" align="left" valign="top">Globalhr</td>
+      <td width="420" align="left" valign="top">Software Engineer I - Next Gen Systems - Onsite</td>
+      <td width="180" align="left" valign="top">Cedar Rapids, IA</td>
+      <td width="120" align="left" valign="top"><a href="https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Software-Engineer-I---Next-Gen-Systems---Onsite_01881673" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 14</td>
+    </tr>
     <tr>
       <td width="180" align="left" valign="top">Nvidia</td>
       <td width="420" align="left" valign="top">PCB Design EDA and AI Engineer - New College Graduate 2027</td>
@@ -1870,41 +1870,6 @@
       <td width="120" align="left" valign="top"><a href="https://jobs.ashbyhq.com/cerebras/8cb78937-ac30-4ab2-98d0-680228ea5e6f" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
       <td width="100" align="left" valign="top">September 15</td>
     </tr>
-    <tr>
-      <td width="180" align="left" valign="top">Superhuman%20platform%20inc</td>
-      <td width="420" align="left" valign="top">Software Engineer, Early Career</td>
-      <td width="180" align="left" valign="top">San Francisco, CA</td>
-      <td width="120" align="left" valign="top"><a href="https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/da5e147c-f957-4ba1-9712-1b2dde377cb0" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">September 14</td>
-    </tr>
-    <tr>
-      <td width="180" align="left" valign="top">Sbdinc</td>
-      <td width="420" align="left" valign="top">Engineer 1, Software Engineering - Motor Control</td>
-      <td width="180" align="left" valign="top">Towson, MD</td>
-      <td width="120" align="left" valign="top"><a href="https://sbdinc.wd1.myworkdayjobs.com/stanley_black_decker_career_site/job/Towson-MD-United-States/Engineer-1--Software-Engineering---Motor-Control_REQ-1000052383" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">September 14</td>
-    </tr>
-    <tr>
-      <td width="180" align="left" valign="top">Lowes</td>
-      <td width="420" align="left" valign="top">Associate Software Engineer - Launchpad</td>
-      <td width="180" align="left" valign="top">Charlotte, NC</td>
-      <td width="120" align="left" valign="top"><a href="https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Associate-Software-Engineer---Launchpad_JR-02641559" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">September 14</td>
-    </tr>
-    <tr>
-      <td width="180" align="left" valign="top">Hpe</td>
-      <td width="420" align="left" valign="top">AI and Machine Learning Engineering Graduate</td>
-      <td width="180" align="left" valign="top">Durham, NC</td>
-      <td width="120" align="left" valign="top"><a href="https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Durham-North-Carolina-United-States-of-America/AI-and-Machine-Learning-Engineering-Graduate_1213475" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">September 14</td>
-    </tr>
-    <tr>
-      <td width="180" align="left" valign="top">DoorDash USA</td>
-      <td width="420" align="left" valign="top">Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) - US</td>
-      <td width="180" align="left" valign="top">San Francisco, CA</td>
-      <td width="120" align="left" valign="top"><a href="https://job-boards.greenhouse.io/doordashusa/jobs/8163709" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">September 14</td>
-    </tr>
   </tbody>
 </table>
 
@@ -1929,7 +1894,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-10-14T18:31:43.595Z</code>
+      🕒 Last updated <code>2026-10-15T01:19:29.485Z</code>
     </span>
   </p>
 </div>
