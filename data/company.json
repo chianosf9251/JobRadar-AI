@@ -2532,11 +2532,11 @@
       "https://boards.greenhouse.io/andurilindustries/jobs/5262340007?gh_jid=5262340007",
       "https://boards.greenhouse.io/andurilindustries/jobs/5264403007?gh_jid=5264403007",
       "https://boards.greenhouse.io/andurilindustries/jobs/5264635007?gh_jid=5264635007",
+      "https://boards.greenhouse.io/andurilindustries/jobs/5265127007",
       "https://boards.greenhouse.io/andurilindustries/jobs/5265279007?gh_jid=5265279007",
       "https://boards.greenhouse.io/andurilindustries/jobs/5265401007?gh_jid=5265401007",
       "https://boards.greenhouse.io/andurilindustries/jobs/5265402007?gh_jid=5265402007",
-      "https://boards.greenhouse.io/andurilindustries/jobs/5265417007?gh_jid=5265417007",
-      "https://boards.greenhouse.io/andurilindustries/jobs/5265127007"
+      "https://boards.greenhouse.io/andurilindustries/jobs/5265417007?gh_jid=5265417007"
     ]
   },
   {
@@ -9354,6 +9354,16 @@
     "urls": [
       "https://careers.blizzard.com/global/en/job/R028084?ph_id=R028084",
       "https://careers.blizzard.com/global/en/job/R028141?ph_id=R028141"
+    ]
+  },
+  {
+    "name": "careers.capgemini.com",
+    "ats": "custom",
+    "identifier": "careers.capgemini.com",
+    "domain": "https://careers.capgemini.com",
+    "page": "",
+    "urls": [
+      "https://careers.capgemini.com/job/Telford-Graduate-Software-Engineering-Programme-2027-1/1443172033/?ats=successfactors"
     ]
   },
   {
@@ -37010,11 +37020,11 @@
     "domain": "https://jobs.ashbyhq.com",
     "page": "https://api.ashbyhq.com/posting-api/job-board/skydio",
     "urls": [
+      "https://jobs.ashbyhq.com/skydio/79fdda46-4ff5-42c7-b208-55f2084cdb8c/application?embed=true",
       "https://jobs.ashbyhq.com/skydio/8994767e-fd53-4ca2-b0ef-fe0923c1e260",
       "https://jobs.ashbyhq.com/skydio/bab95798-8ec7-4254-83c9-070b19c71814",
       "https://jobs.ashbyhq.com/skydio/d415cf2b-616c-459e-9c5f-58a1b2c4a1bb",
-      "https://jobs.ashbyhq.com/skydio/ffc665c1-2aa6-4c2f-b04b-93a6fb7b5feb",
-      "https://jobs.ashbyhq.com/skydio/79fdda46-4ff5-42c7-b208-55f2084cdb8c/application?embed=true"
+      "https://jobs.ashbyhq.com/skydio/ffc665c1-2aa6-4c2f-b04b-93a6fb7b5feb"
     ]
   },
   {
@@ -39537,9 +39547,9 @@
     "urls": [
       "https://jobs.ashbyhq.com/tessera-labs/0e719bf0-e1ef-4cad-ae3b-c16ab4e08307",
       "https://jobs.ashbyhq.com/tessera-labs/202be46b-0d9d-4277-b8b2-719c3321a352",
+      "https://jobs.ashbyhq.com/tessera-labs/892bb150-8c98-47f4-a8b6-93633ecb2ea7/application?embed=true",
       "https://jobs.ashbyhq.com/tessera-labs/c48696b2-b320-4a79-8b19-ebdb94575817",
-      "https://jobs.ashbyhq.com/tessera-labs/eb150714-eeb2-44b4-8a23-c893be972bed",
-      "https://jobs.ashbyhq.com/tessera-labs/892bb150-8c98-47f4-a8b6-93633ecb2ea7/application?embed=true"
+      "https://jobs.ashbyhq.com/tessera-labs/eb150714-eeb2-44b4-8a23-c893be972bed"
     ]
   },
   {
