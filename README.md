@@ -103,6 +103,13 @@
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Google</td>
+      <td width="420" align="left" valign="top">Software Engineering Intern, Summer 2027</td>
+      <td width="180" align="left" valign="top">Taipei, Taiwan</td>
+      <td width="120" align="left" valign="top"><a href="https://www.google.com/about/careers/applications/jobs/results/85430979253936838-software-engineering-intern-summer-2027?sort_by=date&amp;page=2" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 15</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Skydio</td>
       <td width="420" align="left" valign="top">Software Engineer Intern</td>
       <td width="180" align="left" valign="top">San Mateo, CA</td>
@@ -933,34 +940,6 @@
       <td width="420" align="left" valign="top">Software Engineering Intern, 2028 Grads </td>
       <td width="180" align="left" valign="top">New York, NY</td>
       <td width="120" align="left" valign="top"><a href="https://jobs.ashbyhq.com/rilla/0e111ca4-3837-43d2-8507-6030a0dc32d9" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">September 15</td>
-    </tr>
-    <tr>
-      <td width="180" align="left" valign="top">NISC</td>
-      <td width="420" align="left" valign="top">Intern - Platform Development (Systems Engineering)</td>
-      <td width="180" align="left" valign="top">Mandan, ND</td>
-      <td width="120" align="left" valign="top"><a href="https://job-boards.greenhouse.io/testnisc/jobs/8204131" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">September 15</td>
-    </tr>
-    <tr>
-      <td width="180" align="left" valign="top">↳</td>
-      <td width="420" align="left" valign="top">Intern - Platform Development (Systems Engineering)</td>
-      <td width="180" align="left" valign="top">Lake Saint Louis, MO</td>
-      <td width="120" align="left" valign="top"><a href="https://job-boards.greenhouse.io/testnisc/jobs/8204129" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">September 15</td>
-    </tr>
-    <tr>
-      <td width="180" align="left" valign="top">National Information Solutions Cooperative (NISC)</td>
-      <td width="420" align="left" valign="top">Intern - Platform Development (Systems Engineering)</td>
-      <td width="180" align="left" valign="top">Lake Saint Louis, MO</td>
-      <td width="120" align="left" valign="top"><a href="https://job-boards.greenhouse.io/nisc/jobs/8204101" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">September 15</td>
-    </tr>
-    <tr>
-      <td width="180" align="left" valign="top">Apple</td>
-      <td width="420" align="left" valign="top">Software Engineer Intern - Core OS</td>
-      <td width="180" align="left" valign="top">Taipei, Taiwan</td>
-      <td width="120" align="left" valign="top"><a href="https://jobs.apple.com/en-us/details/200683709-3950/software-engineer-intern-core-os?team=SFTWR" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
       <td width="100" align="left" valign="top">September 15</td>
     </tr>
   </tbody>
@@ -1891,13 +1870,6 @@
       <td width="120" align="left" valign="top"><a href="https://jobs.apple.com/en-us/details/200683808-3543/systems-software-engineer?team=HRDWR" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
       <td width="100" align="left" valign="top">September 15</td>
     </tr>
-    <tr>
-      <td width="180" align="left" valign="top">Cerebras</td>
-      <td width="420" align="left" valign="top">Software Engineer, Kernel Reliability</td>
-      <td width="180" align="left" valign="top">United States and Canada</td>
-      <td width="120" align="left" valign="top"><a href="https://jobs.ashbyhq.com/cerebras/8cb78937-ac30-4ab2-98d0-680228ea5e6f" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">September 15</td>
-    </tr>
   </tbody>
 </table>
 
@@ -1922,7 +1894,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-10-15T13:15:13.464Z</code>
+      🕒 Last updated <code>2026-10-15T17:42:29.448Z</code>
     </span>
   </p>
 </div>
