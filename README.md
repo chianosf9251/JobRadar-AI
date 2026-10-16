@@ -935,20 +935,6 @@
       <td width="120" align="left" valign="top"><a href="https://job-boards.greenhouse.io/clockworksystems/jobs/6174230004" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
       <td width="100" align="left" valign="top">September 16</td>
     </tr>
-    <tr>
-      <td width="180" align="left" valign="top">NOV</td>
-      <td width="420" align="left" valign="top">Software Engineer Intern - Rig Technologies</td>
-      <td width="180" align="left" valign="top">Houston, TX</td>
-      <td width="120" align="left" valign="top"><a href="https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/44449" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">September 15</td>
-    </tr>
-    <tr>
-      <td width="180" align="left" valign="top">Elire</td>
-      <td width="420" align="left" valign="top">AI Software Developer Intern - Multiple Teams</td>
-      <td width="180" align="left" valign="top">Minneapolis, MN</td>
-      <td width="120" align="left" valign="top"><a href="https://jobs.jobvite.com/elire/job/oM5LAfwW?nl=1&amp;nl=1&amp;fr=false" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">September 15</td>
-    </tr>
   </tbody>
 </table>
 
@@ -1894,7 +1880,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-10-16T01:11:05.982Z</code>
+      🕒 Last updated <code>2026-10-16T07:00:41.531Z</code>
     </span>
   </p>
 </div>
