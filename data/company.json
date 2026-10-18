@@ -277,9 +277,7 @@
     "identifier": "acadian-asset",
     "domain": "https://www.acadian-asset.com",
     "page": "https://boards-api.greenhouse.io/v1/boards/acadian-asset/jobs",
-    "urls": [
-      "https://www.acadian-asset.com/careers/open-positions?gh_jid=4688297006"
-    ]
+    "urls": []
   },
   {
     "name": "acadianassetmanagementllc",
@@ -287,7 +285,9 @@
     "identifier": "acadianassetmanagementllc",
     "domain": "https://www.acadian-asset.com",
     "page": "https://boards-api.greenhouse.io/v1/boards/acadianassetmanagementllc/jobs",
-    "urls": []
+    "urls": [
+      "https://www.acadian-asset.com/careers/open-positions?gh_jid=4688297006"
+    ]
   },
   {
     "name": "AccelLearning",
@@ -26399,9 +26399,11 @@
     "name": "leonardocompany",
     "ats": "workday",
     "identifier": "leonardocompany-leonardocareersite",
-    "domain": "https://leonardocompany.wd3.myworkdayjobs.com/leonardocareersite",
-    "page": "https://leonardocompany.wd3.myworkdayjobs.com/wday/cxs/leonardocompany/leonardocareersite/jobs",
+    "domain": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite",
+    "page": "https://leonardocompany.wd3.myworkdayjobs.com/wday/cxs/leonardocompany/LeonardoCareerSite/jobs",
     "urls": [
+      "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Basildon/Summer-Placement-Software-Engineer_R0034282",
+      "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Summer-Placement-Software-Engineer_R0033869-1",
       "https://leonardocompany.wd3.myworkdayjobs.com/leonardocareersite/job/GB---Basildon/Chief-Systems-Engineer---Precision-Guidance_R0027077-1",
       "https://leonardocompany.wd3.myworkdayjobs.com/leonardocareersite/job/GB---Basildon/Electro-Optic-Systems-Engineer_R0029195",
       "https://leonardocompany.wd3.myworkdayjobs.com/leonardocareersite/job/GB---Edinburgh/C---Software-Engineer_R0029200",
@@ -26417,8 +26419,7 @@
       "https://leonardocompany.wd3.myworkdayjobs.com/leonardocareersite/job/IT---Roma---Via-Tiburtina-965/Telespazio--Satcom-Software-Engineering_R0032608",
       "https://leonardocompany.wd3.myworkdayjobs.com/leonardocareersite/job/IT---Varese---Cascina-Costa/ELI----Embedded-Software-Senior-Engineer_R0028670-1",
       "https://leonardocompany.wd3.myworkdayjobs.com/leonardocareersite/job/IT---Varese---Cascina-Costa/ELI---Avionic-Systems-Engineer_R0032661-1",
-      "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Summer-Placement-Software-Engineer_R0033869-1",
-      "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Basildon/Summer-Placement-Software-Engineer_R0034282"
+      "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Newcastle/Summer-Placement-Software-Engineer_R0033874"
     ]
   },
   {
