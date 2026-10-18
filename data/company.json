@@ -277,7 +277,9 @@
     "identifier": "acadian-asset",
     "domain": "https://www.acadian-asset.com",
     "page": "https://boards-api.greenhouse.io/v1/boards/acadian-asset/jobs",
-    "urls": []
+    "urls": [
+      "https://www.acadian-asset.com/careers/open-positions?gh_jid=4688297006"
+    ]
   },
   {
     "name": "acadianassetmanagementllc",
@@ -285,9 +287,7 @@
     "identifier": "acadianassetmanagementllc",
     "domain": "https://www.acadian-asset.com",
     "page": "https://boards-api.greenhouse.io/v1/boards/acadianassetmanagementllc/jobs",
-    "urls": [
-      "https://www.acadian-asset.com/careers/open-positions?gh_jid=4688297006"
-    ]
+    "urls": []
   },
   {
     "name": "AccelLearning",
@@ -26416,7 +26416,9 @@
       "https://leonardocompany.wd3.myworkdayjobs.com/leonardocareersite/job/IT---Pomezia/Avionic-Software-Engineer_R0027699",
       "https://leonardocompany.wd3.myworkdayjobs.com/leonardocareersite/job/IT---Roma---Via-Tiburtina-965/Telespazio--Satcom-Software-Engineering_R0032608",
       "https://leonardocompany.wd3.myworkdayjobs.com/leonardocareersite/job/IT---Varese---Cascina-Costa/ELI----Embedded-Software-Senior-Engineer_R0028670-1",
-      "https://leonardocompany.wd3.myworkdayjobs.com/leonardocareersite/job/IT---Varese---Cascina-Costa/ELI---Avionic-Systems-Engineer_R0032661-1"
+      "https://leonardocompany.wd3.myworkdayjobs.com/leonardocareersite/job/IT---Varese---Cascina-Costa/ELI---Avionic-Systems-Engineer_R0032661-1",
+      "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Summer-Placement-Software-Engineer_R0033869-1",
+      "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Basildon/Summer-Placement-Software-Engineer_R0034282"
     ]
   },
   {
@@ -40854,6 +40856,7 @@
       "https://lifeattiktok.com/search/7592014594232142085?spread=5MWH5CQ",
       "https://lifeattiktok.com/search/7592368550477465909",
       "https://lifeattiktok.com/search/7593108760621779253?spread=5MWH5CQ",
+      "https://lifeattiktok.com/search/7594374907271596293",
       "https://lifeattiktok.com/search/7594895259798325557",
       "https://lifeattiktok.com/search/7595305817516165381",
       "https://lifeattiktok.com/search/7595306554946193717",
@@ -41137,6 +41140,7 @@
       "https://lifeattiktok.com/search/7672976491146004741",
       "https://lifeattiktok.com/search/7673284715407886597",
       "https://lifeattiktok.com/search/7673409179353139461",
+      "https://lifeattiktok.com/search/7673636206961641781",
       "https://lifeattiktok.com/search/7673663349758675205",
       "https://lifeattiktok.com/search/7673667938889009461",
       "https://lifeattiktok.com/search/7673669198965278981",
@@ -41164,11 +41168,9 @@
       "https://lifeattiktok.com/search/7685587541403191605",
       "https://lifeattiktok.com/search/7685769994391832837",
       "https://lifeattiktok.com/search/7690664722437474613",
-      "https://lifeattiktok.com/search/7694416687067777285",
-      "https://lifeattiktok.com/search/7695929967028750645",
       "https://lifeattiktok.com/search/7691912021118077237",
-      "https://lifeattiktok.com/search/7673636206961641781",
-      "https://lifeattiktok.com/search/7594374907271596293"
+      "https://lifeattiktok.com/search/7694416687067777285",
+      "https://lifeattiktok.com/search/7695929967028750645"
     ]
   },
   {
