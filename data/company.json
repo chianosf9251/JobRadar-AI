@@ -7826,8 +7826,8 @@
       "https://jobs.smartrecruiters.com/BoschGroup/744000155962579",
       "https://jobs.smartrecruiters.com/BoschGroup/744000155984349",
       "https://jobs.smartrecruiters.com/BoschGroup/744000155993379",
-      "https://jobs.smartrecruiters.com/BoschGroup/744000156173229",
-      "https://jobs.smartrecruiters.com/BoschGroup/744000156169547"
+      "https://jobs.smartrecruiters.com/BoschGroup/744000156169547",
+      "https://jobs.smartrecruiters.com/BoschGroup/744000156173229"
     ]
   },
   {
@@ -10194,6 +10194,7 @@
       "https://careers.cisco.com/global/en/job/2026166?ph_id=2026166",
       "https://careers.cisco.com/global/en/job/2026172?ph_id=2026172",
       "https://careers.cisco.com/global/en/job/2026174?ph_id=2026174",
+      "https://careers.cisco.com/global/en/job/2026188?ph_id=2026188",
       "https://careers.cisco.com/global/en/job/2026189?ph_id=2026189",
       "https://careers.cisco.com/global/en/job/2026210?ph_id=2026210",
       "https://careers.cisco.com/global/en/job/2026226?ph_id=2026226",
@@ -10213,6 +10214,7 @@
       "https://careers.cisco.com/global/en/job/2026383?ph_id=2026383",
       "https://careers.cisco.com/global/en/job/2026422?ph_id=2026422",
       "https://careers.cisco.com/global/en/job/2026435?ph_id=2026435",
+      "https://careers.cisco.com/global/en/job/2026436?ph_id=2026436",
       "https://careers.cisco.com/global/en/job/2026535?ph_id=2026535",
       "https://careers.cisco.com/global/en/job/2026650?ph_id=2026650",
       "https://careers.cisco.com/global/en/job/2026774?ph_id=2026774",
@@ -10230,6 +10232,7 @@
       "https://careers.cisco.com/global/en/job/2027384?ph_id=2027384",
       "https://careers.cisco.com/global/en/job/2027388?ph_id=2027388",
       "https://careers.cisco.com/global/en/job/2027392?ph_id=2027392",
+      "https://careers.cisco.com/global/en/job/2027393?ph_id=2027393",
       "https://careers.cisco.com/global/en/job/2027413?ph_id=2027413",
       "https://careers.cisco.com/global/en/job/2027416?ph_id=2027416",
       "https://careers.cisco.com/global/en/job/2027546?ph_id=2027546",
@@ -10251,10 +10254,7 @@
       "https://careers.cisco.com/global/en/job/2028379?ph_id=2028379",
       "https://careers.cisco.com/global/en/job/2028394?ph_id=2028394",
       "https://careers.cisco.com/global/en/job/2028670?ph_id=2028670",
-      "https://careers.cisco.com/global/en/job/2028882?ph_id=2028882",
-      "https://careers.cisco.com/global/en/job/2027393?ph_id=2027393",
-      "https://careers.cisco.com/global/en/job/2026436?ph_id=2026436",
-      "https://careers.cisco.com/global/en/job/2026188?ph_id=2026188"
+      "https://careers.cisco.com/global/en/job/2028882?ph_id=2028882"
     ]
   },
   {
@@ -11778,6 +11778,16 @@
     "domain": "https://careers.viasat.com",
     "page": "",
     "urls": []
+  },
+  {
+    "name": "careers.vtgdefense.com",
+    "ats": "custom",
+    "identifier": "careers.vtgdefense.com",
+    "domain": "https://careers.vtgdefense.com",
+    "page": "",
+    "urls": [
+      "https://careers.vtgdefense.com/jobs/9669?icims=1"
+    ]
   },
   {
     "name": "careers.westinghousenuclear.com",
@@ -29033,6 +29043,7 @@
       "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Greater-Chicago-Area/Software-Engineer-Intern---Summer-2027_R68679",
       "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Greater-Chicago-Area/Systems-Engineer---Great-Chicago-Area_R69284",
       "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ho-Chi-Minh-Vietnam/Backend-Software-Engineer_R62477",
+      "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ho-Chi-Minh-Vietnam/Backend-Software-Engineer_R68604-1",
       "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ho-Chi-Minh-Vietnam/Embedded-Software-Engineer--C----Computer-Vision-_R68246",
       "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ho-Chi-Minh-Vietnam/Principal-Architect--Engine-Pipeline-_R61984",
       "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ho-Chi-Minh-Vietnam/Principal-Architect_R62206",
@@ -29142,8 +29153,7 @@
       "https://motorolasolutions.wd5.myworkdayjobs.com/careers/job/Salt-Lake-City-UT-UT17/Manufacturing-Test-Systems-Engineer_R64983",
       "https://motorolasolutions.wd5.myworkdayjobs.com/careers/job/Salt-Lake-City-UT-UT17/Software-Engineer_R64168",
       "https://motorolasolutions.wd5.myworkdayjobs.com/careers/job/Schaumburg-IL/Software-Engineer_R65386",
-      "https://motorolasolutions.wd5.myworkdayjobs.com/careers/job/United-Kingdom-Offsite-ZUK99/Software-Engineer_R62991",
-      "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ho-Chi-Minh-Vietnam/Backend-Software-Engineer_R68604-1"
+      "https://motorolasolutions.wd5.myworkdayjobs.com/careers/job/United-Kingdom-Offsite-ZUK99/Software-Engineer_R62991"
     ]
   },
   {
@@ -41910,10 +41920,10 @@
       "https://job-boards.greenhouse.io/twilio/jobs/8098945",
       "https://job-boards.greenhouse.io/twilio/jobs/8100236",
       "https://job-boards.greenhouse.io/twilio/jobs/8103253",
+      "https://job-boards.greenhouse.io/twilio/jobs/8108771",
       "https://job-boards.greenhouse.io/twilio/jobs/8190887",
       "https://job-boards.greenhouse.io/twilio/jobs/8190889",
-      "https://job-boards.greenhouse.io/twilio/jobs/8247182",
-      "https://job-boards.greenhouse.io/twilio/jobs/8108771"
+      "https://job-boards.greenhouse.io/twilio/jobs/8247182"
     ]
   },
   {
