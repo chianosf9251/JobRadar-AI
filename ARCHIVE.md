@@ -2008,6 +2008,13 @@ Every opportunity matching your current filters (country, category, citizenship/
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">HeyGen</td>
+      <td width="420" align="left" valign="top">Software Engineer Intern</td>
+      <td width="180" align="left" valign="top">Los Angeles, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://job-boards.greenhouse.io/heygen/jobs/4540716007" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 18</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Together AI</td>
       <td width="420" align="left" valign="top">Research Intern, Frontier Speculative Decoding</td>
       <td width="180" align="left" valign="top">San Francisco, CA</td>
@@ -3913,4 +3920,4 @@ Every opportunity matching your current filters (country, category, citizenship/
 
 ---
 
-📦 Generated from `opportunities.ndjson` &nbsp;•&nbsp; 🕒 Last updated `2026-10-19T00:46:15.793Z`
+📦 Generated from `opportunities.ndjson` &nbsp;•&nbsp; 🕒 Last updated `2026-10-19T06:03:12.451Z`
