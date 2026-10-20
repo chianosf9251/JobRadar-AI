@@ -103,6 +103,20 @@
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Selinc</td>
+      <td width="420" align="left" valign="top">Software Engineer Intern</td>
+      <td width="180" align="left" valign="top">Pullman, WA</td>
+      <td width="120" align="left" valign="top"><a href="https://selinc.wd1.myworkdayjobs.com/sel/job/Washington---Pullman/Software-Engineer-Intern_2026-24190" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 20</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Coinbase</td>
+      <td width="420" align="left" valign="top">Software Engineer Intern</td>
+      <td width="180" align="left" valign="top">San Francisco, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 20</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Palantir</td>
       <td width="420" align="left" valign="top">Software Engineer, Internship - Query Engines</td>
       <td width="180" align="left" valign="top">New York, NY</td>
@@ -875,6 +889,20 @@
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Freseniusmedicalcare</td>
+      <td width="420" align="left" valign="top">Software Engineering Co-op</td>
+      <td width="180" align="left" valign="top">Lawrence, MA</td>
+      <td width="120" align="left" valign="top"><a href="https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Lawrence-MA-USA/Software-Engineering-Co-op_R0271309" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 20</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Ciena</td>
+      <td width="420" align="left" valign="top">Software Engineer (Security) - Intern (Winter 2027)</td>
+      <td width="180" align="left" valign="top">Alpharetta, GA</td>
+      <td width="120" align="left" valign="top"><a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Software-Engineer--Security----Intern--Winter-2027-_R031926" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 20</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com</td>
       <td width="420" align="left" valign="top">Intern - Year Round (AI Engineering)</td>
       <td width="180" align="left" valign="top">Vienna, VA</td>
@@ -1135,6 +1163,20 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td width="180" align="left" valign="top">Cummins talent acquisition</td>
+      <td width="420" align="left" valign="top">Structural and Dynamic Systems Engineer - Analytical</td>
+      <td width="180" align="left" valign="top">Seymour, IN</td>
+      <td width="120" align="left" valign="top"><a href="https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2433949" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 20</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Bny external career site</td>
+      <td width="420" align="left" valign="top">Specialist, Infrastructure Solution Engineer</td>
+      <td width="180" align="left" valign="top">Jersey City, NJ</td>
+      <td width="120" align="left" valign="top"><a href="https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82779" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 20</td>
+    </tr>
     <tr>
       <td width="180" align="left" valign="top">Palantir</td>
       <td width="420" align="left" valign="top">Software Engineer, New Grad - Query Engines</td>
@@ -1691,7 +1733,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-10-20T16:44:17.718Z</code>
+      🕒 Last updated <code>2026-10-20T17:48:15.394Z</code>
     </span>
   </p>
 </div>
