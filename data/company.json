@@ -21318,7 +21318,10 @@
       "https://job-boards.greenhouse.io/graphcore/jobs/8841978002",
       "https://job-boards.greenhouse.io/graphcore/jobs/8841990002",
       "https://job-boards.greenhouse.io/graphcore/jobs/8842006002",
-      "https://job-boards.greenhouse.io/graphcore/jobs/8880005002"
+      "https://job-boards.greenhouse.io/graphcore/jobs/8880005002",
+      "https://job-boards.greenhouse.io/graphcore/jobs/8894376002",
+      "https://job-boards.greenhouse.io/graphcore/jobs/8894868002",
+      "https://job-boards.greenhouse.io/graphcore/jobs/8894177002"
     ]
   },
   {
@@ -34851,6 +34854,16 @@
     ]
   },
   {
+    "name": "red-gate",
+    "ats": "ashby",
+    "identifier": "red-gate",
+    "domain": "https://jobs.ashbyhq.com",
+    "page": "https://api.ashbyhq.com/posting-api/job-board/red-gate",
+    "urls": [
+      "https://jobs.ashbyhq.com/red-gate/2449a05b-81da-40de-b64d-3436c8ddb1df/application?embed=true"
+    ]
+  },
+  {
     "name": "redhat",
     "ats": "workday",
     "identifier": "redhat-jobs",
@@ -39309,6 +39322,16 @@
     ]
   },
   {
+    "name": "steel",
+    "ats": "ashby",
+    "identifier": "steel",
+    "domain": "https://jobs.ashbyhq.com",
+    "page": "https://api.ashbyhq.com/posting-api/job-board/steel",
+    "urls": [
+      "https://jobs.ashbyhq.com/steel/5fbdbebf-ddb2-4264-a941-3ab6d475208c/application?embed=true"
+    ]
+  },
+  {
     "name": "steeldynamics",
     "ats": "icims",
     "identifier": "steeldynamics",
@@ -43343,7 +43366,9 @@
       "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Richmond-Virginia/Network-Performance-Engineer_R-1100486-1",
       "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Rolling-Meadows-Illinois/AI-Workflow-Engineer_R-1101033-1",
       "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Temple-Terrace-Florida/AI-Engineer---Go-To-Market_R-1101812-1",
-      "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Temple-Terrace-Florida/Engineer-I---Systems-Engineering_R-1097946"
+      "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Temple-Terrace-Florida/Engineer-I---Systems-Engineering_R-1097946",
+      "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Basking-Ridge--NJ--V-Teamer-for-a-Day--Verizon-Consumer-Group--Call-Routing-Optimization-Engineering-Summer-2027-Internship_R-1102394",
+      "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Consumer-Group--Call-Routing-Optimization-Engineering-Summer-2027-Internship_R-1102398"
     ]
   },
   {
