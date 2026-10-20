@@ -1699,7 +1699,8 @@
       "https://amazon.jobs/en/jobs/3179209",
       "https://www.amazon.jobs/en/jobs/3066646/business-intelligence-engineer-co-op-2026-us",
       "https://www.amazon.jobs/en/jobs/3101249/software-development-engineer-internship-winter-2026-us",
-      "https://www.amazon.jobs/en/jobs/3136266/robotics-software-development-engineer-intern-co-op-2026?no_int_redir=1"
+      "https://www.amazon.jobs/en/jobs/3136266/robotics-software-development-engineer-intern-co-op-2026?no_int_redir=1",
+      "https://amazon.jobs/en/jobs/10583340/software-development-engineer-early-career-2027-us"
     ]
   },
   {
@@ -2064,6 +2065,16 @@
     "domain": "https://amperity.com",
     "page": "https://boards-api.greenhouse.io/v1/boards/amperity/jobs",
     "urls": []
+  },
+  {
+    "name": "amplify",
+    "ats": "ashby",
+    "identifier": "amplify",
+    "domain": "https://jobs.ashbyhq.com",
+    "page": "https://api.ashbyhq.com/posting-api/job-board/amplify",
+    "urls": [
+      "https://jobs.ashbyhq.com/amplify/855d22a3-f15e-49f6-854c-29e505653efa/application?embed=true"
+    ]
   },
   {
     "name": "amtrustgroup",
@@ -4244,7 +4255,8 @@
       "https://apply.workable.com/tmeic-corporation-americas/j/D44B74C42B/apply",
       "https://apply.workable.com/trycaddi/j/9D1291C697/apply",
       "https://apply.workable.com/western-magnetics/j/E366930F3F/apply",
-      "https://apply.workable.com/zaber/j/EAB5877DC3/apply"
+      "https://apply.workable.com/zaber/j/EAB5877DC3/apply",
+      "https://apply.workable.com/nuovophotography/j/7DE79BE9A8/apply"
     ]
   },
   {
@@ -7034,6 +7046,16 @@
     "domain": "https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers",
     "page": "https://bloomenergy.wd1.myworkdayjobs.com/wday/cxs/bloomenergy/bloomenergycareers/jobs",
     "urls": []
+  },
+  {
+    "name": "bloomon",
+    "ats": "lever",
+    "identifier": "bloomon",
+    "domain": "https://jobs.lever.co",
+    "page": "https://api.lever.co/v0/postings/bloomon?mode=json",
+    "urls": [
+      "https://jobs.lever.co/bloomon/7f832927-5c83-4fe9-9e7a-52de0fea57dd/apply"
+    ]
   },
   {
     "name": "bloxd",
@@ -10926,7 +10948,8 @@
       "https://careers.jhuapl.edu/jobs/59974?icims=1",
       "https://careers.jhuapl.edu/jobs/59997?icims=1",
       "https://careers.jhuapl.edu/jobs/60040?icims=1",
-      "https://careers.jhuapl.edu/jobs/60049?icims=1"
+      "https://careers.jhuapl.edu/jobs/60049?icims=1",
+      "https://careers.jhuapl.edu/jobs/60116?icims=1"
     ]
   },
   {
@@ -11880,7 +11903,8 @@
       "https://careers.westinghousenuclear.com/job/Shoreview-Software-Engineering-Intern-Summer-2026-MN-55126/1348239000/?codes=IND",
       "https://careers.westinghousenuclear.com/job/Warrendale-Safety-SW-I&C-Engineer-HMI-Systems-OR/1411189300/?ats=successfactors",
       "https://careers.westinghousenuclear.com/job/Warrendale-Software-Development-Intern-Summer-2026-OR/1364828400/?ats=successfactors",
-      "https://careers.westinghousenuclear.com/job/Warrendale-Summer-Intern-Tools-&-Apps-OR/1434869300/?ats=successfactors"
+      "https://careers.westinghousenuclear.com/job/Warrendale-Summer-Intern-Tools-&-Apps-OR/1434869300/?ats=successfactors",
+      "https://careers.westinghousenuclear.com/job/Cranberry-Township-Summer-Intern-Software-Development-NC/1441279500/?ats=successfactors"
     ]
   },
   {
@@ -23958,6 +23982,16 @@
     ]
   },
   {
+    "name": "inversionspace",
+    "ats": "greenhouse",
+    "identifier": "inversionspace",
+    "domain": "https://job-boards.greenhouse.io",
+    "page": "https://boards-api.greenhouse.io/v1/boards/inversionspace/jobs",
+    "urls": [
+      "https://job-boards.greenhouse.io/inversionspace/jobs/4745076005"
+    ]
+  },
+  {
     "name": "invesco",
     "ats": "workday",
     "identifier": "invesco-ivz",
@@ -24966,7 +25000,10 @@
       "https://jobs.ea.com/en_US/careers/JobDetail/Systems-Software-Engineer-Co-op/210903",
       "https://jobs.ea.com/en_US/careers/JobDetail/Technical-Artist-Co-op/216406",
       "https://jobs.ea.com/en_US/careers/JobDetail/UI-Scripter-Intern/216359",
-      "https://jobs.ea.com/en_US/careers/JobDetail/VINU-C-Software-Engineer-Co-op/210935"
+      "https://jobs.ea.com/en_US/careers/JobDetail/VINU-C-Software-Engineer-Co-op/210935",
+      "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216262",
+      "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216250",
+      "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-I/216357"
     ]
   },
   {
@@ -25078,7 +25115,8 @@
       "https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false",
       "https://jobs.jobvite.com/visionist/job/oEBdAfwM?nl=1&nl=1&fr=false",
       "https://jobs.jobvite.com/visionist/job/oTxGAfwq?nl=1&nl=1&fr=false",
-      "https://jobs.jobvite.com/windriver/job/ooShxfwO"
+      "https://jobs.jobvite.com/windriver/job/ooShxfwO",
+      "https://jobs.jobvite.com/tylertech/job/ouQXAfwB?nl=1&nl=1&fr=false"
     ]
   },
   {
@@ -32704,7 +32742,10 @@
     "identifier": "patreon",
     "domain": "https://jobs.ashbyhq.com",
     "page": "https://api.ashbyhq.com/posting-api/job-board/patreon",
-    "urls": []
+    "urls": [
+      "https://jobs.ashbyhq.com/patreon/cefe07ab-ba4f-48cc-86b9-a88b1859a95c/application?embed=true",
+      "https://jobs.ashbyhq.com/patreon/71f644bc-0873-4d62-a599-bd64405d6587/application?embed=true"
+    ]
   },
   {
     "name": "paycomonline.net",
