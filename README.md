@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20Parsed-google%20%2F%20gemini--3.1--flash--lite-blue" />
   <img src="https://img.shields.io/badge/Countries-USA%20%C2%B7%20Taiwan-green" />
-  <img src="https://img.shields.io/badge/Updated-2026--10--19-orange" />
+  <img src="https://img.shields.io/badge/Updated-2026--10--20-orange" />
   <img src="https://img.shields.io/badge/License-MIT-yellow" />
 </p>
 
@@ -1108,6 +1108,20 @@
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Amazon</td>
+      <td width="420" align="left" valign="top">Software Engineer – Early Career</td>
+      <td width="180" align="left" valign="top">Arlington, VA</td>
+      <td width="120" align="left" valign="top"><a href="https://amazon.jobs/en/jobs/10583340/software-development-engineer-early-career-2027-us" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 19</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Electronic Arts</td>
+      <td width="420" align="left" valign="top">Software Engineer 1</td>
+      <td width="180" align="left" valign="top">Orlando, FL</td>
+      <td width="120" align="left" valign="top"><a href="https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-I/216357" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 19</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Iawmqy.fa.ocs.oraclecloud.com</td>
       <td width="420" align="left" valign="top">2027 Software Engineer Campus Hire</td>
       <td width="180" align="left" valign="top">Taipei, Taiwan</td>
@@ -1635,7 +1649,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-10-19T20:30:07.392Z</code>
+      🕒 Last updated <code>2026-10-20T00:13:11.838Z</code>
     </span>
   </p>
 </div>
