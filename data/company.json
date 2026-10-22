@@ -25565,7 +25565,8 @@
       "https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false",
       "https://jobs.jobvite.com/visionist/job/oEBdAfwM?nl=1&nl=1&fr=false",
       "https://jobs.jobvite.com/visionist/job/oTxGAfwq?nl=1&nl=1&fr=false",
-      "https://jobs.jobvite.com/windriver/job/ooShxfwO"
+      "https://jobs.jobvite.com/windriver/job/ooShxfwO",
+      "https://jobs.jobvite.com/nutanix/job/oiwZAfw7?nl=1&nl=1&fr=false"
     ]
   },
   {
@@ -34942,7 +34943,8 @@
       "https://qualcomm.eightfold.ai/careers/job/446721635314?domain=qualcomm.com&8fold_id=446721635314",
       "https://qualcomm.eightfold.ai/careers/job/446721661677",
       "https://qualcomm.eightfold.ai/careers/job/446721661830",
-      "https://qualcomm.eightfold.ai/careers/job/446721664194"
+      "https://qualcomm.eightfold.ai/careers/job/446721664194",
+      "https://qualcomm.eightfold.ai/careers/job/446721678733"
     ]
   },
   {
@@ -40843,6 +40845,7 @@
     "page": "https://td.wd3.myworkdayjobs.com/wday/cxs/td/TD_Bank_Careers/jobs",
     "urls": [
       "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/161-Bay-Street-Corporate-Toronto-Ontario/TD-Asset-Management-Portfolio-Analytics-Developer-Intern-Co-Op--Winter-2027-_R_1509223",
+      "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/London-United-Kingdom/XMLNAME-2027-Summer-Internship---Technology_R_1518239",
       "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Software-Engineer--SWE-_R_1509773",
       "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/AI-Data-Application-Developer--TD-Securities_R_1508820",
       "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Mobile-Software-Engineer-Co-op---Intern---Winter-2027-_R_1509825",
@@ -40850,8 +40853,7 @@
       "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-Co-op---Intern--Winter-2027-_R_1509790",
       "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I_R_1501250",
       "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/XMLNAME-2027-Summer-Analyst---Software-Engineering-Rotational-Program--Toronto-_R_1509435",
-      "https://td.wd3.myworkdayjobs.com/td_bank_careers/job/Belfast-United-Kingdom/KDB-Developer_R_1469153",
-      "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/London-United-Kingdom/XMLNAME-2027-Summer-Internship---Technology_R_1518239"
+      "https://td.wd3.myworkdayjobs.com/td_bank_careers/job/Belfast-United-Kingdom/KDB-Developer_R_1469153"
     ]
   },
   {
@@ -43148,9 +43150,11 @@
     "name": "uline",
     "ats": "workday",
     "identifier": "uline-uline_careers",
-    "domain": "https://uline.wd1.myworkdayjobs.com/uline_careers",
-    "page": "https://uline.wd1.myworkdayjobs.com/wday/cxs/uline/uline_careers/jobs",
-    "urls": []
+    "domain": "https://uline.wd1.myworkdayjobs.com/Uline_Careers",
+    "page": "https://uline.wd1.myworkdayjobs.com/wday/cxs/uline/Uline_Careers/jobs",
+    "urls": [
+      "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Software-Development-Internship---Summer-2027_R268537"
+    ]
   },
   {
     "name": "uline.jobs",
