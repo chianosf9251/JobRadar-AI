@@ -2633,6 +2633,20 @@ Every opportunity matching your current filters (country, category, citizenship/
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Sierraspace</td>
+      <td width="420" align="left" valign="top">Systems Engineer I - Velocity Satellite Ground Systems</td>
+      <td width="180" align="left" valign="top">Centennial, CO</td>
+      <td width="120" align="left" valign="top"><a href="https://sierraspace.wd1.myworkdayjobs.com/sierra_space_external_career_site/job/Centennial-CO/Systems-Engineer-I---Velocity-Satellite-Ground-Systems_R26457-1" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 22</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Autostore</td>
+      <td width="420" align="left" valign="top">Software Engineer</td>
+      <td width="180" align="left" valign="top">Atlanta, GA</td>
+      <td width="120" align="left" valign="top"><a href="https://autostore.wd3.myworkdayjobs.com/autostore/job/Atlanta-GA-USA/Software-Engineer_JR102735-1" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 22</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Thomsonreuters</td>
       <td width="420" align="left" valign="top">Software Engineer</td>
       <td width="180" align="left" valign="top">Eagan, MN</td>
@@ -4193,4 +4207,4 @@ Every opportunity matching your current filters (country, category, citizenship/
 
 ---
 
-📦 Generated from `opportunities.ndjson` &nbsp;•&nbsp; 🕒 Last updated `2026-10-22T15:01:09.349Z`
+📦 Generated from `opportunities.ndjson` &nbsp;•&nbsp; 🕒 Last updated `2026-10-22T17:54:23.298Z`

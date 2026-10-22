@@ -935,13 +935,6 @@
       <td width="120" align="left" valign="top"><a href="https://kla.wd1.myworkdayjobs.com/ur/job/Milpitas-CA/Software-Engineering-Intern--C----Unix-_2641325" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
       <td width="100" align="left" valign="top">September 23</td>
     </tr>
-    <tr>
-      <td width="180" align="left" valign="top">Cisco</td>
-      <td width="420" align="left" valign="top">Software Engineer Embedded Systems I (Intern) – United States</td>
-      <td width="180" align="left" valign="top">San Jose, CA</td>
-      <td width="120" align="left" valign="top"><a href="https://careers.cisco.com/global/en/job/2025926?ph_id=2025926" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">September 22</td>
-    </tr>
   </tbody>
 </table>
 
@@ -1203,13 +1196,6 @@
       <td width="120" align="left" valign="top"><a href="https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Site-Reliability-Engineer--SRE--Intern---AI-Infrastructure_R108158-1" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
       <td width="100" align="left" valign="top">September 23</td>
     </tr>
-    <tr>
-      <td width="180" align="left" valign="top">Nvidia</td>
-      <td width="420" align="left" valign="top">System Software Engineer - USB (RDSS Intern)</td>
-      <td width="180" align="left" valign="top">Taipei, Taiwan</td>
-      <td width="120" align="left" valign="top"><a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineer---USB--RDSS-Intern-_JR2025914-1" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">September 22</td>
-    </tr>
   </tbody>
 </table>
 
@@ -1226,6 +1212,20 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td width="180" align="left" valign="top">Sierraspace</td>
+      <td width="420" align="left" valign="top">Systems Engineer I - Velocity Satellite Ground Systems</td>
+      <td width="180" align="left" valign="top">Centennial, CO</td>
+      <td width="120" align="left" valign="top"><a href="https://sierraspace.wd1.myworkdayjobs.com/sierra_space_external_career_site/job/Centennial-CO/Systems-Engineer-I---Velocity-Satellite-Ground-Systems_R26457-1" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 22</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Autostore</td>
+      <td width="420" align="left" valign="top">Software Engineer</td>
+      <td width="180" align="left" valign="top">Atlanta, GA</td>
+      <td width="120" align="left" valign="top"><a href="https://autostore.wd3.myworkdayjobs.com/autostore/job/Atlanta-GA-USA/Software-Engineer_JR102735-1" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 22</td>
+    </tr>
     <tr>
       <td width="180" align="left" valign="top">Thomsonreuters</td>
       <td width="420" align="left" valign="top">Software Engineer</td>
@@ -1803,7 +1803,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-10-22T15:01:09.349Z</code>
+      🕒 Last updated <code>2026-10-22T17:54:23.298Z</code>
     </span>
   </p>
 </div>
