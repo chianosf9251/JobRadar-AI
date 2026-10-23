@@ -18,6 +18,13 @@ Every opportunity matching your current filters (country, category, citizenship/
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Amazon</td>
+      <td width="420" align="left" valign="top">Software Engineer Intern - AWS Database</td>
+      <td width="180" align="left" valign="top">Seattle, WA</td>
+      <td width="120" align="left" valign="top"><a href="https://amazon.jobs/en/jobs/10565667/software-development-engineer-intern-aws-database-2027-us" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 22</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Rivianvw.tech</td>
       <td width="420" align="left" valign="top">Software Engineering Intern - Embedded Platforms (Summer 2027)</td>
       <td width="180" align="left" valign="top">Palo Alto, CA</td>
@@ -4263,4 +4270,4 @@ Every opportunity matching your current filters (country, category, citizenship/
 
 ---
 
-📦 Generated from `opportunities.ndjson` &nbsp;•&nbsp; 🕒 Last updated `2026-10-23T01:17:29.500Z`
+📦 Generated from `opportunities.ndjson` &nbsp;•&nbsp; 🕒 Last updated `2026-10-23T04:11:32.941Z`
