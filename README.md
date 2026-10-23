@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20Parsed-google%20%2F%20gemini--3.1--flash--lite-blue" />
   <img src="https://img.shields.io/badge/Countries-USA%20%C2%B7%20Taiwan-green" />
-  <img src="https://img.shields.io/badge/Updated-2026--10--22-orange" />
+  <img src="https://img.shields.io/badge/Updated-2026--10--23-orange" />
   <img src="https://img.shields.io/badge/License-MIT-yellow" />
 </p>
 
@@ -102,6 +102,34 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td width="180" align="left" valign="top">Rivianvw.tech</td>
+      <td width="420" align="left" valign="top">Software Engineering Intern - Embedded Platforms (Summer 2027)</td>
+      <td width="180" align="left" valign="top">Palo Alto, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://jobs.ashbyhq.com/rivianvw.tech/30c3af69-2dfc-4224-9abc-b2d9c0c41048" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 22</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">↳</td>
+      <td width="420" align="left" valign="top">Software Engineering Intern - Vehicle Controls (Summer 2027)</td>
+      <td width="180" align="left" valign="top">Palo Alto, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://jobs.ashbyhq.com/rivianvw.tech/cb3559f0-2514-45f1-8d36-a11fa1dded0c" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 22</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">↳</td>
+      <td width="420" align="left" valign="top">Software Engineering Intern - Connected Systems (Summer 2027)</td>
+      <td width="180" align="left" valign="top">Palo Alto, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://jobs.ashbyhq.com/rivianvw.tech/62e45b20-cbdc-4d16-9466-00bc158b7a7f" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 22</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">↳</td>
+      <td width="420" align="left" valign="top">Software Engineering Intern - Applications (Summer 2027)</td>
+      <td width="180" align="left" valign="top">Palo Alto, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://jobs.ashbyhq.com/rivianvw.tech/7cc3dd48-631f-45ec-ae95-46c7cf05b160" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 22</td>
+    </tr>
     <tr>
       <td width="180" align="left" valign="top">Pattern</td>
       <td width="420" align="left" valign="top">AI Infrastructure Engineer Intern</td>
@@ -1227,6 +1255,13 @@
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Meta</td>
+      <td width="420" align="left" valign="top">AI Research Scientist - FAIR, MSL</td>
+      <td width="180" align="left" valign="top">Menlo Park, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://www.metacareers.com/profile/job_details/2199155494335856" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 22</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Palantir</td>
       <td width="420" align="left" valign="top">Forward Deployed Software Engineer New Grad</td>
       <td width="180" align="left" valign="top">New York, NY</td>
@@ -1793,13 +1828,6 @@
       <td width="120" align="left" valign="top"><a href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/157648" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
       <td width="100" align="left" valign="top">September 23</td>
     </tr>
-    <tr>
-      <td width="180" align="left" valign="top">Avathon</td>
-      <td width="420" align="left" valign="top">Associate AI Engineer, Physical AI</td>
-      <td width="180" align="left" valign="top">Pleasanton, CA</td>
-      <td width="120" align="left" valign="top"><a href="https://avathon.com/company/careers-job-listing/?gh_jid=4736834005" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">September 22</td>
-    </tr>
   </tbody>
 </table>
 
@@ -1824,7 +1852,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-10-22T23:09:11.379Z</code>
+      🕒 Last updated <code>2026-10-23T01:17:29.500Z</code>
     </span>
   </p>
 </div>
