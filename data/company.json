@@ -6,6 +6,10 @@
     "domain": "https://jobs.ashbyhq.com",
     "page": "https://api.ashbyhq.com/posting-api/job-board/1password",
     "urls": [
+      "https://jobs.ashbyhq.com/1password/00f861d4-2b4a-4159-b6dc-8aed0cde6e39",
+      "https://jobs.ashbyhq.com/1password/00f861d4-2b4a-4159-b6dc-8aed0cde6e39/application?embed=true",
+      "https://jobs.ashbyhq.com/1password/67bfbd8b-aba9-42b1-a8a8-833367888fba",
+      "https://jobs.ashbyhq.com/1password/67bfbd8b-aba9-42b1-a8a8-833367888fba/application?embed=true",
       "https://jobs.ashbyhq.com/1password/6a6869a7-98d2-43e3-b9b5-b68fa4daeb9f/application?embed=true",
       "https://jobs.ashbyhq.com/1password/71a3afd1-12b3-4f55-a3bd-fc4e7c46ee37",
       "https://jobs.ashbyhq.com/1password/71a3afd1-12b3-4f55-a3bd-fc4e7c46ee37/application?embed=true",
@@ -13,13 +17,9 @@
       "https://jobs.ashbyhq.com/1password/7f1732a6-5317-4319-82b9-67c62e88d491/application?embed=true",
       "https://jobs.ashbyhq.com/1password/aac7eea6-ed7c-4871-bbf2-7cb2d5138847",
       "https://jobs.ashbyhq.com/1password/b2726ac7-dd0d-42f3-93a5-139e18c90779/application?embed=true",
-      "https://jobs.ashbyhq.com/1password/c5289ef1-e919-4672-85c5-ee3112f9ddb9",
-      "https://jobs.ashbyhq.com/1password/c5289ef1-e919-4672-85c5-ee3112f9ddb9/application?embed=true",
       "https://jobs.ashbyhq.com/1password/bef2e88e-9590-467d-8ba6-821b30529003",
-      "https://jobs.ashbyhq.com/1password/00f861d4-2b4a-4159-b6dc-8aed0cde6e39",
-      "https://jobs.ashbyhq.com/1password/67bfbd8b-aba9-42b1-a8a8-833367888fba",
-      "https://jobs.ashbyhq.com/1password/00f861d4-2b4a-4159-b6dc-8aed0cde6e39/application?embed=true",
-      "https://jobs.ashbyhq.com/1password/67bfbd8b-aba9-42b1-a8a8-833367888fba/application?embed=true"
+      "https://jobs.ashbyhq.com/1password/c5289ef1-e919-4672-85c5-ee3112f9ddb9",
+      "https://jobs.ashbyhq.com/1password/c5289ef1-e919-4672-85c5-ee3112f9ddb9/application?embed=true"
     ]
   },
   {
@@ -1791,7 +1791,8 @@
       "https://amazon.jobs/en/jobs/3179209",
       "https://www.amazon.jobs/en/jobs/3066646/business-intelligence-engineer-co-op-2026-us",
       "https://www.amazon.jobs/en/jobs/3101249/software-development-engineer-internship-winter-2026-us",
-      "https://www.amazon.jobs/en/jobs/3136266/robotics-software-development-engineer-intern-co-op-2026?no_int_redir=1"
+      "https://www.amazon.jobs/en/jobs/3136266/robotics-software-development-engineer-intern-co-op-2026?no_int_redir=1",
+      "https://amazon.jobs/en/jobs/10587999/software-development-engineer-intern-amazon-leo-summer-2027-usa"
     ]
   },
   {
@@ -1958,7 +1959,8 @@
       "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015101",
       "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015103",
       "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015104",
-      "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015408"
+      "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015408",
+      "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015552"
     ]
   },
   {
@@ -4425,6 +4427,7 @@
       "https://apply.workable.com/cmic/j/63A27830D0/apply",
       "https://apply.workable.com/cogna/j/45A6283F88/apply",
       "https://apply.workable.com/commonai/j/021D3FCF3E/apply",
+      "https://apply.workable.com/coretek-services/j/21D19CC253/apply",
       "https://apply.workable.com/coretek-services/j/8D69C6C871/apply",
       "https://apply.workable.com/dcthomson/j/31E88278E1/apply",
       "https://apply.workable.com/elevate-semiconductor/j/F234DECA3C/apply",
@@ -4449,8 +4452,7 @@
       "https://apply.workable.com/tmeic-corporation-americas/j/D44B74C42B/apply",
       "https://apply.workable.com/trycaddi/j/9D1291C697/apply",
       "https://apply.workable.com/western-magnetics/j/E366930F3F/apply",
-      "https://apply.workable.com/zaber/j/EAB5877DC3/apply",
-      "https://apply.workable.com/coretek-services/j/21D19CC253/apply"
+      "https://apply.workable.com/zaber/j/EAB5877DC3/apply"
     ]
   },
   {
@@ -11527,6 +11529,16 @@
     ]
   },
   {
+    "name": "careers.msasafety.com",
+    "ats": "custom",
+    "identifier": "careers.msasafety.com",
+    "domain": "https://careers.msasafety.com",
+    "page": "",
+    "urls": [
+      "https://careers.msasafety.com/jobs/10243?icims=1"
+    ]
+  },
+  {
     "name": "careers.na.panasonic.com",
     "ats": "custom",
     "identifier": "careers.na.panasonic.com",
@@ -13228,7 +13240,10 @@
       "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Engineering-Product-Management-Specialist-I--Intern----United-States_2026308",
       "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Machine-Learning-Engineer-I--Intern----United-States_2026803",
       "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Machine-Learning-Engineer-II--Intern----United-States_2026802",
+      "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Data---AI-II--Intern----United-States_2026798",
+      "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-I--Co-op----United-States_2029701",
       "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-II--Intern----United-States_2026805",
+      "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-I--Co-op----United-States_2026049",
       "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-I--Intern----United-States_2025924",
       "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-II--Intern----United-States_2026800",
       "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Atlanta-Georgia-US/Software-Engineer_2019105-1",
@@ -13315,10 +13330,7 @@
       "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineering-Technical-Leader_2023550-1",
       "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Stockholm-Sweden/Software-Engineer_2020685",
       "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Stockholm-Sweden/Software-Engineer_2020686",
-      "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Stockholm-Sweden/Software-Engineering-Technical-Leader_2018789",
-      "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Data---AI-II--Intern----United-States_2026798",
-      "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-I--Co-op----United-States_2026049",
-      "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-I--Co-op----United-States_2029701"
+      "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Stockholm-Sweden/Software-Engineering-Technical-Leader_2018789"
     ]
   },
   {
@@ -13371,6 +13383,7 @@
       "https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/Java-Kotlin-Software-Engineer---AVP----Developer-Enablement-_26953642",
       "https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/Java-Software-Engineer_26975217",
       "https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/Software-Engineer---Margin-Technology_261000056-1",
+      "https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/Technology---Application-Development--Placement-Analyst--Belfast-2027_261002927",
       "https://citi.wd5.myworkdayjobs.com/2/job/Budapest--Hungary/Artificial-Intelligence--AI--Offensive-Security-Analyst_26986356",
       "https://citi.wd5.myworkdayjobs.com/2/job/Budapest--Hungary/Forward-Deployed-AI-Engineer-for-Cyber-Security_261003493",
       "https://citi.wd5.myworkdayjobs.com/2/job/Budapest--Hungary/Fund-Accounting-Senior-Analyst_26962677",
@@ -13455,8 +13468,7 @@
       "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Artificial-Intelligence--AI--Offensive-Security-Analyst_26985034",
       "https://citi.wd5.myworkdayjobs.com/2/job/Warsaw--Poland/Software-Engineer-with-Russian_26960333",
       "https://citi.wd5.myworkdayjobs.com/2/job/Warsaw--Poland/Technology---Infrastructure--Full-Time-Analyst--Warsaw--2026_25921852",
-      "https://citi.wd5.myworkdayjobs.com/2/job/Warsaw--Poland/Technology---Infrastructure--Summer-Analyst--Warsaw-2027_26999106",
-      "https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/Technology---Application-Development--Placement-Analyst--Belfast-2027_261002927"
+      "https://citi.wd5.myworkdayjobs.com/2/job/Warsaw--Poland/Technology---Infrastructure--Summer-Analyst--Warsaw-2027_26999106"
     ]
   },
   {
@@ -16922,7 +16934,8 @@
       "https://epicgames.com/careers/jobs/6183293004?gh_jid=6183293004",
       "https://epicgames.com/careers/jobs/6183401004?gh_jid=6183401004",
       "https://epicgames.com/careers/jobs/6200355004?gh_jid=6200355004",
-      "https://epicgames.com/careers/jobs/6202659004?gh_jid=6202659004"
+      "https://epicgames.com/careers/jobs/6202659004?gh_jid=6202659004",
+      "https://epicgames.com/careers/jobs/6232770004?gh_jid=6232770004"
     ]
   },
   {
@@ -18537,7 +18550,8 @@
     "urls": [
       "https://job-boards.greenhouse.io/fspco-op012325/jobs/8796996002",
       "https://job-boards.greenhouse.io/fspco-op012325/jobs/8814318002",
-      "https://job-boards.greenhouse.io/fspco-op012325/jobs/8814364002"
+      "https://job-boards.greenhouse.io/fspco-op012325/jobs/8814364002",
+      "https://job-boards.greenhouse.io/fspco-op012325/jobs/8911276002"
     ]
   },
   {
@@ -33388,9 +33402,9 @@
       "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Springfield/Expert-Software-Engineer_R0151140",
       "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-WA-Richland/Software-Engineer-4---Programmer-Analyst_R0166687",
       "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-MD-Hanover/Software-Engineer-1_R0171606",
+      "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-MD-Hanover/Software-Engineer-1_R0173916",
       "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-MI-Detroit/Software-Programmer-Intern_R0169773",
-      "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TN-Tullahoma/Software-Programmer-Intern_R0169775",
-      "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-MD-Hanover/Software-Engineer-1_R0173916"
+      "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TN-Tullahoma/Software-Programmer-Intern_R0169775"
     ]
   },
   {
@@ -38559,8 +38573,8 @@
     "page": "https://api.lever.co/v0/postings/shieldai?mode=json",
     "urls": [
       "https://jobs.lever.co/shieldai/59e0cf9b-04d7-43c0-8a65-9d411fe56c68/apply",
-      "https://jobs.lever.co/shieldai/8c850c75-081d-4d09-bebf-096379a93010/apply",
-      "https://jobs.lever.co/shieldai/633a3038-574c-45ff-babb-7e1b8b7c6196/apply"
+      "https://jobs.lever.co/shieldai/633a3038-574c-45ff-babb-7e1b8b7c6196/apply",
+      "https://jobs.lever.co/shieldai/8c850c75-081d-4d09-bebf-096379a93010/apply"
     ]
   },
   {
