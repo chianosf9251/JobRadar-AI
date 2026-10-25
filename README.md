@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20Parsed-google%20%2F%20gemini--3.1--flash--lite-blue" />
   <img src="https://img.shields.io/badge/Countries-USA%20%C2%B7%20Taiwan-green" />
-  <img src="https://img.shields.io/badge/Updated-2026--10--24-orange" />
+  <img src="https://img.shields.io/badge/Updated-2026--10--25-orange" />
   <img src="https://img.shields.io/badge/License-MIT-yellow" />
 </p>
 
@@ -1026,13 +1026,6 @@
       <td width="120" align="left" valign="top"><a href="https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/System-Software-Engineering---PhD-Intern_JR0287457" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
       <td width="100" align="left" valign="top">September 25</td>
     </tr>
-    <tr>
-      <td width="180" align="left" valign="top">Cisco</td>
-      <td width="420" align="left" valign="top">Software Engineer Embedded Systems II (Intern) – United States</td>
-      <td width="180" align="left" valign="top">San Jose, CA</td>
-      <td width="120" align="left" valign="top"><a href="https://careers.cisco.com/global/en/job/2026805?ph_id=2026805" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">September 24</td>
-    </tr>
   </tbody>
 </table>
 
@@ -1852,7 +1845,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-10-24T16:28:14.450Z</code>
+      🕒 Last updated <code>2026-10-25T00:47:58.879Z</code>
     </span>
   </p>
 </div>
