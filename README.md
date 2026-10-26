@@ -103,6 +103,13 @@
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Skydio</td>
+      <td width="420" align="left" valign="top">Autonomy Engineer Intern, Autonomy Infrastructure, Systems and Tools</td>
+      <td width="180" align="left" valign="top">San Mateo, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://go.vansh.nyc/Sj?s=y" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 26</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Hewlett Packard Enterprise</td>
       <td width="420" align="left" valign="top">AI/ML Developer Intern</td>
       <td width="180" align="left" valign="top">San Jose, CA</td>
@@ -970,13 +977,6 @@
       <td width="120" align="left" valign="top"><a href="https://xenergy.wd5.myworkdayjobs.com/x-energyus/job/Rockville-MD/Systems-Engineering-Internship---Summer-2027_R101358-1" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
       <td width="100" align="left" valign="top">September 28</td>
     </tr>
-    <tr>
-      <td width="180" align="left" valign="top">Microsoft</td>
-      <td width="420" align="left" valign="top">Software Engineer Intern</td>
-      <td width="180" align="left" valign="top">Atlanta, GA</td>
-      <td width="120" align="left" valign="top"><a href="https://apply.careers.microsoft.com/careers/job/1970393557008714" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">September 26</td>
-    </tr>
   </tbody>
 </table>
 
@@ -1670,7 +1670,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-10-26T04:35:45.790Z</code>
+      🕒 Last updated <code>2026-10-26T17:19:23.275Z</code>
     </span>
   </p>
 </div>
