@@ -1353,6 +1353,20 @@
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">SambaNova Systems</td>
+      <td width="420" align="left" valign="top">Compiler Engineer New Grad</td>
+      <td width="180" align="left" valign="top">Austin, TX</td>
+      <td width="120" align="left" valign="top"><a href="https://sambanova.ai/sambanova-available-positions/?gh_jid=6224835004" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 27</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">↳</td>
+      <td width="420" align="left" valign="top">ML Infrastructure Engineer New Grad</td>
+      <td width="180" align="left" valign="top">Austin, TX</td>
+      <td width="120" align="left" valign="top"><a href="https://sambanova.ai/sambanova-available-positions/?gh_jid=6224938004" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 27</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">CrossCountry Consulting</td>
       <td width="420" align="left" valign="top">Forward Deployed Software Engineer New Grad</td>
       <td width="180" align="left" valign="top">Chicago, IL</td>
@@ -1796,7 +1810,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-10-27T20:00:08.038Z</code>
+      🕒 Last updated <code>2026-10-27T23:48:33.570Z</code>
     </span>
   </p>
 </div>
