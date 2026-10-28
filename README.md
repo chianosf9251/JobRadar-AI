@@ -103,6 +103,20 @@
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">RosaicLabs</td>
+      <td width="420" align="left" valign="top">AI Accelerator Design Verification Engineer Intern</td>
+      <td width="180" align="left" valign="top">Austin, TX</td>
+      <td width="120" align="left" valign="top"><a href="https://go.vansh.nyc/Xp?s=y" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 28</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">↳</td>
+      <td width="420" align="left" valign="top">Software Engineering Intern</td>
+      <td width="180" align="left" valign="top">Austin, TX</td>
+      <td width="120" align="left" valign="top"><a href="https://go.vansh.nyc/Xo?s=y" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 28</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">FUTO</td>
       <td width="420" align="left" valign="top">Software Engineer Intern</td>
       <td width="180" align="left" valign="top">Austin, TX</td>
@@ -1092,6 +1106,13 @@
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">RosaicLabs</td>
+      <td width="420" align="left" valign="top">CPU Design Verification Engineer Intern</td>
+      <td width="180" align="left" valign="top">Austin, TX</td>
+      <td width="120" align="left" valign="top"><a href="https://go.vansh.nyc/Xn?s=y" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 28</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Perspective Therapeutics</td>
       <td width="420" align="left" valign="top">AI Innovation Intern</td>
       <td width="180" align="left" valign="top">Seattle, WA</td>
@@ -1380,6 +1401,13 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td width="180" align="left" valign="top">StarTree</td>
+      <td width="420" align="left" valign="top">Software Engineer 1</td>
+      <td width="180" align="left" valign="top">Remote, USA</td>
+      <td width="120" align="left" valign="top"><a href="https://job-boards.greenhouse.io/startree/jobs/6235909004" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 28</td>
+    </tr>
     <tr>
       <td width="180" align="left" valign="top">SambaNova</td>
       <td width="420" align="left" valign="top">Runtime Engineer - New Grad</td>
@@ -1866,7 +1894,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-10-28T05:04:50.211Z</code>
+      🕒 Last updated <code>2026-10-28T11:17:11.636Z</code>
     </span>
   </p>
 </div>
