@@ -18,6 +18,27 @@ Every opportunity matching your current filters (country, category, citizenship/
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">LinkedIn</td>
+      <td width="420" align="left" valign="top">Software Engineer Intern - First Play</td>
+      <td width="180" align="left" valign="top">Mountain View, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://jobs.smartrecruiters.com/LinkedIn3/744000158394370" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 28</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Micron Technology</td>
+      <td width="420" align="left" valign="top">Embedded Software Engineer Intern</td>
+      <td width="180" align="left" valign="top">Boise, ID</td>
+      <td width="120" align="left" valign="top"><a href="https://go.vansh.nyc/XW?s=y" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 28</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Schonfeld</td>
+      <td width="420" align="left" valign="top">Enterprise AI Intern</td>
+      <td width="180" align="left" valign="top">New York, NY</td>
+      <td width="120" align="left" valign="top"><a href="https://go.vansh.nyc/XY?s=y" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 28</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Tmobile</td>
       <td width="420" align="left" valign="top">Summer 2027 Assoc AI Engineer Internship</td>
       <td width="180" align="left" valign="top">Overland Park, KS</td>
@@ -4389,4 +4410,4 @@ Every opportunity matching your current filters (country, category, citizenship/
 
 ---
 
-📦 Generated from `opportunities.ndjson` &nbsp;•&nbsp; 🕒 Last updated `2026-10-28T18:47:06.700Z`
+📦 Generated from `opportunities.ndjson` &nbsp;•&nbsp; 🕒 Last updated `2026-10-28T23:04:51.531Z`

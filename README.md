@@ -103,6 +103,27 @@
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">LinkedIn</td>
+      <td width="420" align="left" valign="top">Software Engineer Intern - First Play</td>
+      <td width="180" align="left" valign="top">Mountain View, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://jobs.smartrecruiters.com/LinkedIn3/744000158394370" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 28</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Micron Technology</td>
+      <td width="420" align="left" valign="top">Embedded Software Engineer Intern</td>
+      <td width="180" align="left" valign="top">Boise, ID</td>
+      <td width="120" align="left" valign="top"><a href="https://go.vansh.nyc/XW?s=y" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 28</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Schonfeld</td>
+      <td width="420" align="left" valign="top">Enterprise AI Intern</td>
+      <td width="180" align="left" valign="top">New York, NY</td>
+      <td width="120" align="left" valign="top"><a href="https://go.vansh.nyc/XY?s=y" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 28</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Tmobile</td>
       <td width="420" align="left" valign="top">Summer 2027 Assoc AI Engineer Internship</td>
       <td width="180" align="left" valign="top">Overland Park, KS</td>
@@ -1103,13 +1124,6 @@
       <td width="120" align="left" valign="top"><a href="https://jobs.ashbyhq.com/rhoda-ai/9a57c8ff-dd2b-4547-a46a-44658a699ba5/application?embed=true" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
       <td width="100" align="left" valign="top">September 29</td>
     </tr>
-    <tr>
-      <td width="180" align="left" valign="top">Xenergy</td>
-      <td width="420" align="left" valign="top">Systems Engineering Internship - Summer 2027</td>
-      <td width="180" align="left" valign="top">Gaithersburg, MD</td>
-      <td width="120" align="left" valign="top"><a href="https://xenergy.wd5.myworkdayjobs.com/x-energyus/job/Rockville-MD/Systems-Engineering-Internship---Summer-2027_R101358-1" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">September 28</td>
-    </tr>
   </tbody>
 </table>
 
@@ -1922,7 +1936,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-10-28T18:47:06.700Z</code>
+      🕒 Last updated <code>2026-10-28T23:04:51.531Z</code>
     </span>
   </p>
 </div>
