@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20Parsed-google%20%2F%20gemini--3.1--flash--lite-blue" />
   <img src="https://img.shields.io/badge/Countries-USA%20%C2%B7%20Taiwan-green" />
-  <img src="https://img.shields.io/badge/Updated-2026--10--28-orange" />
+  <img src="https://img.shields.io/badge/Updated-2026--10--29-orange" />
   <img src="https://img.shields.io/badge/License-MIT-yellow" />
 </p>
 
@@ -102,6 +102,20 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td width="180" align="left" valign="top">Micron</td>
+      <td width="420" align="left" valign="top">Intern - Embedded Software Engineer</td>
+      <td width="180" align="left" valign="top">Boise, ID</td>
+      <td width="120" align="left" valign="top"><a href="https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---SIG-Building/Embedded-Software-Engineering-Intern_JR115959" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 28</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Hp</td>
+      <td width="420" align="left" valign="top">Software Engineering Intern, Connectivity - HP IQ</td>
+      <td width="180" align="left" valign="top">San Francisco, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--Connectivity---HP-IQ_UNI4812" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 28</td>
+    </tr>
     <tr>
       <td width="180" align="left" valign="top">LinkedIn</td>
       <td width="420" align="left" valign="top">Software Engineer Intern - First Play</td>
@@ -1437,6 +1451,13 @@
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Lnw</td>
+      <td width="420" align="left" valign="top">Associate Software Engineer</td>
+      <td width="180" align="left" valign="top">Reno, NV</td>
+      <td width="120" align="left" valign="top"><a href="https://lnw.wd5.myworkdayjobs.com/LightWonderExternalCareers/job/Reno-NV/Associate-Software-Engineer_R322683" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 28</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Glean</td>
       <td width="420" align="left" valign="top">Software Engineer, University Grad</td>
       <td width="180" align="left" valign="top">Mountain View, CA</td>
@@ -1936,7 +1957,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-10-28T23:04:51.531Z</code>
+      🕒 Last updated <code>2026-10-29T02:07:36.223Z</code>
     </span>
   </p>
 </div>
