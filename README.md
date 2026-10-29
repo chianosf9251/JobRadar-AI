@@ -103,6 +103,34 @@
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">General Motors</td>
+      <td width="420" align="left" valign="top">AI/ML Engineer Intern - Autonomous Vehicles</td>
+      <td width="180" align="left" valign="top">Sunnyvale, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer---Autonomous-Vehicles_JR-202623439" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 29</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">NVIDIA</td>
+      <td width="420" align="left" valign="top">Compiler Software Engineer Intern</td>
+      <td width="180" align="left" valign="top">Redmond, WA</td>
+      <td width="120" align="left" valign="top"><a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Redmond/Compiler-Software-Engineering-Intern---Summer-2027_JR2028607" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 29</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">↳</td>
+      <td width="420" align="left" valign="top">AI Systems Software Engineer Intern</td>
+      <td width="180" align="left" valign="top">Austin, TX</td>
+      <td width="120" align="left" valign="top"><a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Systems-Software-Engineering-Intern---Summer-2027_JR2027170" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 29</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Overland AI</td>
+      <td width="420" align="left" valign="top">Software Engineering Intern</td>
+      <td width="180" align="left" valign="top">Seattle, WA</td>
+      <td width="120" align="left" valign="top"><a href="https://ats.rippling.com/overland-ai/jobs/37dd9f44-cdb1-4e2e-98c5-800b9b8cb40e" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 29</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">USAFacts</td>
       <td width="420" align="left" valign="top">AI &amp; Software Engineering Intern</td>
       <td width="180" align="left" valign="top">Bellevue, WA</td>
@@ -1441,13 +1469,6 @@
       <td width="120" align="left" valign="top"><a href="https://careers.cisco.com/global/en/job/2026920?ph_id=2026920" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
       <td width="100" align="left" valign="top">October 1</td>
     </tr>
-    <tr>
-      <td width="180" align="left" valign="top">Plot Technologies</td>
-      <td width="420" align="left" valign="top">Applied AI Co-op</td>
-      <td width="180" align="left" valign="top">New York City, NY</td>
-      <td width="120" align="left" valign="top"><a href="https://jobs.ashbyhq.com/plot/5f8cfeaa-c368-480f-aaa5-de52452a63d0/application?embed=true" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">September 29</td>
-    </tr>
   </tbody>
 </table>
 
@@ -1964,7 +1985,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-10-29T18:55:44.520Z</code>
+      🕒 Last updated <code>2026-10-29T23:12:36.292Z</code>
     </span>
   </p>
 </div>
