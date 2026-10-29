@@ -303,7 +303,9 @@
     "identifier": "acadian-asset",
     "domain": "https://www.acadian-asset.com",
     "page": "https://boards-api.greenhouse.io/v1/boards/acadian-asset/jobs",
-    "urls": []
+    "urls": [
+      "https://www.acadian-asset.com/careers/open-positions?gh_jid=4688297006"
+    ]
   },
   {
     "name": "acadianassetmanagementllc",
@@ -311,9 +313,7 @@
     "identifier": "acadianassetmanagementllc",
     "domain": "https://www.acadian-asset.com",
     "page": "https://boards-api.greenhouse.io/v1/boards/acadianassetmanagementllc/jobs",
-    "urls": [
-      "https://www.acadian-asset.com/careers/open-positions?gh_jid=4688297006"
-    ]
+    "urls": []
   },
   {
     "name": "AccelLearning",
@@ -4562,6 +4562,7 @@
       "https://apply.workable.com/homey/j/50DF9B3D53/apply",
       "https://apply.workable.com/hyperlight/j/5581EA0668/",
       "https://apply.workable.com/interimage/j/35ED59E021/apply",
+      "https://apply.workable.com/javelin-global-commodities/j/CAF64E75BF/apply",
       "https://apply.workable.com/mindex/j/84B10DB922/apply",
       "https://apply.workable.com/nuovophotography/j/7DE79BE9A8/apply",
       "https://apply.workable.com/pony-dot-ai/j/4C1F53EF5D/",
@@ -4579,8 +4580,7 @@
       "https://apply.workable.com/tmeic-corporation-americas/j/D44B74C42B/apply",
       "https://apply.workable.com/trycaddi/j/9D1291C697/apply",
       "https://apply.workable.com/western-magnetics/j/E366930F3F/apply",
-      "https://apply.workable.com/zaber/j/EAB5877DC3/apply",
-      "https://apply.workable.com/javelin-global-commodities/j/CAF64E75BF/apply"
+      "https://apply.workable.com/zaber/j/EAB5877DC3/apply"
     ]
   },
   {
@@ -8448,7 +8448,8 @@
       "https://bostonscientific.eightfold.ai/careers/job/563602813765676?domain=bostonscientific.com&8fold_id=563602813765676",
       "https://bostonscientific.eightfold.ai/careers/job/563602813807584?domain=bostonscientific.com&8fold_id=563602813807584",
       "https://bostonscientific.eightfold.ai/careers/job/563602813826841?domain=bostonscientific.com&8fold_id=563602813826841",
-      "https://bostonscientific.eightfold.ai/careers?query=software&start=0&pid=563602812412848&sort_by=relevance?8fold_id=563602812412848"
+      "https://bostonscientific.eightfold.ai/careers?query=software&start=0&pid=563602812412848&sort_by=relevance?8fold_id=563602812412848",
+      "https://bostonscientific.eightfold.ai/careers/job/563602813547675"
     ]
   },
   {
@@ -21501,15 +21502,15 @@
       "https://go.vansh.nyc/Xz?s=y",
       "https://go.vansh.nyc/Y0?s=y",
       "https://go.vansh.nyc/Y2?s=y",
+      "https://go.vansh.nyc/YD?s=y",
+      "https://go.vansh.nyc/YE?s=y",
       "https://go.vansh.nyc/Yh?s=y",
       "https://go.vansh.nyc/Yi?s=y",
       "https://go.vansh.nyc/Yj?s=y",
-      "https://go.vansh.nyc/i?s=y",
       "https://go.vansh.nyc/Yv?s=y",
       "https://go.vansh.nyc/Yw?s=y",
-      "https://go.vansh.nyc/YE?s=y",
-      "https://go.vansh.nyc/YD?s=y",
-      "https://go.vansh.nyc/Yx?s=y"
+      "https://go.vansh.nyc/Yx?s=y",
+      "https://go.vansh.nyc/i?s=y"
     ]
   },
   {
@@ -38828,12 +38829,12 @@
       "https://job-boards.greenhouse.io/schonfeld/jobs/7996905",
       "https://job-boards.greenhouse.io/schonfeld/jobs/8031499",
       "https://job-boards.greenhouse.io/schonfeld/jobs/8081878",
+      "https://job-boards.greenhouse.io/schonfeld/jobs/8171694",
       "https://job-boards.greenhouse.io/schonfeld/jobs/8171772",
       "https://job-boards.greenhouse.io/schonfeld/jobs/8180089",
       "https://job-boards.greenhouse.io/schonfeld/jobs/8285213",
       "https://job-boards.greenhouse.io/schonfeld/jobs/8303536",
-      "https://job-boards.greenhouse.io/schonfeld/jobs/8311595",
-      "https://job-boards.greenhouse.io/schonfeld/jobs/8171694"
+      "https://job-boards.greenhouse.io/schonfeld/jobs/8311595"
     ]
   },
   {
