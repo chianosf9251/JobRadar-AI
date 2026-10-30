@@ -18,6 +18,27 @@ Every opportunity matching your current filters (country, category, citizenship/
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Amazon</td>
+      <td width="420" align="left" valign="top">Software Engineer Intern - Machine Learning/Automated Reasoning</td>
+      <td width="180" align="left" valign="top">Boston, MA</td>
+      <td width="120" align="left" valign="top"><a href="https://amazon.jobs/en/jobs/10593521/software-development-engineer-intern-machine-learning-automated-reasoning-summer-2027" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 30</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Salesforce</td>
+      <td width="420" align="left" valign="top">AI Labs Intern, Emerging Talent</td>
+      <td width="180" align="left" valign="top">San Francisco, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://go.vansh.nyc/10J?s=y" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 30</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">VSP Vision</td>
+      <td width="420" align="left" valign="top">Agentic &amp; Machine Learning Development Intern, AI</td>
+      <td width="180" align="left" valign="top">Remote, USA</td>
+      <td width="120" align="left" valign="top"><a href="https://go.vansh.nyc/113?s=y" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 30</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Axon</td>
       <td width="420" align="left" valign="top">Software Engineer Intern</td>
       <td width="180" align="left" valign="top">Seattle, WA</td>
@@ -2435,6 +2456,13 @@ Every opportunity matching your current filters (country, category, citizenship/
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Itron</td>
+      <td width="420" align="left" valign="top">Systems Engineer Intern</td>
+      <td width="180" align="left" valign="top">West Union, SC</td>
+      <td width="120" align="left" valign="top"><a href="https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-South-Carolina-West-Union/Intern---Systems-Engineer--Spring-2027-_JR102789-1" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 30</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">RosaicLabs</td>
       <td width="420" align="left" valign="top">CPU Design Verification Engineer Intern</td>
       <td width="180" align="left" valign="top">Austin, TX</td>
@@ -4543,4 +4571,4 @@ Every opportunity matching your current filters (country, category, citizenship/
 
 ---
 
-📦 Generated from `opportunities.ndjson` &nbsp;•&nbsp; 🕒 Last updated `2026-10-30T18:30:58.634Z`
+📦 Generated from `opportunities.ndjson` &nbsp;•&nbsp; 🕒 Last updated `2026-10-30T22:59:12.077Z`
