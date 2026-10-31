@@ -17052,17 +17052,6 @@
     "urls": []
   },
   {
-    "name": "efet.fa.us2.oraclecloud.com",
-    "ats": "oraclecloud",
-    "identifier": "efet.fa.us2.oraclecloud.com",
-    "domain": "https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1009/job",
-    "page": "https://efet.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&finder=findReqs%3BsiteNumber%3DCX_1009%2Climit%3D25%2CsortBy%3DPOSTING_DATES_DESC&expand=requisitionList.secondaryLocations%2CrequisitionList.otherWorkLocations",
-    "urls": [
-      "https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1009/job/218257",
-      "https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1009/jobs/job/213354"
-    ]
-  },
-  {
     "name": "efficientcomputer",
     "ats": "greenhouse",
     "identifier": "efficientcomputer",
@@ -18158,17 +18147,6 @@
     ]
   },
   {
-    "name": "fa-exki-saasfaprod1.fa.ocs.oraclecloud.com",
-    "ats": "oraclecloud",
-    "identifier": "fa-exki-saasfaprod1.fa.ocs.oraclecloud.com",
-    "domain": "https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job",
-    "page": "https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&finder=findReqs%3BsiteNumber%3DCX_1%2Climit%3D25%2CsortBy%3DPOSTING_DATES_DESC&expand=requisitionList.secondaryLocations%2CrequisitionList.otherWorkLocations",
-    "urls": [
-      "https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26727",
-      "https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27180"
-    ]
-  },
-  {
     "name": "fab2",
     "ats": "ashby",
     "identifier": "fab2",
@@ -18234,6 +18212,17 @@
     "page": "https://faithtechnologies.wd1.myworkdayjobs.com/wday/cxs/faithtechnologies/fti/jobs",
     "urls": [
       "https://faithtechnologies.wd1.myworkdayjobs.com/fti/job/WI---Menasha/Asset-Administrator-I_R10613-1"
+    ]
+  },
+  {
+    "name": "Fanatics",
+    "ats": "oraclecloud",
+    "identifier": "fa-exki-saasfaprod1.fa.ocs.oraclecloud.com",
+    "domain": "https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job",
+    "page": "https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&finder=findReqs%3BsiteNumber%3DCX_1%2Climit%3D25%2CsortBy%3DPOSTING_DATES_DESC&expand=requisitionList.secondaryLocations%2CrequisitionList.otherWorkLocations",
+    "urls": [
+      "https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26727",
+      "https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27180"
     ]
   },
   {
@@ -21671,8 +21660,15 @@
       "https://go.vansh.nyc/111?s=y",
       "https://go.vansh.nyc/113?s=y",
       "https://go.vansh.nyc/119?s=y",
+      "https://go.vansh.nyc/11I?s=y",
       "https://go.vansh.nyc/11a?s=y",
       "https://go.vansh.nyc/11b?s=y",
+      "https://go.vansh.nyc/11u?s=z",
+      "https://go.vansh.nyc/11v?s=y",
+      "https://go.vansh.nyc/11w?s=z",
+      "https://go.vansh.nyc/11x?s=z",
+      "https://go.vansh.nyc/11y?s=z",
+      "https://go.vansh.nyc/11z?s=y",
       "https://go.vansh.nyc/BA?s=y",
       "https://go.vansh.nyc/BB?s=y",
       "https://go.vansh.nyc/BC?s=y",
@@ -21800,13 +21796,10 @@
       "https://go.vansh.nyc/Zw?s=y",
       "https://go.vansh.nyc/Zy?s=y",
       "https://go.vansh.nyc/i?s=y",
-      "https://go.vansh.nyc/11v?s=y",
-      "https://go.vansh.nyc/11z?s=y",
-      "https://go.vansh.nyc/11I?s=y",
-      "https://go.vansh.nyc/11x?s=z",
-      "https://go.vansh.nyc/11y?s=z",
-      "https://go.vansh.nyc/11u?s=z",
-      "https://go.vansh.nyc/11w?s=z"
+      "https://go.vansh.nyc/12g?s=y",
+      "https://go.vansh.nyc/12h?s=y",
+      "https://go.vansh.nyc/12j?s=y",
+      "https://go.vansh.nyc/12i?s=z"
     ]
   },
   {
@@ -23859,6 +23852,17 @@
       "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-Enterprise-Architecture-Software-Engineer---Architect-enGen-Undergradute-Intern_J289821",
       "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-Epic-Systems-Analyst---Epic-AI-enGen-Undergraduate-Internship_J289801",
       "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Wexford-PA-15090-12351-Perry-Highway/RHVAC-Systems-Engineer-I-Wexford-Hospital_J283817"
+    ]
+  },
+  {
+    "name": "Hilton",
+    "ats": "oraclecloud",
+    "identifier": "efet.fa.us2.oraclecloud.com",
+    "domain": "https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1009/job",
+    "page": "https://efet.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&finder=findReqs%3BsiteNumber%3DCX_1009%2Climit%3D25%2CsortBy%3DPOSTING_DATES_DESC&expand=requisitionList.secondaryLocations%2CrequisitionList.otherWorkLocations",
+    "urls": [
+      "https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1009/job/218257",
+      "https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1009/jobs/job/213354"
     ]
   },
   {
