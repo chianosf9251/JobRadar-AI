@@ -1211,6 +1211,13 @@
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Elucid</td>
+      <td width="420" align="left" valign="top">Software Engineer Intern</td>
+      <td width="180" align="left" valign="top">Boston, MA</td>
+      <td width="120" align="left" valign="top"><a href="https://elucid.applytojob.com/apply/6VSEqF73l9/Software-Engineering-Intern-Spring-2027" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">October 30</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Itron</td>
       <td width="420" align="left" valign="top">Systems Engineer Intern</td>
       <td width="180" align="left" valign="top">West Union, SC</td>
@@ -1978,7 +1985,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-10-31T02:01:14.640Z</code>
+      🕒 Last updated <code>2026-10-31T02:12:29.852Z</code>
     </span>
   </p>
 </div>
