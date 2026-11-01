@@ -103,6 +103,13 @@
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">TikTok</td>
+      <td width="420" align="left" valign="top">Software Engineer Project Intern, Model Infrastructure</td>
+      <td width="180" align="left" valign="top">San Jose, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://go.vansh.nyc/18Z?s=z" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">November 1</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">ByteDance</td>
       <td width="420" align="left" valign="top">Student Researcher Intern, Seed Model - AI Foundation Models Infrastructure</td>
       <td width="180" align="left" valign="top">Seattle, WA</td>
@@ -1943,7 +1950,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-11-01T18:24:28.753Z</code>
+      🕒 Last updated <code>2026-11-01T22:45:46.537Z</code>
     </span>
   </p>
 </div>
