@@ -1518,13 +1518,6 @@
       <td width="120" align="left" valign="top"><a href="https://job-boards.greenhouse.io/xai/jobs/5252108007" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
       <td width="100" align="left" valign="top">October 2</td>
     </tr>
-    <tr>
-      <td width="180" align="left" valign="top">MasterControl</td>
-      <td width="420" align="left" valign="top">AI/ML Engineering Intern</td>
-      <td width="180" align="left" valign="top">Salt Lake City, UT</td>
-      <td width="120" align="left" valign="top"><a href="https://www.mastercontrol.com/careers/job-listings/role/?role=4738478005&amp;gh_jid=4738478005" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">October 2</td>
-    </tr>
   </tbody>
 </table>
 
@@ -1950,7 +1943,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-11-01T13:05:01.006Z</code>
+      🕒 Last updated <code>2026-11-01T18:24:28.753Z</code>
     </span>
   </p>
 </div>
