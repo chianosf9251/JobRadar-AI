@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20Parsed-google%20%2F%20gemini--3.1--flash--lite-blue" />
   <img src="https://img.shields.io/badge/Countries-USA%20%C2%B7%20Taiwan-green" />
-  <img src="https://img.shields.io/badge/Updated-2026--11--01-orange" />
+  <img src="https://img.shields.io/badge/Updated-2026--11--02-orange" />
   <img src="https://img.shields.io/badge/License-MIT-yellow" />
 </p>
 
@@ -1180,41 +1180,6 @@
       <td width="120" align="left" valign="top"><a href="https://careers.hpe.com/us/en/job/1213401?ph_id=1213401" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
       <td width="100" align="left" valign="top">October 5</td>
     </tr>
-    <tr>
-      <td width="180" align="left" valign="top">Generalmotors</td>
-      <td width="420" align="left" valign="top">2027 Summer Intern – Machine Learning Engineer, AV/AI Platform</td>
-      <td width="180" align="left" valign="top">Sunnyvale, CA</td>
-      <td width="120" align="left" valign="top"><a href="https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--AV-AI-Platform_JR-202621695" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">October 2</td>
-    </tr>
-    <tr>
-      <td width="180" align="left" valign="top">↳</td>
-      <td width="420" align="left" valign="top">2027 Summer Intern – Software Engineer, AV/AI Platform</td>
-      <td width="180" align="left" valign="top">Sunnyvale, CA</td>
-      <td width="120" align="left" valign="top"><a href="https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/GM-Automation---Sunnyvale---GM-Automation---Sunnyvale/XMLNAME-2027-Summer-Intern---Software-Engineer--AV-AI-Platform_JR-202621696" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">October 2</td>
-    </tr>
-    <tr>
-      <td width="180" align="left" valign="top">↳</td>
-      <td width="420" align="left" valign="top">2027 Summer Intern – Software Verification Engineer, AV/AI Platform</td>
-      <td width="180" align="left" valign="top">Warren, MI</td>
-      <td width="120" align="left" valign="top"><a href="https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Verification-Engineer--AV-AI-Platform_JR-202621697" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">October 2</td>
-    </tr>
-    <tr>
-      <td width="180" align="left" valign="top">xAI</td>
-      <td width="420" align="left" valign="top">Software Engineer Intern/Co-op</td>
-      <td width="180" align="left" valign="top">Palo Alto, CA</td>
-      <td width="120" align="left" valign="top"><a href="https://job-boards.greenhouse.io/xai/jobs/5255111007" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">October 2</td>
-    </tr>
-    <tr>
-      <td width="180" align="left" valign="top">Affirm</td>
-      <td width="420" align="left" valign="top">Software Engineer Intern - Machine Learning</td>
-      <td width="180" align="left" valign="top">San Francisco, CA</td>
-      <td width="120" align="left" valign="top"><a href="https://job-boards.greenhouse.io/affirm/jobs/8008645003" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">October 2</td>
-    </tr>
   </tbody>
 </table>
 
@@ -1517,13 +1482,6 @@
       <td width="180" align="left" valign="top">Taipei, Taiwan</td>
       <td width="120" align="left" valign="top"><a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/AI-Agent-Development-Engineer--RDSS-Intern-_JR2026971" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
       <td width="100" align="left" valign="top">October 5</td>
-    </tr>
-    <tr>
-      <td width="180" align="left" valign="top">xAI</td>
-      <td width="420" align="left" valign="top">Software Engineering Intern Co-op</td>
-      <td width="180" align="left" valign="top">Palo Alto, CA</td>
-      <td width="120" align="left" valign="top"><a href="https://job-boards.greenhouse.io/xai/jobs/5252108007" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">October 2</td>
     </tr>
   </tbody>
 </table>
@@ -1898,34 +1856,6 @@
       <td width="120" align="left" valign="top"><a href="https://careers.hpe.com/us/en/job/1213439?ph_id=1213439" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
       <td width="100" align="left" valign="top">October 5</td>
     </tr>
-    <tr>
-      <td width="180" align="left" valign="top">TikTok</td>
-      <td width="420" align="left" valign="top">Research Scientist Graduate (Ads Creative) - 2027 Start</td>
-      <td width="180" align="left" valign="top">San Jose, CA</td>
-      <td width="120" align="left" valign="top"><a href="https://lifeattiktok.com/search/7668669015051405573" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">October 2</td>
-    </tr>
-    <tr>
-      <td width="180" align="left" valign="top">Servicenow</td>
-      <td width="420" align="left" valign="top">Software Engineer, Core Infrastructure - Moveworks (New Grad)</td>
-      <td width="180" align="left" valign="top">Mountain View, CA</td>
-      <td width="120" align="left" valign="top"><a href="https://jobs.smartrecruiters.com/ServiceNow/744000153279380" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">October 2</td>
-    </tr>
-    <tr>
-      <td width="180" align="left" valign="top">Harvey</td>
-      <td width="420" align="left" valign="top">Software Engineer New Grad</td>
-      <td width="180" align="left" valign="top">New York, NY</td>
-      <td width="120" align="left" valign="top"><a href="https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc/application?embed=true" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">October 2</td>
-    </tr>
-    <tr>
-      <td width="180" align="left" valign="top">↳</td>
-      <td width="420" align="left" valign="top">Software Engineer New Grad</td>
-      <td width="180" align="left" valign="top">San Francisco, CA</td>
-      <td width="120" align="left" valign="top"><a href="https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5/application?embed=true" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">October 2</td>
-    </tr>
   </tbody>
 </table>
 
@@ -1950,7 +1880,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-11-01T22:45:46.537Z</code>
+      🕒 Last updated <code>2026-11-02T02:07:08.140Z</code>
     </span>
   </p>
 </div>
