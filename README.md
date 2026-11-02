@@ -103,7 +103,49 @@
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Valmont</td>
+      <td width="420" align="left" valign="top">Embedded Systems Engineering Intern</td>
+      <td width="180" align="left" valign="top">Valley, NE</td>
+      <td width="120" align="left" valign="top"><a href="https://valmont.wd1.myworkdayjobs.com/valmontcareers/job/Valley-NE/Embedded-Systems-Engineering-Intern_R29223" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">November 2</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Samsung Semiconductor</td>
+      <td width="420" align="left" valign="top">Intern, AI Application Engineer</td>
+      <td width="180" align="left" valign="top">San Jose, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8163994003" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">November 2</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Kla</td>
+      <td width="420" align="left" valign="top">Software Engineer Intern</td>
+      <td width="180" align="left" valign="top">Totowa, NJ</td>
+      <td width="120" align="left" valign="top"><a href="https://kla.wd1.myworkdayjobs.com/ur/job/Totowa-NJ/Software-Engineer-Intern_2642151" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">November 2</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Intuitive</td>
+      <td width="420" align="left" valign="top">AI/ML Engineer Intern</td>
+      <td width="180" align="left" valign="top">Sunnyvale, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://jobs.smartrecruiters.com/Intuitive/744000159218439" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">November 2</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">↳</td>
+      <td width="420" align="left" valign="top">AI/ML Engineer Intern</td>
+      <td width="180" align="left" valign="top">Sunnyvale, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://jobs.smartrecruiters.com/intuitive/744000159218439" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">November 2</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Entrust</td>
+      <td width="420" align="left" valign="top">AI Developer Intern</td>
+      <td width="180" align="left" valign="top">Shakopee, MN</td>
+      <td width="120" align="left" valign="top"><a href="https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/AI-Developer-Intern_R004397" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">November 2</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">↳</td>
       <td width="420" align="left" valign="top">AI Developer Intern</td>
       <td width="180" align="left" valign="top">Shakopee, MN</td>
       <td width="120" align="left" valign="top"><a href="https://go.vansh.nyc/19k?s=y" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
@@ -1535,6 +1577,34 @@
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Qualtrics</td>
+      <td width="420" align="left" valign="top">Software Engineer I - XMD</td>
+      <td width="180" align="left" valign="top">Seattle, WA</td>
+      <td width="120" align="left" valign="top"><a href="https://www.qualtrics.com/careers/us/en/job/8325652?gh_jid=8325652" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">November 2</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Nvidia</td>
+      <td width="420" align="left" valign="top">Applied Systems Engineering Rotation Engineer - New College Graduate 2026</td>
+      <td width="180" align="left" valign="top">Santa Clara, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Systems-Engineering-Rotation-Engineer---New-College-Graduate-2026_JR2024713" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">November 2</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Abbvie</td>
+      <td width="420" align="left" valign="top">AI Engineer</td>
+      <td width="180" align="left" valign="top">North Chicago, IL</td>
+      <td width="120" align="left" valign="top"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990016565806" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">November 2</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">↳</td>
+      <td width="420" align="left" valign="top">Associate Device Software Engineer</td>
+      <td width="180" align="left" valign="top">Irvine, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990016568546" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">November 2</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Google</td>
       <td width="420" align="left" valign="top">Software Engineer 2 – Early Career</td>
       <td width="180" align="left" valign="top">Mountain View, CA</td>
@@ -1922,7 +1992,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-11-02T20:43:12.499Z</code>
+      🕒 Last updated <code>2026-11-02T22:08:57.411Z</code>
     </span>
   </p>
 </div>
