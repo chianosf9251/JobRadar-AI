@@ -11634,10 +11634,10 @@
       "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1440976000/?ats=successfactors",
       "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1440992800/?ats=successfactors",
       "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1446380900/?ats=successfactors",
+      "https://careers.huntingtoningalls.com/job/Newport-News-IT-SOFTWARE-ENGINEER-1-ROBOTIC-PROCESS-AUTOMATION-(RPA)-Virg/1445226800/?ats=successfactors",
       "https://careers.huntingtoningalls.com/job/Newport-News-SOFTWARE-ENGINEER-1-Virg/1408046100/?ats=successfactors",
       "https://careers.huntingtoningalls.com/job/Newport-News-SOFTWARE-ENGINEER-1-Virg/1412050700/?ats=successfactors",
-      "https://careers.huntingtoningalls.com/job/Pascagoula-2027-COLLEGE-SUMMER-INTERN-COMPUTER-ENGINEERING-Miss/1430053700/?ats=successfactors",
-      "https://careers.huntingtoningalls.com/job/Newport-News-IT-SOFTWARE-ENGINEER-1-ROBOTIC-PROCESS-AUTOMATION-(RPA)-Virg/1445226800/?ats=successfactors"
+      "https://careers.huntingtoningalls.com/job/Pascagoula-2027-COLLEGE-SUMMER-INTERN-COMPUTER-ENGINEERING-Miss/1430053700/?ats=successfactors"
     ]
   },
   {
@@ -21927,7 +21927,25 @@
       "https://go.vansh.nyc/Zt?s=y",
       "https://go.vansh.nyc/Zw?s=y",
       "https://go.vansh.nyc/Zy?s=y",
-      "https://go.vansh.nyc/i?s=y"
+      "https://go.vansh.nyc/i?s=y",
+      "https://go.vansh.nyc/19p?s=y",
+      "https://go.vansh.nyc/19b?s=y",
+      "https://go.vansh.nyc/19q?s=y",
+      "https://go.vansh.nyc/19r?s=y",
+      "https://go.vansh.nyc/19K?s=y",
+      "https://go.vansh.nyc/19z?s=y",
+      "https://go.vansh.nyc/19t?s=y",
+      "https://go.vansh.nyc/19y?s=y",
+      "https://go.vansh.nyc/19j?s=y",
+      "https://go.vansh.nyc/19B?s=y",
+      "https://go.vansh.nyc/19w?s=y",
+      "https://go.vansh.nyc/19J?s=y",
+      "https://go.vansh.nyc/19n?s=y",
+      "https://go.vansh.nyc/19k?s=y",
+      "https://go.vansh.nyc/19c?s=y",
+      "https://go.vansh.nyc/19s?s=y",
+      "https://go.vansh.nyc/19d?s=z",
+      "https://go.vansh.nyc/19C?s=z"
     ]
   },
   {
@@ -22105,6 +22123,7 @@
       "https://www.google.com/about/careers/applications/jobs/results/108891917059531462-technical-solutions-engineer-i-infrastructure-compute-google-cloud?sort_by=date&page=1",
       "https://www.google.com/about/careers/applications/jobs/results/109032118213845702-cloud-infrastructure-engineer-hpc-tpu-google-public-sector?sort_by=date&page=1",
       "https://www.google.com/about/careers/applications/jobs/results/109068733346915014-ai-outcome-customer-engineer-google-cloud-english-spanish?sort_by=date&page=7",
+      "https://www.google.com/about/careers/applications/jobs/results/109116638069957318",
       "https://www.google.com/about/careers/applications/jobs/results/109155881454576326-customer-engineer-ai-and-application-modernization-google-cloud?sort_by=date&page=5",
       "https://www.google.com/about/careers/applications/jobs/results/109190407086056134-power-generation-and-infrastructure-engineer?sort_by=date&page=1",
       "https://www.google.com/about/careers/applications/jobs/results/109250532870103750-software-engineer-embedded-software-silicon?sort_by=date&page=8",
@@ -22899,8 +22918,7 @@
       "https://www.google.com/about/careers/applications/jobs/results/99817746379743942-fullstack-software-engineer-genai-deepmind?sort_by=date&page=2",
       "https://www.google.com/about/careers/applications/jobs/results/99858021361820358-ai-outcome-customer-engineer-gtm-ai-tech-google-cloud?sort_by=date&page=4",
       "https://www.google.com/about/careers/applications/jobs/results/99875129290302150-npi-engineer-embedded-firmware-and-software-emerging-accelerator-software?sort_by=date&page=3",
-      "https://www.google.com/about/careers/applications/jobs/results/99901850966205126-robotics-automation-engineer-platforms-infrastructure?sort_by=date&page=2",
-      "https://www.google.com/about/careers/applications/jobs/results/109116638069957318"
+      "https://www.google.com/about/careers/applications/jobs/results/99901850966205126-robotics-automation-engineer-platforms-infrastructure?sort_by=date&page=2"
     ]
   },
   {
@@ -34092,6 +34110,16 @@
     ]
   },
   {
+    "name": "ocadogroup",
+    "ats": "greenhouse",
+    "identifier": "ocadogroup",
+    "domain": "https://careers.ocadogroup.com",
+    "page": "https://boards-api.greenhouse.io/v1/boards/ocadogroup/jobs",
+    "urls": [
+      "https://careers.ocadogroup.com/jobs/details?gh_jid=5018802101&gh_jid=5018802101"
+    ]
+  },
+  {
     "name": "oceanus",
     "ats": "ashby",
     "identifier": "oceanus",
@@ -35115,6 +35143,16 @@
     "page": "https://api.ashbyhq.com/posting-api/job-board/parasail",
     "urls": [
       "https://jobs.ashbyhq.com/parasail/da595923-4e35-4ba1-875d-383276069cf7/application?embed=true"
+    ]
+  },
+  {
+    "name": "paretocaptiveservicesllc",
+    "ats": "greenhouse",
+    "identifier": "paretocaptiveservicesllc",
+    "domain": "https://job-boards.greenhouse.io",
+    "page": "https://boards-api.greenhouse.io/v1/boards/paretocaptiveservicesllc/jobs",
+    "urls": [
+      "https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4726117006"
     ]
   },
   {
@@ -37046,6 +37084,16 @@
     "domain": "https://jobs.lever.co",
     "page": "https://api.lever.co/v0/postings/QuantumWorkplace?mode=json",
     "urls": []
+  },
+  {
+    "name": "quberesearchandtechnologies",
+    "ats": "greenhouse",
+    "identifier": "quberesearchandtechnologies",
+    "domain": "https://job-boards.greenhouse.io",
+    "page": "https://boards-api.greenhouse.io/v1/boards/quberesearchandtechnologies/jobs",
+    "urls": [
+      "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8926642002"
+    ]
   },
   {
     "name": "questanalytics",
