@@ -481,14 +481,22 @@
     ]
   },
   {
+    "name": "accordience",
+    "ats": "greenhouse",
+    "identifier": "accordience",
+    "domain": "https://accordience.com",
+    "page": "https://boards-api.greenhouse.io/v1/boards/accordience/jobs",
+    "urls": [
+      "https://accordience.com/jobs/?gh_jid=4934501101"
+    ]
+  },
+  {
     "name": "accordiencegroup",
     "ats": "greenhouse",
     "identifier": "accordiencegroup",
     "domain": "https://accordience.com",
     "page": "https://boards-api.greenhouse.io/v1/boards/accordiencegroup/jobs",
-    "urls": [
-      "https://accordience.com/jobs/?gh_jid=4934501101"
-    ]
+    "urls": []
   },
   {
     "name": "ace",
@@ -2814,7 +2822,18 @@
       "https://boards.greenhouse.io/andurilindustries/jobs/5278381007?gh_jid=5278381007",
       "https://boards.greenhouse.io/andurilindustries/jobs/5278854007?gh_jid=5278854007",
       "https://boards.greenhouse.io/andurilindustries/jobs/5278857007?gh_jid=5278857007",
-      "https://boards.greenhouse.io/andurilindustries/jobs/5279793007?gh_jid=5279793007"
+      "https://boards.greenhouse.io/andurilindustries/jobs/5279793007?gh_jid=5279793007",
+      "https://boards.greenhouse.io/andurilindustries/jobs/5281208007?gh_jid=5281208007",
+      "https://boards.greenhouse.io/andurilindustries/jobs/5281204007?gh_jid=5281204007",
+      "https://boards.greenhouse.io/andurilindustries/jobs/5281205007?gh_jid=5281205007",
+      "https://boards.greenhouse.io/andurilindustries/jobs/5281215007?gh_jid=5281215007",
+      "https://boards.greenhouse.io/andurilindustries/jobs/5281214007?gh_jid=5281214007",
+      "https://boards.greenhouse.io/andurilindustries/jobs/5281224007?gh_jid=5281224007",
+      "https://boards.greenhouse.io/andurilindustries/jobs/5281225007?gh_jid=5281225007",
+      "https://boards.greenhouse.io/andurilindustries/jobs/5281221007?gh_jid=5281221007",
+      "https://boards.greenhouse.io/andurilindustries/jobs/5281222007?gh_jid=5281222007",
+      "https://boards.greenhouse.io/andurilindustries/jobs/5281216007?gh_jid=5281216007",
+      "https://boards.greenhouse.io/andurilindustries/jobs/5281217007?gh_jid=5281217007"
     ]
   },
   {
@@ -5712,7 +5731,8 @@
       "https://avav.wd1.myworkdayjobs.com/avav/job/WPAFB/Research-Scientist---Polymer-Chemistry---Hybrid-Materials_9141",
       "https://avav.wd1.myworkdayjobs.com/avav/job/WPAFB/Research-Scientist-Wet-Lab-Protein-Engineer_9159",
       "https://avav.wd1.myworkdayjobs.com/avav/job/WPAFB/research-Scientist-Molecular-Biologist_8761",
-      "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Jessup-MD/Jr-Software-Engineer_9123-1"
+      "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Jessup-MD/Jr-Software-Engineer_9123-1",
+      "https://avav.wd1.myworkdayjobs.com/avav/job/Albuquerque-NM/Infrastructure-Engineer_9272"
     ]
   },
   {
@@ -9254,7 +9274,8 @@
       "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SHANGHAI/ML-AI-Software-Engineer_R53040",
       "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SHANGHAI/Sr-Systems-Engineer_R56798",
       "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SHANGHAI/Sr-Systems-Engineer_R56799",
-      "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/VALBONNE-Sophia/Intern--AI-for-Smarter-ATE-Test-Development---Debug_R56811-1"
+      "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/VALBONNE-Sophia/Intern--AI-for-Smarter-ATE-Test-Development---Debug_R56811-1",
+      "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SHANGHAI/C---Python-Software-Engineer_R56964"
     ]
   },
   {
@@ -11106,7 +11127,9 @@
       "https://careers.cisco.com/global/en/job/2029950?ph_id=2029950",
       "https://careers.cisco.com/global/en/job/2030081?ph_id=2030081",
       "https://careers.cisco.com/global/en/job/2030087?ph_id=2030087",
-      "https://careers.cisco.com/global/en/job/2030171?ph_id=2030171"
+      "https://careers.cisco.com/global/en/job/2030171?ph_id=2030171",
+      "https://careers.cisco.com/global/en/job/2026854?ph_id=2026854",
+      "https://careers.cisco.com/global/en/job/2027847?ph_id=2027847"
     ]
   },
   {
@@ -12663,7 +12686,9 @@
       "https://careers.usbank.com/global/en/job/2026-0032031?ph_id=2026-0032031",
       "https://careers.usbank.com/global/en/job/2026-0032039?ph_id=2026-0032039",
       "https://careers.usbank.com/global/en/job/2026-0033403?ph_id=2026-0033403",
-      "https://careers.usbank.com/global/en/job/2026-0033965?ph_id=2026-0033965"
+      "https://careers.usbank.com/global/en/job/2026-0033965?ph_id=2026-0033965",
+      "https://careers.usbank.com/global/en/job/2026-0034197?ph_id=2026-0034197",
+      "https://careers.usbank.com/global/en/job/2026-0033976?ph_id=2026-0033976"
     ]
   },
   {
@@ -13425,7 +13450,8 @@
       "https://job-boards.greenhouse.io/charlesriverassociates/jobs/1142524",
       "https://job-boards.greenhouse.io/charlesriverassociates/jobs/3998596",
       "https://job-boards.greenhouse.io/charlesriverassociates/jobs/7954166",
-      "https://job-boards.greenhouse.io/charlesriverassociates/jobs/7983777"
+      "https://job-boards.greenhouse.io/charlesriverassociates/jobs/7983777",
+      "https://job-boards.greenhouse.io/charlesriverassociates/jobs/7899272"
     ]
   },
   {
@@ -21750,6 +21776,7 @@
       "https://go.vansh.nyc/18H?s=y",
       "https://go.vansh.nyc/18U?s=y",
       "https://go.vansh.nyc/18V?s=y",
+      "https://go.vansh.nyc/18Z?s=z",
       "https://go.vansh.nyc/18a?s=y",
       "https://go.vansh.nyc/18b?s=y",
       "https://go.vansh.nyc/18d?s=y",
@@ -21771,6 +21798,8 @@
       "https://go.vansh.nyc/18x?s=z",
       "https://go.vansh.nyc/18y?s=z",
       "https://go.vansh.nyc/18z?s=z",
+      "https://go.vansh.nyc/190?s=z",
+      "https://go.vansh.nyc/191?s=y",
       "https://go.vansh.nyc/BA?s=y",
       "https://go.vansh.nyc/BB?s=y",
       "https://go.vansh.nyc/BC?s=y",
@@ -21897,10 +21926,7 @@
       "https://go.vansh.nyc/Zt?s=y",
       "https://go.vansh.nyc/Zw?s=y",
       "https://go.vansh.nyc/Zy?s=y",
-      "https://go.vansh.nyc/i?s=y",
-      "https://go.vansh.nyc/191?s=y",
-      "https://go.vansh.nyc/18Z?s=z",
-      "https://go.vansh.nyc/190?s=z"
+      "https://go.vansh.nyc/i?s=y"
     ]
   },
   {
@@ -24422,7 +24448,8 @@
       "https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/Vancouver-Washington-United-States-of-America/AI-Applied-Engineering-Intern_UNI4670-2",
       "https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/Vancouver-Washington-United-States-of-America/AI-Solution-Engineer_3164923",
       "https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/Vancouver-Washington-United-States-of-America/AI-Solutions-Engineer_3166825",
-      "https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/Vancouver-Washington-United-States-of-America/HP-App-Monetezation-Data-explorer_3158862"
+      "https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/Vancouver-Washington-United-States-of-America/HP-App-Monetezation-Data-explorer_3158862",
+      "https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/Vancouver-Washington-United-States-of-America/Software-Systems-Engineer_3162972"
     ]
   },
   {
@@ -26655,7 +26682,8 @@
       "https://jobs.baesystems.com/global/en/job/132167BR?ph_id=132167BR",
       "https://jobs.baesystems.com/global/en/job/132169BR?ph_id=132169BR",
       "https://jobs.baesystems.com/global/en/job/132176BR?ph_id=132176BR",
-      "https://jobs.baesystems.com/global/en/job/132183BR?ph_id=132183BR"
+      "https://jobs.baesystems.com/global/en/job/132183BR?ph_id=132183BR",
+      "https://jobs.baesystems.com/global/en/job/132233BR?ph_id=132233BR"
     ]
   },
   {
@@ -28179,7 +28207,8 @@
     "domain": "https://job-boards.greenhouse.io",
     "page": "https://boards-api.greenhouse.io/v1/boards/knowbe4/jobs",
     "urls": [
-      "https://job-boards.greenhouse.io/knowbe4/jobs/8870749002"
+      "https://job-boards.greenhouse.io/knowbe4/jobs/8870749002",
+      "https://job-boards.greenhouse.io/knowbe4/jobs/8919280002"
     ]
   },
   {
@@ -29377,7 +29406,8 @@
     "urls": [
       "https://jobs.lever.co/make-rain/91bdb036-ae7d-47e4-828b-fb7761665226",
       "https://jobs.lever.co/make-rain/b45f954e-19df-45b1-8748-c8ae442a2e8b",
-      "https://jobs.lever.co/make-rain/f18752c9-4979-41a3-8102-a165e86c6521"
+      "https://jobs.lever.co/make-rain/f18752c9-4979-41a3-8102-a165e86c6521",
+      "https://jobs.lever.co/make-rain/e9b0adfa-0874-4105-aac7-af1dfb3da847"
     ]
   },
   {
@@ -30798,7 +30828,8 @@
       "https://www.metacareers.com/profile/job_details/990953733995858",
       "https://www.metacareers.com/profile/job_details/994881556459825",
       "https://www.metacareers.com/profile/job_details/997644772875988",
-      "https://www.metacareers.com/profile/job_details/998357492128826"
+      "https://www.metacareers.com/profile/job_details/998357492128826",
+      "https://www.metacareers.com/profile/job_details/1411303244365622"
     ]
   },
   {
@@ -32954,7 +32985,8 @@
       "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Oklahoma-Oklahoma-City/Software-Engineer---User-Experience-Applications_R10236991-1",
       "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Oklahoma-Oklahoma-City/Software-Engineer_R10234799",
       "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Oklahoma-Oklahoma-City/Software-Engineer_R10236283",
-      "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Utah-Roy/Sentinel-Deputy-Chief-Engineer---Infrastructure-18955_R10238106"
+      "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Utah-Roy/Sentinel-Deputy-Chief-Engineer---Infrastructure-18955_R10238106",
+      "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Engineer---Bellevue--NE-_R10258366"
     ]
   },
   {
@@ -44520,7 +44552,8 @@
       "https://lifeattiktok.com/search/7695929967028750645",
       "https://lifeattiktok.com/search/7699479125563738373",
       "https://lifeattiktok.com/search/7700820444199225653",
-      "https://lifeattiktok.com/search/7700828936843299125"
+      "https://lifeattiktok.com/search/7700828936843299125",
+      "https://lifeattiktok.com/search/7629211025884154165"
     ]
   },
   {
