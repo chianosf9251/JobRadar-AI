@@ -2059,7 +2059,8 @@
       "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015104",
       "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015408",
       "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015465",
-      "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015552"
+      "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015552",
+      "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015722"
     ]
   },
   {
@@ -4681,7 +4682,9 @@
       "https://apply.workable.com/tmeic-corporation-americas/j/D44B74C42B/apply",
       "https://apply.workable.com/trycaddi/j/9D1291C697/apply",
       "https://apply.workable.com/western-magnetics/j/E366930F3F/apply",
-      "https://apply.workable.com/zaber/j/EAB5877DC3/apply"
+      "https://apply.workable.com/zaber/j/EAB5877DC3/apply",
+      "https://apply.workable.com/botpress/j/16C68A50A7/apply",
+      "https://apply.workable.com/botpress/j/9B3CB646E8/apply"
     ]
   },
   {
@@ -22007,6 +22010,7 @@
       "https://go.vansh.nyc/1bx?s=y",
       "https://go.vansh.nyc/1by?s=y",
       "https://go.vansh.nyc/1bz?s=y",
+      "https://go.vansh.nyc/1dt?s=y",
       "https://go.vansh.nyc/BA?s=y",
       "https://go.vansh.nyc/BB?s=y",
       "https://go.vansh.nyc/BC?s=y",
@@ -22134,7 +22138,15 @@
       "https://go.vansh.nyc/Zw?s=y",
       "https://go.vansh.nyc/Zy?s=y",
       "https://go.vansh.nyc/i?s=y",
-      "https://go.vansh.nyc/1dt?s=y"
+      "https://go.vansh.nyc/1dI?s=y",
+      "https://go.vansh.nyc/1dM?s=y",
+      "https://go.vansh.nyc/1dB?s=y",
+      "https://go.vansh.nyc/1dL?s=y",
+      "https://go.vansh.nyc/1dQ?s=y",
+      "https://go.vansh.nyc/1dK?s=y",
+      "https://go.vansh.nyc/1dE?s=y",
+      "https://go.vansh.nyc/1dH?s=y",
+      "https://go.vansh.nyc/1dP?s=z"
     ]
   },
   {
@@ -27399,14 +27411,14 @@
     "urls": [
       "https://jobs.paccar.com/job/Bellevue-PFC-IT-Summer-Internship-Summer-Internship-2026-WA-98004/1387605533/?ats=successfactors",
       "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-AI-Driven-Vehicle-Definition-TX-76205-7864/1453573733/?ats=successfactors",
+      "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Software-Developer-TX-76205-7864/1453615433/?ats=successfactors",
       "https://jobs.paccar.com/job/Kirkland-Summer-2026-Intern-Application-Developer-%28OH%29-WA-98033/1260990901/",
       "https://jobs.paccar.com/job/Kirkland-Summer-2027-Application-Developer-Intern-(OH)-WA-98033/1451927133/?ats=successfactors",
       "https://jobs.paccar.com/job/Mount-Vernon-Software-Engineering-Intern-Powertrain-Development-WA-98273-9671/1290590101/?ats=successfactors",
       "https://jobs.paccar.com/job/Renton-2027-Winter-Internship-Software-Developer-Intern-WA-98057/1435928733/?ats=successfactors",
       "https://jobs.paccar.com/job/Renton-Summer-Internship-IT-Applications-WA-98055/1256156801/?ats=successfactors",
       "https://jobs.paccar.com/job/Renton-Summer-Internship-IT-Applications-WA-98055/1389651133/?ats=successfactors",
-      "https://jobs.paccar.com/job/Sunnyvale-2026-Summer-Internship-Advanced-Mobility-Tech-Engineering-CA-94089/1292877901/?ats=successfactors",
-      "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Software-Developer-TX-76205-7864/1453615433/?ats=successfactors"
+      "https://jobs.paccar.com/job/Sunnyvale-2026-Summer-Internship-Advanced-Mobility-Tech-Engineering-CA-94089/1292877901/?ats=successfactors"
     ]
   },
   {
@@ -28713,6 +28725,16 @@
       "https://lazard-careers.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/3796-2026-Software-Engineer-Summer-Internship-Lazard-Data-Analytics-Group/en-GB",
       "https://lazard-careers.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/3797-2026-AI-Engineer-Summer-Internship-Lazard-Data-Analytics-Group/en-GB",
       "https://lazard-careers.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/3798-2026-Data-Engineer-Summer-Internship-Lazard-Data-Analytics-Group/en-GB"
+    ]
+  },
+  {
+    "name": "lbg",
+    "ats": "workday",
+    "identifier": "lbg-lbg_careers",
+    "domain": "https://lbg.wd3.myworkdayjobs.com/LBG_Careers",
+    "page": "https://lbg.wd3.myworkdayjobs.com/wday/cxs/lbg/LBG_Careers/jobs",
+    "urls": [
+      "https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Manchester/Digital---Technology-Solutions-Degree-Apprenticeship---Manchester_164903"
     ]
   },
   {
