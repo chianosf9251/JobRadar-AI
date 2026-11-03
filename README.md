@@ -103,6 +103,27 @@
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Samsung Research America Internship</td>
+      <td width="420" align="left" valign="top">Agentic AI Solutions Intern</td>
+      <td width="180" align="left" valign="top">Mountain View, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://go.vansh.nyc/1dP?s=z" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">November 3</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">The Mosaic Company</td>
+      <td width="420" align="left" valign="top">Artificial Intelligence Co-op</td>
+      <td width="180" align="left" valign="top">Lithia, FL</td>
+      <td width="120" align="left" valign="top"><a href="https://go.vansh.nyc/1dB?s=y" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">November 3</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Trimble</td>
+      <td width="420" align="left" valign="top">AI Developer Intern</td>
+      <td width="180" align="left" valign="top">Westminster, CO</td>
+      <td width="120" align="left" valign="top"><a href="https://go.vansh.nyc/1dM?s=y" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">November 3</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Staples</td>
       <td width="420" align="left" valign="top">Software Engineer Intern - Marketplace Platform 🎓</td>
       <td width="180" align="left" valign="top">Framingham, MA</td>
@@ -2020,7 +2041,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-11-03T10:45:21.883Z</code>
+      🕒 Last updated <code>2026-11-03T18:25:12.127Z</code>
     </span>
   </p>
 </div>
