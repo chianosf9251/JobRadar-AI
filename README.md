@@ -103,6 +103,34 @@
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">CFS Energy</td>
+      <td width="420" align="left" valign="top">Software Engineer Intern</td>
+      <td width="180" align="left" valign="top">Devens, MA</td>
+      <td width="120" align="left" valign="top"><a href="https://go.vansh.nyc/1e7?s=y" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">November 3</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Hewlett Packard (HP)</td>
+      <td width="420" align="left" valign="top">Software Engineering Intern, AIML Platform</td>
+      <td width="180" align="left" valign="top">San Francisco, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://go.vansh.nyc/1e0?s=y" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">November 3</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">JM Family Enterprises</td>
+      <td width="420" align="left" valign="top">AI &amp; Decision Science Intern</td>
+      <td width="180" align="left" valign="top">Deerfield Beach, FL</td>
+      <td width="120" align="left" valign="top"><a href="https://go.vansh.nyc/1dZ?s=y" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">November 3</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Microsoft</td>
+      <td width="420" align="left" valign="top">Software Engineer Intern, Teamwork Experiences</td>
+      <td width="180" align="left" valign="top">Redmond, WA</td>
+      <td width="120" align="left" valign="top"><a href="https://go.vansh.nyc/1dY?s=y" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">November 3</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Trimble</td>
       <td width="420" align="left" valign="top">AI Developer Intern</td>
       <td width="180" align="left" valign="top">Westminster, CO</td>
@@ -1372,6 +1400,20 @@
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Apache Industrial</td>
+      <td width="420" align="left" valign="top">AI Implementation Intern</td>
+      <td width="180" align="left" valign="top">Houston, TX</td>
+      <td width="120" align="left" valign="top"><a href="https://apacheip.wd1.myworkdayjobs.com/apache_careers/job/Houston-Headquarters/AI-Implementation-Intern_R115430" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">November 3</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Hearst</td>
+      <td width="420" align="left" valign="top">Editorial AI Development Intern</td>
+      <td width="180" align="left" valign="top">San Francisco, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://job-boards.greenhouse.io/hearst/jobs/4473043009" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">November 3</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Nokia</td>
       <td width="420" align="left" valign="top">AI R&amp;D Engineer Co-op</td>
       <td width="180" align="left" valign="top">Sunnyvale, CA</td>
@@ -2118,7 +2160,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-11-03T20:03:57.724Z</code>
+      🕒 Last updated <code>2026-11-03T23:57:22.410Z</code>
     </span>
   </p>
 </div>
