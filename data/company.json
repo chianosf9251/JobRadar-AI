@@ -4655,6 +4655,7 @@
       "https://apply.careers.microsoft.com/careers/job/1970393556991773",
       "https://apply.careers.microsoft.com/careers/job/1970393557004819",
       "https://apply.careers.microsoft.com/careers/job/1970393557008714",
+      "https://apply.careers.microsoft.com/careers/job/1970393557037859",
       "https://apply.careers.microsoft.com/careers/job/1970393557044765",
       "https://apply.careers.microsoft.com/careers/job/1970393557044769",
       "https://apply.careers.microsoft.com/careers/job/1970393557044771",
@@ -4664,8 +4665,7 @@
       "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922923",
       "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922929",
       "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922930",
-      "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922931",
-      "https://apply.careers.microsoft.com/careers/job/1970393557037859"
+      "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922931"
     ]
   },
   {
@@ -5512,7 +5512,8 @@
       "https://ats.rippling.com/tive-careers/jobs/c88ab3d3-a8e7-4639-b95b-d6c9b5290dd0",
       "https://ats.rippling.com/tive-careers/jobs/e7ed0c47-bf2e-4105-a793-e48dc0e0f710",
       "https://ats.rippling.com/usare/jobs/8db9bb37-aa5f-40e0-96ac-d1c4ca796aeb",
-      "https://ats.rippling.com/veryable-careers/jobs/cf74672c-c9c5-4be5-8858-04abfd64c20f"
+      "https://ats.rippling.com/veryable-careers/jobs/cf74672c-c9c5-4be5-8858-04abfd64c20f",
+      "https://ats.rippling.com/shadowdragon/jobs/69df1efd-5f05-4a79-9432-30925eb6db3c"
     ]
   },
   {
@@ -17925,6 +17926,16 @@
     ]
   },
   {
+    "name": "etched",
+    "ats": "ashby",
+    "identifier": "etched",
+    "domain": "https://jobs.ashbyhq.com",
+    "page": "https://api.ashbyhq.com/posting-api/job-board/etched",
+    "urls": [
+      "https://jobs.ashbyhq.com/etched/05d67dff-a7a4-4ece-a809-3200d95e7440/application?embed=true"
+    ]
+  },
+  {
     "name": "Etched",
     "ats": "ashby",
     "identifier": "Etched",
@@ -22178,6 +22189,13 @@
       "https://go.vansh.nyc/1fD?s=y",
       "https://go.vansh.nyc/1fE?s=z",
       "https://go.vansh.nyc/1fF?s=y",
+      "https://go.vansh.nyc/1fL?s=y",
+      "https://go.vansh.nyc/1fM?s=z",
+      "https://go.vansh.nyc/1fN?s=y",
+      "https://go.vansh.nyc/1fR?s=y",
+      "https://go.vansh.nyc/1fS?s=z",
+      "https://go.vansh.nyc/1fU?s=z",
+      "https://go.vansh.nyc/1fV?s=y",
       "https://go.vansh.nyc/1fd?s=y",
       "https://go.vansh.nyc/1fe?s=y",
       "https://go.vansh.nyc/1ff?s=y",
@@ -22320,13 +22338,7 @@
       "https://go.vansh.nyc/Zw?s=y",
       "https://go.vansh.nyc/Zy?s=y",
       "https://go.vansh.nyc/i?s=y",
-      "https://go.vansh.nyc/1fV?s=y",
-      "https://go.vansh.nyc/1fL?s=y",
-      "https://go.vansh.nyc/1fR?s=y",
-      "https://go.vansh.nyc/1fN?s=y",
-      "https://go.vansh.nyc/1fM?s=z",
-      "https://go.vansh.nyc/1fU?s=z",
-      "https://go.vansh.nyc/1fS?s=z"
+      "https://go.vansh.nyc/1go?s=y"
     ]
   },
   {
@@ -27351,6 +27363,7 @@
     "page": "",
     "urls": [
       "https://jobs.ea.com/en_US/careers/JobDetail/AI-Ad-Operations-Intern/210898",
+      "https://jobs.ea.com/en_US/careers/JobDetail/Anticheat-Engineer-Intern-Summer-2027/216242",
       "https://jobs.ea.com/en_US/careers/JobDetail/Client-AI-Software-Engineer-Intern/216364",
       "https://jobs.ea.com/en_US/careers/JobDetail/Data-AI-Engineering-Intern-Summer-2027/216238",
       "https://jobs.ea.com/en_US/careers/JobDetail/Game-Creation-SW-Engineer-Intern/210902",
@@ -27401,8 +27414,7 @@
       "https://jobs.ea.com/en_US/careers/JobDetail/Systems-Software-Engineer-Co-op/210903",
       "https://jobs.ea.com/en_US/careers/JobDetail/Technical-Artist-Co-op/216406",
       "https://jobs.ea.com/en_US/careers/JobDetail/UI-Scripter-Intern/216359",
-      "https://jobs.ea.com/en_US/careers/JobDetail/VINU-C-Software-Engineer-Co-op/210935",
-      "https://jobs.ea.com/en_US/careers/JobDetail/Anticheat-Engineer-Intern-Summer-2027/216242"
+      "https://jobs.ea.com/en_US/careers/JobDetail/VINU-C-Software-Engineer-Co-op/210935"
     ]
   },
   {
