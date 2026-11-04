@@ -18,6 +18,13 @@ Every opportunity matching your current filters (country, category, citizenship/
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Meta</td>
+      <td width="420" align="left" valign="top">ASIC EDA Infrastructure Engineer Intern</td>
+      <td width="180" align="left" valign="top">Sunnyvale, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://www.metacareers.com/profile/job_details/1883872846321140" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">November 4</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Etched</td>
       <td width="420" align="left" valign="top">IA Research Engineer Intern - Kernels</td>
       <td width="180" align="left" valign="top">San Jose, CA</td>
@@ -2680,6 +2687,13 @@ Every opportunity matching your current filters (country, category, citizenship/
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">BAE Systems</td>
+      <td width="420" align="left" valign="top">Cyber Systems Engineering Intern II (Spring 2007)</td>
+      <td width="180" align="left" valign="top">Hudson, NH</td>
+      <td width="120" align="left" valign="top"><a href="https://jobs.baesystems.com/global/en/job/132276BR?ph_id=132276BR" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">November 4</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Apache Industrial</td>
       <td width="420" align="left" valign="top">AI Implementation Intern</td>
       <td width="180" align="left" valign="top">Houston, TX</td>
@@ -3262,6 +3276,20 @@ Every opportunity matching your current filters (country, category, citizenship/
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td width="180" align="left" valign="top">Nooks</td>
+      <td width="420" align="left" valign="top">Software Engineer</td>
+      <td width="180" align="left" valign="top">San Francisco, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://jobs.ashbyhq.com/nooks/6cdc7c9c-d782-415c-91c5-12bdcc31a7b0" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">November 4</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Ncr</td>
+      <td width="420" align="left" valign="top">Software Engineer Fellow</td>
+      <td width="180" align="left" valign="top">Florida, USA</td>
+      <td width="120" align="left" valign="top"><a href="https://ncr.wd1.myworkdayjobs.com/ext_us/job/FLORIDA-VIRTUAL-USA/Software-Engineer-Fellow_R0158700" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">November 4</td>
+    </tr>
     <tr>
       <td width="180" align="left" valign="top">ShadowDragon</td>
       <td width="420" align="left" valign="top">Junior AI/Machine Learning Engineer</td>
@@ -4788,4 +4816,4 @@ Every opportunity matching your current filters (country, category, citizenship/
 
 ---
 
-📦 Generated from `opportunities.ndjson` &nbsp;•&nbsp; 🕒 Last updated `2026-11-04T14:07:24.718Z`
+📦 Generated from `opportunities.ndjson` &nbsp;•&nbsp; 🕒 Last updated `2026-11-04T20:22:43.173Z`
