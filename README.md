@@ -103,6 +103,13 @@
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Palantir</td>
+      <td width="420" align="left" valign="top">Software Engineer, Internship - Sovereign AI Systems</td>
+      <td width="180" align="left" valign="top">New York, NY</td>
+      <td width="120" align="left" valign="top"><a href="https://jobs.lever.co/palantir/cd64bcd4-50bb-4aeb-a135-4e0487ffd312" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">November 5</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Arango</td>
       <td width="420" align="left" valign="top">Software Engineer Intern, Cookbooks</td>
       <td width="180" align="left" valign="top">Remote, USA</td>
@@ -1411,13 +1418,6 @@
       <td width="120" align="left" valign="top"><a href="https://careers.hpe.com/us/en/job/1213417?ph_id=1213417" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
       <td width="100" align="left" valign="top">October 7</td>
     </tr>
-    <tr>
-      <td width="180" align="left" valign="top">Everpure</td>
-      <td width="420" align="left" valign="top">Software Engineer Intern (Summer 2027)</td>
-      <td width="180" align="left" valign="top">Santa Clara, CA</td>
-      <td width="120" align="left" valign="top"><a href="https://job-boards.greenhouse.io/purestorage/jobs/8249749" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">October 6</td>
-    </tr>
   </tbody>
 </table>
 
@@ -1434,6 +1434,13 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td width="180" align="left" valign="top">Shieldai</td>
+      <td width="420" align="left" valign="top">June 2027 Co-Op - Software Engineer Intern</td>
+      <td width="180" align="left" valign="top">Washington, DC</td>
+      <td width="120" align="left" valign="top"><a href="https://jobs.lever.co/shieldai/db8fc063-8856-4404-991c-f287712de949" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">November 5</td>
+    </tr>
     <tr>
       <td width="180" align="left" valign="top">BAE Systems</td>
       <td width="420" align="left" valign="top">Cyber Systems Engineering Intern II (Spring 2007)</td>
@@ -2185,13 +2192,6 @@
       <td width="120" align="left" valign="top"><a href="https://jobs.smartrecruiters.com/ServiceNow/744000153871309" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
       <td width="100" align="left" valign="top">October 6</td>
     </tr>
-    <tr>
-      <td width="180" align="left" valign="top">Everpure</td>
-      <td width="420" align="left" valign="top">Software Engineer Grad 2027</td>
-      <td width="180" align="left" valign="top">Santa Clara, CA</td>
-      <td width="120" align="left" valign="top"><a href="https://job-boards.greenhouse.io/purestorage/jobs/8249851" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">October 6</td>
-    </tr>
   </tbody>
 </table>
 
@@ -2216,7 +2216,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-11-05T18:39:32.669Z</code>
+      🕒 Last updated <code>2026-11-05T20:30:35.538Z</code>
     </span>
   </p>
 </div>
