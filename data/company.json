@@ -1896,14 +1896,14 @@
       "https://amazon.jobs/en/jobs/10595558",
       "https://amazon.jobs/en/jobs/10595570",
       "https://amazon.jobs/en/jobs/10596535",
+      "https://amazon.jobs/en/jobs/10597112/software-dev-engineer-i-security-platform",
       "https://amazon.jobs/en/jobs/10597174",
       "https://amazon.jobs/en/jobs/3116030",
       "https://amazon.jobs/en/jobs/3127861",
       "https://amazon.jobs/en/jobs/3179209",
       "https://www.amazon.jobs/en/jobs/3066646/business-intelligence-engineer-co-op-2026-us",
       "https://www.amazon.jobs/en/jobs/3101249/software-development-engineer-internship-winter-2026-us",
-      "https://www.amazon.jobs/en/jobs/3136266/robotics-software-development-engineer-intern-co-op-2026?no_int_redir=1",
-      "https://amazon.jobs/en/jobs/10597112/software-dev-engineer-i-security-platform"
+      "https://www.amazon.jobs/en/jobs/3136266/robotics-software-development-engineer-intern-co-op-2026?no_int_redir=1"
     ]
   },
   {
@@ -4721,6 +4721,7 @@
       "https://apply.workable.com/coretek-services/j/21D19CC253/apply",
       "https://apply.workable.com/coretek-services/j/8D69C6C871/apply",
       "https://apply.workable.com/coretek-services/j/BD2FA6BDD9/apply",
+      "https://apply.workable.com/datavisor-jobs/j/2FB6A93BF6/apply",
       "https://apply.workable.com/dcthomson/j/31E88278E1/apply",
       "https://apply.workable.com/elevate-semiconductor/j/F234DECA3C/apply",
       "https://apply.workable.com/enfos-inc/j/CA15908E0A/apply",
@@ -4753,8 +4754,7 @@
       "https://apply.workable.com/tmeic-corporation-americas/j/D44B74C42B/apply",
       "https://apply.workable.com/trycaddi/j/9D1291C697/apply",
       "https://apply.workable.com/western-magnetics/j/E366930F3F/apply",
-      "https://apply.workable.com/zaber/j/EAB5877DC3/apply",
-      "https://apply.workable.com/datavisor-jobs/j/2FB6A93BF6/apply"
+      "https://apply.workable.com/zaber/j/EAB5877DC3/apply"
     ]
   },
   {
@@ -9410,7 +9410,8 @@
       "https://caci.wd1.myworkdayjobs.com/external/job/Ypsilanti-MI-US/Software-Engineer_333070",
       "https://caci.wd1.myworkdayjobs.com/external/job/Ypsilanti-MI-US/Software-Engineer_333306",
       "https://caci.wd1.myworkdayjobs.com/external/job/Ypsilanti-MI-US/Systems-Engineer_325904",
-      "https://caci.wd1.myworkdayjobs.com/external/job/Ypsilanti-MI-US/Systems-Engineer_332638-1"
+      "https://caci.wd1.myworkdayjobs.com/external/job/Ypsilanti-MI-US/Systems-Engineer_332638-1",
+      "https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Junior-Software-Developer_334685"
     ]
   },
   {
@@ -13775,8 +13776,8 @@
     "domain": "https://choicehotels.wd5.myworkdayjobs.com/External",
     "page": "https://choicehotels.wd5.myworkdayjobs.com/wday/cxs/choicehotels/External/jobs",
     "urls": [
-      "https://choicehotels.wd5.myworkdayjobs.com/External/job/Scottsdale-AZ---Technology--Digital-Commerce-Center/Software-Engineer-1_R22450",
-      "https://choicehotels.wd5.myworkdayjobs.com/External/job/Scottsdale-AZ---Technology--Digital-Commerce-Center/Software-Engineer-1---Finance-Technology_R22514"
+      "https://choicehotels.wd5.myworkdayjobs.com/External/job/Scottsdale-AZ---Technology--Digital-Commerce-Center/Software-Engineer-1---Finance-Technology_R22514",
+      "https://choicehotels.wd5.myworkdayjobs.com/External/job/Scottsdale-AZ---Technology--Digital-Commerce-Center/Software-Engineer-1_R22450"
     ]
   },
   {
@@ -20098,6 +20099,8 @@
       "https://careers-gdms.icims.com/jobs/75100/embedded-software-engineer/job",
       "https://careers-gdms.icims.com/jobs/75108/intern---systems-engineer/job",
       "https://careers-gdms.icims.com/jobs/75123/mechanical-engineering-intern-%28ai%26r--manassas%29/job",
+      "https://careers-gdms.icims.com/jobs/75128/job?mobile=true&needsRedirect=false",
+      "https://careers-gdms.icims.com/jobs/75131/job?mobile=true&needsRedirect=false",
       "https://careers-gdms.icims.com/jobs/75139/systems-engineering-intern-%28slcm---manassas%29/job",
       "https://careers-gdms.icims.com/jobs/75141/systems-engineering-intern-%28tcs--manassas%29/job",
       "https://careers-gdms.icims.com/jobs/75143/scrum-master---systems-engineer---swis/job",
@@ -20189,9 +20192,7 @@
       "https://careers-gdms.icims.com/jobs/76779/software-engineer-%e2%80%93-linux-experience/job",
       "https://careers-gdms.icims.com/jobs/76781/advanced-software-engineer---ai-reliability-engineering/job",
       "https://careers-gdms.icims.com/jobs/76797/mbse-systems-engineer-%e2%80%93-ai-reliability-engineering/job",
-      "https://careers-gdms.icims.com/jobs/76998/advanced-systems-engineer-%28hardware-focused%29/job",
-      "https://careers-gdms.icims.com/jobs/75131/job?mobile=true&needsRedirect=false",
-      "https://careers-gdms.icims.com/jobs/75128/job?mobile=true&needsRedirect=false"
+      "https://careers-gdms.icims.com/jobs/76998/advanced-systems-engineer-%28hardware-focused%29/job"
     ]
   },
   {
@@ -22357,8 +22358,41 @@
       "https://go.vansh.nyc/1gy?s=y",
       "https://go.vansh.nyc/1h2?s=y",
       "https://go.vansh.nyc/1h9?s=y",
+      "https://go.vansh.nyc/1hH?s=y",
+      "https://go.vansh.nyc/1hI?s=y",
+      "https://go.vansh.nyc/1hJ?s=y",
+      "https://go.vansh.nyc/1hK?s=y",
+      "https://go.vansh.nyc/1hL?s=y",
+      "https://go.vansh.nyc/1hM?s=y",
+      "https://go.vansh.nyc/1hN?s=y",
+      "https://go.vansh.nyc/1hO?s=y",
+      "https://go.vansh.nyc/1hP?s=y",
+      "https://go.vansh.nyc/1hQ?s=y",
       "https://go.vansh.nyc/1ha?s=z",
       "https://go.vansh.nyc/1hi?s=y",
+      "https://go.vansh.nyc/1i3?s=z",
+      "https://go.vansh.nyc/1i4?s=y",
+      "https://go.vansh.nyc/1i5?s=y",
+      "https://go.vansh.nyc/1i6?s=y",
+      "https://go.vansh.nyc/1i7?s=y",
+      "https://go.vansh.nyc/1i8?s=y",
+      "https://go.vansh.nyc/1i9?s=z",
+      "https://go.vansh.nyc/1ia?s=y",
+      "https://go.vansh.nyc/1ib?s=z",
+      "https://go.vansh.nyc/1ic?s=z",
+      "https://go.vansh.nyc/1id?s=z",
+      "https://go.vansh.nyc/1ie?s=z",
+      "https://go.vansh.nyc/1if?s=z",
+      "https://go.vansh.nyc/1ig?s=y",
+      "https://go.vansh.nyc/1ih?s=z",
+      "https://go.vansh.nyc/1ii?s=y",
+      "https://go.vansh.nyc/1ij?s=y",
+      "https://go.vansh.nyc/1ik?s=y",
+      "https://go.vansh.nyc/1il?s=y",
+      "https://go.vansh.nyc/1im?s=y",
+      "https://go.vansh.nyc/1in?s=y",
+      "https://go.vansh.nyc/1io?s=y",
+      "https://go.vansh.nyc/1ip?s=y",
       "https://go.vansh.nyc/BA?s=y",
       "https://go.vansh.nyc/BB?s=y",
       "https://go.vansh.nyc/BC?s=y",
@@ -22486,39 +22520,17 @@
       "https://go.vansh.nyc/Zw?s=y",
       "https://go.vansh.nyc/Zy?s=y",
       "https://go.vansh.nyc/i?s=y",
-      "https://go.vansh.nyc/1ip?s=y",
-      "https://go.vansh.nyc/1ig?s=y",
-      "https://go.vansh.nyc/1hN?s=y",
-      "https://go.vansh.nyc/1hO?s=y",
-      "https://go.vansh.nyc/1hP?s=y",
-      "https://go.vansh.nyc/1hQ?s=y",
-      "https://go.vansh.nyc/1ia?s=y",
-      "https://go.vansh.nyc/1io?s=y",
-      "https://go.vansh.nyc/1i6?s=y",
-      "https://go.vansh.nyc/1i7?s=y",
-      "https://go.vansh.nyc/1i8?s=y",
-      "https://go.vansh.nyc/1hL?s=y",
-      "https://go.vansh.nyc/1hM?s=y",
-      "https://go.vansh.nyc/1i5?s=y",
-      "https://go.vansh.nyc/1in?s=y",
-      "https://go.vansh.nyc/1i4?s=y",
-      "https://go.vansh.nyc/1im?s=y",
-      "https://go.vansh.nyc/1hJ?s=y",
-      "https://go.vansh.nyc/1hK?s=y",
-      "https://go.vansh.nyc/1hI?s=y",
-      "https://go.vansh.nyc/1ii?s=y",
-      "https://go.vansh.nyc/1ij?s=y",
-      "https://go.vansh.nyc/1ik?s=y",
-      "https://go.vansh.nyc/1il?s=y",
-      "https://go.vansh.nyc/1hH?s=y",
-      "https://go.vansh.nyc/1ie?s=z",
-      "https://go.vansh.nyc/1if?s=z",
-      "https://go.vansh.nyc/1id?s=z",
-      "https://go.vansh.nyc/1ib?s=z",
-      "https://go.vansh.nyc/1ic?s=z",
-      "https://go.vansh.nyc/1i9?s=z",
-      "https://go.vansh.nyc/1i3?s=z",
-      "https://go.vansh.nyc/1ih?s=z"
+      "https://go.vansh.nyc/1ix?s=y",
+      "https://go.vansh.nyc/1iN?s=y",
+      "https://go.vansh.nyc/1iA?s=y",
+      "https://go.vansh.nyc/1iC?s=y",
+      "https://go.vansh.nyc/1iw?s=y",
+      "https://go.vansh.nyc/1iE?s=y",
+      "https://go.vansh.nyc/1iF?s=y",
+      "https://go.vansh.nyc/1ir?s=y",
+      "https://go.vansh.nyc/1it?s=y",
+      "https://go.vansh.nyc/1iz?s=z",
+      "https://go.vansh.nyc/1iO?s=z"
     ]
   },
   {
@@ -26995,7 +27007,8 @@
     "page": "https://jmfamily.wd1.myworkdayjobs.com/wday/cxs/jmfamily/jmfamily_external/jobs",
     "urls": [
       "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105158",
-      "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105182"
+      "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105182",
+      "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105199"
     ]
   },
   {
@@ -36282,10 +36295,10 @@
       "https://paypal.eightfold.ai/careers/job/274922972366?domain=paypal.com&8fold_id=274922972366",
       "https://paypal.eightfold.ai/careers/job/274922972416?domain=paypal.com&8fold_id=274922972416",
       "https://paypal.eightfold.ai/careers/job/274922982814?domain=paypal.com&8fold_id=274922982814",
+      "https://paypal.eightfold.ai/careers/job/274922982818",
       "https://paypal.eightfold.ai/careers/job/274923120550?domain=paypal.com&8fold_id=274923120550",
       "https://paypal.eightfold.ai/careers/job/274923142599?domain=paypal.com&8fold_id=274923142599",
-      "https://paypal.eightfold.ai/careers/job/274923219770?domain=paypal.com&8fold_id=274923219770",
-      "https://paypal.eightfold.ai/careers/job/274922982818"
+      "https://paypal.eightfold.ai/careers/job/274923219770?domain=paypal.com&8fold_id=274923219770"
     ]
   },
   {
@@ -46451,9 +46464,9 @@
       "https://job-boards.greenhouse.io/twitch/jobs/8887222002",
       "https://job-boards.greenhouse.io/twitch/jobs/8906750002",
       "https://job-boards.greenhouse.io/twitch/jobs/8917377002",
-      "https://job-boards.greenhouse.io/twitch/jobs/8931345002",
+      "https://job-boards.greenhouse.io/twitch/jobs/8929545002",
       "https://job-boards.greenhouse.io/twitch/jobs/8931343002",
-      "https://job-boards.greenhouse.io/twitch/jobs/8929545002"
+      "https://job-boards.greenhouse.io/twitch/jobs/8931345002"
     ]
   },
   {
