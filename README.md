@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20Parsed-google%20%2F%20gemini--3.1--flash--lite-blue" />
   <img src="https://img.shields.io/badge/Countries-USA%20%C2%B7%20Taiwan-green" />
-  <img src="https://img.shields.io/badge/Updated-2026--11--05-orange" />
+  <img src="https://img.shields.io/badge/Updated-2026--11--06-orange" />
   <img src="https://img.shields.io/badge/License-MIT-yellow" />
 </p>
 
@@ -102,6 +102,20 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td width="180" align="left" valign="top">Palantir Technologies</td>
+      <td width="420" align="left" valign="top">Software Engineer Intern, Sovereign AI Systems</td>
+      <td width="180" align="left" valign="top">New York, NY</td>
+      <td width="120" align="left" valign="top"><a href="https://go.vansh.nyc/1j0?s=y" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">November 5</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Shield</td>
+      <td width="420" align="left" valign="top">Software Engineer Co-op</td>
+      <td width="180" align="left" valign="top">Dallas, TX</td>
+      <td width="120" align="left" valign="top"><a href="https://go.vansh.nyc/1iW?s=y" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">November 5</td>
+    </tr>
     <tr>
       <td width="180" align="left" valign="top">Palantir</td>
       <td width="420" align="left" valign="top">Software Engineer, Internship - Sovereign AI Systems</td>
@@ -2216,7 +2230,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-11-05T20:30:35.538Z</code>
+      🕒 Last updated <code>2026-11-06T00:06:01.079Z</code>
     </span>
   </p>
 </div>

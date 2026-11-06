@@ -18,6 +18,20 @@ Every opportunity matching your current filters (country, category, citizenship/
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Palantir Technologies</td>
+      <td width="420" align="left" valign="top">Software Engineer Intern, Sovereign AI Systems</td>
+      <td width="180" align="left" valign="top">New York, NY</td>
+      <td width="120" align="left" valign="top"><a href="https://go.vansh.nyc/1j0?s=y" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">November 5</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Shield</td>
+      <td width="420" align="left" valign="top">Software Engineer Co-op</td>
+      <td width="180" align="left" valign="top">Dallas, TX</td>
+      <td width="120" align="left" valign="top"><a href="https://go.vansh.nyc/1iW?s=y" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">November 5</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Palantir</td>
       <td width="420" align="left" valign="top">Software Engineer, Internship - Sovereign AI Systems</td>
       <td width="180" align="left" valign="top">New York, NY</td>
@@ -4886,4 +4900,4 @@ Every opportunity matching your current filters (country, category, citizenship/
 
 ---
 
-📦 Generated from `opportunities.ndjson` &nbsp;•&nbsp; 🕒 Last updated `2026-11-05T20:30:35.538Z`
+📦 Generated from `opportunities.ndjson` &nbsp;•&nbsp; 🕒 Last updated `2026-11-06T00:06:01.079Z`
