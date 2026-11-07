@@ -13470,6 +13470,16 @@
     ]
   },
   {
+    "name": "category-labs",
+    "ats": "ashby",
+    "identifier": "category-labs",
+    "domain": "https://jobs.ashbyhq.com",
+    "page": "https://api.ashbyhq.com/posting-api/job-board/category-labs",
+    "urls": [
+      "https://jobs.ashbyhq.com/category-labs/248a6400-c18e-4627-9c8c-1b1054869075/application?embed=true"
+    ]
+  },
+  {
     "name": "cboe",
     "ats": "workday",
     "identifier": "cboe-external_career_cboe",
@@ -22710,6 +22720,8 @@
       "https://go.vansh.nyc/1lO?s=y",
       "https://go.vansh.nyc/1lP?s=y",
       "https://go.vansh.nyc/1lQ?s=y",
+      "https://go.vansh.nyc/1lW?s=y",
+      "https://go.vansh.nyc/1lY?s=y",
       "https://go.vansh.nyc/1la?s=z",
       "https://go.vansh.nyc/1lb?s=y",
       "https://go.vansh.nyc/1lc?s=y",
@@ -22845,9 +22857,7 @@
       "https://go.vansh.nyc/Zt?s=y",
       "https://go.vansh.nyc/Zw?s=y",
       "https://go.vansh.nyc/Zy?s=y",
-      "https://go.vansh.nyc/i?s=y",
-      "https://go.vansh.nyc/1lW?s=y",
-      "https://go.vansh.nyc/1lY?s=y"
+      "https://go.vansh.nyc/i?s=y"
     ]
   },
   {
