@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20Parsed-google%20%2F%20gemini--3.1--flash--lite-blue" />
   <img src="https://img.shields.io/badge/Countries-USA%20%C2%B7%20Taiwan-green" />
-  <img src="https://img.shields.io/badge/Updated-2026--11--06-orange" />
+  <img src="https://img.shields.io/badge/Updated-2026--11--07-orange" />
   <img src="https://img.shields.io/badge/License-MIT-yellow" />
 </p>
 
@@ -102,6 +102,27 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td width="180" align="left" valign="top">Enovation Controls</td>
+      <td width="420" align="left" valign="top">Manufacturing Software Engineer Intern</td>
+      <td width="180" align="left" valign="top">Tulsa, OK</td>
+      <td width="120" align="left" valign="top"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4648416" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">November 6</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">↳</td>
+      <td width="420" align="left" valign="top">Manufacturing Software Engineer Intern</td>
+      <td width="180" align="left" valign="top">Tulsa, OK</td>
+      <td width="120" align="left" valign="top"><a href="https://go.vansh.nyc/1lO?s=y" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">November 6</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Parspec</td>
+      <td width="420" align="left" valign="top">Applied AI Engineer Intern</td>
+      <td width="180" align="left" valign="top">San Mateo, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://go.vansh.nyc/1lJ?s=y" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">November 6</td>
+    </tr>
     <tr>
       <td width="180" align="left" valign="top">Samsara</td>
       <td width="420" align="left" valign="top">Software Engineering Intern</td>
@@ -1561,6 +1582,13 @@
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">SharkNinja</td>
+      <td width="420" align="left" valign="top">Applied AI &amp; Analytics Co-op, AI</td>
+      <td width="180" align="left" valign="top">Needham, MA</td>
+      <td width="120" align="left" valign="top"><a href="https://go.vansh.nyc/1la?s=z" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">November 6</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Shieldai</td>
       <td width="420" align="left" valign="top">June 2027 Co-Op - Software Engineer Intern</td>
       <td width="180" align="left" valign="top">Washington, DC</td>
@@ -2307,7 +2335,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-11-06T20:48:25.592Z</code>
+      🕒 Last updated <code>2026-11-07T00:48:17.888Z</code>
     </span>
   </p>
 </div>
