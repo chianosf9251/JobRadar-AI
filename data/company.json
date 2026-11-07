@@ -1926,15 +1926,15 @@
       "https://amazon.jobs/en/jobs/10597174",
       "https://amazon.jobs/en/jobs/10597803/software-development-engineer-amazon-leo-early-career-2027-us",
       "https://amazon.jobs/en/jobs/10598053",
+      "https://amazon.jobs/en/jobs/10598608/software-development-engineer-apprentice-42-month-fixed-term-contract",
+      "https://amazon.jobs/en/jobs/10598611/software-development-engineer-apprentice-48-month-fixed-term-contract",
+      "https://amazon.jobs/en/jobs/10598613/software-development-engineer-apprentice-42-month-fixed-term-contract",
       "https://amazon.jobs/en/jobs/3116030",
       "https://amazon.jobs/en/jobs/3127861",
       "https://amazon.jobs/en/jobs/3179209",
       "https://www.amazon.jobs/en/jobs/3066646/business-intelligence-engineer-co-op-2026-us",
       "https://www.amazon.jobs/en/jobs/3101249/software-development-engineer-internship-winter-2026-us",
-      "https://www.amazon.jobs/en/jobs/3136266/robotics-software-development-engineer-intern-co-op-2026?no_int_redir=1",
-      "https://amazon.jobs/en/jobs/10598608/software-development-engineer-apprentice-42-month-fixed-term-contract",
-      "https://amazon.jobs/en/jobs/10598611/software-development-engineer-apprentice-48-month-fixed-term-contract",
-      "https://amazon.jobs/en/jobs/10598613/software-development-engineer-apprentice-42-month-fixed-term-contract"
+      "https://www.amazon.jobs/en/jobs/3136266/robotics-software-development-engineer-intern-co-op-2026?no_int_redir=1"
     ]
   },
   {
@@ -4823,7 +4823,8 @@
       "https://apply.workable.com/tmeic-corporation-americas/j/D44B74C42B/apply",
       "https://apply.workable.com/trycaddi/j/9D1291C697/apply",
       "https://apply.workable.com/western-magnetics/j/E366930F3F/apply",
-      "https://apply.workable.com/zaber/j/EAB5877DC3/apply"
+      "https://apply.workable.com/zaber/j/EAB5877DC3/apply",
+      "https://apply.workable.com/prosync/j/6ECFBED6E7/apply"
     ]
   },
   {
@@ -11968,11 +11969,11 @@
       "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1440976000/?ats=successfactors",
       "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1440992800/?ats=successfactors",
       "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1446380900/?ats=successfactors",
+      "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1448477600/?ats=successfactors",
       "https://careers.huntingtoningalls.com/job/Newport-News-IT-SOFTWARE-ENGINEER-1-ROBOTIC-PROCESS-AUTOMATION-(RPA)-Virg/1445226800/?ats=successfactors",
       "https://careers.huntingtoningalls.com/job/Newport-News-SOFTWARE-ENGINEER-1-Virg/1408046100/?ats=successfactors",
       "https://careers.huntingtoningalls.com/job/Newport-News-SOFTWARE-ENGINEER-1-Virg/1412050700/?ats=successfactors",
-      "https://careers.huntingtoningalls.com/job/Pascagoula-2027-COLLEGE-SUMMER-INTERN-COMPUTER-ENGINEERING-Miss/1430053700/?ats=successfactors",
-      "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1448477600/?ats=successfactors"
+      "https://careers.huntingtoningalls.com/job/Pascagoula-2027-COLLEGE-SUMMER-INTERN-COMPUTER-ENGINEERING-Miss/1430053700/?ats=successfactors"
     ]
   },
   {
@@ -16121,6 +16122,16 @@
       "https://jobs.ashbyhq.com/deepgram/9a030b32-d671-43e0-a221-4653bb73ba29",
       "https://jobs.ashbyhq.com/deepgram/bf8ea79f-f380-467e-8349-ea1ea8281316",
       "https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1/application?embed=true"
+    ]
+  },
+  {
+    "name": "deeplocal",
+    "ats": "greenhouse",
+    "identifier": "deeplocal",
+    "domain": "https://job-boards.greenhouse.io",
+    "page": "https://boards-api.greenhouse.io/v1/boards/deeplocal/jobs",
+    "urls": [
+      "https://job-boards.greenhouse.io/deeplocal/jobs/8360330"
     ]
   },
   {
@@ -22636,10 +22647,35 @@
       "https://go.vansh.nyc/1k7?s=y",
       "https://go.vansh.nyc/1k8?s=z",
       "https://go.vansh.nyc/1k9?s=y",
+      "https://go.vansh.nyc/1kA?s=z",
+      "https://go.vansh.nyc/1kB?s=y",
+      "https://go.vansh.nyc/1kC?s=y",
+      "https://go.vansh.nyc/1kD?s=y",
+      "https://go.vansh.nyc/1kE?s=y",
+      "https://go.vansh.nyc/1kG?s=z",
+      "https://go.vansh.nyc/1kH?s=y",
+      "https://go.vansh.nyc/1kP?s=y",
+      "https://go.vansh.nyc/1kQ?s=y",
+      "https://go.vansh.nyc/1kR?s=y",
+      "https://go.vansh.nyc/1kS?s=y",
       "https://go.vansh.nyc/1kc?s=y",
       "https://go.vansh.nyc/1kd?s=y",
       "https://go.vansh.nyc/1ke?s=y",
       "https://go.vansh.nyc/1kg?s=y",
+      "https://go.vansh.nyc/1km?s=y",
+      "https://go.vansh.nyc/1kn?s=z",
+      "https://go.vansh.nyc/1kq?s=y",
+      "https://go.vansh.nyc/1ku?s=y",
+      "https://go.vansh.nyc/1kv?s=y",
+      "https://go.vansh.nyc/1kw?s=y",
+      "https://go.vansh.nyc/1kz?s=z",
+      "https://go.vansh.nyc/1l0?s=z",
+      "https://go.vansh.nyc/1l4?s=z",
+      "https://go.vansh.nyc/1l5?s=y",
+      "https://go.vansh.nyc/1l6?s=y",
+      "https://go.vansh.nyc/1l7?s=y",
+      "https://go.vansh.nyc/1l8?s=y",
+      "https://go.vansh.nyc/1l9?s=y",
       "https://go.vansh.nyc/BA?s=y",
       "https://go.vansh.nyc/BB?s=y",
       "https://go.vansh.nyc/BC?s=y",
@@ -22767,31 +22803,23 @@
       "https://go.vansh.nyc/Zw?s=y",
       "https://go.vansh.nyc/Zy?s=y",
       "https://go.vansh.nyc/i?s=y",
-      "https://go.vansh.nyc/1l5?s=y",
-      "https://go.vansh.nyc/1l6?s=y",
-      "https://go.vansh.nyc/1l7?s=y",
-      "https://go.vansh.nyc/1l8?s=y",
-      "https://go.vansh.nyc/1km?s=y",
-      "https://go.vansh.nyc/1l9?s=y",
-      "https://go.vansh.nyc/1kD?s=y",
-      "https://go.vansh.nyc/1kE?s=y",
-      "https://go.vansh.nyc/1kB?s=y",
-      "https://go.vansh.nyc/1kC?s=y",
-      "https://go.vansh.nyc/1kS?s=y",
-      "https://go.vansh.nyc/1kR?s=y",
-      "https://go.vansh.nyc/1kP?s=y",
-      "https://go.vansh.nyc/1kQ?s=y",
-      "https://go.vansh.nyc/1kH?s=y",
-      "https://go.vansh.nyc/1kq?s=y",
-      "https://go.vansh.nyc/1ku?s=y",
-      "https://go.vansh.nyc/1kv?s=y",
-      "https://go.vansh.nyc/1kw?s=y",
-      "https://go.vansh.nyc/1kz?s=z",
-      "https://go.vansh.nyc/1l4?s=z",
-      "https://go.vansh.nyc/1kA?s=z",
-      "https://go.vansh.nyc/1l0?s=z",
-      "https://go.vansh.nyc/1kn?s=z",
-      "https://go.vansh.nyc/1kG?s=z"
+      "https://go.vansh.nyc/1lQ?s=y",
+      "https://go.vansh.nyc/1lP?s=y",
+      "https://go.vansh.nyc/1lh?s=y",
+      "https://go.vansh.nyc/1lg?s=y",
+      "https://go.vansh.nyc/1le?s=y",
+      "https://go.vansh.nyc/1lI?s=y",
+      "https://go.vansh.nyc/1lK?s=y",
+      "https://go.vansh.nyc/1lJ?s=y",
+      "https://go.vansh.nyc/1lH?s=y",
+      "https://go.vansh.nyc/1ly?s=y",
+      "https://go.vansh.nyc/1lN?s=y",
+      "https://go.vansh.nyc/1lO?s=y",
+      "https://go.vansh.nyc/1lc?s=y",
+      "https://go.vansh.nyc/1lb?s=y",
+      "https://go.vansh.nyc/1la?s=z",
+      "https://go.vansh.nyc/1ld?s=z",
+      "https://go.vansh.nyc/1lf?s=z"
     ]
   },
   {
@@ -25248,7 +25276,9 @@
     "identifier": "hootsuite",
     "domain": "https://job-boards.greenhouse.io",
     "page": "https://boards-api.greenhouse.io/v1/boards/hootsuite/jobs",
-    "urls": []
+    "urls": [
+      "https://job-boards.greenhouse.io/hootsuite/jobs/8360176"
+    ]
   },
   {
     "name": "horacemannservicecorporation",
@@ -28080,7 +28110,8 @@
       "https://jobs.keysight.com/jobs/54668?icims=1",
       "https://jobs.keysight.com/jobs/54671?icims=1",
       "https://jobs.keysight.com/jobs/55110?icims=1",
-      "https://jobs.keysight.com/jobs/55151?icims=1"
+      "https://jobs.keysight.com/jobs/55151?icims=1",
+      "https://jobs.keysight.com/jobs/54739?icims=1&lang=en-us"
     ]
   },
   {
@@ -30854,14 +30885,14 @@
       "https://jobs.lever.co/matchgroup/2196948b-9338-4943-acba-cb529335ed16",
       "https://jobs.lever.co/matchgroup/26725d4e-c597-4434-95d3-e6b86472d8a4",
       "https://jobs.lever.co/matchgroup/32b18f00-af1a-4067-ad7d-9cba43711d2e",
+      "https://jobs.lever.co/matchgroup/54a814d1-9a73-43d7-a266-c933ffd99ce3/apply",
       "https://jobs.lever.co/matchgroup/69396299-e587-4063-aef6-0ce2fd66e9ee",
       "https://jobs.lever.co/matchgroup/a5c7d9c1-c8ef-47d1-aef0-af6bc111ea6e",
       "https://jobs.lever.co/matchgroup/cb6122d7-9b0b-4e26-9f58-d6706f5cae66",
+      "https://jobs.lever.co/matchgroup/cda906dd-c02a-4bbc-b533-1636d58958ef/apply",
       "https://jobs.lever.co/matchgroup/e413396c-265b-4856-a83a-e217b4072af5",
       "https://jobs.lever.co/matchgroup/e9ebbab0-2428-4651-828e-8c3af0dec1bf",
-      "https://jobs.lever.co/matchgroup/cda906dd-c02a-4bbc-b533-1636d58958ef/apply",
-      "https://jobs.lever.co/matchgroup/f0e29495-4dd2-4bc5-9ceb-31d36f0b5a9d/apply",
-      "https://jobs.lever.co/matchgroup/54a814d1-9a73-43d7-a266-c933ffd99ce3/apply"
+      "https://jobs.lever.co/matchgroup/f0e29495-4dd2-4bc5-9ceb-31d36f0b5a9d/apply"
     ]
   },
   {
@@ -38775,7 +38806,8 @@
       "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4476288",
       "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4501054",
       "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4542420",
-      "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4640548"
+      "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4640548",
+      "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4648416"
     ]
   },
   {
@@ -40723,8 +40755,8 @@
     "urls": [
       "https://careers-sas.icims.com/jobs/42210/software-developer---saas-software-engineer/job",
       "https://careers-sas.icims.com/jobs/42285/sr-software-developer--ai-%26-automation-solutions/job",
-      "https://careers-sas.icims.com/jobs/42964/job?mobile=true&needsRedirect=false",
-      "https://careers-sas.icims.com/jobs/42786/job?mobile=true&needsRedirect=false"
+      "https://careers-sas.icims.com/jobs/42786/job?mobile=true&needsRedirect=false",
+      "https://careers-sas.icims.com/jobs/42964/job?mobile=true&needsRedirect=false"
     ]
   },
   {
@@ -45309,7 +45341,12 @@
       "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4724389005",
       "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4724948005",
       "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4730745005",
-      "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751790005"
+      "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751790005",
+      "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751973005",
+      "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751917005",
+      "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751907005",
+      "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751909005",
+      "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751919005"
     ]
   },
   {
