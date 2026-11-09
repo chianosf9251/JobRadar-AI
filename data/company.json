@@ -1234,8 +1234,7 @@
     "urls": [
       "https://careers.airbnb.com/positions/7716341?gh_jid=7716341",
       "https://careers.airbnb.com/positions/8263303?gh_jid=8263303",
-      "https://careers.airbnb.com/positions/8312713?gh_jid=8312713",
-      "https://careers.airbnb.com/positions/8332157?gh_jid=8332157"
+      "https://careers.airbnb.com/positions/8312713?gh_jid=8312713"
     ]
   },
   {
@@ -3087,7 +3086,8 @@
     "domain": "https://apacheip.wd1.myworkdayjobs.com/apache_careers",
     "page": "https://apacheip.wd1.myworkdayjobs.com/wday/cxs/apacheip/apache_careers/jobs",
     "urls": [
-      "https://apacheip.wd1.myworkdayjobs.com/apache_careers/job/Houston-Headquarters/AI-Implementation-Intern_R115430"
+      "https://apacheip.wd1.myworkdayjobs.com/apache_careers/job/Houston-Headquarters/AI-Implementation-Intern_R115430",
+      "https://apacheip.wd1.myworkdayjobs.com/apache_careers/job/Houston-Headquarters/AI-Implementation-Intern_R115510"
     ]
   },
   {
@@ -3210,6 +3210,8 @@
       "https://jobs.apple.com/en-us/details/200644140-0836/ai-engineer-sensing-connectivity?team=SFTWR",
       "https://jobs.apple.com/en-us/details/200644614-0836/wi-fi-software-engineer-wireless-technologies-ecosystems?team=SFTWR",
       "https://jobs.apple.com/en-us/details/200644619-0836/wi-fi-software-engineer-wireless-technologies-ecosystems?team=SFTWR",
+      "https://jobs.apple.com/en-us/details/200644837-1251/experienced-gpu-electrical-analysis-engineer?team=HRDWR",
+      "https://jobs.apple.com/en-us/details/200644837-2114/experienced-gpu-electrical-analysis-engineer?team=HRDWR",
       "https://jobs.apple.com/en-us/details/200644887-3401/software-engineer-in-test-siri?team=SFTWR",
       "https://jobs.apple.com/en-us/details/200645206-0157/software-engineer-sap-support-developer-is-t-enterprise-systems?team=SFTWR",
       "https://jobs.apple.com/en-us/details/200645690-2926/software-engineer-freeform-application?team=SFTWR",
@@ -4316,8 +4318,6 @@
       "https://jobs.apple.com/en-us/details/200693720-0836/software-engineer-watch-software?team=SFTWR",
       "https://jobs.apple.com/en-us/details/200693797-0836/airpods-analog-systems-engineer-power?team=HRDWR",
       "https://jobs.apple.com/en-us/details/200693908-0836/ai-software-evaluation-engineer-siri-ai-quality?team=SFTWR",
-      "https://jobs.apple.com/en-us/details/200644837-1251/experienced-gpu-electrical-analysis-engineer?team=HRDWR",
-      "https://jobs.apple.com/en-us/details/200644837-2114/experienced-gpu-electrical-analysis-engineer?team=HRDWR",
       "https://jobs.apple.com/en-us/details/200693933-3956/machine-learning-system-software-engineer?team=HRDWR"
     ]
   },
@@ -4921,8 +4921,7 @@
     "page": "https://boards-api.greenhouse.io/v1/boards/aqr/jobs",
     "urls": [
       "https://careers.aqr.com/jobs?gh_jid=7546806&gh_jid=7546806",
-      "https://careers.aqr.com/jobs?gh_jid=7926659&gh_jid=7926659",
-      "https://careers.aqr.com/jobs?gh_jid=7957728&gh_jid=7957728"
+      "https://careers.aqr.com/jobs?gh_jid=7926659&gh_jid=7926659"
     ]
   },
   {
@@ -7253,26 +7252,26 @@
     "domain": "https://jobs.ashbyhq.com",
     "page": "https://api.ashbyhq.com/posting-api/job-board/base-power",
     "urls": [
+      "https://jobs.ashbyhq.com/base-power/02ca6e34-9827-4183-b05c-b73d06038640",
       "https://jobs.ashbyhq.com/base-power/0ccc74f5-3330-4379-9faa-6ca1b39d4593",
       "https://jobs.ashbyhq.com/base-power/3bc0ab1f-fac8-4390-9c89-471c942725c3",
       "https://jobs.ashbyhq.com/base-power/3fea4f0f-4ff4-434a-8df7-53dc247a61b4",
       "https://jobs.ashbyhq.com/base-power/4f55ca59-4b57-4988-9bd9-c430a6d235fd",
       "https://jobs.ashbyhq.com/base-power/5353ea33-57d4-46fa-9a96-e392a3f841bc/application",
+      "https://jobs.ashbyhq.com/base-power/5ea771cb-099f-40e7-a73f-a813494dc037",
       "https://jobs.ashbyhq.com/base-power/77b3a098-6728-4e3b-a2ea-a99249e30ef0",
       "https://jobs.ashbyhq.com/base-power/7fce3b16-c132-453b-a836-a3bcbd21abd2/application?embed=true",
       "https://jobs.ashbyhq.com/base-power/8397f115-7806-4911-a12b-6231852c3443",
       "https://jobs.ashbyhq.com/base-power/8526b173-27e7-4dac-a96f-c71214906758",
       "https://jobs.ashbyhq.com/base-power/85775865-f676-47b5-85e4-a7b4237f837c",
+      "https://jobs.ashbyhq.com/base-power/9ed279a2-a39d-4b75-bbee-bff898b448c3",
       "https://jobs.ashbyhq.com/base-power/ab473247-85f9-4be7-8cd8-da909e7cc9ef",
       "https://jobs.ashbyhq.com/base-power/b6b2332e-1226-4575-b2c9-9e5258f2540e",
       "https://jobs.ashbyhq.com/base-power/e04bf38a-a344-4861-a2d3-27d2a495711f",
       "https://jobs.ashbyhq.com/base-power/e0c632cd-2375-4e0f-8a9f-11dbb820e885",
-      "https://jobs.ashbyhq.com/base-power/f2061575-5656-4117-88b5-8745d490da63",
-      "https://jobs.ashbyhq.com/base-power/f7f3523e-70c0-4c4f-bf5d-6f8e39f68d1a",
-      "https://jobs.ashbyhq.com/base-power/5ea771cb-099f-40e7-a73f-a813494dc037",
-      "https://jobs.ashbyhq.com/base-power/02ca6e34-9827-4183-b05c-b73d06038640",
       "https://jobs.ashbyhq.com/base-power/e60a8f23-b542-43df-a4b5-c17b1afa4c25",
-      "https://jobs.ashbyhq.com/base-power/9ed279a2-a39d-4b75-bbee-bff898b448c3"
+      "https://jobs.ashbyhq.com/base-power/f2061575-5656-4117-88b5-8745d490da63",
+      "https://jobs.ashbyhq.com/base-power/f7f3523e-70c0-4c4f-bf5d-6f8e39f68d1a"
     ]
   },
   {
@@ -10411,7 +10410,9 @@
       "https://careers.airbnb.com/positions/8257855?gh_jid=8257855",
       "https://careers.airbnb.com/positions/8274152?gh_jid=8274152",
       "https://careers.airbnb.com/positions/8280222?gh_jid=8280222",
+      "https://careers.airbnb.com/positions/8332157?gh_jid=8332157",
       "https://careers.aqr.com/jobs?gh_jid=7493461&gh_jid=7493461",
+      "https://careers.aqr.com/jobs?gh_jid=7957728&gh_jid=7957728",
       "https://careers.datadoghq.com/detail/4452918/?gh_jid=4452918",
       "https://careers.datadoghq.com/detail/8023250/?gh_jid=8023250",
       "https://careers.datadoghq.com/detail/8052095/?gh_jid=8052095",
@@ -14039,7 +14040,8 @@
       "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Consultant--Data-Visualization-and-AI-Analytics_2528343-1",
       "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Data-Scientist--Model-Performance-Monitoring-and-Reporting_2621552",
       "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Quantum-Machine-Learning-Research-Scientist_2616617",
-      "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Sr-Developer--Performance-Management-Data---Analytics_2617134-1"
+      "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Sr-Developer--Performance-Management-Data---Analytics_2617134-1",
+      "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Associate-Technology-Leadership-Advancement-Program---Summer-2027_2623078-1"
     ]
   },
   {
@@ -14412,7 +14414,8 @@
       "https://citi.wd5.myworkdayjobs.com/2/job/Warsaw--Poland/Software-Engineer-with-Russian_26960333",
       "https://citi.wd5.myworkdayjobs.com/2/job/Warsaw--Poland/Technology---Infrastructure--Full-Time-Analyst--Warsaw--2026_25921852",
       "https://citi.wd5.myworkdayjobs.com/2/job/Warsaw--Poland/Technology---Infrastructure--Full-Time-Analyst--Warsaw-2027_26999153",
-      "https://citi.wd5.myworkdayjobs.com/2/job/Warsaw--Poland/Technology---Infrastructure--Summer-Analyst--Warsaw-2027_26999106"
+      "https://citi.wd5.myworkdayjobs.com/2/job/Warsaw--Poland/Technology---Infrastructure--Summer-Analyst--Warsaw-2027_26999106",
+      "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Technology---Application-Development--Summer-Analyst--United-Kingdom---London--2027_261007037"
     ]
   },
   {
@@ -19902,10 +19905,10 @@
     "domain": "https://jobs.ashbyhq.com",
     "page": "https://api.ashbyhq.com/posting-api/job-board/garage",
     "urls": [
-      "https://jobs.ashbyhq.com/garage/dba79415-f4eb-48fd-acf8-9c2086d58a54",
-      "https://jobs.ashbyhq.com/garage/f4018670-2c66-4da9-acac-2aa0af432abb",
+      "https://jobs.ashbyhq.com/garage/17815e07-5b55-4efd-9aa8-1d33d6ec010f",
       "https://jobs.ashbyhq.com/garage/5119e260-d0e4-4ad1-b264-1951f7dcc3f8",
-      "https://jobs.ashbyhq.com/garage/17815e07-5b55-4efd-9aa8-1d33d6ec010f"
+      "https://jobs.ashbyhq.com/garage/dba79415-f4eb-48fd-acf8-9c2086d58a54",
+      "https://jobs.ashbyhq.com/garage/f4018670-2c66-4da9-acac-2aa0af432abb"
     ]
   },
   {
@@ -20427,7 +20430,9 @@
       "https://careers-gdms.icims.com/jobs/76797/mbse-systems-engineer-%e2%80%93-ai-reliability-engineering/job",
       "https://careers-gdms.icims.com/jobs/76998/advanced-systems-engineer-%28hardware-focused%29/job",
       "https://careers-gdms.icims.com/jobs/77470/advanced-systems-engineer/job",
-      "https://careers-gdms.icims.com/jobs/78483/systems-engineer/job"
+      "https://careers-gdms.icims.com/jobs/78483/systems-engineer/job",
+      "https://careers-gdms.icims.com/jobs/75970/job?mobile=true&needsRedirect=false",
+      "https://careers-gdms.icims.com/jobs/75971/job?mobile=true&needsRedirect=false"
     ]
   },
   {
@@ -22885,7 +22890,39 @@
       "https://go.vansh.nyc/Zt?s=y",
       "https://go.vansh.nyc/Zw?s=y",
       "https://go.vansh.nyc/Zy?s=y",
-      "https://go.vansh.nyc/i?s=y"
+      "https://go.vansh.nyc/i?s=y",
+      "https://go.vansh.nyc/1oP?s=y",
+      "https://go.vansh.nyc/1ox?s=y",
+      "https://go.vansh.nyc/1op?s=y",
+      "https://go.vansh.nyc/1oU?s=y",
+      "https://go.vansh.nyc/1oN?s=y",
+      "https://go.vansh.nyc/1oI?s=y",
+      "https://go.vansh.nyc/1oV?s=y",
+      "https://go.vansh.nyc/1oW?s=y",
+      "https://go.vansh.nyc/1oM?s=y",
+      "https://go.vansh.nyc/1oo?s=y",
+      "https://go.vansh.nyc/1oO?s=y",
+      "https://go.vansh.nyc/1oA?s=y",
+      "https://go.vansh.nyc/1oB?s=y",
+      "https://go.vansh.nyc/1oC?s=y",
+      "https://go.vansh.nyc/1oD?s=y",
+      "https://go.vansh.nyc/1oE?s=y",
+      "https://go.vansh.nyc/1oF?s=y",
+      "https://go.vansh.nyc/1oy?s=y",
+      "https://go.vansh.nyc/1p2?s=y",
+      "https://go.vansh.nyc/1ou?s=y",
+      "https://go.vansh.nyc/1oQ?s=y",
+      "https://go.vansh.nyc/1oR?s=y",
+      "https://go.vansh.nyc/1ok?s=y",
+      "https://go.vansh.nyc/1ov?s=y",
+      "https://go.vansh.nyc/1ow?s=y",
+      "https://go.vansh.nyc/1oq?s=y",
+      "https://go.vansh.nyc/1p3?s=y",
+      "https://go.vansh.nyc/1oH?s=z",
+      "https://go.vansh.nyc/1oz?s=z",
+      "https://go.vansh.nyc/1oG?s=z",
+      "https://go.vansh.nyc/1oX?s=z",
+      "https://go.vansh.nyc/1oY?s=z"
     ]
   },
   {
@@ -32978,11 +33015,11 @@
     "urls": [
       "https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/Technology-Intern---Software-Engineering--Enterprise-API-Services-Development-Team-_R90812",
       "https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Operating-Systems-Engineer_R91770",
+      "https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering--Data---API-Engineering-_R92036",
       "https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering--Data-Engineering-_R91882",
       "https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering--Digital-Banking-Applications---Platforms-_R91883",
-      "https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering_R90039",
-      "https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering--Data---API-Engineering-_R92036",
-      "https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering--Enterprise---Wealth-Application-Development-_R92035"
+      "https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering--Enterprise---Wealth-Application-Development-_R92035",
+      "https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering_R90039"
     ]
   },
   {
@@ -33530,6 +33567,7 @@
       "https://explore.jobs.netflix.net/careers/job/790312403200",
       "https://explore.jobs.netflix.net/careers/job/790313241540",
       "https://explore.jobs.netflix.net/careers/job/790313344084-security-technical-program-manager-intern-summer-2026--los-gatos-california-united-states-of-america?domain=netflix.com&microsite=netflix.com",
+      "https://explore.jobs.netflix.net/careers/job/790313577447",
       "https://explore.jobs.netflix.net/careers/job/790313792885",
       "https://explore.jobs.netflix.net/careers/job/790315153299",
       "https://explore.jobs.netflix.net/careers/job/790315182253",
@@ -33623,8 +33661,7 @@
       "https://explore.jobs.netflix.net/careers/job/790319260802",
       "https://explore.jobs.netflix.net/careers/job/790319315370",
       "https://explore.jobs.netflix.net/careers/job/790319386317",
-      "https://explore.jobs.netflix.net/careers/job?domain=netflix.com&pid=790313310824&location=any&domain=netflix.com&sort_by=new&job_index=5",
-      "https://explore.jobs.netflix.net/careers/job/790313577447"
+      "https://explore.jobs.netflix.net/careers/job?domain=netflix.com&pid=790313310824&location=any&domain=netflix.com&sort_by=new&job_index=5"
     ]
   },
   {
@@ -45903,6 +45940,7 @@
       "https://lifeattiktok.com/search/7583979424253561141",
       "https://lifeattiktok.com/search/7585263692201314613",
       "https://lifeattiktok.com/search/7585315976846543157",
+      "https://lifeattiktok.com/search/7586803947446503685",
       "https://lifeattiktok.com/search/7589499857627498757?spread=5MWH5CQ",
       "https://lifeattiktok.com/search/7589500133147773237?spread=5MWH5CQ",
       "https://lifeattiktok.com/search/7592014594232142085?spread=5MWH5CQ",
@@ -46239,8 +46277,7 @@
       "https://lifeattiktok.com/search/7700828936843299125",
       "https://lifeattiktok.com/search/7700860913020225845",
       "https://lifeattiktok.com/search/7703777085291415813",
-      "https://lifeattiktok.com/search/7705012688944810245",
-      "https://lifeattiktok.com/search/7586803947446503685"
+      "https://lifeattiktok.com/search/7705012688944810245"
     ]
   },
   {
