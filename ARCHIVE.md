@@ -18,6 +18,27 @@ Every opportunity matching your current filters (country, category, citizenship/
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Mettler Toledo</td>
+      <td width="420" align="left" valign="top">Embedded Software Engineering Intern</td>
+      <td width="180" align="left" valign="top">Oakland, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://go.vansh.nyc/1ou?s=y" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">November 9</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">NBCUniversal</td>
+      <td width="420" align="left" valign="top">Software Engineering Intern</td>
+      <td width="180" align="left" valign="top">New York, NY</td>
+      <td width="120" align="left" valign="top"><a href="https://go.vansh.nyc/1oA?s=y" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">November 9</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Zoetis</td>
+      <td width="420" align="left" valign="top">AI Assistant Development Intern</td>
+      <td width="180" align="left" valign="top">Parsippany, NJ</td>
+      <td width="120" align="left" valign="top"><a href="https://go.vansh.nyc/1oP?s=y" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">November 9</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Enovation Controls</td>
       <td width="420" align="left" valign="top">Manufacturing Software Engineer Intern</td>
       <td width="180" align="left" valign="top">Tulsa, OK</td>
@@ -2757,6 +2778,20 @@ Every opportunity matching your current filters (country, category, citizenship/
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Apache Industrial</td>
+      <td width="420" align="left" valign="top">AI Implementation Intern</td>
+      <td width="180" align="left" valign="top">Houston, TX</td>
+      <td width="120" align="left" valign="top"><a href="https://apacheip.wd1.myworkdayjobs.com/apache_careers/job/Houston-Headquarters/AI-Implementation-Intern_R115510" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">November 9</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Lila Sciences</td>
+      <td width="420" align="left" valign="top">Applied AI Platform Engineer Co-op, Software</td>
+      <td width="180" align="left" valign="top">San Francisco, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://go.vansh.nyc/1oY?s=z" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">November 9</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">SharkNinja</td>
       <td width="420" align="left" valign="top">Applied AI &amp; Analytics Co-op, AI</td>
       <td width="180" align="left" valign="top">Needham, MA</td>
@@ -4739,4 +4774,4 @@ Every opportunity matching your current filters (country, category, citizenship/
 
 ---
 
-📦 Generated from `opportunities.ndjson` &nbsp;•&nbsp; 🕒 Last updated `2026-11-09T02:22:19.828Z`
+📦 Generated from `opportunities.ndjson` &nbsp;•&nbsp; 🕒 Last updated `2026-11-09T20:35:01.057Z`
