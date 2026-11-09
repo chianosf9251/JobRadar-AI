@@ -11415,6 +11415,7 @@
       "https://careers.cisco.com/global/en/job/2028379?ph_id=2028379",
       "https://careers.cisco.com/global/en/job/2028394?ph_id=2028394",
       "https://careers.cisco.com/global/en/job/2028519?ph_id=2028519",
+      "https://careers.cisco.com/global/en/job/2028523?ph_id=2028523",
       "https://careers.cisco.com/global/en/job/2028546?ph_id=2028546",
       "https://careers.cisco.com/global/en/job/2028667?ph_id=2028667",
       "https://careers.cisco.com/global/en/job/2028669?ph_id=2028669",
@@ -11430,6 +11431,7 @@
       "https://careers.cisco.com/global/en/job/2028728?ph_id=2028728",
       "https://careers.cisco.com/global/en/job/2028743?ph_id=2028743",
       "https://careers.cisco.com/global/en/job/2028784?ph_id=2028784",
+      "https://careers.cisco.com/global/en/job/2028826?ph_id=2028826",
       "https://careers.cisco.com/global/en/job/2028849?ph_id=2028849",
       "https://careers.cisco.com/global/en/job/2028882?ph_id=2028882",
       "https://careers.cisco.com/global/en/job/2028917?ph_id=2028917",
@@ -11469,9 +11471,7 @@
       "https://careers.cisco.com/global/en/job/2030658?ph_id=2030658",
       "https://careers.cisco.com/global/en/job/2030978?ph_id=2030978",
       "https://careers.cisco.com/global/en/job/2030989?ph_id=2030989",
-      "https://careers.cisco.com/global/en/job/2031073?ph_id=2031073",
-      "https://careers.cisco.com/global/en/job/2028826?ph_id=2028826",
-      "https://careers.cisco.com/global/en/job/2028523?ph_id=2028523"
+      "https://careers.cisco.com/global/en/job/2031073?ph_id=2031073"
     ]
   },
   {
@@ -19397,9 +19397,9 @@
     "domain": "https://flowserve.wd1.myworkdayjobs.com/applied",
     "page": "https://flowserve.wd1.myworkdayjobs.com/wday/cxs/flowserve/applied/jobs",
     "urls": [
+      "https://flowserve.wd1.myworkdayjobs.com/applied/job/12-Tuas-Loop/Software-Engineer_R-21860",
       "https://flowserve.wd1.myworkdayjobs.com/applied/job/Bethlehem-Pennsylvania-US/Controls---Software-Engineer--Specialist_R-21174",
-      "https://flowserve.wd1.myworkdayjobs.com/applied/job/Budapest-Hungary/Control-Systems-Engineer---Hardware_R-21099",
-      "https://flowserve.wd1.myworkdayjobs.com/applied/job/12-Tuas-Loop/Software-Engineer_R-21860"
+      "https://flowserve.wd1.myworkdayjobs.com/applied/job/Budapest-Hungary/Control-Systems-Engineer---Hardware_R-21099"
     ]
   },
   {
@@ -34186,6 +34186,7 @@
       "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Sentinel---Systems-Engineer---Post-Flight-Data-Analysis---20143_R10254224",
       "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Sentinel---Systems-Engineer---Power---Distribution--Levels-T03-T04----20015_R10254602",
       "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Sentinel---Systems-Engineer---Support-Systems-Integration_R10259011-1",
+      "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Sentinel---Systems-Engineer--20086-_R10259540",
       "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Sentinel---Systems-Engineer--SCRM-Vulnerability-Assessment-_R10233673",
       "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Sentinel-Associate---Software-Engineer----19232_R10242757",
       "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Sentinel-Associate-Software-Systems-Engineer---19148_R10243153",
@@ -34269,8 +34270,7 @@
       "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Oklahoma-Oklahoma-City/Software-Engineer---User-Experience-Applications_R10236991-1",
       "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Oklahoma-Oklahoma-City/Software-Engineer_R10234799",
       "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Oklahoma-Oklahoma-City/Software-Engineer_R10236283",
-      "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Utah-Roy/Sentinel-Deputy-Chief-Engineer---Infrastructure-18955_R10238106",
-      "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Sentinel---Systems-Engineer--20086-_R10259540"
+      "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Utah-Roy/Sentinel-Deputy-Chief-Engineer---Infrastructure-18955_R10238106"
     ]
   },
   {
@@ -41880,7 +41880,8 @@
       "https://jobs.lever.co/shieldai/59e0cf9b-04d7-43c0-8a65-9d411fe56c68/apply",
       "https://jobs.lever.co/shieldai/633a3038-574c-45ff-babb-7e1b8b7c6196/apply",
       "https://jobs.lever.co/shieldai/8c850c75-081d-4d09-bebf-096379a93010/apply",
-      "https://jobs.lever.co/shieldai/db8fc063-8856-4404-991c-f287712de949"
+      "https://jobs.lever.co/shieldai/db8fc063-8856-4404-991c-f287712de949",
+      "https://jobs.lever.co/shieldai/88f7b66e-3412-40c8-b74d-aafc462405ff/apply"
     ]
   },
   {
