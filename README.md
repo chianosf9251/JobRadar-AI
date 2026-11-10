@@ -103,6 +103,13 @@
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Trilogy Health Services</td>
+      <td width="420" align="left" valign="top">Information Systems Developer of AI and Automated Solutions Intern</td>
+      <td width="180" align="left" valign="top">Louisville, KY</td>
+      <td width="120" align="left" valign="top"><a href="https://jobs.trilogyhs.com/jobs/214624?icims=1&amp;lang=en-us" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">November 10</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Regent</td>
       <td width="420" align="left" valign="top">Systems Engineering Intern (Summer)</td>
       <td width="180" align="left" valign="top">North Kingstown, RI</td>
@@ -1864,6 +1871,13 @@
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Anysphere</td>
+      <td width="420" align="left" valign="top">Software Engineer New Grad</td>
+      <td width="180" align="left" valign="top">San Francisco, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://jobs.ashbyhq.com/cursor/164e27cd-289e-4bcd-8aaf-5280e75c5ed6/application?embed=true" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">November 10</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">S&amp;c minimal career site</td>
       <td width="420" align="left" valign="top">Software Engineer I</td>
       <td width="180" align="left" valign="top">Chicago, IL</td>
@@ -2209,7 +2223,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-11-10T04:36:44.385Z</code>
+      🕒 Last updated <code>2026-11-10T12:27:28.523Z</code>
     </span>
   </p>
 </div>
