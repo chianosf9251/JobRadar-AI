@@ -673,6 +673,18 @@
     ]
   },
   {
+    "name": "addepar1",
+    "ats": "greenhouse",
+    "identifier": "addepar1",
+    "domain": "https://job-boards.greenhouse.io",
+    "page": "https://boards-api.greenhouse.io/v1/boards/addepar1/jobs",
+    "urls": [
+      "https://job-boards.greenhouse.io/addepar1/jobs/8927543002",
+      "https://job-boards.greenhouse.io/addepar1/jobs/8927531002",
+      "https://job-boards.greenhouse.io/addepar1/jobs/8927507002"
+    ]
+  },
+  {
     "name": "adobe",
     "ats": "workday",
     "identifier": "adobe-external_experienced",
@@ -23052,6 +23064,53 @@
       "https://go.vansh.nyc/1pu?s=y",
       "https://go.vansh.nyc/1pw?s=y",
       "https://go.vansh.nyc/1px?s=y",
+      "https://go.vansh.nyc/1qC?s=y",
+      "https://go.vansh.nyc/1qG?s=y",
+      "https://go.vansh.nyc/1qI?s=y",
+      "https://go.vansh.nyc/1qJ?s=y",
+      "https://go.vansh.nyc/1qK?s=y",
+      "https://go.vansh.nyc/1qN?s=y",
+      "https://go.vansh.nyc/1qO?s=y",
+      "https://go.vansh.nyc/1qR?s=y",
+      "https://go.vansh.nyc/1qS?s=y",
+      "https://go.vansh.nyc/1qV?s=z",
+      "https://go.vansh.nyc/1qq?s=y",
+      "https://go.vansh.nyc/1qt?s=y",
+      "https://go.vansh.nyc/1qu?s=y",
+      "https://go.vansh.nyc/1qv?s=y",
+      "https://go.vansh.nyc/1qw?s=z",
+      "https://go.vansh.nyc/1qx?s=y",
+      "https://go.vansh.nyc/1r9?s=y",
+      "https://go.vansh.nyc/1rA?s=y",
+      "https://go.vansh.nyc/1rB?s=z",
+      "https://go.vansh.nyc/1rC?s=y",
+      "https://go.vansh.nyc/1rF?s=y",
+      "https://go.vansh.nyc/1rH?s=z",
+      "https://go.vansh.nyc/1rK?s=y",
+      "https://go.vansh.nyc/1rP?s=y",
+      "https://go.vansh.nyc/1rQ?s=y",
+      "https://go.vansh.nyc/1rR?s=y",
+      "https://go.vansh.nyc/1rU?s=y",
+      "https://go.vansh.nyc/1rW?s=y",
+      "https://go.vansh.nyc/1rX?s=y",
+      "https://go.vansh.nyc/1rY?s=y",
+      "https://go.vansh.nyc/1rc?s=y",
+      "https://go.vansh.nyc/1rd?s=y",
+      "https://go.vansh.nyc/1rf?s=y",
+      "https://go.vansh.nyc/1rg?s=y",
+      "https://go.vansh.nyc/1ri?s=z",
+      "https://go.vansh.nyc/1rj?s=y",
+      "https://go.vansh.nyc/1rk?s=z",
+      "https://go.vansh.nyc/1rl?s=z",
+      "https://go.vansh.nyc/1rm?s=y",
+      "https://go.vansh.nyc/1rn?s=z",
+      "https://go.vansh.nyc/1ro?s=z",
+      "https://go.vansh.nyc/1rs?s=y",
+      "https://go.vansh.nyc/1rt?s=y",
+      "https://go.vansh.nyc/1ru?s=y",
+      "https://go.vansh.nyc/1rv?s=y",
+      "https://go.vansh.nyc/1rw?s=y",
+      "https://go.vansh.nyc/1rx?s=y",
       "https://go.vansh.nyc/BA?s=y",
       "https://go.vansh.nyc/BB?s=y",
       "https://go.vansh.nyc/BC?s=y",
@@ -23179,53 +23238,23 @@
       "https://go.vansh.nyc/Zw?s=y",
       "https://go.vansh.nyc/Zy?s=y",
       "https://go.vansh.nyc/i?s=y",
-      "https://go.vansh.nyc/1qC?s=y",
-      "https://go.vansh.nyc/1rA?s=y",
-      "https://go.vansh.nyc/1rm?s=y",
-      "https://go.vansh.nyc/1rP?s=y",
-      "https://go.vansh.nyc/1qv?s=y",
-      "https://go.vansh.nyc/1rx?s=y",
-      "https://go.vansh.nyc/1rU?s=y",
-      "https://go.vansh.nyc/1rw?s=y",
-      "https://go.vansh.nyc/1rv?s=y",
-      "https://go.vansh.nyc/1ru?s=y",
-      "https://go.vansh.nyc/1rt?s=y",
-      "https://go.vansh.nyc/1rj?s=y",
-      "https://go.vansh.nyc/1rs?s=y",
-      "https://go.vansh.nyc/1rf?s=y",
-      "https://go.vansh.nyc/1rg?s=y",
-      "https://go.vansh.nyc/1qx?s=y",
-      "https://go.vansh.nyc/1qq?s=y",
-      "https://go.vansh.nyc/1rc?s=y",
-      "https://go.vansh.nyc/1rd?s=y",
-      "https://go.vansh.nyc/1r9?s=y",
-      "https://go.vansh.nyc/1rC?s=y",
-      "https://go.vansh.nyc/1qR?s=y",
-      "https://go.vansh.nyc/1qS?s=y",
-      "https://go.vansh.nyc/1rK?s=y",
-      "https://go.vansh.nyc/1qu?s=y",
-      "https://go.vansh.nyc/1rR?s=y",
-      "https://go.vansh.nyc/1qO?s=y",
-      "https://go.vansh.nyc/1qN?s=y",
-      "https://go.vansh.nyc/1rQ?s=y",
-      "https://go.vansh.nyc/1qK?s=y",
-      "https://go.vansh.nyc/1rF?s=y",
-      "https://go.vansh.nyc/1qJ?s=y",
-      "https://go.vansh.nyc/1qI?s=y",
-      "https://go.vansh.nyc/1qt?s=y",
-      "https://go.vansh.nyc/1qG?s=y",
-      "https://go.vansh.nyc/1rW?s=y",
-      "https://go.vansh.nyc/1rX?s=y",
-      "https://go.vansh.nyc/1rY?s=y",
-      "https://go.vansh.nyc/1rB?s=z",
-      "https://go.vansh.nyc/1rH?s=z",
-      "https://go.vansh.nyc/1ri?s=z",
-      "https://go.vansh.nyc/1rk?s=z",
-      "https://go.vansh.nyc/1rl?s=z",
-      "https://go.vansh.nyc/1qV?s=z",
-      "https://go.vansh.nyc/1ro?s=z",
-      "https://go.vansh.nyc/1rn?s=z",
-      "https://go.vansh.nyc/1qw?s=z"
+      "https://go.vansh.nyc/1s8?s=y",
+      "https://go.vansh.nyc/1sa?s=y",
+      "https://go.vansh.nyc/1s9?s=y",
+      "https://go.vansh.nyc/1sk?s=y",
+      "https://go.vansh.nyc/1sz?s=y",
+      "https://go.vansh.nyc/1sf?s=y",
+      "https://go.vansh.nyc/1sB?s=y",
+      "https://go.vansh.nyc/1s7?s=y",
+      "https://go.vansh.nyc/1sA?s=y",
+      "https://go.vansh.nyc/1s3?s=y",
+      "https://go.vansh.nyc/1sd?s=z",
+      "https://go.vansh.nyc/1se?s=z",
+      "https://go.vansh.nyc/1sC?s=z",
+      "https://go.vansh.nyc/1sl?s=z",
+      "https://go.vansh.nyc/1sm?s=z",
+      "https://go.vansh.nyc/1sn?s=z",
+      "https://go.vansh.nyc/1so?s=z"
     ]
   },
   {
@@ -26220,7 +26249,8 @@
       "https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1065",
       "https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/886",
       "https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/891",
-      "https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/987"
+      "https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/987",
+      "https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1104"
     ]
   },
   {
@@ -28611,7 +28641,8 @@
     "domain": "https://jobs.mcdonalds.com",
     "page": "",
     "urls": [
-      "https://jobs.mcdonalds.com/job/Chicago-2026-Global-Technology-GTIO-Intern-IL-60607/1329553100"
+      "https://jobs.mcdonalds.com/job/Chicago-2026-Global-Technology-GTIO-Intern-IL-60607/1329553100",
+      "https://jobs.mcdonalds.com/job/Chicago-Software-Development-Engineer-Intern-IL-60607/1449046600/?ats=successfactors"
     ]
   },
   {
@@ -32874,6 +32905,7 @@
     "domain": "https://modernatx.wd1.myworkdayjobs.com/M_tx",
     "page": "https://modernatx.wd1.myworkdayjobs.com/wday/cxs/modernatx/M_tx/jobs",
     "urls": [
+      "https://modernatx.wd1.myworkdayjobs.com/en-US/M_tx/job/Cambridge-Massachusetts/XMLNAME-2027-Co-Op--mRNA-Design-Engineering_R20125",
       "https://modernatx.wd1.myworkdayjobs.com/en-US/M_tx/job/Cambridge-Massachusetts/XMLNAME-2027-Co-Op--mRNA-Design-Engineering_R20128",
       "https://modernatx.wd1.myworkdayjobs.com/m_tx/job/Cambridge-Massachusetts/AI-Enablement-Analyst_R19424",
       "https://modernatx.wd1.myworkdayjobs.com/m_tx/job/Cambridge-Massachusetts/AI-Engineer_R19767",
@@ -32884,8 +32916,7 @@
       "https://modernatx.wd1.myworkdayjobs.com/m_tx/job/Warsaw---Poland/Power-Platform---AI-Engineer_R19433",
       "https://modernatx.wd1.myworkdayjobs.com/m_tx/job/Warsaw---Poland/Software-Engineer--DevSecOps_R19434",
       "https://modernatx.wd1.myworkdayjobs.com/m_tx/job/Warsaw---Poland/Software-Engineer_R19073",
-      "https://modernatx.wd1.myworkdayjobs.com/m_tx/job/Warsaw---Poland/Software-Engineer_R19074",
-      "https://modernatx.wd1.myworkdayjobs.com/en-US/M_tx/job/Cambridge-Massachusetts/XMLNAME-2027-Co-Op--mRNA-Design-Engineering_R20125"
+      "https://modernatx.wd1.myworkdayjobs.com/m_tx/job/Warsaw---Poland/Software-Engineer_R19074"
     ]
   },
   {
@@ -35565,6 +35596,7 @@
       "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Compute-Engineer---NVIS_JR2025216",
       "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Developer-Technology-Engineer_JR2026967-1",
       "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Factory-Mechanical-Engineer_JR2027834",
+      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Operations-Intern--AI-Clouds---Summer-2027_JR2029119-1",
       "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-and-ML-Infra-Software-Engineer--GPU-Clusters---New-College-Grad-2026_JR2021591",
       "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-and-ML-Power-Methodology-Engineer_JR2022456",
       "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Verification-Engineer---GPU_JR2019813",
@@ -35723,8 +35755,7 @@
       "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/System-Software-Engineer--GPU-Development-Tools_JR2015188",
       "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/System-Software-Engineer--GPU-Development-Tools_JR2016197",
       "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-MA-Westford/Software-Engineer---DPU-Platform_JR2015949-1",
-      "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-MO-St-Louis/Performance-Engineer-Intern--Systems-Software---Fall-2026_JR2015779",
-      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Operations-Intern--AI-Clouds---Summer-2027_JR2029119-1"
+      "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-MO-St-Louis/Performance-Engineer-Intern--Systems-Software---Fall-2026_JR2015779"
     ]
   },
   {
@@ -36369,7 +36400,10 @@
     "identifier": "optimumcareers.com",
     "domain": "https://www.optimumcareers.com",
     "page": "",
-    "urls": []
+    "urls": [
+      "https://www.optimumcareers.com/job/Bethpage-Intern-Software-Development-NY-11714/1449514200/?ats=successfactors",
+      "https://www.optimumcareers.com/job/Bethpage-Intern-Developer,-Financial-&-People-Systems-NY-11714/1449511200/?ats=successfactors"
+    ]
   },
   {
     "name": "optiver.com",
@@ -39405,7 +39439,9 @@
       "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4501054",
       "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4542420",
       "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4640548",
-      "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4648416"
+      "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4648416",
+      "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4650662",
+      "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4647822"
     ]
   },
   {
@@ -43392,10 +43428,10 @@
       "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Performance-Test-Engineer-Intern--May-2027-12-Months-_R10626",
       "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Android--May-2027---12-Months-_R10650",
       "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-XSight--May-2027-12-Months-_R10611",
+      "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027---12-months-_R10677",
       "https://soti.wd3.myworkdayjobs.com/en-US/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Cloud-Administrator--Intern-_R10569",
       "https://soti.wd3.myworkdayjobs.com/en-US/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027-_R10604",
-      "https://soti.wd3.myworkdayjobs.com/soti-next-gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Performance-Test-Engineer-Intern--January-2027-12-Months-_R10437",
-      "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027---12-months-_R10677"
+      "https://soti.wd3.myworkdayjobs.com/soti-next-gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Performance-Test-Engineer-Intern--January-2027-12-Months-_R10437"
     ]
   },
   {
