@@ -18,6 +18,13 @@ Every opportunity matching your current filters (country, category, citizenship/
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">TikTok</td>
+      <td width="420" align="left" valign="top">Software Engineer Intern - TikTok Search 🎓</td>
+      <td width="180" align="left" valign="top">San Jose, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://lifeattiktok.com/search/7704696088079010053" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">November 12</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Samsung Semiconductor</td>
       <td width="420" align="left" valign="top">Intern, AI System Architecture Research Scientist</td>
       <td width="180" align="left" valign="top">San Jose, CA</td>
@@ -3072,6 +3079,13 @@ Every opportunity matching your current filters (country, category, citizenship/
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Fresenius Medical Care</td>
+      <td width="420" align="left" valign="top">Agentic AI Analytics Co-op</td>
+      <td width="180" align="left" valign="top">Lawrence, MA</td>
+      <td width="120" align="left" valign="top"><a href="https://go.vansh.nyc/1wv?s=z" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">November 12</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">SK hynix memory solutions America Inc.</td>
       <td width="420" align="left" valign="top">Embedded Software Engineer Intern</td>
       <td width="180" align="left" valign="top">San Jose, CA</td>
@@ -5208,4 +5222,4 @@ Every opportunity matching your current filters (country, category, citizenship/
 
 ---
 
-📦 Generated from `opportunities.ndjson` &nbsp;•&nbsp; 🕒 Last updated `2026-11-12T08:11:25.266Z`
+📦 Generated from `opportunities.ndjson` &nbsp;•&nbsp; 🕒 Last updated `2026-11-12T17:30:18.733Z`
