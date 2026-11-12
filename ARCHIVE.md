@@ -18,6 +18,41 @@ Every opportunity matching your current filters (country, category, citizenship/
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">McDonald&#39;s</td>
+      <td width="420" align="left" valign="top">Global Tech Infrastructure &amp; Operations Intern</td>
+      <td width="180" align="left" valign="top">Chicago, IL</td>
+      <td width="120" align="left" valign="top"><a href="https://jobs.mcdonalds.com/job/Chicago-Global-Tech-Infrastructure-&amp;-Operations-Intern-IL-60607/1449562300/?ats=successfactors" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">November 11</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">HUB International</td>
+      <td width="420" align="left" valign="top">AI Engineering Intern</td>
+      <td width="180" align="left" valign="top">Chicago, IL</td>
+      <td width="120" align="left" valign="top"><a href="https://go.vansh.nyc/1vr?s=y" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">November 11</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">McDonald&#39;s</td>
+      <td width="420" align="left" valign="top">Global Tech Infrastructure &amp; Operations Intern</td>
+      <td width="180" align="left" valign="top">Chicago, IL</td>
+      <td width="120" align="left" valign="top"><a href="https://go.vansh.nyc/1vz?s=y" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">November 11</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">MKS Instruments</td>
+      <td width="420" align="left" valign="top">Software Engineer Co-op</td>
+      <td width="180" align="left" valign="top">Andover, MA</td>
+      <td width="120" align="left" valign="top"><a href="https://go.vansh.nyc/1vn?s=y" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">November 11</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Motorola</td>
+      <td width="420" align="left" valign="top">Software Engineering Intern</td>
+      <td width="180" align="left" valign="top">Schaumburg, IL</td>
+      <td width="120" align="left" valign="top"><a href="https://go.vansh.nyc/1vh?s=y" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">November 11</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Globalfoundries</td>
       <td width="420" align="left" valign="top">AI Processor Hardware/Software Integration Engineer Intern (Summer 2027)</td>
       <td width="180" align="left" valign="top">Richardson, TX</td>
@@ -5138,4 +5173,4 @@ Every opportunity matching your current filters (country, category, citizenship/
 
 ---
 
-📦 Generated from `opportunities.ndjson` &nbsp;•&nbsp; 🕒 Last updated `2026-11-11T20:03:10.236Z`
+📦 Generated from `opportunities.ndjson` &nbsp;•&nbsp; 🕒 Last updated `2026-11-12T00:22:02.950Z`
