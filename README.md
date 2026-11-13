@@ -103,6 +103,13 @@
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Envita Solutions</td>
+      <td width="420" align="left" valign="top">Software Engineering Intern, Applied AI</td>
+      <td width="180" align="left" valign="top">Indianapolis, IN</td>
+      <td width="120" align="left" valign="top"><a href="https://go.vansh.nyc/1z7?s=y" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">November 13</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Shield</td>
       <td width="420" align="left" valign="top">2027 Summer Intern - Solution Systems Engineer (6537, 6540, 6541)</td>
       <td width="180" align="left" valign="top">San Diego, CA</td>
@@ -2461,7 +2468,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-11-13T20:21:53.459Z</code>
+      🕒 Last updated <code>2026-11-13T21:21:21.097Z</code>
     </span>
   </p>
 </div>
