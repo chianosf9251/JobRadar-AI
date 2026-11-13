@@ -5846,6 +5846,16 @@
     ]
   },
   {
+    "name": "aurora-operations-inc",
+    "ats": "ashby",
+    "identifier": "aurora-operations-inc",
+    "domain": "https://jobs.ashbyhq.com",
+    "page": "https://api.ashbyhq.com/posting-api/job-board/aurora-operations-inc",
+    "urls": [
+      "https://jobs.ashbyhq.com/aurora-operations-inc/06daa269-c02b-43a4-88b8-b57a3ba335ef/application?embed=true"
+    ]
+  },
+  {
     "name": "authenticinsurance",
     "ats": "greenhouse",
     "identifier": "authenticinsurance",
@@ -19152,6 +19162,16 @@
     "urls": []
   },
   {
+    "name": "f7d8749a-72d6-407c-bf98-292ea630c73a",
+    "ats": "ashby",
+    "identifier": "f7d8749a-72d6-407c-bf98-292ea630c73a",
+    "domain": "https://jobs.ashbyhq.com",
+    "page": "https://api.ashbyhq.com/posting-api/job-board/f7d8749a-72d6-407c-bf98-292ea630c73a",
+    "urls": [
+      "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/7e0ae8a3-4872-431c-a04a-2f2b8988b527/application?embed=true"
+    ]
+  },
+  {
     "name": "fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com",
     "ats": "oraclecloud",
     "identifier": "fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com",
@@ -23497,6 +23517,20 @@
       "https://go.vansh.nyc/1xu?s=y",
       "https://go.vansh.nyc/1xy?s=y",
       "https://go.vansh.nyc/1xz?s=y",
+      "https://go.vansh.nyc/1y5?s=z",
+      "https://go.vansh.nyc/1y6?s=y",
+      "https://go.vansh.nyc/1yg?s=y",
+      "https://go.vansh.nyc/1yh?s=y",
+      "https://go.vansh.nyc/1yi?s=y",
+      "https://go.vansh.nyc/1yj?s=y",
+      "https://go.vansh.nyc/1yk?s=y",
+      "https://go.vansh.nyc/1yl?s=y",
+      "https://go.vansh.nyc/1ym?s=y",
+      "https://go.vansh.nyc/1yp?s=y",
+      "https://go.vansh.nyc/1yq?s=y",
+      "https://go.vansh.nyc/1yr?s=y",
+      "https://go.vansh.nyc/1ys?s=y",
+      "https://go.vansh.nyc/1yt?s=y",
       "https://go.vansh.nyc/BA?s=y",
       "https://go.vansh.nyc/BB?s=y",
       "https://go.vansh.nyc/BC?s=y",
@@ -23624,20 +23658,7 @@
       "https://go.vansh.nyc/Zw?s=y",
       "https://go.vansh.nyc/Zy?s=y",
       "https://go.vansh.nyc/i?s=y",
-      "https://go.vansh.nyc/1ym?s=y",
-      "https://go.vansh.nyc/1yk?s=y",
-      "https://go.vansh.nyc/1yr?s=y",
-      "https://go.vansh.nyc/1yg?s=y",
-      "https://go.vansh.nyc/1y6?s=y",
-      "https://go.vansh.nyc/1yp?s=y",
-      "https://go.vansh.nyc/1yq?s=y",
-      "https://go.vansh.nyc/1yj?s=y",
-      "https://go.vansh.nyc/1yh?s=y",
-      "https://go.vansh.nyc/1yi?s=y",
-      "https://go.vansh.nyc/1ys?s=y",
-      "https://go.vansh.nyc/1yt?s=y",
-      "https://go.vansh.nyc/1yl?s=y",
-      "https://go.vansh.nyc/1y5?s=z"
+      "https://go.vansh.nyc/1yB?s=z"
     ]
   },
   {
@@ -43086,6 +43107,16 @@
     ]
   },
   {
+    "name": "shield",
+    "ats": "ashby",
+    "identifier": "shield",
+    "domain": "https://jobs.ashbyhq.com",
+    "page": "https://api.ashbyhq.com/posting-api/job-board/shield",
+    "urls": [
+      "https://jobs.ashbyhq.com/shield/7e0ae8a3-4872-431c-a04a-2f2b8988b527/application?embed=true"
+    ]
+  },
+  {
     "name": "shieldai",
     "ats": "lever",
     "identifier": "shieldai",
@@ -43097,7 +43128,8 @@
       "https://jobs.lever.co/shieldai/633a3038-574c-45ff-babb-7e1b8b7c6196/apply",
       "https://jobs.lever.co/shieldai/88f7b66e-3412-40c8-b74d-aafc462405ff/apply",
       "https://jobs.lever.co/shieldai/8c850c75-081d-4d09-bebf-096379a93010/apply",
-      "https://jobs.lever.co/shieldai/db8fc063-8856-4404-991c-f287712de949"
+      "https://jobs.lever.co/shieldai/db8fc063-8856-4404-991c-f287712de949",
+      "https://jobs.lever.co/shieldai/a737063e-e831-49e1-98c3-25be44faac30/apply"
     ]
   },
   {
