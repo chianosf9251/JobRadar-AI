@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20Parsed-google%20%2F%20gemini--3.1--flash--lite-blue" />
   <img src="https://img.shields.io/badge/Countries-USA%20%C2%B7%20Taiwan-green" />
-  <img src="https://img.shields.io/badge/Updated-2026--11--13-orange" />
+  <img src="https://img.shields.io/badge/Updated-2026--11--14-orange" />
   <img src="https://img.shields.io/badge/License-MIT-yellow" />
 </p>
 
@@ -102,6 +102,41 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td width="180" align="left" valign="top">NextEra Energy</td>
+      <td width="420" align="left" valign="top">Software Engineering Intern - Technical</td>
+      <td width="180" align="left" valign="top">St. Paul, MN</td>
+      <td width="120" align="left" valign="top"><a href="https://jobs.nexteraenergy.com/job/Juno-Beach-Summer-Intern-Technical-FL-33408/1450749000/?ats=successfactors" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">November 13</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">FieldPulse</td>
+      <td width="420" align="left" valign="top">AI Intern</td>
+      <td width="180" align="left" valign="top">Dallas, TX</td>
+      <td width="120" align="left" valign="top"><a href="https://go.vansh.nyc/1zj?s=y" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">November 13</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Horizon3.ai</td>
+      <td width="420" align="left" valign="top">Research Intern, Adversarial Intelligence</td>
+      <td width="180" align="left" valign="top">Chicago, IL</td>
+      <td width="120" align="left" valign="top"><a href="https://go.vansh.nyc/1zk?s=y" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">November 13</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">NetApp</td>
+      <td width="420" align="left" valign="top">Software Engineer Intern, Systems</td>
+      <td width="180" align="left" valign="top">San Jose, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://go.vansh.nyc/1zs?s=y" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">November 13</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">↳</td>
+      <td width="420" align="left" valign="top">Software Engineer Intern, Cloud</td>
+      <td width="180" align="left" valign="top">San Jose, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://go.vansh.nyc/1zr?s=y" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">November 13</td>
+    </tr>
     <tr>
       <td width="180" align="left" valign="top">Envita Solutions</td>
       <td width="420" align="left" valign="top">Software Engineering Intern, Applied AI</td>
@@ -1670,20 +1705,6 @@
       <td width="120" align="left" valign="top"><a href="https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506642" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
       <td width="100" align="left" valign="top">October 15</td>
     </tr>
-    <tr>
-      <td width="180" align="left" valign="top">Icf</td>
-      <td width="420" align="left" valign="top">2027 Summer Intern, AI Engineer (Reston, VA)</td>
-      <td width="180" align="left" valign="top">Reston, VA</td>
-      <td width="120" align="left" valign="top"><a href="https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--AI-Engineer--Reston--VA-_R2603521" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">October 14</td>
-    </tr>
-    <tr>
-      <td width="180" align="left" valign="top">Figure</td>
-      <td width="420" align="left" valign="top">Embedded Software Engineering Intern, Platform</td>
-      <td width="180" align="left" valign="top">San Jose, CA</td>
-      <td width="120" align="left" valign="top"><a href="https://job-boards.greenhouse.io/figureai/jobs/4722086006" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">October 14</td>
-    </tr>
   </tbody>
 </table>
 
@@ -1993,13 +2014,6 @@
       <td width="180" align="left" valign="top">New York, NY</td>
       <td width="120" align="left" valign="top"><a href="https://job-boards.greenhouse.io/atoms/jobs/8356071002" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
       <td width="100" align="left" valign="top">October 15</td>
-    </tr>
-    <tr>
-      <td width="180" align="left" valign="top">Cubic</td>
-      <td width="420" align="left" valign="top">Systems Engineering Execution Intern</td>
-      <td width="180" align="left" valign="top">San Diego, CA</td>
-      <td width="120" align="left" valign="top"><a href="https://cubic.wd1.myworkdayjobs.com/cubic_usa_careers/job/San-Diego-California/Systems-Engineering-Execution-Intern_REQ_50178" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">October 14</td>
     </tr>
   </tbody>
 </table>
@@ -2437,13 +2451,6 @@
       <td width="120" align="left" valign="top"><a href="https://job-boards.greenhouse.io/sirenopt/jobs/4452002009" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
       <td width="100" align="left" valign="top">October 15</td>
     </tr>
-    <tr>
-      <td width="180" align="left" valign="top">Globalhr</td>
-      <td width="420" align="left" valign="top">Software Engineer I - Next Gen Systems - Onsite</td>
-      <td width="180" align="left" valign="top">Cedar Rapids, IA</td>
-      <td width="120" align="left" valign="top"><a href="https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Software-Engineer-I---Next-Gen-Systems---Onsite_01881673" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">October 14</td>
-    </tr>
   </tbody>
 </table>
 
@@ -2468,7 +2475,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-11-13T21:21:21.097Z</code>
+      🕒 Last updated <code>2026-11-14T02:08:30.341Z</code>
     </span>
   </p>
 </div>

@@ -18,6 +18,41 @@ Every opportunity matching your current filters (country, category, citizenship/
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">NextEra Energy</td>
+      <td width="420" align="left" valign="top">Software Engineering Intern - Technical</td>
+      <td width="180" align="left" valign="top">St. Paul, MN</td>
+      <td width="120" align="left" valign="top"><a href="https://jobs.nexteraenergy.com/job/Juno-Beach-Summer-Intern-Technical-FL-33408/1450749000/?ats=successfactors" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">November 13</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">FieldPulse</td>
+      <td width="420" align="left" valign="top">AI Intern</td>
+      <td width="180" align="left" valign="top">Dallas, TX</td>
+      <td width="120" align="left" valign="top"><a href="https://go.vansh.nyc/1zj?s=y" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">November 13</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">Horizon3.ai</td>
+      <td width="420" align="left" valign="top">Research Intern, Adversarial Intelligence</td>
+      <td width="180" align="left" valign="top">Chicago, IL</td>
+      <td width="120" align="left" valign="top"><a href="https://go.vansh.nyc/1zk?s=y" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">November 13</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">NetApp</td>
+      <td width="420" align="left" valign="top">Software Engineer Intern, Systems</td>
+      <td width="180" align="left" valign="top">San Jose, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://go.vansh.nyc/1zs?s=y" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">November 13</td>
+    </tr>
+    <tr>
+      <td width="180" align="left" valign="top">↳</td>
+      <td width="420" align="left" valign="top">Software Engineer Intern, Cloud</td>
+      <td width="180" align="left" valign="top">San Jose, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://go.vansh.nyc/1zr?s=y" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">November 13</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Envita Solutions</td>
       <td width="420" align="left" valign="top">Software Engineering Intern, Applied AI</td>
       <td width="180" align="left" valign="top">Indianapolis, IN</td>
@@ -5390,4 +5425,4 @@ Every opportunity matching your current filters (country, category, citizenship/
 
 ---
 
-📦 Generated from `opportunities.ndjson` &nbsp;•&nbsp; 🕒 Last updated `2026-11-13T21:21:21.097Z`
+📦 Generated from `opportunities.ndjson` &nbsp;•&nbsp; 🕒 Last updated `2026-11-14T02:08:30.341Z`
