@@ -103,6 +103,13 @@
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Rodriguez Services</td>
+      <td width="420" align="left" valign="top">Software Engineer Intern</td>
+      <td width="180" align="left" valign="top">San Francisco, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://go.vansh.nyc/1zS?s=y" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">November 15</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">NextEra Energy</td>
       <td width="420" align="left" valign="top">Software Engineering Intern - Technical</td>
       <td width="180" align="left" valign="top">St. Paul, MN</td>
@@ -2132,7 +2139,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-11-15T19:16:49.705Z</code>
+      🕒 Last updated <code>2026-11-15T21:40:50.600Z</code>
     </span>
   </p>
 </div>
