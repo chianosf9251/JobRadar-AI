@@ -4918,7 +4918,9 @@
       "https://apply.careers.microsoft.com/careers/job/1970393557071279?domain=microsoft.com&8fold_id=1970393557071279",
       "https://apply.careers.microsoft.com/careers/job/1970393557071281?domain=microsoft.com&8fold_id=1970393557071281",
       "https://apply.careers.microsoft.com/careers/job/1970393557071283?domain=microsoft.com&8fold_id=1970393557071283",
-      "https://apply.careers.microsoft.com/careers/job/1970393557071285?domain=microsoft.com&8fold_id=1970393557071285"
+      "https://apply.careers.microsoft.com/careers/job/1970393557071285?domain=microsoft.com&8fold_id=1970393557071285",
+      "https://apply.careers.microsoft.com/careers/job/1970393557073343?domain=microsoft.com&8fold_id=1970393557073343",
+      "https://apply.careers.microsoft.com/careers/job/1970393557073388?domain=microsoft.com&8fold_id=1970393557073388"
     ]
   },
   {
@@ -9241,9 +9243,7 @@
     "identifier": "braincorp",
     "domain": "https://www.braincorp.com",
     "page": "https://boards-api.greenhouse.io/v1/boards/braincorp/jobs",
-    "urls": [
-      "https://www.braincorp.com/open-positions?gh_jid=8879726002"
-    ]
+    "urls": []
   },
   {
     "name": "braincorporation",
@@ -9253,7 +9253,8 @@
     "page": "https://boards-api.greenhouse.io/v1/boards/braincorporation/jobs",
     "urls": [
       "https://braincorp.com/open-positions?gh_jid=8660246002",
-      "https://www.braincorp.com/open-positions?gh_jid=8628724002"
+      "https://www.braincorp.com/open-positions?gh_jid=8628724002",
+      "https://www.braincorp.com/open-positions?gh_jid=8879726002"
     ]
   },
   {
@@ -14046,7 +14047,9 @@
       "https://cdk.wd1.myworkdayjobs.com/cdk/job/Austin-TX-USA/Associate-Software-Engineer_JR9204",
       "https://cdk.wd1.myworkdayjobs.com/cdk/job/Austin-TX-USA/Associate-Software-Engineer_JR9345-1",
       "https://cdk.wd1.myworkdayjobs.com/cdk/job/Hyderabad-TG-IND/Assoc-Software-Engineer_JR9175",
-      "https://cdk.wd1.myworkdayjobs.com/cdk/job/Hyderabad-TG-IND/Assoc-Software-Engineer_JR9176"
+      "https://cdk.wd1.myworkdayjobs.com/cdk/job/Hyderabad-TG-IND/Assoc-Software-Engineer_JR9176",
+      "https://cdk.wd1.myworkdayjobs.com/cdk/job/Austin-TX-USA/Sr-Software-Engineer_JR9185-1",
+      "https://cdk.wd1.myworkdayjobs.com/cdk/job/Austin-TX-USA/Sr-Software-Engineer_JR9231-1"
     ]
   },
   {
@@ -23688,6 +23691,7 @@
       "https://go.vansh.nyc/1z7?s=y",
       "https://go.vansh.nyc/1z8?s=y",
       "https://go.vansh.nyc/1z9?s=y",
+      "https://go.vansh.nyc/1zM?s=z",
       "https://go.vansh.nyc/1ze?s=y",
       "https://go.vansh.nyc/1zf?s=y",
       "https://go.vansh.nyc/1zj?s=y",
@@ -23823,8 +23827,7 @@
       "https://go.vansh.nyc/Zt?s=y",
       "https://go.vansh.nyc/Zw?s=y",
       "https://go.vansh.nyc/Zy?s=y",
-      "https://go.vansh.nyc/i?s=y",
-      "https://go.vansh.nyc/1zM?s=z"
+      "https://go.vansh.nyc/i?s=y"
     ]
   },
   {
