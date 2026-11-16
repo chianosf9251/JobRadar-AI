@@ -1481,27 +1481,6 @@
       <td width="120" align="left" valign="top"><a href="https://lifeattiktok.com/search/7673636206961641781" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
       <td width="100" align="left" valign="top">October 17</td>
     </tr>
-    <tr>
-      <td width="180" align="left" valign="top">Together AI</td>
-      <td width="420" align="left" valign="top">Research Intern, Frontier Speculative Decoding</td>
-      <td width="180" align="left" valign="top">San Francisco, CA</td>
-      <td width="120" align="left" valign="top"><a href="https://job-boards.greenhouse.io/togetherai/jobs/5267198007" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">October 17</td>
-    </tr>
-    <tr>
-      <td width="180" align="left" valign="top">Astera Labs Early Career - North America 2027</td>
-      <td width="420" align="left" valign="top">Performance Engineering Intern</td>
-      <td width="180" align="left" valign="top">San Jose, CA</td>
-      <td width="120" align="left" valign="top"><a href="https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4726727005" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">October 17</td>
-    </tr>
-    <tr>
-      <td width="180" align="left" valign="top">↳</td>
-      <td width="420" align="left" valign="top">Applied AI Engineer Intern (Silicon Engineering)</td>
-      <td width="180" align="left" valign="top">San Jose, CA</td>
-      <td width="120" align="left" valign="top"><a href="https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4727602005" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">October 17</td>
-    </tr>
   </tbody>
 </table>
 
@@ -2132,7 +2111,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-11-16T02:34:34.309Z</code>
+      🕒 Last updated <code>2026-11-16T20:12:24.534Z</code>
     </span>
   </p>
 </div>
