@@ -3028,6 +3028,16 @@
     ]
   },
   {
+    "name": "angelhost.bamboohr.com",
+    "ats": "custom",
+    "identifier": "angelhost.bamboohr.com",
+    "domain": "https://angelhost.bamboohr.com",
+    "page": "",
+    "urls": [
+      "https://angelhost.bamboohr.com/careers/123/"
+    ]
+  },
+  {
     "name": "anima",
     "ats": "ashby",
     "identifier": "anima",
@@ -5115,6 +5125,7 @@
       "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Bangalore-India/Software-Engineer_J000701469-1",
       "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Bangalore-India/Sr-Software-Engineer---ADAS--Embedded--MATLAB---Simulink_J000700887",
       "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Bangalore-India/Systems-Architect--Product-Systems-Engineering_J000703930",
+      "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Bangalore-India/Systems-Engineer---Radar_J000706403",
       "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Bangalore-India/Systems-Engineering-Android-Auto--Apple-CarPlay--Bluetooth-Wi-Fi_J000702023",
       "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Networking-Software-Developer---MTS_J000698858-1",
       "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineer---Feature-Development_J000694457",
@@ -5134,8 +5145,7 @@
       "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Krakow-Poland/Expert-Software-Engineer---Testing_J000701409",
       "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-San-Diego-CA---WR/College-Permanent-Hire---Embedded-Software-Engineer-for-Professional-Services_9962",
       "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/System-Engineer---OS-Kernel_J000701249",
-      "https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/USA-San-Diego-CA---WR/Product-Analyst-Intern_J000704400",
-      "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Bangalore-India/Systems-Engineer---Radar_J000706403"
+      "https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/USA-San-Diego-CA---WR/Product-Analyst-Intern_J000704400"
     ]
   },
   {
@@ -13561,9 +13571,9 @@
       "https://careers.usbank.com/global/en/job/2026-0033403?ph_id=2026-0033403",
       "https://careers.usbank.com/global/en/job/2026-0033965?ph_id=2026-0033965",
       "https://careers.usbank.com/global/en/job/2026-0033976?ph_id=2026-0033976",
+      "https://careers.usbank.com/global/en/job/2026-0034153?ph_id=2026-0034153",
       "https://careers.usbank.com/global/en/job/2026-0034197?ph_id=2026-0034197",
-      "https://careers.usbank.com/global/en/job/2026-0035352?ph_id=2026-0035352",
-      "https://careers.usbank.com/global/en/job/2026-0034153?ph_id=2026-0034153"
+      "https://careers.usbank.com/global/en/job/2026-0035352?ph_id=2026-0035352"
     ]
   },
   {
@@ -21139,9 +21149,9 @@
       "https://careers-gdms.icims.com/jobs/80750/sr-advanced-software-engineer/job",
       "https://careers-gdms.icims.com/jobs/80844/systems-engineer-%e2%80%93-technology-refresh-%26-modernization/job",
       "https://careers-gdms.icims.com/jobs/81108/sr-advanced-systems-engineer/job",
+      "https://careers-gdms.icims.com/jobs/81242/bices-software-engineer---remote/job",
       "https://careers-gdms.icims.com/jobs/81306/nc3-software-engineer/job",
       "https://careers-gdms.icims.com/jobs/81373/safety-surety-systems-engineer/job",
-      "https://careers-gdms.icims.com/jobs/81242/bices-software-engineer---remote/job",
       "https://careers-gdms.icims.com/jobs/81868/ai-software-engineer%2c-applications-and-agents/job"
     ]
   },
@@ -23922,7 +23932,13 @@
       "https://go.vansh.nyc/Zt?s=y",
       "https://go.vansh.nyc/Zw?s=y",
       "https://go.vansh.nyc/Zy?s=y",
-      "https://go.vansh.nyc/i?s=y"
+      "https://go.vansh.nyc/i?s=y",
+      "https://go.vansh.nyc/1Be?s=y",
+      "https://go.vansh.nyc/1Ba?s=y",
+      "https://go.vansh.nyc/1Bb?s=y",
+      "https://go.vansh.nyc/1B7?s=y",
+      "https://go.vansh.nyc/1B8?s=y",
+      "https://go.vansh.nyc/1li?s=y"
     ]
   },
   {
@@ -30635,6 +30651,16 @@
     ]
   },
   {
+    "name": "kraunelectric.bamboohr.com",
+    "ats": "custom",
+    "identifier": "kraunelectric.bamboohr.com",
+    "domain": "https://kraunelectric.bamboohr.com",
+    "page": "",
+    "urls": [
+      "https://kraunelectric.bamboohr.com/careers/98/"
+    ]
+  },
+  {
     "name": "ksmcpa",
     "ats": "workday",
     "identifier": "ksmcpa-ksmcareers",
@@ -32750,6 +32776,7 @@
       "https://www.metacareers.com/profile/job_details/1154573427521292",
       "https://www.metacareers.com/profile/job_details/1154738753397824",
       "https://www.metacareers.com/profile/job_details/1155292783739299",
+      "https://www.metacareers.com/profile/job_details/1157475613903880",
       "https://www.metacareers.com/profile/job_details/1158829233342350",
       "https://www.metacareers.com/profile/job_details/1160814043168431",
       "https://www.metacareers.com/profile/job_details/1161077809777327",
@@ -33363,8 +33390,7 @@
       "https://www.metacareers.com/profile/job_details/994881556459825",
       "https://www.metacareers.com/profile/job_details/997597222780035",
       "https://www.metacareers.com/profile/job_details/997644772875988",
-      "https://www.metacareers.com/profile/job_details/998357492128826",
-      "https://www.metacareers.com/profile/job_details/1157475613903880"
+      "https://www.metacareers.com/profile/job_details/998357492128826"
     ]
   },
   {
@@ -35943,8 +35969,8 @@
       "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41474",
       "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41600",
       "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41672",
-      "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/42057",
-      "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41673"
+      "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41673",
+      "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/42057"
     ]
   },
   {
@@ -36297,9 +36323,9 @@
       "https://nuro.ai/careersitem?gh_jid=8227399",
       "https://nuro.ai/careersitem?gh_jid=8230855",
       "https://nuro.ai/careersitem?gh_jid=8248317",
+      "https://nuro.ai/careersitem?gh_jid=8341046",
       "https://nuro.ai/careersitem?gh_jid=8360415",
-      "https://www.nuro.ai/careersitem?gh_jid=7351061",
-      "https://nuro.ai/careersitem?gh_jid=8341046"
+      "https://www.nuro.ai/careersitem?gh_jid=7351061"
     ]
   },
   {
@@ -41729,9 +41755,9 @@
       "https://www.rubrik.com/company/careers/departments/job.8318044?gh_jid=8318044",
       "https://www.rubrik.com/company/careers/departments/job.8327940?gh_jid=8327940",
       "https://www.rubrik.com/company/careers/departments/job.8335812?gh_jid=8335812",
+      "https://www.rubrik.com/company/careers/departments/job.8349847?gh_jid=8349847",
       "https://www.rubrik.com/company/careers/departments/job.8351288?gh_jid=8351288",
-      "https://www.rubrik.com/company/careers/departments/job.8377184?gh_jid=8377184",
-      "https://www.rubrik.com/company/careers/departments/job.8349847?gh_jid=8349847"
+      "https://www.rubrik.com/company/careers/departments/job.8377184?gh_jid=8377184"
     ]
   },
   {
@@ -44987,16 +45013,16 @@
       "https://boards.greenhouse.io/spacex/jobs/8937029002?gh_jid=8937029002",
       "https://boards.greenhouse.io/spacex/jobs/8937195002?gh_jid=8937195002",
       "https://boards.greenhouse.io/spacex/jobs/8939698002?gh_jid=8939698002",
-      "https://boards.greenhouse.io/spacex/jobs/8940768002?gh_jid=8940768002",
-      "https://boards.greenhouse.io/spacex/jobs/8942392002?gh_jid=8942392002",
-      "https://boards.greenhouse.io/spacex/jobs/8943586002?gh_jid=8943586002",
-      "https://boards.greenhouse.io/spacex/jobs/8942436002?gh_jid=8942436002",
+      "https://boards.greenhouse.io/spacex/jobs/8940459002?gh_jid=8940459002",
+      "https://boards.greenhouse.io/spacex/jobs/8940465002?gh_jid=8940465002",
       "https://boards.greenhouse.io/spacex/jobs/8940468002?gh_jid=8940468002",
       "https://boards.greenhouse.io/spacex/jobs/8940469002?gh_jid=8940469002",
-      "https://boards.greenhouse.io/spacex/jobs/8940465002?gh_jid=8940465002",
       "https://boards.greenhouse.io/spacex/jobs/8940470002?gh_jid=8940470002",
-      "https://boards.greenhouse.io/spacex/jobs/8940459002?gh_jid=8940459002",
       "https://boards.greenhouse.io/spacex/jobs/8940471002?gh_jid=8940471002",
+      "https://boards.greenhouse.io/spacex/jobs/8940768002?gh_jid=8940768002",
+      "https://boards.greenhouse.io/spacex/jobs/8942392002?gh_jid=8942392002",
+      "https://boards.greenhouse.io/spacex/jobs/8942436002?gh_jid=8942436002",
+      "https://boards.greenhouse.io/spacex/jobs/8943586002?gh_jid=8943586002",
       "https://boards.greenhouse.io/spacex/jobs/8943817002?gh_jid=8943817002"
     ]
   },
@@ -46232,9 +46258,9 @@
     "urls": [
       "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Co-op---Software-Engineer_R8111",
       "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/New-Grad--Robotics-Software-Engineer_R8496",
+      "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Software-Engineer--Core-Systems---Platform-Services_R8392",
       "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Software-Engineer_R7963",
-      "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/VNM-Ho-Chi-Minh/Software-Engineer--Python--Kubernetes-_R8420",
-      "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Software-Engineer--Core-Systems---Platform-Services_R8392"
+      "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/VNM-Ho-Chi-Minh/Software-Engineer--Python--Kubernetes-_R8420"
     ]
   },
   {
@@ -51611,6 +51637,16 @@
     "domain": "https://job-boards.greenhouse.io",
     "page": "https://boards-api.greenhouse.io/v1/boards/xometry/jobs",
     "urls": []
+  },
+  {
+    "name": "xradar.bamboohr.com",
+    "ats": "custom",
+    "identifier": "xradar.bamboohr.com",
+    "domain": "https://xradar.bamboohr.com",
+    "page": "",
+    "urls": [
+      "https://xradar.bamboohr.com/careers/203/"
+    ]
   },
   {
     "name": "xsolla",
