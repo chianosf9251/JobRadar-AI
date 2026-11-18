@@ -5870,7 +5870,8 @@
       "https://ats.rippling.com/tive-careers/jobs/c88ab3d3-a8e7-4639-b95b-d6c9b5290dd0",
       "https://ats.rippling.com/tive-careers/jobs/e7ed0c47-bf2e-4105-a793-e48dc0e0f710",
       "https://ats.rippling.com/usare/jobs/8db9bb37-aa5f-40e0-96ac-d1c4ca796aeb",
-      "https://ats.rippling.com/veryable-careers/jobs/cf74672c-c9c5-4be5-8858-04abfd64c20f"
+      "https://ats.rippling.com/veryable-careers/jobs/cf74672c-c9c5-4be5-8858-04abfd64c20f",
+      "https://ats.rippling.com/raptor-maps-inc/jobs/be25d98e-262f-42a2-8276-dffbfbbf402a"
     ]
   },
   {
@@ -9116,10 +9117,10 @@
       "https://jobs.smartrecruiters.com/BoschGroup/744000160934330",
       "https://jobs.smartrecruiters.com/BoschGroup/744000161595229",
       "https://jobs.smartrecruiters.com/BoschGroup/744000161816102",
+      "https://jobs.smartrecruiters.com/BoschGroup/744000162076254",
       "https://jobs.smartrecruiters.com/BoschGroup/744000162099143",
       "https://jobs.smartrecruiters.com/BoschGroup/744000162120649",
-      "https://jobs.smartrecruiters.com/BoschGroup/744000162122629",
-      "https://jobs.smartrecruiters.com/BoschGroup/744000162076254"
+      "https://jobs.smartrecruiters.com/BoschGroup/744000162122629"
     ]
   },
   {
@@ -10426,7 +10427,8 @@
       "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24908",
       "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24959",
       "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24960",
-      "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24969"
+      "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24969",
+      "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24983"
     ]
   },
   {
@@ -11044,6 +11046,16 @@
       "https://careers.belden.com/job/Rochester-Software-Engineering-Coop-NY-14623/1380960800/?ats=successfactors",
       "https://careers.belden.com/job/Rochester-Software-Engineering-Coop-NY-14623/1380965600/?ats=successfactors",
       "https://careers.belden.com/job/Rochester-Software-Engineering-Coop-NY-14623/1380970600/?ats=successfactors"
+    ]
+  },
+  {
+    "name": "careers.bissell.com",
+    "ats": "custom",
+    "identifier": "careers.bissell.com",
+    "domain": "https://careers.bissell.com",
+    "page": "",
+    "urls": [
+      "https://careers.bissell.com/jobs/9995?icims=1&lang=en-us"
     ]
   },
   {
@@ -23347,6 +23359,15 @@
       "https://go.vansh.nyc/1Ba?s=y",
       "https://go.vansh.nyc/1Bb?s=y",
       "https://go.vansh.nyc/1Be?s=y",
+      "https://go.vansh.nyc/1Bg?s=z",
+      "https://go.vansh.nyc/1Bh?s=y",
+      "https://go.vansh.nyc/1Bk?s=y",
+      "https://go.vansh.nyc/1Bn?s=z",
+      "https://go.vansh.nyc/1Bo?s=y",
+      "https://go.vansh.nyc/1Br?s=y",
+      "https://go.vansh.nyc/1Bs?s=y",
+      "https://go.vansh.nyc/1Bt?s=y",
+      "https://go.vansh.nyc/1Bu?s=z",
       "https://go.vansh.nyc/1a0?s=y",
       "https://go.vansh.nyc/1a2?s=z",
       "https://go.vansh.nyc/1a3?s=z",
@@ -23986,15 +24007,22 @@
       "https://go.vansh.nyc/Zw?s=y",
       "https://go.vansh.nyc/Zy?s=y",
       "https://go.vansh.nyc/i?s=y",
-      "https://go.vansh.nyc/1Br?s=y",
-      "https://go.vansh.nyc/1Bk?s=y",
-      "https://go.vansh.nyc/1Bt?s=y",
-      "https://go.vansh.nyc/1Bh?s=y",
-      "https://go.vansh.nyc/1Bs?s=y",
-      "https://go.vansh.nyc/1Bo?s=y",
-      "https://go.vansh.nyc/1Bu?s=z",
-      "https://go.vansh.nyc/1Bg?s=z",
-      "https://go.vansh.nyc/1Bn?s=z"
+      "https://go.vansh.nyc/1BE?s=y",
+      "https://go.vansh.nyc/1C1?s=y",
+      "https://go.vansh.nyc/1BK?s=y",
+      "https://go.vansh.nyc/1BL?s=y",
+      "https://go.vansh.nyc/1BC?s=y",
+      "https://go.vansh.nyc/1BQ?s=y",
+      "https://go.vansh.nyc/1BR?s=y",
+      "https://go.vansh.nyc/1BA?s=y",
+      "https://go.vansh.nyc/1BP?s=y",
+      "https://go.vansh.nyc/1BD?s=y",
+      "https://go.vansh.nyc/1BB?s=y",
+      "https://go.vansh.nyc/1BJ?s=y",
+      "https://go.vansh.nyc/1C0?s=z",
+      "https://go.vansh.nyc/1BN?s=z",
+      "https://go.vansh.nyc/1BO?s=z",
+      "https://go.vansh.nyc/1BM?s=z"
     ]
   },
   {
@@ -29168,7 +29196,8 @@
     "page": "",
     "urls": [
       "https://jobs.constellationenergy.com/jobs/138708?icims=1",
-      "https://jobs.constellationenergy.com/jobs/141851?icims=1&lang=en-us"
+      "https://jobs.constellationenergy.com/jobs/141851?icims=1&lang=en-us",
+      "https://jobs.constellationenergy.com/jobs/143150?icims=1&lang=en-us"
     ]
   },
   {
@@ -29418,7 +29447,8 @@
       "https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false",
       "https://jobs.jobvite.com/visionist/job/oEBdAfwM?nl=1&nl=1&fr=false",
       "https://jobs.jobvite.com/visionist/job/oTxGAfwq?nl=1&nl=1&fr=false",
-      "https://jobs.jobvite.com/windriver/job/ooShxfwO"
+      "https://jobs.jobvite.com/windriver/job/ooShxfwO",
+      "https://jobs.jobvite.com/compunetix/job/oMdpAfwI?nl=1&nl=1&fr=false"
     ]
   },
   {
@@ -30750,6 +30780,16 @@
       "https://jobs.ashbyhq.com/kustomer/4037272a-7fd3-4040-906b-47fde875a817",
       "https://jobs.ashbyhq.com/kustomer/50bf7508-e199-4136-a11f-705f06b834c4",
       "https://jobs.ashbyhq.com/kustomer/61dcb217-b513-4020-8eb8-211b0336c3db"
+    ]
+  },
+  {
+    "name": "laansu.applytojob.com",
+    "ats": "custom",
+    "identifier": "laansu.applytojob.com",
+    "domain": "https://laansu.applytojob.com",
+    "page": "",
+    "urls": [
+      "https://laansu.applytojob.com/apply/IiHJSaTASV/Junior-Software-Developer"
     ]
   },
   {
@@ -33764,6 +33804,16 @@
       "https://mimecast.wd5.myworkdayjobs.com/Mimecast-Careers/job/United-States-of-America-Minnesota--Minneapolis/Software-Engineer-I_R6829",
       "https://mimecast.wd5.myworkdayjobs.com/mimecast-careers/job/Great-Britain---London/Associate-Software-Engineer_R6594-1",
       "https://mimecast.wd5.myworkdayjobs.com/mimecast-careers/job/United-States-of-America-Minnesota--Minneapolis/Software-Engineer-I_R6604-1"
+    ]
+  },
+  {
+    "name": "Mirantis",
+    "ats": "smartrecruiters",
+    "identifier": "Mirantis",
+    "domain": "https://jobs.smartrecruiters.com",
+    "page": "https://api.smartrecruiters.com/v1/companies/Mirantis/postings",
+    "urls": [
+      "https://jobs.smartrecruiters.com/Mirantis/744000162186029"
     ]
   },
   {
@@ -37532,7 +37582,8 @@
       "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/344317",
       "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/344981",
       "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/344982",
-      "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/347700"
+      "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/347700",
+      "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350821"
     ]
   },
   {
@@ -51573,7 +51624,9 @@
     "domain": "https://wyetech.applytojob.com",
     "page": "",
     "urls": [
-      "https://wyetech.applytojob.com/apply/7d200RlbqP/Software-Engineer-Skill-Level-0-Or-1"
+      "https://wyetech.applytojob.com/apply/7d200RlbqP/Software-Engineer-Skill-Level-0-Or-1",
+      "https://wyetech.applytojob.com/apply/9N1fCIgQkv/SWE-0-Software-Engineer",
+      "https://wyetech.applytojob.com/apply/vH1nr4O9nO/Cloud-Software-Engineer-1"
     ]
   },
   {
