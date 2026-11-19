@@ -1561,6 +1561,13 @@
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Garmin</td>
+      <td width="420" align="left" valign="top">Software Engineering Intern</td>
+      <td width="180" align="left" valign="top">Manhattan, KS</td>
+      <td width="120" align="left" valign="top"><a href="https://go.vansh.nyc/1CN?s=y" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">November 19</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Western digital</td>
       <td width="420" align="left" valign="top">Spring 2027 Intern - Software Engineering</td>
       <td width="180" align="left" valign="top">Irvine, CA</td>
@@ -2216,7 +2223,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-11-19T21:11:31.218Z</code>
+      🕒 Last updated <code>2026-11-19T21:17:23.369Z</code>
     </span>
   </p>
 </div>
