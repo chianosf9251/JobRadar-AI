@@ -18,6 +18,13 @@ Every opportunity matching your current filters (country, category, citizenship/
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Samsung Semiconductor</td>
+      <td width="420" align="left" valign="top">LLM Inference Acceleration Architecture Intern, Distributed Memory-Centric Accelerators</td>
+      <td width="180" align="left" valign="top">San Jose, CA</td>
+      <td width="120" align="left" valign="top"><a href="https://go.vansh.nyc/1Cw?s=y" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">November 18</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">CrowdStrike</td>
       <td width="420" align="left" valign="top">AI Research Launch Intern</td>
       <td width="180" align="left" valign="top">Sunnyvale, CA</td>
@@ -5103,4 +5110,4 @@ Every opportunity matching your current filters (country, category, citizenship/
 
 ---
 
-📦 Generated from `opportunities.ndjson` &nbsp;•&nbsp; 🕒 Last updated `2026-11-18T21:16:04.269Z`
+📦 Generated from `opportunities.ndjson` &nbsp;•&nbsp; 🕒 Last updated `2026-11-19T03:03:52.726Z`
