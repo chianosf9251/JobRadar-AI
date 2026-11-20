@@ -2430,7 +2430,9 @@
     "identifier": "amperity",
     "domain": "https://amperity.com",
     "page": "https://boards-api.greenhouse.io/v1/boards/amperity/jobs",
-    "urls": []
+    "urls": [
+      "https://amperity.com/careers?gh_jid=8393990"
+    ]
   },
   {
     "name": "amplify",
@@ -5890,7 +5892,8 @@
       "https://ats.rippling.com/tive-careers/jobs/c88ab3d3-a8e7-4639-b95b-d6c9b5290dd0",
       "https://ats.rippling.com/tive-careers/jobs/e7ed0c47-bf2e-4105-a793-e48dc0e0f710",
       "https://ats.rippling.com/usare/jobs/8db9bb37-aa5f-40e0-96ac-d1c4ca796aeb",
-      "https://ats.rippling.com/veryable-careers/jobs/cf74672c-c9c5-4be5-8858-04abfd64c20f"
+      "https://ats.rippling.com/veryable-careers/jobs/cf74672c-c9c5-4be5-8858-04abfd64c20f",
+      "https://ats.rippling.com/uplinq/jobs/db54b553-b172-4569-ac5f-933a5f8a8d8c"
     ]
   },
   {
@@ -7734,7 +7737,8 @@
     "domain": "https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job",
     "page": "https://ejko.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&finder=findReqs%3BsiteNumber%3DCX_3%2Climit%3D25%2CsortBy%3DPOSTING_DATES_DESC&expand=requisitionList.secondaryLocations%2CrequisitionList.otherWorkLocations",
     "urls": [
-      "https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14998"
+      "https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14998",
+      "https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/15160"
     ]
   },
   {
@@ -10902,7 +10906,8 @@
       "https://careers.withwaymo.com/jobs?gh_jid=8250220",
       "https://careers.withwaymo.com/jobs?gh_jid=8257237",
       "https://careers.withwaymo.com/jobs?gh_jid=8257660",
-      "https://careers.withwaymo.com/jobs?gh_jid=8350687"
+      "https://careers.withwaymo.com/jobs?gh_jid=8350687",
+      "https://careers.formlabs.com/job/8400855/apply/?gh_jid=8400855"
     ]
   },
   {
@@ -16948,6 +16953,16 @@
     ]
   },
   {
+    "name": "deliveroo",
+    "ats": "greenhouse",
+    "identifier": "deliveroo",
+    "domain": "https://job-boards.greenhouse.io",
+    "page": "https://boards-api.greenhouse.io/v1/boards/deliveroo/jobs",
+    "urls": [
+      "https://job-boards.greenhouse.io/deliveroo/jobs/8398982"
+    ]
+  },
+  {
     "name": "dell",
     "ats": "workday",
     "identifier": "dell-external",
@@ -19108,6 +19123,16 @@
       "https://job-boards.greenhouse.io/eulerity/jobs/4705868006",
       "https://job-boards.greenhouse.io/eulerity/jobs/4709040006",
       "https://job-boards.greenhouse.io/eulerity/jobs/4716146006"
+    ]
+  },
+  {
+    "name": "euna.bamboohr.com",
+    "ats": "custom",
+    "identifier": "euna.bamboohr.com",
+    "domain": "https://euna.bamboohr.com",
+    "page": "",
+    "urls": [
+      "https://euna.bamboohr.com/careers/822/"
     ]
   },
   {
@@ -23484,6 +23509,10 @@
       "https://go.vansh.nyc/1CA?s=y",
       "https://go.vansh.nyc/1CB?s=y",
       "https://go.vansh.nyc/1CC?s=y",
+      "https://go.vansh.nyc/1CN?s=y",
+      "https://go.vansh.nyc/1CQ?s=y",
+      "https://go.vansh.nyc/1CX?s=z",
+      "https://go.vansh.nyc/1CY?s=y",
       "https://go.vansh.nyc/1Cg?s=z",
       "https://go.vansh.nyc/1Ch?s=y",
       "https://go.vansh.nyc/1Ci?s=y",
@@ -23497,6 +23526,7 @@
       "https://go.vansh.nyc/1Cv?s=y",
       "https://go.vansh.nyc/1Cw?s=y",
       "https://go.vansh.nyc/1Cy?s=y",
+      "https://go.vansh.nyc/1D1?s=y",
       "https://go.vansh.nyc/1a0?s=y",
       "https://go.vansh.nyc/1a2?s=z",
       "https://go.vansh.nyc/1a3?s=z",
@@ -24136,11 +24166,41 @@
       "https://go.vansh.nyc/Zw?s=y",
       "https://go.vansh.nyc/Zy?s=y",
       "https://go.vansh.nyc/i?s=y",
-      "https://go.vansh.nyc/1CQ?s=y",
-      "https://go.vansh.nyc/1CN?s=y",
-      "https://go.vansh.nyc/1CY?s=y",
-      "https://go.vansh.nyc/1D1?s=y",
-      "https://go.vansh.nyc/1CX?s=z"
+      "https://go.vansh.nyc/1DF?s=y",
+      "https://go.vansh.nyc/1Dy?s=y",
+      "https://go.vansh.nyc/1Du?s=y",
+      "https://go.vansh.nyc/1DE?s=y",
+      "https://go.vansh.nyc/1D8?s=y",
+      "https://go.vansh.nyc/1Dx?s=y",
+      "https://go.vansh.nyc/1Db?s=y",
+      "https://go.vansh.nyc/1Dc?s=y",
+      "https://go.vansh.nyc/1Dd?s=y",
+      "https://go.vansh.nyc/1De?s=y",
+      "https://go.vansh.nyc/1Df?s=y",
+      "https://go.vansh.nyc/1Dg?s=y",
+      "https://go.vansh.nyc/1Dh?s=y",
+      "https://go.vansh.nyc/1Di?s=y",
+      "https://go.vansh.nyc/1Dj?s=y",
+      "https://go.vansh.nyc/1Dk?s=y",
+      "https://go.vansh.nyc/1Dl?s=y",
+      "https://go.vansh.nyc/1Dm?s=y",
+      "https://go.vansh.nyc/1Dn?s=y",
+      "https://go.vansh.nyc/1DI?s=y",
+      "https://go.vansh.nyc/1DJ?s=y",
+      "https://go.vansh.nyc/1DK?s=y",
+      "https://go.vansh.nyc/1Dv?s=y",
+      "https://go.vansh.nyc/1DL?s=y",
+      "https://go.vansh.nyc/1DM?s=y",
+      "https://go.vansh.nyc/1DP?s=y",
+      "https://go.vansh.nyc/1Dt?s=y",
+      "https://go.vansh.nyc/1Ds?s=y",
+      "https://go.vansh.nyc/1DN?s=y",
+      "https://go.vansh.nyc/1DQ?s=y",
+      "https://go.vansh.nyc/1DA?s=y",
+      "https://go.vansh.nyc/1DG?s=y",
+      "https://go.vansh.nyc/1DO?s=z",
+      "https://go.vansh.nyc/1D7?s=z",
+      "https://go.vansh.nyc/1Da?s=z"
     ]
   },
   {
@@ -31793,7 +31853,8 @@
       "https://job-boards.greenhouse.io/lucidmotors/jobs/5199841007",
       "https://lucidmotors.com/careers/search/5213971007?gh_jid=5213971007",
       "https://lucidmotors.com/careers/search/5242854007?gh_jid=5242854007",
-      "https://lucidmotors.com/careers/search/5242880007?gh_jid=5242880007"
+      "https://lucidmotors.com/careers/search/5242880007?gh_jid=5242880007",
+      "https://lucidmotors.com/careers/search/5290921007?gh_jid=5290921007"
     ]
   },
   {
@@ -50593,7 +50654,9 @@
       "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20283126",
       "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20283127",
       "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20284343",
-      "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20284843"
+      "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20284843",
+      "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20286620",
+      "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20286621"
     ]
   },
   {
