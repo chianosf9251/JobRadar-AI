@@ -20203,6 +20203,16 @@
     "urls": []
   },
   {
+    "name": "flare.bamboohr.com",
+    "ats": "custom",
+    "identifier": "flare.bamboohr.com",
+    "domain": "https://flare.bamboohr.com",
+    "page": "",
+    "urls": [
+      "https://flare.bamboohr.com/careers/29/"
+    ]
+  },
+  {
     "name": "flint",
     "ats": "ashby",
     "identifier": "flint",
@@ -23595,6 +23605,9 @@
       "https://go.vansh.nyc/1Dv?s=y",
       "https://go.vansh.nyc/1Dx?s=y",
       "https://go.vansh.nyc/1Dy?s=y",
+      "https://go.vansh.nyc/1Ei?s=y",
+      "https://go.vansh.nyc/1Ej?s=y",
+      "https://go.vansh.nyc/1El?s=y",
       "https://go.vansh.nyc/1a0?s=y",
       "https://go.vansh.nyc/1a2?s=z",
       "https://go.vansh.nyc/1a3?s=z",
@@ -24234,9 +24247,23 @@
       "https://go.vansh.nyc/Zw?s=y",
       "https://go.vansh.nyc/Zy?s=y",
       "https://go.vansh.nyc/i?s=y",
-      "https://go.vansh.nyc/1Ei?s=y",
-      "https://go.vansh.nyc/1Ej?s=y",
-      "https://go.vansh.nyc/1El?s=y"
+      "https://go.vansh.nyc/1Ep?s=y",
+      "https://go.vansh.nyc/1Ew?s=y",
+      "https://go.vansh.nyc/1EE?s=y",
+      "https://go.vansh.nyc/1Ez?s=y",
+      "https://go.vansh.nyc/1Em?s=y",
+      "https://go.vansh.nyc/1En?s=y",
+      "https://go.vansh.nyc/1Eo?s=y",
+      "https://go.vansh.nyc/1ET?s=y",
+      "https://go.vansh.nyc/1EM?s=y",
+      "https://go.vansh.nyc/1EF?s=y",
+      "https://go.vansh.nyc/1EG?s=y",
+      "https://go.vansh.nyc/1EO?s=y",
+      "https://go.vansh.nyc/1EA?s=y",
+      "https://go.vansh.nyc/1Ex?s=y",
+      "https://go.vansh.nyc/1EP?s=y",
+      "https://go.vansh.nyc/1ED?s=z",
+      "https://go.vansh.nyc/1EC?s=z"
     ]
   },
   {
@@ -40930,12 +40957,12 @@
     "domain": "https://recruiting.ultipro.com",
     "page": "",
     "urls": [
-      "https://recruiting.ultipro.com/FIN1008FICT/JobBoard/c0ae7303-ee90-41c6-b44a-abf63303ceb4/OpportunityDetail?opportunityId=cf27351e-5100-4731-8882-c7bf9ba1451f",
-      "https://recruiting.ultipro.com/asc1003/JobBoard/57b0d3c6-a250-9a6a-7787-1093a619de01/OpportunityDetail?opportunityId=df8da3fd-cd4d-48ac-a5fa-b519199f9389",
-      "https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=8b5cdf5c-af19-431d-b135-9f2c62c4d002",
       "https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=2225e962-d694-4585-a937-82c9c01b6337",
       "https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=78caa2c6-394a-4c51-b7bd-224461099eda",
-      "https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=f9b67716-a1c1-489e-8c95-ed52ab2ca846"
+      "https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=8b5cdf5c-af19-431d-b135-9f2c62c4d002",
+      "https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=f9b67716-a1c1-489e-8c95-ed52ab2ca846",
+      "https://recruiting.ultipro.com/FIN1008FICT/JobBoard/c0ae7303-ee90-41c6-b44a-abf63303ceb4/OpportunityDetail?opportunityId=cf27351e-5100-4731-8882-c7bf9ba1451f",
+      "https://recruiting.ultipro.com/asc1003/JobBoard/57b0d3c6-a250-9a6a-7787-1093a619de01/OpportunityDetail?opportunityId=df8da3fd-cd4d-48ac-a5fa-b519199f9389"
     ]
   },
   {
@@ -46766,7 +46793,8 @@
       "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/New-Grad--Robotics-Software-Engineer_R8496",
       "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Software-Engineer--Core-Systems---Platform-Services_R8392",
       "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Software-Engineer_R7963",
-      "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/VNM-Ho-Chi-Minh/Software-Engineer--Python--Kubernetes-_R8420"
+      "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/VNM-Ho-Chi-Minh/Software-Engineer--Python--Kubernetes-_R8420",
+      "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Austin-TX/Intern--Software-Engineer--Front-End_R8567-1"
     ]
   },
   {
@@ -51888,8 +51916,8 @@
     "domain": "https://workforcenow.adp.com",
     "page": "",
     "urls": [
-      "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?jobId=555080",
-      "https://workforcenow.adp.com/job?cid=93fdfc70-37a2-4cde-ba86-0da4925db4c8&jobId=9200936414429_1"
+      "https://workforcenow.adp.com/job?cid=93fdfc70-37a2-4cde-ba86-0da4925db4c8&jobId=9200936414429_1",
+      "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?jobId=555080"
     ]
   },
   {
