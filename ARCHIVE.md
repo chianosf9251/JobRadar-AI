@@ -18,6 +18,13 @@ Every opportunity matching your current filters (country, category, citizenship/
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Cisco</td>
+      <td width="420" align="left" valign="top">AI Cybersecurity Engineer I (Intern) – United States</td>
+      <td width="180" align="left" valign="top">Research Triangle Park, NC</td>
+      <td width="120" align="left" valign="top"><a href="https://careers.cisco.com/global/en/job/2030295?ph_id=2030295" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">November 20</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">ServiceNow</td>
       <td width="420" align="left" valign="top">Security Software Engineer Intern 🎓</td>
       <td width="180" align="left" valign="top">Kirkland, WA</td>
@@ -3774,6 +3781,13 @@ Every opportunity matching your current filters (country, category, citizenship/
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Mercuryinsurance</td>
+      <td width="420" align="left" valign="top">AI Engineer I</td>
+      <td width="180" align="left" valign="top">Remote, USA</td>
+      <td width="120" align="left" valign="top"><a href="https://careers-mercuryinsurance.icims.com/jobs/7485/ai-engineer-i/job" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">November 20</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Iawmqy.fa.ocs.oraclecloud.com</td>
       <td width="420" align="left" valign="top">AI PC Performance Engineer</td>
       <td width="180" align="left" valign="top">Taipei City, Taiwan</td>
@@ -5313,4 +5327,4 @@ Every opportunity matching your current filters (country, category, citizenship/
 
 ---
 
-📦 Generated from `opportunities.ndjson` &nbsp;•&nbsp; 🕒 Last updated `2026-11-21T01:16:09.060Z`
+📦 Generated from `opportunities.ndjson` &nbsp;•&nbsp; 🕒 Last updated `2026-11-21T03:46:06.572Z`
