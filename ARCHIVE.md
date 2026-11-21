@@ -18,6 +18,13 @@ Every opportunity matching your current filters (country, category, citizenship/
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">ServiceNow</td>
+      <td width="420" align="left" valign="top">Security Software Engineer Intern 🎓</td>
+      <td width="180" align="left" valign="top">Kirkland, WA</td>
+      <td width="120" align="left" valign="top"><a href="https://jobs.smartrecruiters.com/ServiceNow/744000162827365" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">November 20</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Ralliant</td>
       <td width="420" align="left" valign="top">Software Engineering (AI Building) Intern (Summer 2027)</td>
       <td width="180" align="left" valign="top">Beaverton, OR</td>
@@ -3156,6 +3163,13 @@ Every opportunity matching your current filters (country, category, citizenship/
   </thead>
   <tbody>
     <tr>
+      <td width="180" align="left" valign="top">Bombardier</td>
+      <td width="420" align="left" valign="top">Software Engineering Intern</td>
+      <td width="180" align="left" valign="top">Wichita, KS</td>
+      <td width="120" align="left" valign="top"><a href="https://go.vansh.nyc/1FS?s=y" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
+      <td width="100" align="left" valign="top">November 20</td>
+    </tr>
+    <tr>
       <td width="180" align="left" valign="top">Garmin</td>
       <td width="420" align="left" valign="top">Software Engineering Intern</td>
       <td width="180" align="left" valign="top">Manhattan, KS</td>
@@ -5299,4 +5313,4 @@ Every opportunity matching your current filters (country, category, citizenship/
 
 ---
 
-📦 Generated from `opportunities.ndjson` &nbsp;•&nbsp; 🕒 Last updated `2026-11-20T20:57:14.166Z`
+📦 Generated from `opportunities.ndjson` &nbsp;•&nbsp; 🕒 Last updated `2026-11-21T01:16:09.060Z`
