@@ -10129,9 +10129,11 @@
     "urls": [
       "https://cae.wd3.myworkdayjobs.com/career/job/Altus-OK-USA/ATS-Software-Engineer_122982",
       "https://cae.wd3.myworkdayjobs.com/career/job/Altus-OK-USA/ATS-Software-Engineer_122983-1",
+      "https://cae.wd3.myworkdayjobs.com/career/job/Arlington-TX/Avionics-Software-Engineer_124677",
       "https://cae.wd3.myworkdayjobs.com/career/job/Arlington-TX/Weapons-Aero-Software-Engineer_123874-1",
       "https://cae.wd3.myworkdayjobs.com/career/job/Arlington-TX/Weapons-Simulation-Software-Co-Op_123873",
       "https://cae.wd3.myworkdayjobs.com/career/job/Binghamton-NY/Associate-Software-Engineer_123243",
+      "https://cae.wd3.myworkdayjobs.com/career/job/Binghamton-NY/Group-Leader--Software-Engineering_124678-1",
       "https://cae.wd3.myworkdayjobs.com/career/job/Binghamton-NY/Software-Engineer_122487",
       "https://cae.wd3.myworkdayjobs.com/career/job/Binghamton-NY/Software-Engineer_123090-1",
       "https://cae.wd3.myworkdayjobs.com/career/job/Binghamton-NY/Software-Engineer_123241",
@@ -10149,9 +10151,7 @@
       "https://cae.wd3.myworkdayjobs.com/career/job/Orlando/Software-Engineer_121856",
       "https://cae.wd3.myworkdayjobs.com/career/job/Tampa/University-of-Florida---Engineering-Co-op_118040",
       "https://cae.wd3.myworkdayjobs.com/career/job/Vienna---CAE-Training-Services-Austria/Flight-Simulator-Systems-Engineer_124104",
-      "https://cae.wd3.myworkdayjobs.com/career/job/Whiteman-AFB-MO/Software-Engineer-Specialist_121135",
-      "https://cae.wd3.myworkdayjobs.com/career/job/Binghamton-NY/Group-Leader--Software-Engineering_124678-1",
-      "https://cae.wd3.myworkdayjobs.com/career/job/Arlington-TX/Avionics-Software-Engineer_124677"
+      "https://cae.wd3.myworkdayjobs.com/career/job/Whiteman-AFB-MO/Software-Engineer-Specialist_121135"
     ]
   },
   {
@@ -25514,6 +25514,16 @@
       "https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Dayton-Minnesota-USA-French-Lake/AI-intern_R0023512",
       "https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Dayton-Minnesota-USA-French-Lake/Software-Engineer-Intern_R0023556",
       "https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Minneapolis-Minnesota-USA-Riverside-Office-Complex/Senior-Software-Engineer---ServiceNow_R0023788-1"
+    ]
+  },
+  {
+    "name": "gradientmsp.bamboohr.com",
+    "ats": "custom",
+    "identifier": "gradientmsp.bamboohr.com",
+    "domain": "https://gradientmsp.bamboohr.com",
+    "page": "",
+    "urls": [
+      "https://gradientmsp.bamboohr.com/careers/72/"
     ]
   },
   {
@@ -50013,14 +50023,14 @@
     "page": "https://upbound.wd501.myworkdayjobs.com/wday/cxs/upbound/Upbound/jobs",
     "urls": [
       "https://upbound.wd501.myworkdayjobs.com/Upbound/job/Draper-UT/Software-Engineer-Intern_R-100759",
+      "https://upbound.wd501.myworkdayjobs.com/Upbound/job/Plano-TX/Data-Engineer-AI---Data-Products_R-100871",
       "https://upbound.wd501.myworkdayjobs.com/Upbound/job/Plano-TX/Digital-Commerce-Intern_R-100767",
       "https://upbound.wd501.myworkdayjobs.com/Upbound/job/Plano-TX/Product-Analyst_R-100755",
       "https://upbound.wd501.myworkdayjobs.com/Upbound/job/Plano-TX/SOFTWARE-ENGINEER-IV---DIGITAL-COMMERCE_R-100843",
       "https://upbound.wd501.myworkdayjobs.com/Upbound/job/Plano-TX/Software-Engineer-IV---Digital-Commerce_R-100715",
       "https://upbound.wd501.myworkdayjobs.com/Upbound/job/Plano-TX/Software-Engineer-IV_R-100718-2",
       "https://upbound.wd501.myworkdayjobs.com/Upbound/job/Plano-TX/Software-Engineer-Intern_R-100761",
-      "https://upbound.wd501.myworkdayjobs.com/Upbound/job/Plano-TX/Software-Engineer-Intern_R-100762",
-      "https://upbound.wd501.myworkdayjobs.com/Upbound/job/Plano-TX/Data-Engineer-AI---Data-Products_R-100871"
+      "https://upbound.wd501.myworkdayjobs.com/Upbound/job/Plano-TX/Software-Engineer-Intern_R-100762"
     ]
   },
   {
