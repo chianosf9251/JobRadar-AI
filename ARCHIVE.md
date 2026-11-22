@@ -564,13 +564,6 @@ Every opportunity matching your current filters (country, category, citizenship/
       <td width="100" align="left" valign="top">November 9</td>
     </tr>
     <tr>
-      <td width="180" align="left" valign="top">Uipath</td>
-      <td width="420" align="left" valign="top">Software Engineer Intern</td>
-      <td width="180" align="left" valign="top">Bellevue, WA</td>
-      <td width="120" align="left" valign="top"><a href="https://jobs.ashbyhq.com/uipath/4983eab7-099d-4c77-9a5a-8dde72084c04" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">November 9</td>
-    </tr>
-    <tr>
       <td width="180" align="left" valign="top">Skydio</td>
       <td width="420" align="left" valign="top">Systems Engineering Intern - Summer 2027</td>
       <td width="180" align="left" valign="top">San Mateo, CA</td>
@@ -666,13 +659,6 @@ Every opportunity matching your current filters (country, category, citizenship/
       <td width="420" align="left" valign="top">Software Engineer, Intern</td>
       <td width="180" align="left" valign="top">San Francisco, CA</td>
       <td width="120" align="left" valign="top"><a href="https://jobs.ashbyhq.com/nooks/ae2fb7a5-d854-48a3-9948-9585143602eb" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">November 5</td>
-    </tr>
-    <tr>
-      <td width="180" align="left" valign="top">BAE Systems</td>
-      <td width="420" align="left" valign="top">Embedded Software Engineer Spring/Summer 2027</td>
-      <td width="180" align="left" valign="top">Maple Grove, MN</td>
-      <td width="120" align="left" valign="top"><a href="https://jobs.baesystems.com/global/en/job/130781BR?ph_id=130781BR" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
       <td width="100" align="left" valign="top">November 5</td>
     </tr>
     <tr>
@@ -884,13 +870,6 @@ Every opportunity matching your current filters (country, category, citizenship/
       <td width="180" align="left" valign="top">Westminster, CO</td>
       <td width="120" align="left" valign="top"><a href="https://go.vansh.nyc/1dM?s=y" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
       <td width="100" align="left" valign="top">November 3</td>
-    </tr>
-    <tr>
-      <td width="180" align="left" valign="top">Staples</td>
-      <td width="420" align="left" valign="top">Software Engineer Intern - Marketplace Platform 🎓</td>
-      <td width="180" align="left" valign="top">Framingham, MA</td>
-      <td width="120" align="left" valign="top"><a href="https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesInc/job/77076" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">November 2</td>
     </tr>
     <tr>
       <td width="180" align="left" valign="top">Samsung Semiconductor</td>
@@ -1313,13 +1292,6 @@ Every opportunity matching your current filters (country, category, citizenship/
       <td width="100" align="left" valign="top">October 27</td>
     </tr>
     <tr>
-      <td width="180" align="left" valign="top">Samsung Semiconductor</td>
-      <td width="420" align="left" valign="top">Intern, Thermal Modeling &amp; Simulation Engineer (AI Memory / HBM)</td>
-      <td width="180" align="left" valign="top">San Jose, CA</td>
-      <td width="120" align="left" valign="top"><a href="https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8046859003" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">October 27</td>
-    </tr>
-    <tr>
       <td width="180" align="left" valign="top">Atoms</td>
       <td width="420" align="left" valign="top">AI Research Intern</td>
       <td width="180" align="left" valign="top">Mountain View, CA</td>
@@ -1362,13 +1334,6 @@ Every opportunity matching your current filters (country, category, citizenship/
       <td width="100" align="left" valign="top">October 26</td>
     </tr>
     <tr>
-      <td width="180" align="left" valign="top">Skydio</td>
-      <td width="420" align="left" valign="top">Autonomy Engineer Intern, Autonomy Infrastructure, Systems and Tools, 2027 (HQ)</td>
-      <td width="180" align="left" valign="top">San Mateo, CA</td>
-      <td width="120" align="left" valign="top"><a href="https://jobs.ashbyhq.com/skydio/ec82eb16-a5b4-46e7-827a-326b33d7d2cb" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">October 26</td>
-    </tr>
-    <tr>
       <td width="180" align="left" valign="top">Hpe</td>
       <td width="420" align="left" valign="top">AI/ML Developer Intern</td>
       <td width="180" align="left" valign="top">San Jose, CA</td>
@@ -1380,13 +1345,6 @@ Every opportunity matching your current filters (country, category, citizenship/
       <td width="420" align="left" valign="top">AI/ML Developer Intern</td>
       <td width="180" align="left" valign="top">San Jose, CA</td>
       <td width="120" align="left" valign="top"><a href="https://careers.hpe.com/us/en/job/1217413?ph_id=1217413" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">October 26</td>
-    </tr>
-    <tr>
-      <td width="180" align="left" valign="top">Skydio</td>
-      <td width="420" align="left" valign="top">Autonomy Engineer Intern, Autonomy Infrastructure, Systems and Tools</td>
-      <td width="180" align="left" valign="top">San Mateo, CA</td>
-      <td width="120" align="left" valign="top"><a href="https://go.vansh.nyc/Sj?s=y" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
       <td width="100" align="left" valign="top">October 26</td>
     </tr>
     <tr>
@@ -1495,13 +1453,6 @@ Every opportunity matching your current filters (country, category, citizenship/
       <td width="100" align="left" valign="top">October 22</td>
     </tr>
     <tr>
-      <td width="180" align="left" valign="top">Pattern</td>
-      <td width="420" align="left" valign="top">AI Infrastructure Engineer Intern</td>
-      <td width="180" align="left" valign="top">Lehi, UT</td>
-      <td width="120" align="left" valign="top"><a href="https://jobs.lever.co/pattern/5c0c1963-87c5-48d7-8da9-0c79121fe443/apply" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">October 22</td>
-    </tr>
-    <tr>
       <td width="180" align="left" valign="top">Westinghouse Electric Company</td>
       <td width="420" align="left" valign="top">Software Engineering Intern</td>
       <td width="180" align="left" valign="top">Warrendale, PA</td>
@@ -1520,13 +1471,6 @@ Every opportunity matching your current filters (country, category, citizenship/
       <td width="420" align="left" valign="top">Software Engineer Intern</td>
       <td width="180" align="left" valign="top">Salt Lake City, UT</td>
       <td width="120" align="left" valign="top"><a href="https://jobs.l3harris.com/job/Salt-Lake-City-Intern,-Software-Engineer-(Salt-Lake-City,-UT)-UT-84116/1418569700/?ats=successfactors" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">October 21</td>
-    </tr>
-    <tr>
-      <td width="180" align="left" valign="top">Apply.careers.microsoft.com</td>
-      <td width="420" align="left" valign="top">Software Engineer: Security &amp; Identity Intern Opportunities for University Students, Cambridge</td>
-      <td width="180" align="left" valign="top">Cambridge, MA</td>
-      <td width="120" align="left" valign="top"><a href="https://apply.careers.microsoft.com/careers/job/1970393557044765?domain=microsoft.com&amp;8fold_id=1970393557044765" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
       <td width="100" align="left" valign="top">October 21</td>
     </tr>
     <tr>
@@ -1614,13 +1558,6 @@ Every opportunity matching your current filters (country, category, citizenship/
       <td width="100" align="left" valign="top">October 17</td>
     </tr>
     <tr>
-      <td width="180" align="left" valign="top">Together AI</td>
-      <td width="420" align="left" valign="top">Research Intern, Frontier Speculative Decoding</td>
-      <td width="180" align="left" valign="top">San Francisco, CA</td>
-      <td width="120" align="left" valign="top"><a href="https://job-boards.greenhouse.io/togetherai/jobs/5267198007" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">October 17</td>
-    </tr>
-    <tr>
       <td width="180" align="left" valign="top">Astera Labs Early Career - North America 2027</td>
       <td width="420" align="left" valign="top">Performance Engineering Intern</td>
       <td width="180" align="left" valign="top">San Jose, CA</td>
@@ -1660,13 +1597,6 @@ Every opportunity matching your current filters (country, category, citizenship/
       <td width="420" align="left" valign="top">Software Engineering Intern</td>
       <td width="180" align="left" valign="top">Remote, USA</td>
       <td width="120" align="left" valign="top"><a href="https://job-boards.greenhouse.io/wikimedia/jobs/8268853" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">October 15</td>
-    </tr>
-    <tr>
-      <td width="180" align="left" valign="top">Google</td>
-      <td width="420" align="left" valign="top">Software Engineering Intern, Summer 2027</td>
-      <td width="180" align="left" valign="top">Taipei, Taiwan</td>
-      <td width="120" align="left" valign="top"><a href="https://www.google.com/about/careers/applications/jobs/results/85430979253936838-software-engineering-intern-summer-2027?sort_by=date&amp;page=2" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
       <td width="100" align="left" valign="top">October 15</td>
     </tr>
     <tr>
@@ -2083,13 +2013,6 @@ Every opportunity matching your current filters (country, category, citizenship/
       <td width="100" align="left" valign="top">September 18</td>
     </tr>
     <tr>
-      <td width="180" align="left" valign="top">Together AI</td>
-      <td width="420" align="left" valign="top">Systems Research Engineer Intern - GPU Programming (Summer 2027)</td>
-      <td width="180" align="left" valign="top">San Francisco, CA</td>
-      <td width="120" align="left" valign="top"><a href="https://job-boards.greenhouse.io/togetherai/jobs/5238460007" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">September 18</td>
-    </tr>
-    <tr>
       <td width="180" align="left" valign="top">TikTok</td>
       <td width="420" align="left" valign="top">Research Scientist Intern (Trust and Safety - CV/NLP/Multimodal LLM) - 2027 Start (PhD)</td>
       <td width="180" align="left" valign="top">Seattle, WA</td>
@@ -2349,13 +2272,6 @@ Every opportunity matching your current filters (country, category, citizenship/
       <td width="100" align="left" valign="top">September 8</td>
     </tr>
     <tr>
-      <td width="180" align="left" valign="top">Datadog</td>
-      <td width="420" align="left" valign="top">Software Engineering Intern (Summer)</td>
-      <td width="180" align="left" valign="top">New York, NY</td>
-      <td width="120" align="left" valign="top"><a href="https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">September 8</td>
-    </tr>
-    <tr>
       <td width="180" align="left" valign="top">Dick&#39;s Sporting Goods</td>
       <td width="420" align="left" valign="top">Software Engineer Intern - Corporate Internship</td>
       <td width="180" align="left" valign="top">Pittsburgh, PA</td>
@@ -2375,13 +2291,6 @@ Every opportunity matching your current filters (country, category, citizenship/
       <td width="180" align="left" valign="top">Austin, TX</td>
       <td width="120" align="left" valign="top"><a href="https://jobs.ashbyhq.com/fab2/15020e6e-be1c-4455-95a3-aa798474cec4" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
       <td width="100" align="left" valign="top">September 5</td>
-    </tr>
-    <tr>
-      <td width="180" align="left" valign="top">Zipline</td>
-      <td width="420" align="left" valign="top">Aircraft Software Integration Intern</td>
-      <td width="180" align="left" valign="top">South San Francisco, CA</td>
-      <td width="120" align="left" valign="top"><a href="https://www.zipline.com/open-roles/7986848003?gh_jid=7986848003" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">September 4</td>
     </tr>
     <tr>
       <td width="180" align="left" valign="top">Rivianvw.tech</td>
@@ -2416,13 +2325,6 @@ Every opportunity matching your current filters (country, category, citizenship/
       <td width="420" align="left" valign="top">Software Engineering Intern III, Summer 2027 (Onsite)</td>
       <td width="180" align="left" valign="top">San Diego, CA</td>
       <td width="120" align="left" valign="top"><a href="https://jobs.baesystems.com/global/en/job/129576BR?ph_id=129576BR" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">September 2</td>
-    </tr>
-    <tr>
-      <td width="180" align="left" valign="top">General Matter</td>
-      <td width="420" align="left" valign="top">Summer 2027 Internship - Embedded Software Engineering</td>
-      <td width="180" align="left" valign="top">Los Angeles, CA</td>
-      <td width="120" align="left" valign="top"><a href="https://job-boards.greenhouse.io/generalmatter/jobs/5377131008" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
       <td width="100" align="left" valign="top">September 2</td>
     </tr>
     <tr>
@@ -2620,13 +2522,6 @@ Every opportunity matching your current filters (country, category, citizenship/
       <td width="180" align="left" valign="top">Miami, FL</td>
       <td width="120" align="left" valign="top"><a href="https://career.mlp.com/careers/job/755957778848" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
       <td width="100" align="left" valign="top">August 21</td>
-    </tr>
-    <tr>
-      <td width="180" align="left" valign="top">General Matter</td>
-      <td width="420" align="left" valign="top">Software Engineering Intern</td>
-      <td width="180" align="left" valign="top">Los Angeles, CA</td>
-      <td width="120" align="left" valign="top"><a href="https://job-boards.greenhouse.io/generalmatter/jobs/5377118008" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">August 19</td>
     </tr>
     <tr>
       <td width="180" align="left" valign="top">TikTok</td>
@@ -3056,13 +2951,6 @@ Every opportunity matching your current filters (country, category, citizenship/
       <td width="100" align="left" valign="top">July 20</td>
     </tr>
     <tr>
-      <td width="180" align="left" valign="top">Netic</td>
-      <td width="420" align="left" valign="top">Software Engineer (Agent Platform) - Intern - 2026-2027</td>
-      <td width="180" align="left" valign="top">San Francisco, CA</td>
-      <td width="120" align="left" valign="top"><a href="https://jobs.ashbyhq.com/netic/b0ea7aab-8eea-4d31-96f9-278364180ae7" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">July 15</td>
-    </tr>
-    <tr>
       <td width="180" align="left" valign="top">Argmax</td>
       <td width="420" align="left" valign="top">On-device AI Frameworks Engineer Intern</td>
       <td width="180" align="left" valign="top">Palo Alto, CA</td>
@@ -3077,38 +2965,10 @@ Every opportunity matching your current filters (country, category, citizenship/
       <td width="100" align="left" valign="top">July 14</td>
     </tr>
     <tr>
-      <td width="180" align="left" valign="top">Akuna Capital</td>
-      <td width="420" align="left" valign="top">Platform Engineer Intern, Summer 2027</td>
-      <td width="180" align="left" valign="top">Chicago, IL</td>
-      <td width="120" align="left" valign="top"><a href="https://www.akunacapital.com/careers/job/8018856/?gh_jid=8018856" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">July 13</td>
-    </tr>
-    <tr>
-      <td width="180" align="left" valign="top">DRW</td>
-      <td width="420" align="left" valign="top">Software Developer</td>
-      <td width="180" align="left" valign="top">Chicago, IL</td>
-      <td width="120" align="left" valign="top"><a href="https://job-boards.greenhouse.io/drweng/jobs/7980165" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">July 13</td>
-    </tr>
-    <tr>
-      <td width="180" align="left" valign="top">↳</td>
-      <td width="420" align="left" valign="top">Software Developer Intern</td>
-      <td width="180" align="left" valign="top">Chicago, IL</td>
-      <td width="120" align="left" valign="top"><a href="https://job-boards.greenhouse.io/drweng/jobs/7992936" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">July 13</td>
-    </tr>
-    <tr>
       <td width="180" align="left" valign="top">Jump Trading</td>
       <td width="420" align="left" valign="top">Campus Systems Engineer (Intern)</td>
       <td width="180" align="left" valign="top">Chicago, IL</td>
       <td width="120" align="left" valign="top"><a href="https://www.jumptrading.com/hr/job?gh_jid=8007788" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">July 8</td>
-    </tr>
-    <tr>
-      <td width="180" align="left" valign="top">↳</td>
-      <td width="420" align="left" valign="top">Campus Software Engineer (Intern)</td>
-      <td width="180" align="left" valign="top">Chicago, IL</td>
-      <td width="120" align="left" valign="top"><a href="https://www.jumptrading.com/hr/job?gh_jid=8002989" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
       <td width="100" align="left" valign="top">July 8</td>
     </tr>
     <tr>
@@ -3436,13 +3296,6 @@ Every opportunity matching your current filters (country, category, citizenship/
       <td width="100" align="left" valign="top">October 19</td>
     </tr>
     <tr>
-      <td width="180" align="left" valign="top">HeyGen</td>
-      <td width="420" align="left" valign="top">Software Engineer Intern</td>
-      <td width="180" align="left" valign="top">Los Angeles, CA</td>
-      <td width="120" align="left" valign="top"><a href="https://job-boards.greenhouse.io/heygen/jobs/4540716007" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">October 18</td>
-    </tr>
-    <tr>
       <td width="180" align="left" valign="top">Atoms</td>
       <td width="420" align="left" valign="top">Software Engineer Intern</td>
       <td width="180" align="left" valign="top">New York, NY</td>
@@ -3497,13 +3350,6 @@ Every opportunity matching your current filters (country, category, citizenship/
       <td width="180" align="left" valign="top">Irvine, CA</td>
       <td width="120" align="left" valign="top"><a href="https://jobs.lever.co/field-ai/b37569c3-d07f-4968-82dc-44020f34e54e" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
       <td width="100" align="left" valign="top">October 13</td>
-    </tr>
-    <tr>
-      <td width="180" align="left" valign="top">Netic</td>
-      <td width="420" align="left" valign="top">Software Engineer – Gap Year</td>
-      <td width="180" align="left" valign="top">San Francisco, CA</td>
-      <td width="120" align="left" valign="top"><a href="https://jobs.ashbyhq.com/netic/e645059a-a2e8-4cfd-84e8-085d92da6e62" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">October 12</td>
     </tr>
     <tr>
       <td width="180" align="left" valign="top">Kla</td>
@@ -3702,20 +3548,6 @@ Every opportunity matching your current filters (country, category, citizenship/
       <td width="100" align="left" valign="top">August 27</td>
     </tr>
     <tr>
-      <td width="180" align="left" valign="top">↳</td>
-      <td width="420" align="left" valign="top">Infrastructure Software Engineering Intern - Winter</td>
-      <td width="180" align="left" valign="top">Austin, TX</td>
-      <td width="120" align="left" valign="top"><a href="https://jobs.ashbyhq.com/fab2/4e4f8c44-2f9b-4cb4-9e44-01d24b367b2f" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">August 27</td>
-    </tr>
-    <tr>
-      <td width="180" align="left" valign="top">↳</td>
-      <td width="420" align="left" valign="top">Embedded Software Engineering Intern - Winter</td>
-      <td width="180" align="left" valign="top">San Francisco, CA</td>
-      <td width="120" align="left" valign="top"><a href="https://jobs.ashbyhq.com/fab2/3c7fd0f1-b25f-413c-8e62-6ef00a9d47da" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">August 27</td>
-    </tr>
-    <tr>
       <td width="180" align="left" valign="top">Nvidia</td>
       <td width="420" align="left" valign="top">Diagnostic Network Software Engineer (RDSS Intern)</td>
       <td width="180" align="left" valign="top">Taipei, Taiwan</td>
@@ -3879,13 +3711,6 @@ Every opportunity matching your current filters (country, category, citizenship/
       <td width="100" align="left" valign="top">November 17</td>
     </tr>
     <tr>
-      <td width="180" align="left" valign="top">Symbotic</td>
-      <td width="420" align="left" valign="top">Software Engineer, Core Systems &amp; Platform Services</td>
-      <td width="180" align="left" valign="top">Wilmington, MA</td>
-      <td width="120" align="left" valign="top"><a href="https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Software-Engineer--Core-Systems---Platform-Services_R8392" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">November 16</td>
-    </tr>
-    <tr>
       <td width="180" align="left" valign="top">Meta</td>
       <td width="420" align="left" valign="top">Software Engineer, Systems ML: PyTorch Distributed</td>
       <td width="180" align="left" valign="top">Menlo Park, CA</td>
@@ -3911,13 +3736,6 @@ Every opportunity matching your current filters (country, category, citizenship/
       <td width="420" align="left" valign="top">Systems Engineer</td>
       <td width="180" align="left" valign="top">Seymour, IN</td>
       <td width="120" align="left" valign="top"><a href="https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2440211" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">November 13</td>
-    </tr>
-    <tr>
-      <td width="180" align="left" valign="top">Cisco</td>
-      <td width="420" align="left" valign="top">Software Engineer Compiler I (Full Time) – United States</td>
-      <td width="180" align="left" valign="top">Austin, TX</td>
-      <td width="120" align="left" valign="top"><a href="https://careers.cisco.com/global/en/job/2031593?ph_id=2031593" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
       <td width="100" align="left" valign="top">November 13</td>
     </tr>
     <tr>
@@ -3960,13 +3778,6 @@ Every opportunity matching your current filters (country, category, citizenship/
       <td width="420" align="left" valign="top">Software Engineer - Virtual Platform </td>
       <td width="180" align="left" valign="top">Palo Alto, CA</td>
       <td width="120" align="left" valign="top"><a href="https://www.rubrik.com/company/careers/departments/job.8351288?gh_jid=8351288" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">November 11</td>
-    </tr>
-    <tr>
-      <td width="180" align="left" valign="top">Symbotic</td>
-      <td width="420" align="left" valign="top">New Grad- Robotics Software Engineer</td>
-      <td width="180" align="left" valign="top">Wilmington, MA</td>
-      <td width="120" align="left" valign="top"><a href="https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/New-Grad--Robotics-Software-Engineer_R8496" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
       <td width="100" align="left" valign="top">November 11</td>
     </tr>
     <tr>
@@ -4103,13 +3914,6 @@ Every opportunity matching your current filters (country, category, citizenship/
       <td width="100" align="left" valign="top">October 27</td>
     </tr>
     <tr>
-      <td width="180" align="left" valign="top">Databricks</td>
-      <td width="420" align="left" valign="top">Software Engineer - New Grad (2027 Start)</td>
-      <td width="180" align="left" valign="top">Mountain View, CA</td>
-      <td width="120" align="left" valign="top"><a href="https://databricks.com/company/careers/open-positions/job?gh_jid=6865698002" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">October 27</td>
-    </tr>
-    <tr>
       <td width="180" align="left" valign="top">SambaNova Systems</td>
       <td width="420" align="left" valign="top">Compiler Engineer New Grad</td>
       <td width="180" align="left" valign="top">Austin, TX</td>
@@ -4234,13 +4038,6 @@ Every opportunity matching your current filters (country, category, citizenship/
       <td width="180" align="left" valign="top">San Leandro, CA</td>
       <td width="120" align="left" valign="top"><a href="https://job-boards.greenhouse.io/sirenopt/jobs/4452002009" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
       <td width="100" align="left" valign="top">October 15</td>
-    </tr>
-    <tr>
-      <td width="180" align="left" valign="top">Globalhr</td>
-      <td width="420" align="left" valign="top">Software Engineer I - Next Gen Systems - Onsite</td>
-      <td width="180" align="left" valign="top">Cedar Rapids, IA</td>
-      <td width="120" align="left" valign="top"><a href="https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Software-Engineer-I---Next-Gen-Systems---Onsite_01881673" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">October 14</td>
     </tr>
     <tr>
       <td width="180" align="left" valign="top">Nvidia</td>
@@ -4656,13 +4453,6 @@ Every opportunity matching your current filters (country, category, citizenship/
       <td width="100" align="left" valign="top">September 9</td>
     </tr>
     <tr>
-      <td width="180" align="left" valign="top">Domino Data Lab</td>
-      <td width="420" align="left" valign="top">Software Engineer New Grad</td>
-      <td width="180" align="left" valign="top">Remote, USA</td>
-      <td width="120" align="left" valign="top"><a href="https://app.careerpuck.com/job-board/domino-data-lab/job/7992556?gh_jid=7992556" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">September 9</td>
-    </tr>
-    <tr>
       <td width="180" align="left" valign="top">Texas instruments</td>
       <td width="420" align="left" valign="top">Career Accelerator Program - Software Engineer</td>
       <td width="180" align="left" valign="top">Dallas, TX</td>
@@ -4702,13 +4492,6 @@ Every opportunity matching your current filters (country, category, citizenship/
       <td width="420" align="left" valign="top">Engineer I - Embedded Software Engineer (Engineering Development Program 2027)</td>
       <td width="180" align="left" valign="top">Pella, IA</td>
       <td width="120" align="left" valign="top"><a href="https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Plant-7--West-Segment-Office/Engineer-I---Embedded-Software-Engineer--Engineering-Development-Program-2027-_REQ-22180" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">September 1</td>
-    </tr>
-    <tr>
-      <td width="180" align="left" valign="top">Valon</td>
-      <td width="420" align="left" valign="top">Software Engineer New Grad</td>
-      <td width="180" align="left" valign="top">New York, NY</td>
-      <td width="120" align="left" valign="top"><a href="https://jobs.ashbyhq.com/Valon/e08ad09a-4408-4210-8c1b-da6510f83324/application?embed=true" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
       <td width="100" align="left" valign="top">September 1</td>
     </tr>
     <tr>
@@ -4999,13 +4782,6 @@ Every opportunity matching your current filters (country, category, citizenship/
       <td width="100" align="left" valign="top">August 10</td>
     </tr>
     <tr>
-      <td width="180" align="left" valign="top">Cummins talent acquisition</td>
-      <td width="420" align="left" valign="top">Electronic Systems Engineer - Software</td>
-      <td width="180" align="left" valign="top">Columbus, IN</td>
-      <td width="120" align="left" valign="top"><a href="https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2433277" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">August 10</td>
-    </tr>
-    <tr>
       <td width="180" align="left" valign="top">TikTok</td>
       <td width="420" align="left" valign="top">(General Hire) Machine Learning Engineer Graduate (Performance Monetization) - 2027 Start</td>
       <td width="180" align="left" valign="top">San Jose, CA</td>
@@ -5034,14 +4810,7 @@ Every opportunity matching your current filters (country, category, citizenship/
       <td width="100" align="left" valign="top">August 6</td>
     </tr>
     <tr>
-      <td width="180" align="left" valign="top">Atoms</td>
-      <td width="420" align="left" valign="top">Software Engineer New Grad</td>
-      <td width="180" align="left" valign="top">New York, NY</td>
-      <td width="120" align="left" valign="top"><a href="https://job-boards.greenhouse.io/cssmerge/jobs/8687930002" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">August 6</td>
-    </tr>
-    <tr>
-      <td width="180" align="left" valign="top">TikTok</td>
+      <td width="180" align="left" valign="top">↳</td>
       <td width="420" align="left" valign="top">Software Engineer Graduate (Transaction Platform) - 2027 Start</td>
       <td width="180" align="left" valign="top">San Jose, CA</td>
       <td width="120" align="left" valign="top"><a href="https://lifeattiktok.com/search/7668557209047894325" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
@@ -5202,13 +4971,6 @@ Every opportunity matching your current filters (country, category, citizenship/
       <td width="100" align="left" valign="top">July 17</td>
     </tr>
     <tr>
-      <td width="180" align="left" valign="top">Netic</td>
-      <td width="420" align="left" valign="top">Software Engineer (Agent Platform) - New Grad - 2026-2027</td>
-      <td width="180" align="left" valign="top">San Francisco, CA</td>
-      <td width="120" align="left" valign="top"><a href="https://jobs.ashbyhq.com/netic/d9bcb6a2-0e54-4cb3-baec-43f2d74db18f" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">July 15</td>
-    </tr>
-    <tr>
       <td width="180" align="left" valign="top">Bracebridge Capital</td>
       <td width="420" align="left" valign="top">Machine Learning Analyst </td>
       <td width="180" align="left" valign="top">Boston, MA</td>
@@ -5327,4 +5089,4 @@ Every opportunity matching your current filters (country, category, citizenship/
 
 ---
 
-📦 Generated from `opportunities.ndjson` &nbsp;•&nbsp; 🕒 Last updated `2026-11-22T02:58:54.095Z`
+📦 Generated from `opportunities.ndjson` &nbsp;•&nbsp; 🕒 Last updated `2026-11-22T19:18:37.778Z`

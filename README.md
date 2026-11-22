@@ -649,13 +649,6 @@
       <td width="100" align="left" valign="top">November 9</td>
     </tr>
     <tr>
-      <td width="180" align="left" valign="top">Uipath</td>
-      <td width="420" align="left" valign="top">Software Engineer Intern</td>
-      <td width="180" align="left" valign="top">Bellevue, WA</td>
-      <td width="120" align="left" valign="top"><a href="https://jobs.ashbyhq.com/uipath/4983eab7-099d-4c77-9a5a-8dde72084c04" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">November 9</td>
-    </tr>
-    <tr>
       <td width="180" align="left" valign="top">Skydio</td>
       <td width="420" align="left" valign="top">Systems Engineering Intern - Summer 2027</td>
       <td width="180" align="left" valign="top">San Mateo, CA</td>
@@ -751,13 +744,6 @@
       <td width="420" align="left" valign="top">Software Engineer, Intern</td>
       <td width="180" align="left" valign="top">San Francisco, CA</td>
       <td width="120" align="left" valign="top"><a href="https://jobs.ashbyhq.com/nooks/ae2fb7a5-d854-48a3-9948-9585143602eb" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">November 5</td>
-    </tr>
-    <tr>
-      <td width="180" align="left" valign="top">BAE Systems</td>
-      <td width="420" align="left" valign="top">Embedded Software Engineer Spring/Summer 2027</td>
-      <td width="180" align="left" valign="top">Maple Grove, MN</td>
-      <td width="120" align="left" valign="top"><a href="https://jobs.baesystems.com/global/en/job/130781BR?ph_id=130781BR" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
       <td width="100" align="left" valign="top">November 5</td>
     </tr>
     <tr>
@@ -969,13 +955,6 @@
       <td width="180" align="left" valign="top">Westminster, CO</td>
       <td width="120" align="left" valign="top"><a href="https://go.vansh.nyc/1dM?s=y" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
       <td width="100" align="left" valign="top">November 3</td>
-    </tr>
-    <tr>
-      <td width="180" align="left" valign="top">Staples</td>
-      <td width="420" align="left" valign="top">Software Engineer Intern - Marketplace Platform 🎓</td>
-      <td width="180" align="left" valign="top">Framingham, MA</td>
-      <td width="120" align="left" valign="top"><a href="https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesInc/job/77076" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">November 2</td>
     </tr>
     <tr>
       <td width="180" align="left" valign="top">Samsung Semiconductor</td>
@@ -1398,13 +1377,6 @@
       <td width="100" align="left" valign="top">October 27</td>
     </tr>
     <tr>
-      <td width="180" align="left" valign="top">Samsung Semiconductor</td>
-      <td width="420" align="left" valign="top">Intern, Thermal Modeling &amp; Simulation Engineer (AI Memory / HBM)</td>
-      <td width="180" align="left" valign="top">San Jose, CA</td>
-      <td width="120" align="left" valign="top"><a href="https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8046859003" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">October 27</td>
-    </tr>
-    <tr>
       <td width="180" align="left" valign="top">Atoms</td>
       <td width="420" align="left" valign="top">AI Research Intern</td>
       <td width="180" align="left" valign="top">Mountain View, CA</td>
@@ -1447,13 +1419,6 @@
       <td width="100" align="left" valign="top">October 26</td>
     </tr>
     <tr>
-      <td width="180" align="left" valign="top">Skydio</td>
-      <td width="420" align="left" valign="top">Autonomy Engineer Intern, Autonomy Infrastructure, Systems and Tools, 2027 (HQ)</td>
-      <td width="180" align="left" valign="top">San Mateo, CA</td>
-      <td width="120" align="left" valign="top"><a href="https://jobs.ashbyhq.com/skydio/ec82eb16-a5b4-46e7-827a-326b33d7d2cb" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">October 26</td>
-    </tr>
-    <tr>
       <td width="180" align="left" valign="top">Hpe</td>
       <td width="420" align="left" valign="top">AI/ML Developer Intern</td>
       <td width="180" align="left" valign="top">San Jose, CA</td>
@@ -1465,13 +1430,6 @@
       <td width="420" align="left" valign="top">AI/ML Developer Intern</td>
       <td width="180" align="left" valign="top">San Jose, CA</td>
       <td width="120" align="left" valign="top"><a href="https://careers.hpe.com/us/en/job/1217413?ph_id=1217413" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">October 26</td>
-    </tr>
-    <tr>
-      <td width="180" align="left" valign="top">Skydio</td>
-      <td width="420" align="left" valign="top">Autonomy Engineer Intern, Autonomy Infrastructure, Systems and Tools</td>
-      <td width="180" align="left" valign="top">San Mateo, CA</td>
-      <td width="120" align="left" valign="top"><a href="https://go.vansh.nyc/Sj?s=y" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
       <td width="100" align="left" valign="top">October 26</td>
     </tr>
     <tr>
@@ -1508,48 +1466,6 @@
       <td width="180" align="left" valign="top">Burlingame, CA</td>
       <td width="120" align="left" valign="top"><a href="https://jobs.lever.co/SimbeRobotics/d8e862ca-212d-4a88-af74-de400b0c6bf8/apply" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
       <td width="100" align="left" valign="top">October 23</td>
-    </tr>
-    <tr>
-      <td width="180" align="left" valign="top">MongoDB</td>
-      <td width="420" align="left" valign="top">2027 - Software Engineering Intern, AMER</td>
-      <td width="180" align="left" valign="top">Austin, TX</td>
-      <td width="120" align="left" valign="top"><a href="https://www.mongodb.com/careers/job/?gh_jid=8209134" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">October 23</td>
-    </tr>
-    <tr>
-      <td width="180" align="left" valign="top">Kla</td>
-      <td width="420" align="left" valign="top">Software Engineering Intern</td>
-      <td width="180" align="left" valign="top">Milpitas, CA</td>
-      <td width="120" align="left" valign="top"><a href="https://kla.wd1.myworkdayjobs.com/ur/job/Milpitas-CA/Software-Engineering-Intern_2642189" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">October 23</td>
-    </tr>
-    <tr>
-      <td width="180" align="left" valign="top">↳</td>
-      <td width="420" align="left" valign="top">Software Engineer Intern (C++, Linux) – Summer 2027</td>
-      <td width="180" align="left" valign="top">Milpitas, CA</td>
-      <td width="120" align="left" valign="top"><a href="https://kla.wd1.myworkdayjobs.com/ur/job/Milpitas-CA/Software-Engineer-Intern--C----Linux----Summer-2027_2641878" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">October 23</td>
-    </tr>
-    <tr>
-      <td width="180" align="left" valign="top">↳</td>
-      <td width="420" align="left" valign="top">Software Engineering Intern – AI/ML for Diagnostics &amp; Calibration</td>
-      <td width="180" align="left" valign="top">Milpitas, CA</td>
-      <td width="120" align="left" valign="top"><a href="https://kla.wd1.myworkdayjobs.com/ur/job/Milpitas-CA/Software-Engineering-Intern---AI-ML-for-Diagnostics---Calibration_2642129" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">October 23</td>
-    </tr>
-    <tr>
-      <td width="180" align="left" valign="top">Copart</td>
-      <td width="420" align="left" valign="top">Software Engineering Intern</td>
-      <td width="180" align="left" valign="top">Dallas, TX</td>
-      <td width="120" align="left" valign="top"><a href="https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR111861" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">October 23</td>
-    </tr>
-    <tr>
-      <td width="180" align="left" valign="top">Amazon</td>
-      <td width="420" align="left" valign="top">Software Engineer Intern - AWS Database</td>
-      <td width="180" align="left" valign="top">Seattle, WA</td>
-      <td width="120" align="left" valign="top"><a href="https://amazon.jobs/en/jobs/10565667/software-development-engineer-intern-aws-database-2027-us" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">October 22</td>
     </tr>
   </tbody>
 </table>
@@ -1934,13 +1850,6 @@
       <td width="100" align="left" valign="top">November 17</td>
     </tr>
     <tr>
-      <td width="180" align="left" valign="top">Symbotic</td>
-      <td width="420" align="left" valign="top">Software Engineer, Core Systems &amp; Platform Services</td>
-      <td width="180" align="left" valign="top">Wilmington, MA</td>
-      <td width="120" align="left" valign="top"><a href="https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Software-Engineer--Core-Systems---Platform-Services_R8392" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">November 16</td>
-    </tr>
-    <tr>
       <td width="180" align="left" valign="top">Meta</td>
       <td width="420" align="left" valign="top">Software Engineer, Systems ML: PyTorch Distributed</td>
       <td width="180" align="left" valign="top">Menlo Park, CA</td>
@@ -1966,13 +1875,6 @@
       <td width="420" align="left" valign="top">Systems Engineer</td>
       <td width="180" align="left" valign="top">Seymour, IN</td>
       <td width="120" align="left" valign="top"><a href="https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2440211" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">November 13</td>
-    </tr>
-    <tr>
-      <td width="180" align="left" valign="top">Cisco</td>
-      <td width="420" align="left" valign="top">Software Engineer Compiler I (Full Time) – United States</td>
-      <td width="180" align="left" valign="top">Austin, TX</td>
-      <td width="120" align="left" valign="top"><a href="https://careers.cisco.com/global/en/job/2031593?ph_id=2031593" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
       <td width="100" align="left" valign="top">November 13</td>
     </tr>
     <tr>
@@ -2015,13 +1917,6 @@
       <td width="420" align="left" valign="top">Software Engineer - Virtual Platform </td>
       <td width="180" align="left" valign="top">Palo Alto, CA</td>
       <td width="120" align="left" valign="top"><a href="https://www.rubrik.com/company/careers/departments/job.8351288?gh_jid=8351288" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">November 11</td>
-    </tr>
-    <tr>
-      <td width="180" align="left" valign="top">Symbotic</td>
-      <td width="420" align="left" valign="top">New Grad- Robotics Software Engineer</td>
-      <td width="180" align="left" valign="top">Wilmington, MA</td>
-      <td width="120" align="left" valign="top"><a href="https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/New-Grad--Robotics-Software-Engineer_R8496" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
       <td width="100" align="left" valign="top">November 11</td>
     </tr>
     <tr>
@@ -2158,13 +2053,6 @@
       <td width="100" align="left" valign="top">October 27</td>
     </tr>
     <tr>
-      <td width="180" align="left" valign="top">Databricks</td>
-      <td width="420" align="left" valign="top">Software Engineer - New Grad (2027 Start)</td>
-      <td width="180" align="left" valign="top">Mountain View, CA</td>
-      <td width="120" align="left" valign="top"><a href="https://databricks.com/company/careers/open-positions/job?gh_jid=6865698002" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">October 27</td>
-    </tr>
-    <tr>
       <td width="180" align="left" valign="top">SambaNova Systems</td>
       <td width="420" align="left" valign="top">Compiler Engineer New Grad</td>
       <td width="180" align="left" valign="top">Austin, TX</td>
@@ -2223,7 +2111,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-11-22T02:58:54.095Z</code>
+      🕒 Last updated <code>2026-11-22T19:18:37.778Z</code>
     </span>
   </p>
 </div>
