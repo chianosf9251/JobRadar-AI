@@ -1439,34 +1439,6 @@
       <td width="120" align="left" valign="top"><a href="https://go.vansh.nyc/BM?s=y" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
       <td width="100" align="left" valign="top">October 25</td>
     </tr>
-    <tr>
-      <td width="180" align="left" valign="top">Simbe Robotics</td>
-      <td width="420" align="left" valign="top">Robot Software Engineer Intern</td>
-      <td width="180" align="left" valign="top">Burlingame, CA</td>
-      <td width="120" align="left" valign="top"><a href="https://jobs.lever.co/SimbeRobotics/d91f42b9-50b8-4b5f-8daf-00281d7dd61c/apply" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">October 23</td>
-    </tr>
-    <tr>
-      <td width="180" align="left" valign="top">Microsoft</td>
-      <td width="420" align="left" valign="top">Software Engineer Intern, Security &amp; Identity</td>
-      <td width="180" align="left" valign="top">Tulsa, OK</td>
-      <td width="120" align="left" valign="top"><a href="https://apply.careers.microsoft.com/careers/job/1970393557044771" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">October 23</td>
-    </tr>
-    <tr>
-      <td width="180" align="left" valign="top">Multiply Labs</td>
-      <td width="420" align="left" valign="top">Robotics Software Engineer Intern</td>
-      <td width="180" align="left" valign="top">San Francisco, CA</td>
-      <td width="120" align="left" valign="top"><a href="https://jobs.lever.co/multiplylabs/acca98ab-c206-4f71-b7a5-6977e4828586/apply" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">October 23</td>
-    </tr>
-    <tr>
-      <td width="180" align="left" valign="top">Simbe Robotics</td>
-      <td width="420" align="left" valign="top">Computer Vision / Applied AI Intern</td>
-      <td width="180" align="left" valign="top">Burlingame, CA</td>
-      <td width="120" align="left" valign="top"><a href="https://jobs.lever.co/SimbeRobotics/d8e862ca-212d-4a88-af74-de400b0c6bf8/apply" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">October 23</td>
-    </tr>
   </tbody>
 </table>
 
@@ -1706,13 +1678,6 @@
       <td width="180" align="left" valign="top">San Mateo, CA</td>
       <td width="120" align="left" valign="top"><a href="https://go.vansh.nyc/BD?s=z" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
       <td width="100" align="left" valign="top">October 25</td>
-    </tr>
-    <tr>
-      <td width="180" align="left" valign="top">Figure AI</td>
-      <td width="420" align="left" valign="top">Developer Productivity Intern</td>
-      <td width="180" align="left" valign="top">San Jose, CA</td>
-      <td width="120" align="left" valign="top"><a href="https://job-boards.greenhouse.io/figureai/jobs/4724521006" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">October 23</td>
     </tr>
   </tbody>
 </table>
@@ -2090,7 +2055,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-11-23T03:29:54.939Z</code>
+      🕒 Last updated <code>2026-11-23T21:04:44.743Z</code>
     </span>
   </p>
 </div>
