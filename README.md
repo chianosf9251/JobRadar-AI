@@ -1418,20 +1418,6 @@
       <td width="120" align="left" valign="top"><a href="https://go.vansh.nyc/SV?s=y" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
       <td width="100" align="left" valign="top">October 26</td>
     </tr>
-    <tr>
-      <td width="180" align="left" valign="top">Hpe</td>
-      <td width="420" align="left" valign="top">AI/ML Developer Intern</td>
-      <td width="180" align="left" valign="top">San Jose, CA</td>
-      <td width="120" align="left" valign="top"><a href="https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/San-Jose-California/AI-ML-Developer-Intern_1217413" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">October 26</td>
-    </tr>
-    <tr>
-      <td width="180" align="left" valign="top">HPE</td>
-      <td width="420" align="left" valign="top">AI/ML Developer Intern</td>
-      <td width="180" align="left" valign="top">San Jose, CA</td>
-      <td width="120" align="left" valign="top"><a href="https://careers.hpe.com/us/en/job/1217413?ph_id=1217413" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">October 26</td>
-    </tr>
   </tbody>
 </table>
 
@@ -2010,13 +1996,6 @@
       <td width="120" align="left" valign="top"><a href="https://jobs.lever.co/reply/790c1fc7-d76c-4603-b879-922e61fc7a90" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
       <td width="100" align="left" valign="top">October 26</td>
     </tr>
-    <tr>
-      <td width="180" align="left" valign="top">Apple</td>
-      <td width="420" align="left" valign="top">Software Engineer, System Services &amp; Daemons, Core OS</td>
-      <td width="180" align="left" valign="top">Beaverton, OR</td>
-      <td width="120" align="left" valign="top"><a href="https://jobs.apple.com/en-us/details/200691490-0505/software-engineer-system-services-daemons-core-os?team=SFTWR" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">October 26</td>
-    </tr>
   </tbody>
 </table>
 
@@ -2041,7 +2020,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-11-25T05:14:54.942Z</code>
+      🕒 Last updated <code>2026-11-25T22:10:10.985Z</code>
     </span>
   </p>
 </div>
