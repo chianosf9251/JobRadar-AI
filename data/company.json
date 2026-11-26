@@ -10616,7 +10616,8 @@
     "domain": "https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job",
     "page": "https://hdow.fa.us6.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&finder=findReqs%3BsiteNumber%3DCX_1003%2Climit%3D25%2CsortBy%3DPOSTING_DATES_DESC&expand=requisitionList.secondaryLocations%2CrequisitionList.otherWorkLocations",
     "urls": [
-      "https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/250537"
+      "https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/250537",
+      "https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/250630"
     ]
   },
   {
@@ -19349,8 +19350,8 @@
     "urls": [
       "https://job-boards.greenhouse.io/everlaw/jobs/4705236006",
       "https://job-boards.greenhouse.io/everlaw/jobs/4709372006",
-      "https://job-boards.greenhouse.io/everlaw/jobs/4726848006",
-      "https://job-boards.greenhouse.io/everlaw/jobs/4724960006"
+      "https://job-boards.greenhouse.io/everlaw/jobs/4724960006",
+      "https://job-boards.greenhouse.io/everlaw/jobs/4726848006"
     ]
   },
   {
@@ -24491,7 +24492,21 @@
       "https://go.vansh.nyc/Zt?s=y",
       "https://go.vansh.nyc/Zw?s=y",
       "https://go.vansh.nyc/Zy?s=y",
-      "https://go.vansh.nyc/i?s=y"
+      "https://go.vansh.nyc/i?s=y",
+      "https://go.vansh.nyc/1JP?s=y",
+      "https://go.vansh.nyc/1JQ?s=y",
+      "https://go.vansh.nyc/1JJ?s=y",
+      "https://go.vansh.nyc/1JK?s=y",
+      "https://go.vansh.nyc/1JL?s=y",
+      "https://go.vansh.nyc/1JY?s=y",
+      "https://go.vansh.nyc/1JD?s=y",
+      "https://go.vansh.nyc/1Jz?s=y",
+      "https://go.vansh.nyc/1JC?s=y",
+      "https://go.vansh.nyc/1K0?s=y",
+      "https://go.vansh.nyc/1JO?s=y",
+      "https://go.vansh.nyc/1K9?s=y",
+      "https://go.vansh.nyc/1Jy?s=y",
+      "https://go.vansh.nyc/1JZ?s=z"
     ]
   },
   {
@@ -25611,8 +25626,8 @@
       "https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Dayton-Minnesota-USA-French-Lake/AI-Intern_R0023511-1",
       "https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Dayton-Minnesota-USA-French-Lake/AI-intern_R0023512",
       "https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Dayton-Minnesota-USA-French-Lake/Software-Engineer-Intern_R0023556",
-      "https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Minneapolis-Minnesota-USA-Riverside-Office-Complex/Senior-Software-Engineer---ServiceNow_R0023788-1",
-      "https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Dayton-Minnesota-USA/Electrical-Engineer---Embedded-Software_R0023171"
+      "https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Dayton-Minnesota-USA/Electrical-Engineer---Embedded-Software_R0023171",
+      "https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Minneapolis-Minnesota-USA-Riverside-Office-Complex/Senior-Software-Engineer---ServiceNow_R0023788-1"
     ]
   },
   {
@@ -25741,6 +25756,7 @@
     "domain": "https://gresearch.wd103.myworkdayjobs.com/G-Research",
     "page": "https://gresearch.wd103.myworkdayjobs.com/wday/cxs/gresearch/G-Research/jobs",
     "urls": [
+      "https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Infrastructure-Software-Engineering-Internship_R3883",
       "https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Platform-Software-Engineer_R3789",
       "https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Rust-Software-Engineer--Contract-_R3643-1",
       "https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Software-Engineer---Compute-Orchestration_R3830",
@@ -25759,8 +25775,7 @@
       "https://gresearch.wd103.myworkdayjobs.com/g-research/job/London-UK/Software-Engineer---Custom-I-O_R3581",
       "https://gresearch.wd103.myworkdayjobs.com/g-research/job/London-UK/Software-Engineer---Observability-Instrumentation_R3628",
       "https://gresearch.wd103.myworkdayjobs.com/g-research/job/London-UK/Software-Engineer_R2489",
-      "https://gresearch.wd103.myworkdayjobs.com/g-research/job/London-UK/Software-Engineer_R3732-1",
-      "https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Infrastructure-Software-Engineering-Internship_R3883"
+      "https://gresearch.wd103.myworkdayjobs.com/g-research/job/London-UK/Software-Engineer_R3732-1"
     ]
   },
   {
@@ -32553,7 +32568,8 @@
     "urls": [
       "https://mantech.avature.net/en_US/careers/JobDetail/61501",
       "https://mantech.avature.net/en_US/careers/JobDetail/66705",
-      "https://mantech.avature.net/en_US/careers/JobDetail/67115"
+      "https://mantech.avature.net/en_US/careers/JobDetail/67115",
+      "https://mantech.avature.net/en_US/careers/JobDetail/67268"
     ]
   },
   {
@@ -49287,6 +49303,16 @@
     ]
   },
   {
+    "name": "tql.avature.net",
+    "ats": "custom",
+    "identifier": "tql.avature.net",
+    "domain": "https://tql.avature.net",
+    "page": "",
+    "urls": [
+      "https://tql.avature.net/en_US/TQLexternalcareers/JobDetail/19763"
+    ]
+  },
+  {
     "name": "traackr",
     "ats": "lever",
     "identifier": "traackr",
@@ -51907,6 +51933,17 @@
     "page": "https://api.lever.co/v0/postings/webfx?mode=json",
     "urls": [
       "https://jobs.lever.co/webfx/3c850193-9429-43fd-9afb-052adea191b3/apply"
+    ]
+  },
+  {
+    "name": "wellhealthtechnologiescorp.applytojob.com",
+    "ats": "custom",
+    "identifier": "wellhealthtechnologiescorp.applytojob.com",
+    "domain": "https://wellhealthtechnologiescorp.applytojob.com",
+    "page": "",
+    "urls": [
+      "https://wellhealthtechnologiescorp.applytojob.com/apply/URnVV0S4yQ/Junior-Software-Developer",
+      "https://wellhealthtechnologiescorp.applytojob.com/apply/5kq5CE1n76/Junior-Software-Developer"
     ]
   },
   {
