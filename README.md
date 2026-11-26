@@ -1376,34 +1376,6 @@
       <td width="120" align="left" valign="top"><a href="https://go.vansh.nyc/WW?s=y" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
       <td width="100" align="left" valign="top">October 27</td>
     </tr>
-    <tr>
-      <td width="180" align="left" valign="top">Atoms</td>
-      <td width="420" align="left" valign="top">AI Research Intern</td>
-      <td width="180" align="left" valign="top">Mountain View, CA</td>
-      <td width="120" align="left" valign="top"><a href="https://go.vansh.nyc/VZ?s=y" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">October 27</td>
-    </tr>
-    <tr>
-      <td width="180" align="left" valign="top">CFS Energy</td>
-      <td width="420" align="left" valign="top">Scientific Software Engineer Intern</td>
-      <td width="180" align="left" valign="top">Devens, MA</td>
-      <td width="120" align="left" valign="top"><a href="https://go.vansh.nyc/VW?s=y" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">October 27</td>
-    </tr>
-    <tr>
-      <td width="180" align="left" valign="top">Micron Technology</td>
-      <td width="420" align="left" valign="top">AI Engineer Intern, Platform</td>
-      <td width="180" align="left" valign="top">Boise, ID</td>
-      <td width="120" align="left" valign="top"><a href="https://go.vansh.nyc/VX?s=y" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">October 27</td>
-    </tr>
-    <tr>
-      <td width="180" align="left" valign="top">Cfsenergy</td>
-      <td width="420" align="left" valign="top">Intern - Scientific Software Engineer - Summer 2027</td>
-      <td width="180" align="left" valign="top">Devens, MA</td>
-      <td width="120" align="left" valign="top"><a href="https://jobs.lever.co/cfsenergy/912d6878-25dd-4bdc-8df8-8f7002999619" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">October 27</td>
-    </tr>
   </tbody>
 </table>
 
@@ -1961,13 +1933,6 @@
       <td width="120" align="left" valign="top"><a href="https://sambanova.ai/sambanova-available-positions/?gh_jid=6224938004" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
       <td width="100" align="left" valign="top">October 27</td>
     </tr>
-    <tr>
-      <td width="180" align="left" valign="top">CrossCountry Consulting</td>
-      <td width="420" align="left" valign="top">Forward Deployed Software Engineer New Grad</td>
-      <td width="180" align="left" valign="top">Chicago, IL</td>
-      <td width="120" align="left" valign="top"><a href="https://jobs.lever.co/crosscountry-consulting/10ecb553-0393-4e7b-af5a-88a1947a0769/apply" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">October 27</td>
-    </tr>
   </tbody>
 </table>
 
@@ -1992,7 +1957,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-11-26T04:50:16.978Z</code>
+      🕒 Last updated <code>2026-11-26T22:09:14.691Z</code>
     </span>
   </p>
 </div>
