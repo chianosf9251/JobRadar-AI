@@ -1348,20 +1348,6 @@
       <td width="120" align="left" valign="top"><a href="https://jobs.smartrecruiters.com/intuitive/744000158313919" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
       <td width="100" align="left" valign="top">October 28</td>
     </tr>
-    <tr>
-      <td width="180" align="left" valign="top">RosaicLabs</td>
-      <td width="420" align="left" valign="top">AI Accelerator Design Verification Engineer Intern</td>
-      <td width="180" align="left" valign="top">Austin, TX</td>
-      <td width="120" align="left" valign="top"><a href="https://go.vansh.nyc/Xp?s=y" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">October 28</td>
-    </tr>
-    <tr>
-      <td width="180" align="left" valign="top">↳</td>
-      <td width="420" align="left" valign="top">Software Engineering Intern</td>
-      <td width="180" align="left" valign="top">Austin, TX</td>
-      <td width="120" align="left" valign="top"><a href="https://go.vansh.nyc/Xo?s=y" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">October 28</td>
-    </tr>
   </tbody>
 </table>
 
@@ -1580,13 +1566,6 @@
       <td width="180" align="left" valign="top">West Union, SC</td>
       <td width="120" align="left" valign="top"><a href="https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-South-Carolina-West-Union/Intern---Systems-Engineer--Spring-2027-_JR102789-1" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
       <td width="100" align="left" valign="top">October 30</td>
-    </tr>
-    <tr>
-      <td width="180" align="left" valign="top">RosaicLabs</td>
-      <td width="420" align="left" valign="top">CPU Design Verification Engineer Intern</td>
-      <td width="180" align="left" valign="top">Austin, TX</td>
-      <td width="120" align="left" valign="top"><a href="https://go.vansh.nyc/Xn?s=y" target="_blank" rel="noopener noreferrer"><img height="28" alt="apply" src="https://img.shields.io/badge/Apply-f97316?style=for-the-badge&logoColor=white" /></a></td>
-      <td width="100" align="left" valign="top">October 28</td>
     </tr>
   </tbody>
 </table>
@@ -1908,7 +1887,7 @@
     <span style="color:#374151;">
       📦 Generated from <code>opportunities.ndjson</code>
       &nbsp;•&nbsp;
-      🕒 Last updated <code>2026-11-27T07:45:18.432Z</code>
+      🕒 Last updated <code>2026-11-27T18:01:11.473Z</code>
     </span>
   </p>
 </div>
