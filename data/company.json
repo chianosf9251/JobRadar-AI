@@ -23878,6 +23878,7 @@
       "https://go.vansh.nyc/1Jz?s=y",
       "https://go.vansh.nyc/1K0?s=y",
       "https://go.vansh.nyc/1K9?s=y",
+      "https://go.vansh.nyc/1KI?s=z",
       "https://go.vansh.nyc/1a0?s=y",
       "https://go.vansh.nyc/1a2?s=z",
       "https://go.vansh.nyc/1a3?s=z",
@@ -24516,8 +24517,7 @@
       "https://go.vansh.nyc/Zt?s=y",
       "https://go.vansh.nyc/Zw?s=y",
       "https://go.vansh.nyc/Zy?s=y",
-      "https://go.vansh.nyc/i?s=y",
-      "https://go.vansh.nyc/1KI?s=z"
+      "https://go.vansh.nyc/i?s=y"
     ]
   },
   {
@@ -47760,6 +47760,16 @@
     "urls": [
       "https://jobs.ashbyhq.com/terranova/a8e5a8d2-4af3-4736-b66e-e0804447f7a0/application?embed=true",
       "https://jobs.ashbyhq.com/terranova/b6ce03c4-07b6-45e1-94e9-24b3ec17d942"
+    ]
+  },
+  {
+    "name": "tesco.avature.net",
+    "ats": "custom",
+    "identifier": "tesco.avature.net",
+    "domain": "https://tesco.avature.net",
+    "page": "",
+    "urls": [
+      "https://tesco.avature.net/en_GB/careers/JobDetail/218753"
     ]
   },
   {
