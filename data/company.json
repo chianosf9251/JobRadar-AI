@@ -12170,6 +12170,8 @@
       "https://careers.cisco.com/global/en/job/2031075?ph_id=2031075",
       "https://careers.cisco.com/global/en/job/2031308?ph_id=2031308",
       "https://careers.cisco.com/global/en/job/2031310?ph_id=2031310",
+      "https://careers.cisco.com/global/en/job/2031322?ph_id=2031322",
+      "https://careers.cisco.com/global/en/job/2031328?ph_id=2031328",
       "https://careers.cisco.com/global/en/job/2031347?ph_id=2031347",
       "https://careers.cisco.com/global/en/job/2031523?ph_id=2031523",
       "https://careers.cisco.com/global/en/job/2031525?ph_id=2031525",
@@ -12183,9 +12185,7 @@
       "https://careers.cisco.com/global/en/job/2032114?ph_id=2032114",
       "https://careers.cisco.com/global/en/job/2032304?ph_id=2032304",
       "https://careers.cisco.com/global/en/job/2032564?ph_id=2032564",
-      "https://careers.cisco.com/global/en/job/2032589?ph_id=2032589",
-      "https://careers.cisco.com/global/en/job/2031322?ph_id=2031322",
-      "https://careers.cisco.com/global/en/job/2031328?ph_id=2031328"
+      "https://careers.cisco.com/global/en/job/2032589?ph_id=2032589"
     ]
   },
   {
@@ -13971,6 +13971,16 @@
       "https://careersus-shure.icims.com/jobs/5007/job?mobile=true&needsRedirect=false",
       "https://careersus-shure.icims.com/jobs/5020/job?mobile=true&needsRedirect=false",
       "https://careersus-shure.icims.com/jobs/5021/job?mobile=true&needsRedirect=false"
+    ]
+  },
+  {
+    "name": "carfaxcanada.bamboohr.com",
+    "ats": "custom",
+    "identifier": "carfaxcanada.bamboohr.com",
+    "domain": "https://carfaxcanada.bamboohr.com",
+    "page": "",
+    "urls": [
+      "https://carfaxcanada.bamboohr.com/careers/84/"
     ]
   },
   {
@@ -20498,6 +20508,7 @@
       "https://www.zipline.com/open-roles/8004729003?gh_jid=8004729003",
       "https://www.zipline.com/open-roles/8040735003?gh_jid=8040735003",
       "https://www.zipline.com/open-roles/8196248003?gh_jid=8196248003",
+      "https://www.zipline.com/open-roles/8218312003?gh_jid=8218312003",
       "https://www.zipline.com/open-roles?gh_jid=5465339003",
       "https://www.zipline.com/open-roles?gh_jid=7652331003",
       "https://www.zipline.com/open-roles?gh_jid=7765240003",
@@ -20520,8 +20531,7 @@
       "https://www.zipline.com/open-roles?gh_jid=7929354003",
       "https://www.zipline.com/open-roles?gh_jid=7974890003",
       "https://www.zipline.com/open-roles?gh_jid=7974897003",
-      "https://www.zipline.com/open-roles?gh_jid=7978812003",
-      "https://www.zipline.com/open-roles/8218312003?gh_jid=8218312003"
+      "https://www.zipline.com/open-roles?gh_jid=7978812003"
     ]
   },
   {
@@ -24520,7 +24530,9 @@
       "https://go.vansh.nyc/Zt?s=y",
       "https://go.vansh.nyc/Zw?s=y",
       "https://go.vansh.nyc/Zy?s=y",
-      "https://go.vansh.nyc/i?s=y"
+      "https://go.vansh.nyc/i?s=y",
+      "https://go.vansh.nyc/1Lv?s=z",
+      "https://go.vansh.nyc/1Ly?s=z"
     ]
   },
   {
@@ -24677,6 +24689,7 @@
       "https://www.google.com/about/careers/applications/jobs/results/106439437046424262-software-engineer-pixel-test-engineeringai-application?sort_by=date&page=2",
       "https://www.google.com/about/careers/applications/jobs/results/106461872344965830-network-engineer-google-global-infrastructure?sort_by=date&page=1",
       "https://www.google.com/about/careers/applications/jobs/results/106536036229620422-software-engineer-educational-simulations-deepmind-fixedterm-contract?sort_by=date&page=5",
+      "https://www.google.com/about/careers/applications/jobs/results/106571399648158406-software-engineer-lll-android-velocity-and-quality-ai-agents?sort_by=date&page=1",
       "https://www.google.com/about/careers/applications/jobs/results/106590322468758214-research-scientist-safety-oversight-deepmind?sort_by=date&page=5",
       "https://www.google.com/about/careers/applications/jobs/results/106603719008625350-silicon-dft-engineer-cloud-silicon?sort_by=date&page=4",
       "https://www.google.com/about/careers/applications/jobs/results/106684387621249734-software-engineer?sort_by=date&page=4",
@@ -25617,8 +25630,7 @@
       "https://www.google.com/about/careers/applications/jobs/results/99817746379743942-fullstack-software-engineer-genai-deepmind?sort_by=date&page=2",
       "https://www.google.com/about/careers/applications/jobs/results/99858021361820358-ai-outcome-customer-engineer-gtm-ai-tech-google-cloud?sort_by=date&page=4",
       "https://www.google.com/about/careers/applications/jobs/results/99875129290302150-npi-engineer-embedded-firmware-and-software-emerging-accelerator-software?sort_by=date&page=3",
-      "https://www.google.com/about/careers/applications/jobs/results/99901850966205126-robotics-automation-engineer-platforms-infrastructure?sort_by=date&page=2",
-      "https://www.google.com/about/careers/applications/jobs/results/106571399648158406-software-engineer-lll-android-velocity-and-quality-ai-agents?sort_by=date&page=1"
+      "https://www.google.com/about/careers/applications/jobs/results/99901850966205126-robotics-automation-engineer-platforms-infrastructure?sort_by=date&page=2"
     ]
   },
   {
@@ -28562,6 +28574,16 @@
     "page": "",
     "urls": [
       "https://interactsoftware.pinpointhq.com/en/postings/77368e04-61bb-4327-9ce6-85501cea8b7a?ats=pinpointhq"
+    ]
+  },
+  {
+    "name": "intercept.bamboohr.com",
+    "ats": "custom",
+    "identifier": "intercept.bamboohr.com",
+    "domain": "https://intercept.bamboohr.com",
+    "page": "",
+    "urls": [
+      "https://intercept.bamboohr.com/careers/49/"
     ]
   },
   {
@@ -38258,8 +38280,8 @@
       "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/347700",
       "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350337",
       "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350518",
-      "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350821",
-      "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350645"
+      "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350645",
+      "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350821"
     ]
   },
   {
@@ -46891,9 +46913,9 @@
       "https://stripe.com/jobs/search?gh_jid=8384325",
       "https://stripe.com/jobs/search?gh_jid=8384567",
       "https://stripe.com/jobs/search?gh_jid=8411927",
+      "https://stripe.com/jobs/search?gh_jid=8421000",
       "https://stripe.com/jobs/search?gh_jid=8421091",
-      "https://stripe.com/jobs/search?gh_jid=8421387",
-      "https://stripe.com/jobs/search?gh_jid=8421000"
+      "https://stripe.com/jobs/search?gh_jid=8421387"
     ]
   },
   {
@@ -49036,10 +49058,10 @@
       "https://lifeattiktok.com/search/7704696088079010053",
       "https://lifeattiktok.com/search/7705012688944810245",
       "https://lifeattiktok.com/search/7705023349533346101",
+      "https://lifeattiktok.com/search/7706481808216688901",
       "https://lifeattiktok.com/search/7707222170826623285",
       "https://lifeattiktok.com/search/7708750900450134325",
-      "https://lifeattiktok.com/search/7711598958485408053",
-      "https://lifeattiktok.com/search/7706481808216688901"
+      "https://lifeattiktok.com/search/7711598958485408053"
     ]
   },
   {
